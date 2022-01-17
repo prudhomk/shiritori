@@ -1,1 +1,1 @@
-# universal-translator
+# Shiri-Tori しりとり
