@@ -187,8 +187,6 @@ export const FnV = [
   'yellow corn',
   'youngberry',
   'zucchini'
-
-
 ];
 
 export const Food = [
