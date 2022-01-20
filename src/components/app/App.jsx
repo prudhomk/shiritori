@@ -1,34 +1,50 @@
-import React, { useState, useEffect } from 'react';
-import { useWords, useWordArray } from '../state/GameProvider.jsx';
+/* eslint-disable max-len */
+import React, { useState } from 'react';
 import { ruleCheck } from '../utilities/ruleset.js';
+
 
 export default function App() {
 
-  const { words, setWords } = useWords();
-  const { wordArr, setWordArr } = useWordArray();
+  //how to handle game state: within state or via array
+
+  //state option
+  const [words, setWords] = useState([]);
 
 
-  const handleChange = ({ target }) => {
-    setWords(target.value);
+  const handleCheck = ({ target }) => {
+    // eslint-disable-next-line max-len
+    if(words.length > 1 && ruleCheck(words[words.length - 2], words[words.length - 1])) {
+      setWords(prevState => [...prevState, target.value]);
+      console.log(words);
+    } else {
+      setWords(target.value);
+      console.log(words);
+    } 
   };
 
-  const handleWord = () => {
-    for(let i = 0; i < wordArr.length; i++) {
-      if(ruleCheck(wordArr[i], wordArr[i + 1])) {
-        setWordArr(prevState => [...prevState, words]);
-        console.log(wordArr);
-      } else {
-        
-        console.log('Submit a different word');
-      }
-    }
+  //array option
+  // const words = [];
+
+  // const wordHandler = ({ target }) => {
+  //   if(words.length > 1 && ruleCheck(words[words.length - 2], words[words.length - 1])) {
+  //     words.push(target.value);
+  //     console.log(words);
+  //   } else {
+  //     words.push(target.value);
+  //     console.log(target.value);
+  //   }
+  // };
+
+  const handleSubmit = (e) => {
+    e.preventDefault();
   };
 
   return (
     <div>
-      <input onChange={handleChange} placeholder="Enter a Word"></input>
-      <button onClick={handleWord}>Submit</button>
-      <p>{tries}</p>
+      <form onSubmit={handleSubmit}>
+        <input  placeholder="Enter a Word"></input>
+        <button onClick={handleCheck}>Submit</button>
+      </form>
     </div>
   );
 }
