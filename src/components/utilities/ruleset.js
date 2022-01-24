@@ -5,3 +5,13 @@ export function ruleCheck(x, y) {
     return true;
   }
 }
+
+export function checkDictionary(word, category) {
+  if(category.includes(word.toLowerCase())) {
+    return true;
+  } else {
+    console.log('Not an accepted word');
+    return false;
+  }
+}
+
