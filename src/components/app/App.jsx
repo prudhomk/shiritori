@@ -9,18 +9,21 @@ export default function App() {
 
   //state option
   const [words, setWords] = useState([]);
+  const [word, setWord] = useState('');
 
-
-  const handleCheck = ({ target }) => {
+  const handleCheck = () => {
+    console.log(word);
     // eslint-disable-next-line max-len
     if(words.length > 1 && ruleCheck(words[words.length - 2], words[words.length - 1])) {
-      setWords(prevState => [...prevState, target.value]);
-      console.log(words);
+      console.log('hello');
+      setWords(prevState => [...prevState, word]);
     } else {
-      setWords(target.value);
+      setWords(word);
       console.log(words);
     } 
   };
+
+
 
   //array option
   // const words = [];
@@ -37,13 +40,14 @@ export default function App() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
+    handleCheck(word);
   };
 
   return (
     <div>
       <form onSubmit={handleSubmit}>
-        <input  placeholder="Enter a Word"></input>
-        <button onClick={handleCheck}>Submit</button>
+        <input onChange={(e) => setWord(e.target.value)} placeholder="Enter a Word"></input>
+        <button>Submit</button>
       </form>
     </div>
   );

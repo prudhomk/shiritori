@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React from 'react';
 import { useWords, useWordArray } from '../state/GameProvider.jsx';
 import { ruleCheck } from '../utilities/ruleset.js';
 
@@ -13,12 +13,12 @@ export default function App() {
   };
 
   const handleWord = () => {
+  
     for(let i = 0; i < wordArr.length; i++) {
       if(ruleCheck(wordArr[i], wordArr[i + 1])) {
         setWordArr(prevState => [...prevState, words]);
         console.log(wordArr);
       } else {
-        
         console.log('Submit a different word');
       }
     }
@@ -26,8 +26,10 @@ export default function App() {
 
   return (
     <div>
-      <input onChange={handleChange} placeholder="Enter a Word"></input>
-      <button onClick={handleWord}>Submit</button>
+      <form onSubmit={handleWord}>
+        <input onChange={handleChange} placeholder="Enter a Word"></input>
+        <button>Submit</button>
+      </form>
       <p>{tries}</p>
     </div>
   );
