@@ -23,6 +23,22 @@ describe('checkDictionary(string, category', () => {
   });
 });
 
+describe('simulates a game: check if word is in dictionary, add to state, check if next word is in dictionary and follows rules', () => {
+  test('game test', () => {
+    const gameArr = ['apple'];
+    const words = ['egg', 'eggplant', 'banana'];
+    for(let i = 0; i < words.length; i++) {
+      console.log(words[i]);
+      if(ruleCheck(gameArr[0], words[i]) && checkDictionary(words[i], FnV)) {
+        gameArr.push(words[i]);
+      } else {
+        console.log('Rules have been broken');
+      }
+    }
+    expect(gameArr).toEqual(['apple', 'eggplant']);
+  });
+});
+
 
 
 

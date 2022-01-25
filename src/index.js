@@ -1,12 +1,14 @@
 import React from 'react';
 import { render } from 'react-dom';
 import App from './components/app/App';
+import Rules from './components/game/Rules';
 import { GameProvider } from './components/state/GameProvider';
 import { BrowserRouter as Router } from 'react-router-dom';
 
 render(
   <Router>
     <GameProvider>
+      <Rules/>
       <App />
     </GameProvider>
   </Router>,

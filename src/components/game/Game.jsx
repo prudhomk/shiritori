@@ -1,7 +1,7 @@
 /* eslint-disable max-len */
 import React from 'react';
 import { useWord, useWordList } from '../state/GameProvider.jsx';
-import { ruleCheck } from '../utilities/ruleset.js';
+import { ruleCheck, checkDictionary } from '../utilities/ruleset.js';
 
 export default function Game() {
 
