@@ -3,29 +3,30 @@ import React, { createContext, useContext, useState } from 'react';
 const GameContext = createContext();
 
 export const GameProvider = ({ children }) => {
-  const [words, setWords] = useState('');
-  const [wordArr, setWordArr] = useState([]);
+  const [word, setWord] = useState('');
+  const [wordList, setWordList] = useState([]);
+  
 
   return (
     <GameContext.Provider value={{
-      words,
-      setWords,
-      wordArr,
-      setWordArr
+      word,
+      setWord,
+      wordList,
+      setWordList
     }}>
       {children}
     </GameContext.Provider>
   );
 };
 
-export const useWords = () => {
-  const { words, setWords } = useContext(GameContext);
+export const useWord = () => {
+  const { word, setWord } = useContext(GameContext);
 
-  return { words, setWords };
+  return { word, setWord };
 };
 
-export const useWordArray = () => {
-  const { wordArr, setWordArr } = useContext(GameContext);
+export const useWordList = () => {
+  const { wordList, setWordList } = useContext(GameContext);
 
-  return { wordArr, setWordArr };
+  return { wordList, setWordList };
 };
