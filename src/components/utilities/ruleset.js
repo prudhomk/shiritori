@@ -15,4 +15,13 @@ export function checkDictionary(word, category) {
   }
 }
 
+export function checkRepeats(word, wordList) {
+  if(!wordList.includes(word)) {
+    return true;
+  } else {
+    console.log('Word has already been said, try again');
+    return false;
+  }
+}
+
 

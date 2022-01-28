@@ -1,5 +1,5 @@
 /* eslint-disable max-len */
-import { ruleCheck, checkDictionary } from '../src/components/utilities/ruleset.js';
+import { ruleCheck, checkDictionary, checkRepeats } from '../src/components/utilities/ruleset.js';
 import { FnV } from '../src/data/categories.js';
 
 describe('ruleCheck(string1, string2)', () => {
@@ -14,7 +14,7 @@ describe('ruleCheck(string1, string2)', () => {
 
 });
 
-describe('checkDictionary(string, category', () => {
+describe('checkDictionary(string, category)', () => {
   test('checks if word is in category dicitionary', () => {
     const x = 'apple';
     const y = 'banjo';
@@ -25,13 +25,24 @@ describe('checkDictionary(string, category', () => {
   });
 });
 
+describe('checkRepeats(string, wordList)', () => {
+  test('checks if a word has been said', () => {
+    const words = ['apple', 'eggplant', 'chive'];
+    const x = 'apple';
+    const y = 'banana';
+
+    expect(checkRepeats(x, words)).toEqual(false);
+    expect(checkRepeats(y, words)).toEqual(true);
+  });
+});
+
 describe('simulates a game: check if word is in dictionary, add to state, check if next word is in dictionary and follows rules', () => {
   test('game test', () => {
     const gameArr = ['apple'];
-    const words = ['egg', 'eggplant', 'banana'];
+    const words = ['egg', 'eggplant', 'banana', 'eggplant'];
     for(let i = 0; i < words.length; i++) {
       console.log(words[i]);
-      if(ruleCheck(gameArr[0], words[i]) && checkDictionary(words[i], FnV)) {
+      if(ruleCheck(gameArr[0], words[i]) && checkDictionary(words[i], FnV) && checkRepeats(words[i], gameArr)) {
         gameArr.push(words[i]);
       } else {
         console.log('Rules have been broken');
@@ -40,7 +51,6 @@ describe('simulates a game: check if word is in dictionary, add to state, check 
     expect(gameArr).toEqual(['apple', 'eggplant']);
   });
 });
-
 
 
 
