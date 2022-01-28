@@ -18,8 +18,10 @@ describe('checkDictionary(string, category', () => {
   test('checks if word is in category dicitionary', () => {
     const x = 'apple';
     const y = 'banjo';
+    const z = 'bird\'s eye chili';
     expect(checkDictionary(x, FnV)).toEqual(true);
     expect(checkDictionary(y, FnV)).toEqual(false);
+    expect(checkDictionary(z, FnV)).toEqual(true);
   });
 });
 
