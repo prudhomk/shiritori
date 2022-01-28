@@ -1,26 +1,37 @@
 /* eslint-disable max-len */
 import React from 'react';
-import { Categories, FnV, Names, Animals } from '../../data/categories.js';
+import { useHistory } from 'react-router';
 import { useCategory } from '../state/GameProvider';
 
 export default function Rules() {
 
   const { category, setCategory } = useCategory();
+  const history = useHistory();
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    setCategory(e);
+    history.push('/game');
+  };
+
+  const handleChecked = (e) => {
+    console.log(e.target.value);
+    setCategory(e.target.value);
+    console.log(category);
   };
 
   return (
-    <div>
-      <form onSubmit={handleSubmit}>
-        <input type="radio" name="category" value='Fruits "\u0026" Vegetables'></input>
-        <input type="radio" name="category" value="Names"></input>
-        <input type="radio" name="category" value="Animals"></input>
-        <input type="radio" name="category"></input>
-        <button>Submit</button>
+    <>
+      <form  onSubmit={handleSubmit}>
+        <fieldset onChange={handleChecked}>
+          <input type="radio" name="category" value="Fruits and Vegetables"></input>
+          <label>Fruits and Vegetables</label>
+          <input type="radio" name="category" value="Names"></input>
+          <label>Names</label>
+          <input type="radio" name="category" value="Animals"></input>
+          <label>Animals</label>
+          <button>Submit</button>
+        </fieldset>
       </form>
-    </div>
+    </>
   );
 }

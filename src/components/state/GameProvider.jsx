@@ -36,5 +36,5 @@ export const useWordList = () => {
 export const useCategory = () => {
   const { category, setCategory } = useContext(GameContext);
 
-  return { category, setCategory};
+  return { category, setCategory };
 };
