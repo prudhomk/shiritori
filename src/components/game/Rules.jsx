@@ -23,7 +23,7 @@ export default function Rules() {
     <>
       <form  onSubmit={handleSubmit}>
         <fieldset onChange={handleChecked}>
-          <input type="radio" name="category" value="Fruits and Vegetables"></input>
+          <input type="radio" name="category" value="FnV"></input>
           <label>Fruits and Vegetables</label>
           <input type="radio" name="category" value="Names"></input>
           <label>Names</label>

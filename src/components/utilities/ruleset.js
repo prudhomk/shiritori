@@ -1,5 +1,3 @@
-import { Animals, FnV, Names } from "../../data/categories";
-
 export function ruleCheck(x, y) {
   if(y.charAt(0) !== x.charAt(x.length - 1)) {
     return false;
@@ -17,16 +15,4 @@ export function checkDictionary(word, category) {
   }
 }
 
-export function pickCategory(string) {
-  switch (string) {
-    case 'Fruits & Vegetables':
-      return FnV;
-    case 'Animals':
-      return Animals;
-    case 'Names':
-      return Names;
-    default: 
-      console.log('No mo Categories :(');
-  }
-}
 

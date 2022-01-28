@@ -1,12 +1,3 @@
-export const Categories = [
-  'Fruits & Vegetables', 
-  'Food', 
-  'Animals', 
-  'Names', 
-  'Marvel vs DC',
-  'Rocks & Minerals'
-];
-
 export const FnV = [
   'acai',
   'ackee',
