@@ -1,8 +1,8 @@
 /* eslint-disable max-len */
 import React from 'react';
 import { useWord, useWordList, useCategory } from '../state/GameProvider.jsx';
-import { ruleCheck, checkDictionary } from '../utilities/ruleset.js';
-import { FnV, Names, Animals } from '../../data/categories.js';
+import { ruleCheck, checkDictionary, checkRepeats } from '../utilities/ruleset.js';
+import { FnV, Names, Animals, Pokemon } from '../../data/categories.js';
 
 export default function Game() {
 
@@ -18,6 +18,11 @@ export default function Game() {
         return Animals;
       case 'Names':
         return Names;
+      case 'Pokemon':
+        return Pokemon;
+      default: 
+        console.log('No category provided');
+        break;
     }
   };
 
@@ -25,7 +30,7 @@ export default function Game() {
     console.log(word);
     console.log(category);
     
-    if(wordList.length > 1 && ruleCheck(wordList[wordList.length - 2], wordList[wordList.length - 1]) && checkDictionary(word, definedDictionary(category))) {
+    if(wordList.length > 1 && ruleCheck(wordList[wordList.length - 2], wordList[wordList.length - 1]) && checkRepeats(word, wordList) && checkDictionary(word, definedDictionary(category))) {
       console.log('hello');
       setWordList(prevState => [...prevState, word]);
     } else if(wordList.length < 1 && checkDictionary(word, FnV)) {

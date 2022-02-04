@@ -2,6 +2,7 @@
 import React from 'react';
 import { useHistory } from 'react-router';
 import { useCategory } from '../state/GameProvider';
+import styles from '../styles/Main.scss';
 
 export default function Rules() {
 
@@ -29,19 +30,26 @@ export default function Rules() {
         The game ends when a player cannot submit a valid word, or their timer has run out.
       </p>
       <h2>Categories</h2>
-      <form  onSubmit={handleSubmit}>
+      <form  onSubmit={handleSubmit} className={styles.rules}>
         <fieldset onChange={handleChecked}>
           <legend>Categories</legend>
+
           <input type="radio" name="category" value="FnV"></input>
           <label>Fruits and Vegetables</label>
+         
           <input type="radio" name="category" value="Names"></input>
           <label>Names</label>
+         
           <input type="radio" name="category" value="Animals"></input>
           <label>Animals</label>
+         
+          <input type="radio" name="category" value="Pokemon"></input>
+          <label>Pokemon</label>
+         
           <input type="radio" name="category" value="Marvel vs DC"></input>
           <label>Marvel vs DC</label>
         </fieldset>
-        <fieldset>
+        {/* <fieldset>
           <legend>Penalties</legend>
           <input type="radio" name="penalty" value="None"></input>
           <label>No Penalty</label>
@@ -51,7 +59,7 @@ export default function Rules() {
           <label>Take two turns</label>
           <input type="radio" name="penalty" value="Instant"></input>
           <label>Instant Loss</label>
-        </fieldset>
+        </fieldset> */}
         <button>Submit</button>
       </form>
     </>
