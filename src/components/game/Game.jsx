@@ -1,5 +1,5 @@
 /* eslint-disable max-len */
-import React from 'react';
+import React, { useEffect } from 'react';
 import { useWord, useWordList, useCategory } from '../state/GameProvider.jsx';
 import { ruleCheck, checkDictionary, checkRepeats } from '../utilities/ruleset.js';
 import { FnV, Names, Animals, Pokemon } from '../../data/categories.js';
@@ -44,11 +44,16 @@ export default function Game() {
   const handleSubmit = (e) => {
     e.preventDefault();
     handleCheck(word);
+    document.getElementById('player-one').reset();
   };
+  
 
   return (
     <div>
-      <form onSubmit={handleSubmit}>
+      <div>
+        {wordList}
+      </div>
+      <form onSubmit={handleSubmit} id="player-one">
         <input onChange={(e) => setWord(e.target.value)} placeholder="Enter a Word"></input>
         <button>Submit</button>
       </form>
