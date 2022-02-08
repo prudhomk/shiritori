@@ -7,7 +7,6 @@ describe('ruleCheck(string1, string2)', () => {
     const x = 'apple';
     const y = 'eggplant';
     const z = 'fish';
-
     expect(ruleCheck(x, y)).toEqual(true);
     expect(ruleCheck(x, z)).toEqual(false);
   });
