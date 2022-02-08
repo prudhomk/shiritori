@@ -49,13 +49,7 @@ body, html {
     color: red;
   }
 
-  input {
-    display: none;
-  }
-
-  input:checked + label{
-      background-color: green;
-  }
+  
 
   button {
     cursor: pointer;

@@ -1,5 +1,5 @@
 /* eslint-disable max-len */
-import React, { useEffect } from 'react';
+import React from 'react';
 import { useWord, useWordList, useCategory } from '../state/GameProvider.jsx';
 import { ruleCheck, checkDictionary, checkRepeats } from '../utilities/ruleset.js';
 import { FnV, Names, Animals, Pokemon } from '../../data/categories.js';
@@ -27,15 +27,12 @@ export default function Game() {
   };
 
   const handleCheck = () => {
-    console.log(word);
-    console.log(category);
-    
-    if(wordList.length > 1 && ruleCheck(wordList[wordList.length - 2], wordList[wordList.length - 1]) && checkRepeats(word, wordList) && checkDictionary(word, definedDictionary(category))) {
-      console.log('hello');
+  
+   
+    if(wordList.length >= 1 && ruleCheck(wordList, word) && checkDictionary(word, definedDictionary(category))) {
       setWordList(prevState => [...prevState, word]);
-    } else if(wordList.length < 1 && checkDictionary(word, FnV)) {
+    } else if(wordList.length < 1 && checkDictionary(word, definedDictionary(category))) {
       setWordList(word);
-      console.log(wordList);
     } else {
       console.log('Not a valid word');
     }  
@@ -43,6 +40,7 @@ export default function Game() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
+    console.log('handlecheck word', word);
     handleCheck(word);
     document.getElementById('player-one').reset();
   };

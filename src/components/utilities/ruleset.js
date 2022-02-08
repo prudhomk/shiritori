@@ -1,4 +1,6 @@
 export function ruleCheck(x, y) {
+  console.log('x', x);
+  console.log('y', y);
   if(y.charAt(0) !== x.charAt(x.length - 1)) {
     return false;
   } else {
