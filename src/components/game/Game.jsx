@@ -3,6 +3,7 @@ import React from 'react';
 import { useWord, useWordList, useCategory } from '../state/GameProvider.jsx';
 import { ruleCheck, checkDictionary, checkRepeats } from '../utilities/ruleset.js';
 import { FnV, Names, Animals, Pokemon } from '../../data/categories.js';
+import styles from '../styles/Game.scss';
 
 export default function Game() {
 
@@ -50,7 +51,7 @@ export default function Game() {
 
   return (
     <div>
-      <div>
+      <div className={styles.words}>
         {wordList}
       </div>
       <form onSubmit={handleSubmit} id="player-one">
