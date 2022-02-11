@@ -1388,6 +1388,8 @@ export const MarvelDc = [
   'ghost rider',
   'mephisto',
   'doctor strange',
+  'magik',
+  'baron mordo',
   'mysterio',
   'venom',
   'mary jane',
@@ -1603,7 +1605,8 @@ export const MarvelDc = [
   'two-face',
   'maxwell lord',
   'abra kadabra',
-  'mister mxyzptlk'
+  'mister mxyzptlk',
+  'peacemaker',
 ];
 
 export const Pokemon = [
@@ -2505,5 +2508,6 @@ export const Pokemon = [
   'spectrier',
   'calyrex'
 ];
+
 
 

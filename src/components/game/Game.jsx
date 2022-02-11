@@ -33,7 +33,7 @@ export default function Game() {
    
     if(wordList.length >= 1 && ruleCheck(wordList[wordList.length - 1], word) && checkDictionary(word, definedDictionary(category)) && checkRepeats(word, wordList)) {
       //prevState causing issue where first string is being split after state is updated (removing the ... causes word to appear normally, but causes enclosed arrays instead)
-      setWordList(prevState => [...prevState, word]);
+      setWordList(prevState => [prevState, word]);
     } else if(wordList.length < 1 && checkDictionary(word, definedDictionary(category))) {
       setWordList(word);
     } else {
