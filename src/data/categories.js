@@ -1052,6 +1052,7 @@ export const Names = [
   'morgan',
   'moses',
   'moshe',
+  'nancy',
   'nick',
   'nicholas',
   'nessa',
