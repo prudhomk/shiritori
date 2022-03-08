@@ -2,11 +2,14 @@
 import React from 'react';
 import { useHistory } from 'react-router';
 import { useCategory } from '../state/GameProvider';
+import { useTranslation } from 'react-i18next';
+import '../../i18n/config.js';
 import styles from '../styles/Main.scss';
 
 export default function Rules() {
 
   const { category, setCategory } = useCategory();
+  const { t, i18n } = useTranslation();
   const history = useHistory();
 
   const handleSubmit = (e) => {
@@ -22,32 +25,40 @@ export default function Rules() {
 
   return (
     <>
-      <h1>Rules</h1>
+      <button onClick={() => {
+        i18n.changeLanguage('jp');
+      }}>
+        日本語
+      </button>
+      <button onClick={() => {
+        i18n.changeLanguage('en');
+      }}>
+        EN
+      </button>
+      
+      <h1>{t('rules')}</h1>
       <p>
-        Players will take turns submitting words matching the chosen category.  
-        Each player has 30 seconds per turn to come up with a word.  Penalties can be imposed if selected.
-        Each word must begin with the last character of the previous word (ex: apple, eggplant, tree).
-        The game ends when a player cannot submit a valid word, or their timer has run out.
+        {t('instructions')}
       </p>
-      <h2>Categories</h2>
+      <h2>{t('categories')}</h2>
       <form  onSubmit={handleSubmit} className={styles.rules}>
         <fieldset onChange={handleChecked}>
-          <legend>Categories</legend>
+          <legend>{t('categories')}</legend>
 
           <input type="radio" name="category" value="FnV"></input>
-          <label>Fruits and Vegetables</label>
+          <label>{t('cat1')}</label>
          
           <input type="radio" name="category" value="Names"></input>
-          <label>Names</label>
+          <label>{t('cat2')}</label>
          
           <input type="radio" name="category" value="Animals"></input>
-          <label>Animals</label>
+          <label>{t('cat3')}</label>
          
           <input type="radio" name="category" value="Pokemon"></input>
-          <label>Pokemon</label>
+          <label>{t('cat4')}</label>
          
           <input type="radio" name="category" value="Marvel vs DC"></input>
-          <label>Marvel vs DC</label>
+          <label>{t('cat5')}</label>
         </fieldset>
         {/* <fieldset>
           <legend>Penalties</legend>
@@ -60,7 +71,7 @@ export default function Rules() {
           <input type="radio" name="penalty" value="Instant"></input>
           <label>Instant Loss</label>
         </fieldset> */}
-        <button>Submit</button>
+        <button>{t('submit')}</button>
       </form>
     </>
   );
