@@ -38,7 +38,7 @@ export default function Game() {
       setWordList(prevState => [...prevState, word]);
       startTimer();
     } else if(wordList.length < 1 && checkDictionary(word, definedDictionary(category))) {
-      setWordList(word);
+      setWordList([word]);
       startTimer();
     } else {
       console.log('Not a valid word');
