@@ -1,7 +1,9 @@
 /* eslint-disable max-len */
-import React, { useEffect, useState } from 'react';
+import React, { useState } from 'react';
 import { useWord, useWordList, useCategory } from '../state/GameProvider.jsx';
-import { ruleCheck, checkDictionary, checkRepeats } from '../utilities/ruleset.js';
+import { useInterval } from '../state/customHooks.js';
+import { useHistory } from 'react-router';
+import { ruleCheck, checkDictionary, checkRepeats, checkTimer } from '../utilities/ruleset.js';
 import { FnV, Names, Animals, Pokemon } from '../../data/categories.js';
 import styles from '../styles/Game.scss';
 
@@ -11,8 +13,16 @@ export default function Game() {
   const { word, setWord } = useWord();
   const { wordList, setWordList } = useWordList();
   const { category } = useCategory();
-  const [seconds, setSeconds] = useState(5);
-  const [isActive, setIsActive] = useState(false);
+  const [count, setCount] = useState(30);
+  const history = useHistory();
+  
+  //Sourced from Dan Abramov
+  useInterval(() => {
+    setCount(count - 1);
+  }, 1000);
+
+  
+
 
   
   const definedDictionary = (category) => {
@@ -33,14 +43,18 @@ export default function Game() {
 
   
   const handleCheck = () => {
-    if(wordList.length >= 1 && ruleCheck(wordList[wordList.length - 1], word) && checkDictionary(word, definedDictionary(category)) && checkRepeats(word, wordList)) {
+    if(wordList.length >= 1 && ruleCheck(wordList[wordList.length - 1], word) && checkDictionary(word, definedDictionary(category)) && checkRepeats(word, wordList) && !checkTimer(count)) {
       //prevState causing issue where first string is being split after state is updated (removing the ... causes word to appear normally, but causes enclosed arrays instead)
       setWordList(prevState => [...prevState, word]);
-      startTimer();
-    } else if(wordList.length < 1 && checkDictionary(word, definedDictionary(category))) {
+      setCount(30);
+    } else if(wordList.length < 1 && checkDictionary(word, definedDictionary(category)) && !checkTimer(count)) {
       setWordList([word]);
-      startTimer();
+      setCount(30);
+    } else if(checkTimer(count)) {
+      //Popup/modal 'Game Over'
+      history.push('/results');
     } else {
+      //popup 'Invalid answer'
       console.log('Not a valid word');
     }  
   };
@@ -51,30 +65,12 @@ export default function Game() {
     document.getElementById('player-one').reset();
   };
 
-  useEffect(() => {
-    let interval = null;
-    if(isActive) {
-      interval = setInterval(() => {
-        setSeconds(seconds => seconds - 1);
-      }, 1000);
-    } else if(!isActive && seconds !== 0) {
-      clearInterval(interval);
-    }
-    return () => clearInterval(interval);
-  }, [isActive, seconds]);
-
-
-  function startTimer() {
-    setIsActive(!isActive);
-  }
-  
-
   return (
     <div>
       <div className={styles.words}>
         {wordList}
       </div>
-      <div className={styles.timer}>{seconds}s</div>
+      <div className={styles.timer}>{count}s</div>
       <form onSubmit={handleSubmit} id="player-one">
         <input onChange={(e) => setWord(e.target.value)} placeholder="Enter a Word"></input>
         <button>Submit</button>

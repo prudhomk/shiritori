@@ -1,5 +1,5 @@
 /* eslint-disable max-len */
-import { ruleCheck, checkDictionary, checkRepeats } from '../src/components/utilities/ruleset.js';
+import { ruleCheck, checkDictionary, checkRepeats, checkTimer } from '../src/components/utilities/ruleset.js';
 import { FnV } from '../src/data/categories.js';
 
 describe('ruleCheck(string1, string2)', () => {
@@ -32,6 +32,16 @@ describe('checkRepeats(string, wordList)', () => {
 
     expect(checkRepeats(x, words)).toEqual(false);
     expect(checkRepeats(y, words)).toEqual(true);
+  });
+});
+
+describe('checkTimer(count)', () => {
+  test('checks if timer has run out', () => {
+    const clock = 1;
+    const timer = 0;
+
+    expect(checkTimer(clock)).toEqual(false);
+    expect(checkTimer(timer)).toEqual(true);
   });
 });
 
