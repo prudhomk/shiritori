@@ -1,8 +1,8 @@
 /* eslint-disable max-len */
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import { useWord, useWordList, useCategory } from '../state/GameProvider.jsx';
+import createModal from '../game/Modal';
 import { useInterval } from '../state/customHooks.js';
-import { useHistory } from 'react-router';
 import { ruleCheck, checkDictionary, checkRepeats, checkTimer } from '../utilities/ruleset.js';
 import { FnV, Names, Animals, Pokemon } from '../../data/categories.js';
 import styles from '../styles/Game.scss';
@@ -13,17 +13,20 @@ export default function Game() {
   const { word, setWord } = useWord();
   const { wordList, setWordList } = useWordList();
   const { category } = useCategory();
-  const [count, setCount] = useState(30);
-  const history = useHistory();
+  const [count, setCount] = useState(5);
+  const [alert, setAlert] = useState(false);
   
   //Sourced from Dan Abramov
   useInterval(() => {
     setCount(count - 1);
   }, 1000);
 
+  useEffect(() => {
+    if(count === 0) {
+      setAlert(true);
+    }
+  });
   
-
-
   
   const definedDictionary = (category) => {
     switch(category) {
@@ -50,9 +53,6 @@ export default function Game() {
     } else if(wordList.length < 1 && checkDictionary(word, definedDictionary(category)) && !checkTimer(count)) {
       setWordList([word]);
       setCount(30);
-    } else if(checkTimer(count)) {
-      //Popup/modal 'Game Over'
-      history.push('/results');
     } else {
       //popup 'Invalid answer'
       console.log('Not a valid word');
@@ -67,6 +67,10 @@ export default function Game() {
 
   return (
     <div>
+      {alert ? 
+        createModal()
+        : null
+      }
       <div className={styles.words}>
         {wordList}
       </div>
