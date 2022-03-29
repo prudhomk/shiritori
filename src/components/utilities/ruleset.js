@@ -33,4 +33,8 @@ export function checkTimer(count) {
   }
 }
 
+export function gameOver() {
+  
+}
+
 

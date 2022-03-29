@@ -5,6 +5,7 @@ import { useCategory } from '../state/GameProvider';
 import { useTranslation } from 'react-i18next';
 import '../../i18n/config.js';
 import styles from '../styles/Main.scss';
+import ruleStyles from '../styles/Rules.scss';
 
 export default function Rules() {
 
@@ -25,42 +26,49 @@ export default function Rules() {
 
   return (
     <>
-      <button onClick={() => {
-        i18n.changeLanguage('jp');
-      }}>
+      <div className={styles.localize}>
+        <button onClick={() => {
+          i18n.changeLanguage('jp');
+        }}>
         日本語
-      </button>
-      <button onClick={() => {
-        i18n.changeLanguage('en');
-      }}>
+        </button>
+        <button onClick={() => {
+          i18n.changeLanguage('en');
+        }}>
         EN
-      </button>
-      
-      <h1>{t('rules')}</h1>
-      <p>
-        {t('instructions')}
-      </p>
-      <h2>{t('categories')}</h2>
-      <form  onSubmit={handleSubmit} className={styles.rules}>
-        <fieldset onChange={handleChecked}>
-          <legend>{t('categories')}</legend>
-
-          <input type="radio" name="category" value="FnV"></input>
-          <label>{t('cat1')}</label>
-         
-          <input type="radio" name="category" value="Names"></input>
-          <label>{t('cat2')}</label>
-         
-          <input type="radio" name="category" value="Animals"></input>
-          <label>{t('cat3')}</label>
-         
-          <input type="radio" name="category" value="Pokemon"></input>
-          <label>{t('cat4')}</label>
-         
-          <input type="radio" name="category" value="Marvel vs DC"></input>
-          <label>{t('cat5')}</label>
-        </fieldset>
-        {/* <fieldset>
+        </button>
+      </div>
+      <div className={ruleStyles.rules}>
+        <h1>{t('rules')}</h1>
+        <p>
+          {t('instructions')}
+        </p>
+        <h2>{t('categories')}</h2>
+        <form  onSubmit={handleSubmit} className={styles.rules}>
+          <fieldset onChange={handleChecked}>
+            <legend>{t('categories')}</legend>
+            <label>
+              <input type="radio" name="category" value="FnV"></input>
+              {t('cat1')}
+            </label>
+            <label>
+              <input type="radio" name="category" value="Names"></input>
+              {t('cat2')}
+            </label>
+            <label>
+              <input type="radio" name="category" value="Animals"></input>
+              {t('cat3')}
+            </label>
+            <label>
+              <input type="radio" name="category" value="Pokemon"></input>
+              {t('cat4')}
+            </label>
+            <label>
+              <input type="radio" name="category" value="Marvel vs DC"></input>
+              {t('cat5')}
+            </label>
+          </fieldset>
+          {/* <fieldset>
           <legend>Penalties</legend>
           <input type="radio" name="penalty" value="None"></input>
           <label>No Penalty</label>
@@ -71,8 +79,9 @@ export default function Rules() {
           <input type="radio" name="penalty" value="Instant"></input>
           <label>Instant Loss</label>
         </fieldset> */}
-        <button>{t('submit')}</button>
-      </form>
+          <button>{t('submit')}</button>
+        </form>
+      </div>
     </>
   );
 }

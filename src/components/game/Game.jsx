@@ -13,7 +13,7 @@ export default function Game() {
   const { word, setWord } = useWord();
   const { wordList, setWordList } = useWordList();
   const { category } = useCategory();
-  const [count, setCount] = useState(5);
+  const [count, setCount] = useState(30);
   const [alert, setAlert] = useState(false);
   
   //Sourced from Dan Abramov
@@ -26,7 +26,6 @@ export default function Game() {
       setAlert(true);
     }
   });
-  
   
   const definedDictionary = (category) => {
     switch(category) {
@@ -72,7 +71,7 @@ export default function Game() {
         : null
       }
       <div className={styles.words}>
-        {wordList}
+        <span>{wordList}</span>
       </div>
       <div className={styles.timer}>{count}s</div>
       <form onSubmit={handleSubmit} id="player-one">
