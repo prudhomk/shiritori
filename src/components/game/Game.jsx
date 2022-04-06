@@ -2,6 +2,7 @@
 import React, { useEffect, useState } from 'react';
 import { useWord, useWordList, useCategory } from '../state/GameProvider.jsx';
 import createModal from '../game/Modal';
+import { ToastContainer, toast } from 'react-toastify';
 import { useInterval } from '../state/customHooks.js';
 import { ruleCheck, checkDictionary, checkRepeats, checkTimer } from '../utilities/ruleset.js';
 import { FnV, Names, Animals, Pokemon } from '../../data/categories.js';
@@ -15,6 +16,8 @@ export default function Game() {
   const { category } = useCategory();
   const [count, setCount] = useState(30);
   const [alert, setAlert] = useState(false);
+
+  const notify = () => toast('Try Again!');
   
   //Sourced from Dan Abramov
   useInterval(() => {
@@ -54,7 +57,8 @@ export default function Game() {
       setCount(30);
     } else {
       //popup 'Invalid answer'
-      console.log('Not a valid word');
+      <ToastContainer />;
+      // console.log('Not a valid word');
     }  
   };
 
@@ -71,7 +75,7 @@ export default function Game() {
         : null
       }
       <div className={styles.words}>
-        <span>{wordList}</span>
+        <span>{wordList[wordList.length - 1]}</span>
       </div>
       <div className={styles.timer}>{count}s</div>
       <form onSubmit={handleSubmit} id="player-one">
