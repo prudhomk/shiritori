@@ -3,11 +3,13 @@ import { useHistory } from 'react-router';
 import Box from '@mui/material/Box';
 import Modal from '@mui/material/Modal';
 import Typography from '@mui/material/Typography';
+import { useWordList } from '../state/GameProvider';
 
 
 export default function createModal() {
 
   const history = useHistory();
+  const { wordList } = useWordList();
 
   const handleClick = () => {
     history.push('/rules');
@@ -31,6 +33,9 @@ export default function createModal() {
         <Box sx={style}>
           <Typography variant="h6" component="h2">
               Game Over
+          </Typography>
+          <Typography sx={{ mt: 4 }}>
+            Longest Word Chain: {wordList.length}
           </Typography>
           <Typography sx={{ mt: 2 }}>
               You ran out of time!
