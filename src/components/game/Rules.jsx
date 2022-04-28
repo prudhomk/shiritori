@@ -43,7 +43,7 @@ export default function Rules() {
         <p>
           {t('instructions')}
         </p>
-        <h2>{t('categories')}</h2>
+
         <form  onSubmit={handleSubmit} className={styles.rules}>
           <fieldset onChange={handleChecked}>
             <legend>{t('categories')}</legend>

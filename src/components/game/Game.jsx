@@ -16,12 +16,12 @@ export default function Game() {
   const { category } = useCategory();
   const [count, setCount] = useState(30);
   const [alert, setAlert] = useState(false);
-
+  
   // const notify = () => toast('Try Again!');
   
   //Sourced from Dan Abramov
   useInterval(() => {
-    setCount(count - 1);
+    setCount((prevState) => prevState - 1);
   }, 1000);
 
   useEffect(() => {
@@ -29,6 +29,8 @@ export default function Game() {
       setAlert(true);
     }
   });
+
+  // const latestWord = wordList[wordList.length - 1];
   
   const definedDictionary = (category) => {
     switch(category) {
@@ -56,9 +58,7 @@ export default function Game() {
       setWordList([word]);
       setCount(30);
     } else {
-      //popup 'Invalid answer'
-      // notify();
-      // console.log('Not a valid word');
+      //incorrect guess notification
     }  
   };
 
@@ -69,7 +69,7 @@ export default function Game() {
   };
 
   return (
-    <div>
+    <div className={styles.game} >
       {alert ? 
         createModal()
         : null
@@ -77,11 +77,18 @@ export default function Game() {
       <div className={styles.words}>
         <span>{wordList[wordList.length - 1]}</span>
       </div>
-      <div className={styles.timer}>{count}s</div>
-      <form className={styles.game} onSubmit={handleSubmit} id="player-one">
+
+      <form onSubmit={handleSubmit} id="player-one">
         <input onChange={(e) => setWord(e.target.value)} placeholder="Enter a Word"></input>
         <button>Submit</button>
       </form>
+
+      <div className={styles.timer}>
+        <div className={styles.innerTimer}>
+          <span className={styles.jello}>{count}</span>
+        </div>
+      </div>
+      
     </div>
   );
 }
