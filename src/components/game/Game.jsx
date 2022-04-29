@@ -21,7 +21,9 @@ export default function Game() {
   
   //Sourced from Dan Abramov
   useInterval(() => {
-    setCount((prevState) => prevState - 1);
+    if(count > 0) {
+      setCount((prevState) => prevState - 1);
+    }
   }, 1000);
 
   useEffect(() => {
