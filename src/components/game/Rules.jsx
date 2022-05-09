@@ -44,28 +44,33 @@ export default function Rules() {
           {t('instructions')}
         </p>
 
-        <form  onSubmit={handleSubmit} className={styles.rules}>
-          <fieldset onChange={handleChecked}>
+        <form  onSubmit={handleSubmit}>
+          <fieldset>
             <legend>{t('categories')}</legend>
-            <label>
+            <label onClick={handleChecked}>
               <input type="radio" name="category" value="FnV"></input>
               {t('cat1')}
+              <p>Everything red, green and in-between</p>
             </label>
-            <label>
+            <label onClick={handleChecked}>
               <input type="radio" name="category" value="Names"></input>
               {t('cat2')}
+              <p>What's in a name?  First names only.</p>
             </label>
-            <label>
+            <label onClick={handleChecked}>
               <input type="radio" name="category" value="Animals"></input>
               {t('cat3')}
+              <p>Lions, tigers, and bears. Oh My!</p>
             </label>
-            <label>
+            <label onClick={handleChecked}>
               <input type="radio" name="category" value="Pokemon"></input>
               {t('cat4')}
+              <p>Gotta name 'em all!</p>
             </label>
-            <label>
+            <label onClick={handleChecked}>
               <input type="radio" name="category" value="Marvel vs DC"></input>
               {t('cat5')}
+              <p>Nerds only</p>
             </label>
           </fieldset>
           {/* <fieldset>

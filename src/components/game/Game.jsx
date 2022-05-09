@@ -2,11 +2,12 @@
 import React, { useEffect, useState } from 'react';
 import { useWord, useWordList, useCategory } from '../state/GameProvider.jsx';
 import createModal from '../game/Modal';
-// import { ToastContainer, toast } from 'react-toastify';
+import Snackbar from '@mui/material/Snackbar';
 import { useInterval } from '../state/customHooks.js';
 import { ruleCheck, checkDictionary, checkRepeats, checkTimer } from '../utilities/ruleset.js';
 import { FnV, Names, Animals, Pokemon } from '../../data/categories.js';
 import styles from '../styles/Game.scss';
+
 
 
 export default function Game() {
@@ -16,9 +17,22 @@ export default function Game() {
   const { category } = useCategory();
   const [count, setCount] = useState(30);
   const [alert, setAlert] = useState(false);
+  const [toast, setToast] = useState({
+    open: false,
+    vertical: 'top',
+    horizontal: 'center',
+  });
   
-  // const notify = () => toast('Try Again!');
+  const { vertical, horizontal, open } = toast;
   
+  const handleOpen = (newState) => () => {
+    setToast({ open: true, ...newState });
+  };
+
+  const handleClose = () => {
+    setToast({ ...toast, open: false });
+  };
+
   //Sourced from Dan Abramov
   useInterval(() => {
     if(count > 0) {
@@ -49,18 +63,16 @@ export default function Game() {
         break;
     }
   };
-
   
   const handleCheck = () => {
     if(wordList.length >= 1 && ruleCheck(wordList[wordList.length - 1], word) && checkDictionary(word, definedDictionary(category)) && checkRepeats(word, wordList) && !checkTimer(count)) {
-      //prevState causing issue where first string is being split after state is updated (removing the ... causes word to appear normally, but causes enclosed arrays instead)
       setWordList(prevState => [...prevState, word]);
       setCount(30);
     } else if(wordList.length < 1 && checkDictionary(word, definedDictionary(category)) && !checkTimer(count)) {
       setWordList([word]);
       setCount(30);
     } else {
-      //incorrect guess notification
+      handleOpen();
     }  
   };
 
@@ -71,11 +83,21 @@ export default function Game() {
   };
 
   return (
-    <div className={styles.game} >
+    <div className={styles.game}>
       {alert ? 
         createModal()
         : null
       }
+   
+      <Snackbar
+        anchorOrigin={{ vertical, horizontal }}
+        open={open}
+        onClose={handleClose}
+        message="Can you see me?"
+        key={vertical + horizontal}
+      />
+  
+      
       <div className={styles.words}>
         <span>{wordList[wordList.length - 1]}</span>
       </div>
@@ -90,7 +112,7 @@ export default function Game() {
           <span className={styles.jello}>{count}</span>
         </div>
       </div>
-      
+
     </div>
   );
 }

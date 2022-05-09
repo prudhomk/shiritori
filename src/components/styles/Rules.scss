@@ -7,3 +7,36 @@
   }
 
 }
+
+legend {
+  background-color: white;
+  border-radius: 10px;
+}
+
+fieldset {
+  display: flex;
+  flex-direction: row;
+
+  input {
+    display: none;
+  }
+
+  label {
+    margin: 6px;
+    background-color: white;
+    border-radius: 12px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+
+  label:hover {
+    border: 2px solid lightblue;
+    box-shadow: 2px 2px 2px red;
+  }
+
+  p {
+    background-color: rgb(250, 191, 128);
+    font-weight: normal;
+  }
+}
+

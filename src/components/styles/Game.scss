@@ -26,7 +26,7 @@
   flex-direction: column;
 
   input {
-    background-color: rgb(225, 223, 223);
+    
     border: none;
     border-bottom: 1px solid black;
     border-radius: 8px;
@@ -41,12 +41,12 @@
   }
 };
 
-.correctGuess {
-  background-color: lime;
+.red {
+  background-color: red;
 }
 
-.incorrectGuess {
-  background-color: red;
+.green {
+  background-color: lime;
 }
 
 .timer {
