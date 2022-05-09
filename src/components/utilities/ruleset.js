@@ -28,7 +28,6 @@ export function checkTimer(count) {
   if(count === 0) {
     return true;
   } else {
-    console.log('Time\'s Up!');
     return false;
   }
 }
