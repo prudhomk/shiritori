@@ -17,20 +17,14 @@ export default function Game() {
   const { category } = useCategory();
   const [count, setCount] = useState(30);
   const [alert, setAlert] = useState(false);
-  const [toast, setToast] = useState({
-    open: false,
-    vertical: 'top',
-    horizontal: 'center',
-  });
+  const [toast, setToast] = useState(false);
   
-  const { vertical, horizontal, open } = toast;
-  
-  const handleOpen = (newState) => () => {
-    setToast({ open: true, ...newState });
+  const handleOpen = () => {
+    setToast(true);
   };
 
   const handleClose = () => {
-    setToast({ ...toast, open: false });
+    setToast(false);
   };
 
   //Sourced from Dan Abramov
@@ -90,13 +84,17 @@ export default function Game() {
       }
    
       <Snackbar
-        anchorOrigin={{ vertical, horizontal }}
-        open={open}
+        anchorOrigin={{ vertical: 'top', horizontal: 'center' }}
+        open={toast}
+        autoHideDuration={3000}
         onClose={handleClose}
-        message="Can you see me?"
-        key={vertical + horizontal}
+        message="Invalid Word, Try Again"
+        ContentProps={{
+          sx: {
+            background: 'red'
+          }
+        }}
       />
-  
       
       <div className={styles.words}>
         <span>{wordList[wordList.length - 1]}</span>
