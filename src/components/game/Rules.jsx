@@ -84,7 +84,7 @@ export default function Rules() {
           <input type="radio" name="penalty" value="Instant"></input>
           <label>Instant Loss</label>
         </fieldset> */}
-          <button>{t('submit')}</button>
+          <button className={ruleStyles.submit}>{t('submit')}</button>
         </form>
       </div>
     </>
