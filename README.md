@@ -1,4 +1,4 @@
-# Shiri-Tori しりとり
+# Word-Chain (しりとり)
 
 A word game in which a player submits a word, and the next word must start with the last character of the previous word (i.e. 'apple', 'eggplant', 'tree' and so on);
 
