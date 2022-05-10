@@ -1,15 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
+
 .rules {
   display: flex;
   flex-direction: column;
+
+  h1 {
+    color: rgb(240, 230, 173);
+    font-family: 'Acme', sans-serif;
+    font-size: 60px;
+    text-shadow: 8px 5px rgb(54, 28, 3);
+  }
+
+  p {
+    font-size: 20px;
+    font-weight: bold;
+  }
 
   button {
     margin: 10px;
   }
 
+  button:active {
+    background-color: rgb(215, 204, 144);
+    box-shadow: 0 5px rgb(54, 28, 3);
+    transform: translateY(4px);
+  }
 }
 
 legend {
-  background-color: white;
+  background-color: rgb(240, 230, 173);
+  font-family: 'Acme', sans-serif;
   border-radius: 10px;
 }
 
@@ -21,22 +41,54 @@ fieldset {
     display: none;
   }
 
+  input:checked {
+    label {
+      margin: 6px;
+      background-color: rgb(240, 230, 173);
+      border-radius: 12px;
+      width: 20%;
+      font-weight: bold;
+      text-align: center;
+      cursor: pointer;
+      box-shadow: 2px 2px 2px rgb(65, 51, 5);
+    }
+  }
+
   label {
     margin: 6px;
-    background-color: white;
+    background-color: rgb(240, 230, 173);
     border-radius: 12px;
+    width: 20%;
     font-weight: bold;
+    text-align: center;
     cursor: pointer;
   }
 
   label:hover {
-    border: 2px solid lightblue;
-    box-shadow: 2px 2px 2px red;
+    border: 2px solid rgb(65, 51, 5);
+    box-shadow: 2px 2px 2px rgb(65, 51, 5);
   }
 
   p {
     background-color: rgb(250, 191, 128);
     font-weight: normal;
   }
+}
+
+.submit {
+    background-color: rgb(240, 230, 173);
+    border-radius: 20px;
+    font-size: 25px;
+    width: 150px;
+    height: 70px;
+    cursor: pointer;
+    box-shadow: 0 6px rgb(54, 28, 3);
+    padding: 0;
+
+  :active {
+      background-color: rgb(215, 204, 144);
+      box-shadow: 0 5px rgb(54, 28, 3);
+      transform: translateY(4px);
+    }
 }
 
