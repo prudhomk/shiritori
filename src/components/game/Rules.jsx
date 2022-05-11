@@ -9,7 +9,7 @@ import ruleStyles from '../styles/Rules.scss';
 
 export default function Rules() {
 
-  const { category, setCategory } = useCategory();
+  const { setCategory } = useCategory();
   const { t, i18n } = useTranslation();
   const history = useHistory();
 
@@ -19,9 +19,7 @@ export default function Rules() {
   };
 
   const handleChecked = (e) => {
-    console.log(e.target.value);
     setCategory(e.target.value);
-    console.log(category);
   };
 
   return (
