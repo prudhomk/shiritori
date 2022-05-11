@@ -24,9 +24,11 @@ body, html {
 
   h1 {
     color: rgb(240, 230, 173);
+    padding: 10px;
     font-family: 'Acme', sans-serif;
     font-size: 100px;
     text-shadow: 8px 5px rgb(54, 28, 3);
+    border: 10px dotted rgb(240, 230, 173);
   }
 
   p {
@@ -51,6 +53,10 @@ body, html {
     box-shadow: 0 5px rgb(54, 28, 3);
     transform: translateY(4px);
   }
+}
+
+.border {
+
 }
 
 .rules {
