@@ -1,11 +1,12 @@
 /* eslint-disable max-len */
 import React, { useEffect, useState } from 'react';
-import { useWord, useWordList, useCategory } from '../state/GameProvider.jsx';
+import { useWord, useWordList, useCategory, useLanguage } from '../state/GameProvider.jsx';
 import createModal from '../game/Modal';
 import Snackbar from '@mui/material/Snackbar';
 import { useInterval } from '../state/customHooks.js';
 import { ruleCheck, checkDictionary, checkRepeats, checkTimer } from '../utilities/ruleset.js';
 import { FnV, Names, Animals, Pokemon } from '../../data/categories.js';
+import { やさい } from '../../data/jpcategories.js';
 import styles from '../styles/Game.scss';
 
 
@@ -15,6 +16,7 @@ export default function Game() {
   const { word, setWord } = useWord();
   const { wordList, setWordList } = useWordList();
   const { category } = useCategory();
+  const { language } = useLanguage();
   const [count, setCount] = useState(30);
   const [alert, setAlert] = useState(false);
   const [toast, setToast] = useState(false);
@@ -43,18 +45,28 @@ export default function Game() {
   // const latestWord = wordList[wordList.length - 1];
   
   const definedDictionary = (category) => {
-    switch(category) {
-      case 'FnV':
-        return FnV;
-      case 'Animals':
-        return Animals;
-      case 'Names':
-        return Names;
-      case 'Pokemon':
-        return Pokemon;
-      default: 
-        console.log('No category provided');
-        break;
+    if(language === 'en') {
+      switch(category) {
+        case 'FnV':
+          return FnV;
+        case 'Animals':
+          return Animals;
+        case 'Names':
+          return Names;
+        case 'Pokemon':
+          return Pokemon;
+        default: 
+          console.log('No category provided');
+          break;
+      }
+    } else if(language === 'jp') {
+      switch(category) {
+        case 'FnV':
+          return やさい;
+        default: 
+          console.log('No category provided');
+          break;
+      }
     }
   };
   

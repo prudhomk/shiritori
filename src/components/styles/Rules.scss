@@ -43,13 +43,6 @@ fieldset {
   border: 2px dotted rgb(240, 230, 173);
   margin: 10px;
 
- input {
-   position: absolute;
-   width: 60px;
-   height: 100px;
-   opacity: 0;
- }
-
   label:target {
       margin: 6px;
       cursor: pointer;
@@ -95,4 +88,3 @@ fieldset {
       transform: translateY(4px);
     }
 }
-

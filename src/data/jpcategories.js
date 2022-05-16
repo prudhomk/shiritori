@@ -1,4 +1,4 @@
-export const FnV = [
+export const やさい = [
   'りんご',
   'バナナ',
   'なし',
@@ -56,7 +56,7 @@ export const FnV = [
   'いちじく'
 ];
 
-export const Animals = [
+export const どうぶつ = [
   'aardvark',
   'albatross',
   'alpaca',

@@ -7,6 +7,7 @@ import '../../i18n/config.js';
 import styles from '../styles/Main.scss';
 import ruleStyles from '../styles/Rules.scss';
 
+
 export default function Rules() {
 
   const { setCategory } = useCategory();
