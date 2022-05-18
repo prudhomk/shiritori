@@ -3,6 +3,9 @@
 .rules {
   display: flex;
   flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
 
   h1 {
     color: rgb(240, 230, 173);
@@ -36,22 +39,14 @@ legend {
 fieldset {
   display: flex;
   flex-direction: row;
+  justify-content: center;
   border: 2px dotted rgb(240, 230, 173);
-  input {
-    display: none;
-  }
+  margin: 10px;
 
-  input:checked {
-    label {
+  label:target {
       margin: 6px;
-      background-color: rgb(240, 230, 173);
-      border-radius: 12px;
-      width: 20%;
-      font-weight: bold;
-      text-align: center;
       cursor: pointer;
-      box-shadow: 2px 2px 2px rgb(65, 51, 5);
-    }
+      box-shadow: 10px 10px 10px 10px rgb(65, 51, 5);
   }
 
   label {
@@ -60,6 +55,7 @@ fieldset {
     border-radius: 12px;
     width: 20%;
     font-weight: bold;
+    font-size: 25px;
     text-align: center;
     cursor: pointer;
   }
@@ -71,7 +67,8 @@ fieldset {
 
   p {
     background-color: rgb(250, 191, 128);
-    font-weight: normal;
+    border-radius: 20px;
+    padding: 5px;
   }
 }
 
@@ -91,4 +88,3 @@ fieldset {
       transform: translateY(4px);
     }
 }
-

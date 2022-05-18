@@ -7,6 +7,7 @@ export const GameProvider = ({ children }) => {
   const [word, setWord] = useState('');
   const [wordList, setWordList] = useState([]);
   const [category, setCategory] = useState('');
+  const [language, setLanguage] = useState('en');
 
   return (
     <GameContext.Provider value={{
@@ -15,7 +16,9 @@ export const GameProvider = ({ children }) => {
       wordList,
       setWordList,
       category,
-      setCategory
+      setCategory,
+      language,
+      setLanguage
     }}>
       {children}
     </GameContext.Provider>
@@ -38,4 +41,10 @@ export const useCategory = () => {
   const { category, setCategory } = useContext(GameContext);
 
   return { category, setCategory };
+};
+
+export const useLanguage = () => {
+  const { language, setLanguage } = useContext(GameContext);
+
+  return { language, setLanguage };
 };
