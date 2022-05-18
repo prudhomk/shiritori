@@ -47,29 +47,30 @@ export default function Rules() {
           <fieldset>
             <legend>{t('categories')}</legend>
             <label onClick={handleChecked}>
-              <input type="radio" name="category" value="FnV"></input>
+              <input type="radio" name="category" value="FnV" required></input>
               {t('cat1')}
               <p>Everything red, green and in-between</p>
             </label>
             <label onClick={handleChecked}>
-              <input type="radio" name="category" value="Names"></input>
+              <input type="radio" name="category" value="Names" required></input>
               {t('cat2')}
               <p>What's in a name?  First names only.</p>
             </label>
             <label onClick={handleChecked}>
-              <input type="radio" name="category" value="Animals"></input>
+              <input type="radio" name="category" value="Animals" required></input>
               {t('cat3')}
               <p>Lions, tigers, and bears. Oh My!</p>
             </label>
             <label onClick={handleChecked}>
-              <input type="radio" name="category" value="Pokemon"></input>
+              <input type="radio" name="category" value="Pokemon" required></input>
               {t('cat4')}
               <p>Gotta name 'em all!</p>
             </label>
             <label onClick={handleChecked}>
-              <input type="radio" name="category" value="Marvel vs DC"></input>
+              <input type="radio" name="category" value="MarvelvsDC" required></input>
               {t('cat5')}
-              <p>Nerds only</p>
+             
+              <p>Nerds only: under construction</p>
             </label>
           </fieldset>
           {/* <fieldset>

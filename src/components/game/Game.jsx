@@ -5,7 +5,7 @@ import createModal from '../game/Modal';
 import Snackbar from '@mui/material/Snackbar';
 import { useInterval } from '../state/customHooks.js';
 import { ruleCheck, checkDictionary, checkRepeats, checkTimer } from '../utilities/ruleset.js';
-import { FnV, Names, Animals, Pokemon } from '../../data/categories.js';
+import { FnV, Names, Animals, MarvelDc, Pokemon } from '../../data/categories.js';
 import { やさい } from '../../data/jpcategories.js';
 import styles from '../styles/Game.scss';
 
@@ -55,6 +55,8 @@ export default function Game() {
           return Names;
         case 'Pokemon':
           return Pokemon;
+        case 'MarvelvsDC':
+          return MarvelDc;
         default: 
           console.log('No category provided');
           break;
