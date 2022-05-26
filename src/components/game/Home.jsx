@@ -3,7 +3,6 @@ import React from 'react';
 import { useHistory } from 'react-router';
 import { useTranslation } from 'react-i18next';
 import Header from './Header';
-// import Dropdown from '../game/Dropdown';
 import '../../i18n/config.js';
 import styles from '../styles/Main.scss';
 
