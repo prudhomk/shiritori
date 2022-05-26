@@ -2,16 +2,16 @@
 import React from 'react';
 import { useHistory } from 'react-router';
 import { useCategory } from '../state/GameProvider';
+import Header from './Header';
 import { useTranslation } from 'react-i18next';
 import '../../i18n/config.js';
-import styles from '../styles/Main.scss';
 import ruleStyles from '../styles/Rules.scss';
 
 
 export default function Rules() {
 
   const { setCategory } = useCategory();
-  const { t, i18n } = useTranslation();
+  const { t } = useTranslation();
   const history = useHistory();
 
   const handleSubmit = (e) => {
@@ -23,19 +23,15 @@ export default function Rules() {
     setCategory(e.target.value);
   };
 
+  const handleHome = () => {
+    history.push('/');
+  };
+
   return (
     <>
-      <div className={styles.localize}>
-        <button onClick={() => {
-          i18n.changeLanguage('jp');
-        }}>
-        日本語
-        </button>
-        <button onClick={() => {
-          i18n.changeLanguage('en');
-        }}>
-        EN
-        </button>
+      <Header/>
+      <div>
+        <img onClick={handleHome} src="wordchain-logo.png"/>
       </div>
       <div className={ruleStyles.rules}>
         <h1>{t('rules')}</h1>
@@ -86,6 +82,10 @@ export default function Rules() {
         </fieldset> */}
           <button className={ruleStyles.submit}>{t('submit')}</button>
         </form>
+
+        <div className={ruleStyles.link}>
+          <a href="https://forms.gle/VceAwq19J5rTb3ty7">Feedback</a>
+        </div>
       </div>
     </>
   );

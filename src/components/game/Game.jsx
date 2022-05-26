@@ -20,6 +20,7 @@ export default function Game() {
   const [count, setCount] = useState(30);
   const [alert, setAlert] = useState(false);
   const [toast, setToast] = useState(false);
+  const [altToast, setAltToast] = useState(false);
   
   const handleOpen = () => {
     setToast(true);
@@ -28,6 +29,15 @@ export default function Game() {
   const handleClose = () => {
     setToast(false);
   };
+
+  const handleAltOpen = () => {
+    setAltToast(true);
+  };
+
+  const handleAltClose = () => {
+    setAltToast(false);
+  };
+
 
   //Sourced from Dan Abramov
   useInterval(() => {
@@ -79,6 +89,8 @@ export default function Game() {
     } else if(wordList.length < 1 && checkDictionary(word, definedDictionary(category)) && !checkTimer(count)) {
       setWordList([word]);
       setCount(30);
+    }  else if(!checkRepeats(word, wordList)) {
+      handleAltOpen();
     } else {
       handleOpen();
     }  
@@ -106,6 +118,19 @@ export default function Game() {
         ContentProps={{
           sx: {
             background: 'red'
+          }
+        }}
+      />
+
+      <Snackbar
+        anchorOrigin={{ vertical: 'top', horizontal: 'center' }}
+        open={altToast}
+        autoHideDuration={3000}
+        onClose={handleAltClose}
+        message="Word already guessed"
+        ContentProps={{
+          sx: {
+            background: 'yellow'
           }
         }}
       />
