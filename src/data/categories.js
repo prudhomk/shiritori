@@ -1,3 +1,4 @@
+//in progress
 export const FnV = [
   'acai',
   'ackee',
@@ -180,10 +181,7 @@ export const FnV = [
   'zucchini'
 ];
 
-// export const Food = [
-
-// ];
-
+//in progress
 export const Animals = [
   'aardvark',
   'albatross',
@@ -419,6 +417,7 @@ export const Animals = [
   'zebra'
 ];
 
+//in progress
 export const Names = [
   'aaron',
   'aiden',
@@ -897,6 +896,7 @@ export const Names = [
   'julius',
   'jules',
   'jun',
+  'jerrod',
   'kaden',
   'kalani',
   'kamden',
@@ -1072,6 +1072,8 @@ export const Names = [
   'neil',
   'neo',
   'noah',
+  'nora',
+  'norah',
   'noel',
   'nolan',
   'nikita',
@@ -1314,9 +1316,11 @@ export const Names = [
   'yi',
   'yichen',
   'yohan',
+  'yolanda',
   'yosef',
   'yousef',
   'youssef',
+  'yusef',
   'yuvan',
   'zac',
   'zach',
@@ -1339,6 +1343,7 @@ export const Names = [
   'zuzu',
 ];
 
+//in progress
 export const MarvelDc = [
   'superman',
   'clark kent',
@@ -1657,6 +1662,8 @@ export const MarvelDc = [
   'hawk',
   'dove'
 ];
+
+//complete!
 
 export const Pokemon = [
   'bulbasaur',

@@ -1,5 +1,6 @@
 import React from 'react';
 import { useHistory } from 'react-router';
+import { scoreCritic } from '../utilities/ruleset';
 import Box from '@mui/material/Box';
 import Modal from '@mui/material/Modal';
 import Typography from '@mui/material/Typography';
@@ -13,7 +14,9 @@ export default function createModal() {
 
   const handleClick = () => {
     history.push('/rules');
+    window.location.reload();
   };
+
 
   const style = {
     position: 'absolute',
@@ -33,6 +36,9 @@ export default function createModal() {
         <Box sx={style}>
           <Typography variant="h6" component="h2">
               Game Over
+          </Typography>
+          <Typography sx={{ mt: 4 }}>
+            {scoreCritic(wordList)}
           </Typography>
           <Typography sx={{ mt: 4 }}>
             Longest Word Chain: {wordList.length}
