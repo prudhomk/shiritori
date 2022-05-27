@@ -32,8 +32,14 @@ export function checkTimer(count) {
   }
 }
 
-export function gameOver() {
-  
+export function scoreCritic(wordList) {
+  if(wordList.length < 5) {
+    return 'Mediocre!';
+  } else if(5 < wordList.length < 15) {
+    return 'Impressive!';
+  } else if(15 < wordList.length) {
+    return 'Amazing!';
+  }
 }
 
 

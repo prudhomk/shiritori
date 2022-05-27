@@ -3,6 +3,7 @@ import React, { useEffect, useState } from 'react';
 import { useWord, useWordList, useCategory, useLanguage } from '../state/GameProvider.jsx';
 import createModal from '../game/Modal';
 import Snackbar from '@mui/material/Snackbar';
+import Wordbank from './Wordbank';
 import { useInterval } from '../state/customHooks.js';
 import { ruleCheck, checkDictionary, checkRepeats, checkTimer } from '../utilities/ruleset.js';
 import { FnV, Names, Animals, MarvelDc, Pokemon } from '../../data/categories.js';
@@ -130,7 +131,8 @@ export default function Game() {
         message="Word already guessed"
         ContentProps={{
           sx: {
-            background: 'yellow'
+            background: 'yellow',
+            color: 'black'
           }
         }}
       />
@@ -150,6 +152,9 @@ export default function Game() {
         </div>
       </div>
 
+      <div>
+        <Wordbank/>
+      </div>
     </div>
   );
 }
