@@ -62,24 +62,14 @@ export default function Rules() {
               {t('cat4')}
               <p>Gotta name 'em all!</p>
             </label>
-            <label onClick={handleChecked}>
+            {/* <label onClick={handleChecked}>
               <input type="radio" name="category" value="MarvelvsDC" required></input>
               {t('cat5')}
              
               <p>Nerds only: under construction</p>
-            </label>
+            </label> */}
           </fieldset>
-          {/* <fieldset>
-          <legend>Penalties</legend>
-          <input type="radio" name="penalty" value="None"></input>
-          <label>No Penalty</label>
-          <input type="radio" name="penalty" value="Time"></input>
-          <label>Lose 10 Seconds</label>
-          <input type="radio" name="penalty" value="Turns"></input>
-          <label>Take two turns</label>
-          <input type="radio" name="penalty" value="Instant"></input>
-          <label>Instant Loss</label>
-        </fieldset> */}
+        
           <button className={ruleStyles.submit}>{t('submit')}</button>
         </form>
 

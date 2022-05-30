@@ -23,6 +23,21 @@ export default function Home() {
         <p>{t('description')}</p>
         <button onClick={handleClick}>{t('home-button')}</button>
       </div>
+
+      {/* <div className={styles.version}>
+        <h3>Version Log</h3>
+        <p>
+          Version 1.0
+          <ul>
+            <li>Five categories to choose from</li>
+            <li>Japanese compatability for Pokemon, Fruits and Vegetables, and Animals</li>
+            <li>Feedback is appreciated (fill out a form on the rules page)</li>
+          </ul>
+          Coming in Version 2.0
+          -Refined libraries
+          -Additional categories: Movies and Bands
+        </p>
+      </div> */}
     </>
   );
 }
