@@ -7983,17 +7983,16 @@ export const Pokemon = [
 // God's Club [1]
 // God's Little Acre 
 // God's Not Dead 
-// God's Not Dead 2 
 // God's Not Dead: A Light in Darkness 
 // Godbeast Megazord: Return of Green Dragon 
 // Goddess 
-// Godfather:  2007 & 2012)
+// Godfather
 // Gods and Generals 
 // Gods and Monsters 
-// Godsend: & 2014)
+// Godsend
 // Godspell 
 // Godzilla vs. Kong 
-// Godzilla: & 2014)
+// Godzilla
 // Goemon 
 // Gog 
 // Goin' Coconuts 
@@ -8006,14 +8005,11 @@ export const Pokemon = [
 // Going Places 
 // Going Upriver: The Long War of John Kerry 
 // Going by the Book 
-// Going in Style: & 2017)
-// Going the Distance: & 2010)
-// Going to the Mat TV)
+// Going in Style
+// Going the Distance
+// Going to the Mat
 // Gokulamlo Seetha 
 // Gol Maal 
-// Gold Diggers of '49 
-// Gold Diggers of 1933 
-// Gold Diggers of 1935 
 // Gold Diggers of Broadway 
 // Gold Rush Daze 
 // Golden Boy 
@@ -8024,18 +8020,15 @@ export const Pokemon = [
 // Goldwyn Follies 
 // Gomorrah 
 // Gone Baby Gone 
-// Gone Fishin' 
 // Gone Girl 
 // Gone Nutty 
-// Gone in 60 Seconds: & 2000)
+// Gone in 60 Seconds
 // Gone to Earth 
 // Gone with the Pope 
 // Gone with the Wind 
-// Gone: & 2012)
+// Gone
 // Good Advice 
-// Good Boy! 
 // Good Burger 
-// Good Bye Lenin! 
 // Good Deeds 
 // Good Dick 
 // Good Guys Wear Black 
@@ -8043,22 +8036,21 @@ export const Pokemon = [
 // Good Luck Chuck 
 // Good Men, Good Women 
 // Good Morning 
-// Good Morning and... Goodbye! 
 // Good Morning, Boys 
 // Good Morning, Vietnam 
 // Good Neighbor Sam 
-// Good News: & 1947)
+// Good News
 // Good Night, and Good Luck 
 // Good Scouts 
 // Good Time 
 // Good Times 
 // Good Will Hunting 
-// Goodbye Again: & 1961)
-// Goodbye Casanova TV)
+// Goodbye Again
+// Goodbye Casanova
 // Goodbye Lover 
 // Goodbye, Columbus 
 // Goodbye, Dragon Inn 
-// Goodbye, Mr. Chips: & 1969)
+// Goodbye, Mr. Chips
 // Goodfellas 
 // Goofy and Wilbur 
 // Goon 
@@ -8067,52 +8059,47 @@ export const Pokemon = [
 // Gorillas in the Mist 
 // Gorky Park 
 // Gosford Park 
-// Gossip: American & 2000 Swedish)
-// Gotcha! 
+// Gossip
 // Gothic 
 // Gothika 
-// Gotta Kick It Up! TV)
 // Goya's Ghosts 
 // Gozu 
 // Grace Is Gone 
 // Grace Quigley 
 // Grace of My Heart 
-// Grace: & 2014)
+// Grace
 // Gracie's Choice 
 // Grain in Ear 
 // Gran Torino 
 // Grand Canyon Adventure: River at Risk 
-// Grand Canyon: & 1991)
+// Grand Canyon
 // Grand Champion 
-// Grand Hotel: & 1932)
+// Grand Hotel
 // Grand Illusion 
-// Grand Prix:  1966 & 2010)
-// Grand Slam: & 1978)
+// Grand Prix
+// Grand Slam
 // Grand Theft Auto 
 // Grand Theft Parsons 
 // Grande École 
 // Grandhotel 
-// Grandma's Boy: & 2006)
-// Grandma: & 2015)
-// Grandview, U.S.A. 
-// Grass Roots ction)
-// Grass:  1968 & 1999)
+// Grandma's Boy
+// Grandma
+// Grass Roots
+// Grass
 // Grasshopper 
 // Grassroots 
 // Grave Encounters 
 // Grave of the Fireflies 
 // Graveyard Keeper's Daughter 
-// Graveyard Shift: & 1990)
-// Gravity: & 2013)
+// Graveyard Shift
+// Gravity
 // Gray Lady Down 
-// Gray Matters: & 2014)
+// Gray Matters
 // Gray's Anatomy 
 // Grayson 
 // Grease 
-// Grease 2 
 // Greased Lightning 
-// Great Balls of Fire! 
-// Great Expectations:  1934, 1946, 1998, 1999 & 2012)
+// Great Expectations
 // Great White 
 // Greed 
 // Greedy 
@@ -8134,7 +8121,7 @@ export const Pokemon = [
 // Greenberg 
 // Greenfingers 
 // Greetings from Tim Buckley 
-// Greetings: & 2004)
+// Greetings
 // Gregory's Girl 
 // Gregory's Two Girls 
 // Gremlins 
@@ -8148,10 +8135,10 @@ export const Pokemon = [
 // Gridlock'd 
 // Grill Point 
 // Grilled 
-// Grind: & 2003)
+// Grind
 // Grindhouse 
 // Grizzly 
-// Grizzly II: The Predator eased)
+// Grizzly II: The Predator
 // Grizzly Man 
 // Groom Lake 
 // Groove 
@@ -8159,35 +8146,32 @@ export const Pokemon = [
 // Grosse Pointe Blank 
 // Groundhog Day 
 // Grown Ups 
-// Grown Ups 2 
 // Grudge Match 
 // Grumpier Old Men 
 // Grumpy Old Men 
 // Guadalcanal Diary 
 // Guardians of the Galaxy 
-// Guardians of the Galaxy Vol. 2 
 // Guarding Tess 
-// Guddi: & 1971)
-// Guerrilla: & 2011)
+// Guddi
+// Guerrilla
 // Guess Who 
 // Guess Who's Coming to Dinner 
 // Guest House Paradiso 
-// Guest from the Future TV)
+// Guest from the Future
 // Guilty Bystander 
 // Guilty as Sin 
 // Guilty by Suspicion 
-// Guilty:  2011 & 2015)
-// Guilty? 
-// Guinea Pig film series 1988)
+// Guilty
+// Guinea Pig
 // Guinevere 
 // Gulliver Mickey 
-// Gulliver's Travels:  1977 & 2010)
+// Gulliver's Travels
 // Gumby: The Movie 
 // Gummo 
 // Gumshoe 
 // Gun Crazy 
 // Gun Crazy: A Woman from Nowhere 
-// Gun Shy: & 2017)
+// Gun Shy
 // Gun Woman 
 // Guncrazy 
 // Gunfight at the O.K. Corral 
@@ -8197,29 +8181,25 @@ export const Pokemon = [
 // Gunman in the Streets 
 // Guns of El Chupacabra 
 // Gupt: The Hidden Truth 
-// Guru  1989, 1997, 2007, 2012, 2016 & 2017)
+// Guru
 // Gustave 
 // Guyana Tragedy: The Story Of Jim Jones 
 // Guyana: Crime Of The Century 
 // Guys and Dolls 
 // Guyver: Dark Hero 
-// Guzaarish: & 2015)
+// Guzaarish
 // Gymkata 
-// Gypsy 83 
-// Gypsy:  1962, 1993 TV & 2011)
+// Gypsy
 // H 
 // H. G. Wells' The Shape of Things to Come 
 // H.G. Wells' The War of the Worlds 
-// H.M. Pulham, Esq. 
 // H.M.S. Defiant 
-// H.O.T.S. 
-// H2O: & 2004)
 // Hababam sinifi 
 // Habana Blues 
 // Habeas Corpus 
 // Hachi: A Dog's Tale 
 // Hackers 
-// Hacks: & 2002)
+// Hacks
 // Hacksaw Ridge 
 // Hadh Kar Di Aapne 
 // Hag in a Black Leather Jacket 
@@ -8231,12 +8211,11 @@ export const Pokemon = [
 // Hail the Conquering Hero 
 // Hail the Judge 
 // Hail the Woman 
-// Hail, Caesar! 
 // Hair 
 // Hair High 
 // Hair-Raising Hare 
 // Hairshirt 
-// Hairspray: & 2007)
+// Hairspray
 // Halber Mensch 
 // Half Baked 
 // Half Human 
@@ -8244,40 +8223,36 @@ export const Pokemon = [
 // Half Nelson 
 // Half Past Dead 
 // Half a Confession 
-// Half a Dozen Babies TV)
+// Half a Dozen Babies
 // Half a Loaf of Kung Fu 
 // Half-Caste 
 // Halim 
 // Hall Pass 
 // Hall of Mirrors 
 // Hallam Foe 
-// Hallelujah! 
 // Hallelujah, I'm a Bum 
 // Halloween 4: The Return of Michael Myers 
 // Halloween 5: The Revenge of Michael Myers 
 // Halloween H20: 20 Years Later 
-// Halloween II: & 2009)
 // Halloween III: Season of the Witch 
 // Halloween is Grinch Night 
-// Halloween:  2007 & 2018)
+// Halloween
 // Halloween: Resurrection 
 // Halloween: The Curse of Michael Myers 
-// Halloweentown TV)
-// Halloweentown High TV)
-// Halloweentown II: Kalabar's Revenge TV)
+// Halloweentown
+// Halloweentown High
+// Halloweentown II: Kalabar's Revenge
 // Halls of Montezuma 
 // Hamam 
 // Hamburger Hill 
-// Hamlet 2 
-// Hamlet A.D.D. 
-// Hamlet:  1964, 1969, 1990, 1996 & 2000)
+// Hamlet
 // Hammerboy 
 // Hammers Over the Anvil 
 // Hammett 
 // Hana 
 // Hana-bi 
 // Hancock 
-// Handle with Care:  1935, 1958, 1977 & 1985 TV)
+// Handle with Care
 // Hands Across the Table 
 // Hands Over the City 
 // Hands of the Ripper 
@@ -8289,17 +8264,17 @@ export const Pokemon = [
 // Hannah Montana & Miley Cyrus: Best of Both Worlds Concert 
 // Hannah Montana: The Movie 
 // Hannah and Her Sisters 
-// Hannah: & 2017)
+// Hannah
 // Hannibal 
 // Hannibal Rising 
 // Hanover Street 
 // Hans Christian Andersen 
 // Hansel & Gretel: Witch Hunters 
-// Hansel and Gretel: Janssen, 1954 Genschow, 1983 TV, 2002, 2007 & 2013)
+// Hansel and Gretel
 // Hansel and Gretel: An Opera Fantasy 
 // Hanuman 
-// Hanussen: & 1988)
-// Happily Ever After:  2004 & 2009)
+// Hanussen
+// Happily Ever After
 // Happily N'Ever After 
 // Happily N'Ever After 2: Snow White—Another Bite @ the Apple 
 // Happiness 
@@ -8337,7 +8312,7 @@ export const Pokemon = [
 // Hard to Kill 
 // Hardball 
 // Hardbodies 
-// Hardcore: & 1979)
+// Hardcore
 // Hardly Working 
 // Hardware 
 // Hardware Wars 
@@ -8360,8 +8335,6 @@ export const Pokemon = [
 // Harrison's Flowers 
 // Harry Brown 
 // Harry Potter and the Chamber of Secrets 
-// Harry Potter and the Deathly Hallows – Part 1 
-// Harry Potter and the Deathly Hallows – Part 2 
 // Harry Potter and the Goblet of Fire 
 // Harry Potter and the Half-Blood Prince 
 // Harry Potter and the Order of the Phoenix 
@@ -8377,34 +8350,31 @@ export const Pokemon = [
 // Harvey 
 // Harvie Krumpet 
 // Hatachi No Binetsu 
-// Hatari! 
 // Hatchet 
-// Hatchet II 
-// Hatchet III 
 // Hatchet for the Honeymoon 
 // Hated: GG Allin and the Murder Junkies 
 // Hating Alison Ashley 
 // Hatred 
-// Hats Off:  1936 & 2008)
+// Hats Off
 // Hatter's Castle 
 // Haunted Honeymoon 
 // Haunted House 
 // Haunted Lighthouse 
 // Haunted Road 
 // Haunted – 3D 
-// Haunted:  2007 & 2012)
+// Haunted
 // Haunting Me 
 // Haute Tension 
 // Hav Plenty 
 // Have Rocket, Will Travel 
 // Haven 
-// Havoc: & 2005)
-// Hawaii: & 2013)
+// Havoc
+// Hawaii
 // Hawk the Slayer 
 // Hawks 
 // Haywire 
 // Hazaaron Khwaishen Aisi 
-// Haze: & 2010)
+// Haze
 // He Died with a Felafel in His Hand 
 // He Got Game 
 // He Knows You're Alone 
@@ -8422,8 +8392,8 @@ export const Pokemon = [
 // Head Above Water 
 // Head Games 
 // Head Office 
-// Head On: & 1998)
-// Head Over Heels:  1937, 1979 & 2001)
+// Head On
+// Head Over Heels)
 // Head in the Clouds 
 // Head of State 
 // Head-On 
@@ -8438,45 +8408,42 @@ export const Pokemon = [
 // Heart of a Dog 
 // Heartaches 
 // Heartbreak Ridge 
-// Heartbreaker: & 2010)
-// Heartbreakers: & 2001)
+// Heartbreaker
+// Heartbreakers
 // Heartburn 
 // Heartfall Arises 
 // Heartland 
-// Heartless:  2005, 2009 & 2014)
+// Heartless
 // Hearts and Minds 
 // Hearts in Atlantis 
 // Hearts of Darkness: A Filmmaker's Apocalypse 
 // Hearts of the World 
 // Heat Team 
 // Heat and Dust 
-// Heat: & 1995)
+// Heat
 // Heathers 
-// Heaven Can Wait: & 1978)
+// Heaven Can Wait
 // Heaven Is for Real 
 // Heaven Knows, Mr. Allison 
 // Heaven and Earth Magic 
-// Heaven and Earth: & 1993)
+// Heaven and Earth
 // Heaven's Burning 
 // Heaven's Gate 
 // Heaven's Prisoners 
 // Heaven's Story 
-// Heaven: & 2002)
+// Heaven
 // Heavenly Creatures 
-// Heavens Above! 
 // Heavy 
 // Heavy Metal 
-// Heavy Metal 2000 
 // Heavy Traffic 
 // Heavyweights 
 // Hedwig and the Angry Inch 
-// Heidi:  1952, 1965, 1968, 1995, 2005 animated, 2005 live-action & 2015)
+// Heidi
 // Heights 
-// Heimat: & 1984)
+// Heimat
 // Heisei Riders vs. Shōwa Riders: Kamen Rider Taisen feat. Super Sentai 
-// Heist: & 2015)
-// Heist: Who Stole the American Dream? 
-// Held for Ransom: & 2000)
+// Heist
+// Held for Ransom
 // Helen of Troy 
 // Hell Bent 
 // Hell Comes to Frogtown 
@@ -8492,18 +8459,15 @@ export const Pokemon = [
 // Hell's Hinges 
 // Hell-Bent for Election 
 // Hellbent 
-// Hellbound: Hellraiser II 
 // Hellboy 2: The Golden Army 
-// Hellboy: & 2019)
-// Hellboy: Blood and Iron TV)
-// Hellboy: Sword of Storms TV)
+// Hellboy
+// Hellboy: Blood and Iron
+// Hellboy: Sword of Storms
 // Hellcats of the Navy 
 // Hellfighters 
-// Hello Again: & 2017)
+// Hello Again
 // Hello Herman 
-// Hello I Must Be Going: & 2014)
-// Hello Mary Lou: Prom Night II 
-// Hello, Dolly! 
+// Hello I Must Be Going
 // Hello, My Dolly Girlfriend 
 // Hello, My Name Is Doris 
 // Hellraiser 
@@ -8516,14 +8480,11 @@ export const Pokemon = [
 // Hellraiser: Judgment 
 // Hellraiser: Revelations 
 // Hells Angels on Wheels 
-// Hellzapoppin' 
-// Help! 
 // Helter Skelter 
 // Hemingway & Gellhorn 
 // Henry & June 
 // Henry Fool 
 // Henry Poole Is Here 
-// Henry V: & 1989)
 // Henry's Crime 
 // Henry: Portrait of a Serial Killer 
 // Hentai Kamen 
@@ -8540,28 +8501,24 @@ export const Pokemon = [
 // Hercules Unchained 
 // Hercules and the Queen of Lydia 
 // Hercules in New York 
-// Hercules:  1983, 1997 & 2014)
+// Hercules
 // Here Comes Mr. Jordan 
-// Here Comes Peter Cottontail TV)
+// Here Comes Peter Cottontail
 // Here Comes Peter Cottontail: The Movie 
 // Here Comes the Boom 
 // Here Comes the Navy 
 // Here on Earth 
 // Hereafter 
 // Hero and the Terror 
-// Hero:  1983, 1984, 1985, 1987, 1992, 1997, 2002, 2006, 2012, 2015 Hindi & 2015 Japanese)
-// Heroes Join Forces TV)
+// Hero
+// Heroes Join Forces
 // Heroes for Sale 
-// Heroes: & 2008)
+// Heroes
 // Hesher 
 // Hexed 
-// Hey Arnold!: The Jungle Movie TV)
-// Hey Arnold!: The Movie 
-// Hey Babe! 
-// Hey Good Lookin' 
-// Hey Ram 
-// Hey There, It's Yogi Bear! 
-// Hi, Mom! 
+// Hey Arnold!: The Jungle Movie
+// Hey Arnold!: The Movie  
+// Hey Ram  
 // Hi-Line 
 // Hiawatha's Rabbit Hunt 
 // Hibi Rock 
@@ -8571,7 +8528,7 @@ export const Pokemon = [
 // Hidden Figures 
 // Hidden Fuhrer: Debating the Enigma of Hitler's Sexuality 
 // Hidden War 
-// Hidden: & 2015)
+// Hidden
 // Hide and Seek 
 // Hide-Out 
 // Hideaway 
@@ -8588,20 +8545,22 @@ export const Pokemon = [
 // High Hopes 
 // High Kick Angels 
 // High Noon, Part II: The Return of Will Kane
-// High Noon:  2009 & * 2013)
+// High Noon
 // High Plains Drifter 
 // High Road to China 
 // High Roller: The Stu Ungar Story 
 // High School High 
-// High School Musical  / High School Musical 2  / High School Musical 3: Senior Year 
-// High School:  1954, 1969 & 2010)
+// High School Musical  
+// High School Musical 2  
+// High School Musical 3: Senior Year 
+// High School
 // High Schools 
 // High Sierra 
-// High Society:  1955, 1956 & 2014)
+// High Society
 // High Spirits 
-// High Tension & 2003)
+// High Tension
 // High Time 
-// High Voltage:  1981 & 1997)
+// High Voltage
 // High Wall 
 // High and Low 
 // Higher Learning 
@@ -8611,10 +8570,8 @@ export const Pokemon = [
 // Highlander: Endgame 
 // Highlander: The Search for Vengeance 
 // Highlander: The Source 
-// Highway 301 
-// Highway 61 
 // Highway to Hell 
-// Highway: & 2014)
+// Highway
 // Highwaymen 
 // Hijacking Catastrophe: 9/11, Fear & the Selling of American Empire 
 // Hilary and Jackie 
@@ -8636,7 +8593,7 @@ export const Pokemon = [
 // Histoires extraordinaires 
 // History of Postwar Japan as Told by a Bar Hostess 
 // History of the World, Part I 
-// Hit and Run:  2009 & 2012)
+// Hit and Run
 // Hit the Deck 
 // Hit the Ice 
 // Hitch 
@@ -8644,15 +8601,14 @@ export const Pokemon = [
 // Hitler Youth Quex 
 // Hitler: The Rise of Evil 
 // Hitman City 
-// Hitman:  1998 & 2007)
-// Hitman: Agent 47 
+// Hitman
 // Hobbs & Shaw 
 // Hobgoblins 
 // Hobo with a Shotgun 
 // Hobson's Choice 
 // Hockey Homicide 
 // Hocus Pocus 
-// Hocuspocus: & 1966)
+// Hocuspocus
 // Hoffa 
 // Hoffman 
 // Hokus Pokus 
@@ -8666,11 +8622,10 @@ export const Pokemon = [
 // Holiday Affair 
 // Holiday Inn 
 // Holiday in the Sun 
-// Holiday: & 1938)
+// Holiday
 // Hollow Man 
-// Hollow Man 2 
 // Hollow Triumph 
-// Hollow: drama, 2011 horror & 2014)
+// Hollow
 // Holly Hobbie and Friends: Surprise Party 
 // Hollywood Canteen 
 // Hollywood Chainsaw Hookers 
@@ -8681,43 +8636,41 @@ export const Pokemon = [
 // Hollywood or Bust 
 // Hollywoodland 
 // Hols: Prince of the Sun 
-// Holy Ghost People: & 2013)
+// Holy Ghost People
 // Holy Man 
 // Holy Motors 
-// Holy Smoke! 
 // Hombre 
-// Home Again: & 2017)
+// Home Again
 // Home Alone 
 // Home Alone 2: Lost in New York 
-// Home Alone 3 
-// Home Alone 4: Taking Back the House TV)
-// Home Alone: The Holiday Heist TV)
+// Home Alone 4: Taking Back the House
+// Home Alone: The Holiday Heist
 // Home Fries 
 // Home Room 
 // Home Run 
 // Home for the Holidays 
 // Home from the Hill 
-// Home of the Brave:  2004 & 2006)
+// Home of the Brave
 // Home of the Giants 
-// Home on the Range:  1946 & 2004)
-// Home:  2003 TV, 2006, 2008, 2009, 2011, 2012, 2015, 2016 American, 2016 Belgian & 2016 British)
-// Homecoming:  1941, 1948, 1996 TV & 2009)
+// Home on the Range
+// Home
+// Homecoming
 // Homefront 
 // Homegrown 
 // Homerun 
 // Homeward Bound II: Lost in San Francisco 
 // Homeward Bound: The Incredible Journey 
 // Homicidal 
-// Homicide: & 1991)
-// Homicide: The Movie TV)
+// Homicide
+// Homicide: The Movie
 // Hondo 
 // Honey Glaze 
 // Honey, I Blew Up the Kid 
 // Honey, I Shrunk the Audience 
 // Honey, I Shrunk the Kids 
 // Honey, We Shrunk Ourselves 
-// Honey:  2003 & 2010)
-// Honeymoon Hotel: & 1964)
+// Honey
+// Honeymoon Hotel
 // Honeymoon in Vegas 
 // Honeysuckle Rose 
 // Honig im Kopf 
@@ -8738,11 +8691,10 @@ export const Pokemon = [
 // Hop, Look and Listen 
 // Hopalong Casualty 
 // Hope Floats 
-// Hope Springs: & 2012)
+// Hope Springs
 // Hope and Glory 
 // Hopscotch 
-// Horrible Bosses 
-// Horrible Bosses 2 
+// Horrible Bosses  
 // Horror Express 
 // Horror Vision 
 // Horror of the Zombies 
@@ -8750,30 +8702,27 @@ export const Pokemon = [
 // Horse Feathers 
 // Horsemen 
 // Horsey 
-// Horton Hears a Who! 
-// Hospital  / Hospital Massacre 
+// Hospital  
+// Hospital Massacre 
 // Hostage 
 // Hostel 
-// Hostel: Part II 
-// Hostel: Part III 
-// Hostile Advances: The Kerry Ellison Story  / Hostile Waters  / Hot Blood Band 
+// Hostile Advances: The Kerry Ellison Story  
+// Hostile Waters  
+// Hot Blood Band 
 // Hot Cross Bunny 
 // Hot Dog... The Movie 
 // Hot Fuzz 
 // Hot Pursuit 
 // Hot Rod 
 // Hot Rods to Hell 
-// Hot Shots! 
 // Hot Shots! Part Deux 
 // Hot Tub Time Machine 
-// Hot Tub Time Machine 2 
 // Hot Water 
 // Hot to Trot 
 // Hotel 
 // Hotel Angel 
 // Hotel Rwanda 
 // Hotel Transylvania 
-// Hotel Transylvania 2 
 // Hotel for Dogs 
 // Houdini 
 // Hour of the Gun 
@@ -8782,15 +8731,11 @@ export const Pokemon = [
 // House Arrest 
 // House II: The Second Story 
 // House III: The Horror Show 
-// House IV 
 // House Party 
-// House Party 2 
-// House Party 3 
 // House Party 4: Down to the Last Minute 
 // House at the End of the Street 
 // House by the River 
 // House of 1000 Corpses 
-// House of 9 
 // House of Bamboo 
 // House of D 
 // House of Dark Shadows 
@@ -8801,16 +8746,15 @@ export const Pokemon = [
 // House of Games 
 // House of Sand and Fog 
 // House of Strangers 
-// House of Wax: & 2005)
+// House of Wax
 // House of the Dead 
-// House of the Dead 2  / House on Haunted Hill: & 1999)
+// House of the Dead 2  
+// House on Haunted Hill
 // House on the Edge of the Park 
-// House! 
-// House: & 2008)
+// House
 // HouseSitter 
 // Houseboat 
 // Houseboat Horror 
-// Housefull 2 
 // Houseguest 
 // Household X 
 // Housekeeping 
@@ -8822,7 +8766,7 @@ export const Pokemon = [
 // How Much Wood Would a Woodchuck Chuck 
 // How She Move 
 // How Stella Got Her Groove Back 
-// How the Grinch Stole Christmas: TV & 2000)
+// How the Grinch Stole Christmas
 // How the Lack of Love Affects Two Men 
 // How the Sith Stole Christmas 
 // How the West Was Won 
@@ -8832,10 +8776,12 @@ export const Pokemon = [
 // How to Deal 
 // How to Eat Fried Worms 
 // How to Get Ahead in Advertising 
-// How to Irritate People  / How to Kill Your Neighbor's Dog 
+// How to Irritate People  
+// How to Kill Your Neighbor's Dog 
 // How to Lose Friends & Alienate People 
 // How to Lose a Guy in 10 Days 
-// How to Make a Monster  / How to Make an American Quilt 
+// How to Make a Monster  
+// How to Make an American Quilt 
 // How to Make the Cruelest Month 
 // How to Marry a Millionaire 
 // How to Murder Your Wife 
@@ -8845,20 +8791,17 @@ export const Pokemon = [
 // How to Succeed in Business Without Really Trying 
 // How to Swim 
 // How to Train Your Dragon 
-// How to Train Your Dragon 2 
-// How to Train Your Dragon 3 
 // Howard Lovecraft and the Frozen Kingdom 
 // Howard the Duck 
 // Howards End 
 // Howl 
 // Howl's Moving Castle 
 // Howling II: Your Sister Is a Werewolf 
-// Howling III 
 // Howling IV: The Original Nightmare 
 // Howling V: The Rebirth 
 // Howling VI: The Freaks 
 // Hua Yang De Nian Hua 
-// Hud: & 1986)
+// Hud
 // Hudson Hawk 
 // Hue and Cry 
 // Hugo 
@@ -8884,13 +8827,13 @@ export const Pokemon = [
 // Humoresque 
 // Humorous Phases of Funny Faces 
 // Humpday 
-// Hunger:  1974, 2001, 2008 & 2009)
+// Hunger
 // Hunk 
 // Hunt for the Wilderpeople 
 // Hunted 
 // Hunter × Hunter: Phantom Rouge 
 // Hunter × Hunter: The Last Mission 
-// Hunter: & 2015)
+// Hunter
 // Hunterrr 
 // Hunting 
 // Hurlyburly 
@@ -8899,17 +8842,17 @@ export const Pokemon = [
 // Husbands 
 // Husbands and Wives 
 // Hush 
-// Hush: & 2004 TV)
+// Hush
 // Hush… Hush, Sweet Charlotte 
 // Hussar Ballad 
 // Hustle & Flow 
-// Hustle: & 2004)
+// Hustle
 // Hwasango 
 // Hyde Park on Hudson 
 // Hyderabad Blues 
 // Hype! 
-// Hysteria: & 2011)
-// Hysterical Blindness TV)
+// Hysteria
+// Hysterical Blindness
 // Häxan 
 // Hôtel Terminus: The Life and Times of Klaus Barbie 
 // Hōzuki-san Chi no Aneki 
@@ -8918,7 +8861,7 @@ export const Pokemon = [
 // I Am An American – The Movie 
 // I Am Cuba 
 // I Am Curious  
-// I Am Curious w) 
+// I Am Curious 
 // I Am David 
 // I Am Dina 
 // I Am Josh Polonski's Brother 
@@ -8968,7 +8911,6 @@ export const Pokemon = [
 // I Hope They Serve Beer in Hell 
 // I Kiss Your Hand, Madame 
 // I Know What You Did Last Summer 
-// I Know Where I'm Going! 
 // I Know Who Killed Me 
 // I Like You, I Like You Very Much 
 // I Live My Life 
@@ -8977,7 +8919,6 @@ export const Pokemon = [
 // I Love That Crazy Little Thing 
 // I Love Trouble 
 // I Love Wolffy 
-// I Love Wolffy 2 
 // I Love You Again 
 // I Love You Baby 
 // I Love You Phillip Morris 
@@ -8987,30 +8928,27 @@ export const Pokemon = [
 // I Love You, Beth Cooper 
 // I Love You, I Love You Not 
 // I Love You, Man 
-// I Love You:  1981, 1986, 1992, 2002, 2005, 2005, 2007, 2007 & 2012)
+// I Love You
 // I Love Your Work 
 // I Love a Man in Uniform 
 // I Love to Singa 
 // I Married a Communist 
-// I Married a Monster from Outer Space 
-// I Married a Strange Person! 
+// I Married a Monster from Outer Space  
 // I Married a Witch 
 // I Me Wed 
 // I Met Him in Paris 
-// I Missed Flight 93 
 // I Never Promised You a Rose Garden 
 // I Never Sang for My Father 
 // I Now Pronounce You Chuck and Larry 
 // I Proud to Be an Indian 
 // I Remember Mama 
-// I Remember You Now... 
 // I Saw Mommy Kissing Santa Claus 
 // I Saw What You Did 
 // I Saw the Devil 
 // I See You 
 // I Sell the Dead 
 // I Shot Andy Warhol 
-// I Spit on Your Grave: & 2010)
+// I Spit on Your Grave
 // I Spy 
 // I Stand Alone 
 // I Step Through Moscow 
@@ -9027,8 +8965,6 @@ export const Pokemon = [
 // I Want Someone to Eat Cheese With 
 // I Want What I Want 
 // I Want a Dog 
-// I Want to Live! 
-// I Was Born, But... 
 // I Was Here 
 // I Was Monty's Double 
 // I Was a Communist for the FBI 
@@ -9051,8 +8987,8 @@ export const Pokemon = [
 // I'll Never Forget What's 'Isname 
 // I'll Never Heil Again 
 // I'll Never Lose You 
-// I'll Remember April: & 1999)
-// I'll See You in My Dreams: & 2003)
+// I'll Remember April
+// I'll See You in My Dreams
 // I'll Sleep When I'm Dead 
 // I'm All Right Jack 
 // I'm Bout It 
@@ -9060,7 +8996,6 @@ export const Pokemon = [
 // I'm No Angel 
 // I'm Not Rappaport 
 // I'm Not Scared 
-// I'm Not There. 
 // I'm So Excited 
 // I'm Still Here 
 // I'm a Cyborg, But That's OK 
@@ -9073,10 +9008,8 @@ export const Pokemon = [
 // I, Monster 
 // I, Robot 
 // I, Zombie: A Chronicle of Pain 
-// I, the Jury: & 1982)
+// I, the Jury
 // I-San Special 
-// I.D. 
-// I.Q. 
 // IO 
 // IZO 
 // Ic-Im
@@ -9087,7 +9020,7 @@ export const Pokemon = [
 // Ice Age: Continental Drift 
 // Ice Age: The Meltdown 
 // Ice Breaker 
-// Ice Castles: & 2010)
+// Ice Castles
 // Ice Cream Man 
 // Ice Dreams 
 // Ice Princess 
@@ -9110,16 +9043,16 @@ export const Pokemon = [
 // If Beale Street Could Talk  
 // If Cats Disappeared From the World 
 // If I Had A Million 
-// If I Were King: & 1938)
+// If I Were King
 // If I Were a Rich Man 
-// If It's Tuesday, This Must Be Belgium: & 1987 TV)
+// If It's Tuesday, This Must Be Belgium
 // If Looks Could Kill 
 // If Lucy Fell 
 // If Only 
 // If There Be Thorns 
-// If These Walls Could Talk  / If These Walls Could Talk 2  / If You Are the One 
+// If These Walls Could Talk  
+// If You Are the One 
 // If the Sun Rises in the West 
-// If.... 
 // Igby Goes Down 
 // Igor 
 // Ikiru 
@@ -9143,7 +9076,7 @@ export const Pokemon = [
 // Imagine Me & You 
 // Imagine That 
 // Imagining Argentina 
-// Imitation of Life: & 1959)
+// Imitation of Life
 // Immoral Tales 
 // Immortal 
 // Immortal Beloved 
@@ -9160,7 +9093,7 @@ export const Pokemon = [
 // In China They Eat Dogs 
 // In Cold Blood 
 // In Country 
-// In Darkness: & 2011)
+// In Darkness
 // In Dreams 
 // In Enemy Hands 
 // In God's Hands 
@@ -9213,7 +9146,8 @@ export const Pokemon = [
 // In the Name of the Father 
 // In the Name of the King: A Dungeon Siege Tale 
 // In the Park 
-// In the Presence of a Clown  / In the Realm of the Senses 
+// In the Presence of a Clown  
+// In the Realm of the Senses 
 // In the Shadow of the Moon 
 // In the Time of the Butterflies 
 // In the Valley of Elah 
@@ -9227,7 +9161,6 @@ export const Pokemon = [
 // Inchon 
 // Incident at Loch Ness 
 // Incident at Oglala 
-// Incredibles 2 
 // Incubus 
 // Indecent Proposal 
 // Independence Day 
@@ -9239,16 +9172,14 @@ export const Pokemon = [
 // Indiana Jones and the Last Crusade 
 // Indiana Jones and the Temple of Doom 
 // Indigènes 
-// Indiscreet: & 1958)
+// Indiscreet
 // Indiscretion of an American Wife 
 // Indochine 
-// Indra: & 2008)
+// Indra
 // Infamous 
 // Infection 
 // Infernal Affairs 
-// Infernal Affairs II 
-// Infernal Affairs III 
-// Inferno:  1980, & 2016)
+// Inferno
 // Infestation 
 // Infinity 
 // Ingagi 
@@ -9257,8 +9188,7 @@ export const Pokemon = [
 // Inherit the Wind 
 // Initial D 
 // Initiation Love 
-// Initiation: Silent Night, Deadly Night 4 
-// Inkaar:  1978 & 2013)
+// Inkaar
 // Inkheart 
 // Inland Empire 
 // Innerspace 
@@ -9279,16 +9209,15 @@ export const Pokemon = [
 // Inside Man 
 // Inside Men 
 // Inside Monkey Zetterland 
-// Inside Out:  1986, 2011 & 2015)
+// Inside Out
 // Inside the Girls 
 // Inside/Out 
 // Insidious 
 // Insignificance 
 // Insomnia Lover 
-// Insomnia: & 2002)
+// Insomnia
 // Inspector Clouseau 
 // Inspector Gadget 
-// Inspector Gadget 2 
 // Inspiration 
 // Instinct 
 // Intact 
@@ -9301,11 +9230,10 @@ export const Pokemon = [
 // International House 
 // International Khiladi 
 // Intersection 
-// Interstate 60 
 // Interstella 5555: The 5tory of the 5ecret 5tar 5ystem 
 // Interstellar 
 // Interview with the Vampire 
-// Interview:  1973, 2000, 2003, & 2007)
+// Interview
 // Interview: The Documentary 
 // Intervista 
 // Intimacy 
@@ -9322,27 +9250,24 @@ export const Pokemon = [
 // Intolerable Cruelty 
 // Intolerance 
 // Inuyasha the Movie: The Castle Beyond the Looking Glass 
-// Invaders from Mars: & 1986)
+// Invaders from Mars
 // Invaders from Space 
-// Invasion  / Invasion U.S.A.: & 1985)
+// Invasion  
 // Invasion of Astro-Monster 
 // Invasion of the Bee Girls 
-// Invasion of the Body Snatchers: & 1978)
+// Invasion of the Body Snatchers
 // Invasion of the Neptune Men 
 // Inventing the Abbotts 
 // Investigating Sex 
 // Investigation of a Citizen Above Suspicion 
 // Invictus 
-// Invincible:  2001 TV & 2006)
+// Invincible
 // Invisible Agent 
 // Invisible Ghost 
 // Invisible Waves 
 // Invisible Wings 
-// Invitation: & 2008)
+// Invitation
 // Ip Man 
-// Ip Man 2 
-// Ip Man 3 
-// Ip Man 4 
 // Ip Man: The Final Fight 
 // Ipolochagos Natassa 
 // Iqbal 
@@ -9351,14 +9276,11 @@ export const Pokemon = [
 // Irma Vep 
 // Irma la Douce 
 // Iron Eagle 
-// Iron Eagle II 
 // Iron Man & Captain America: Heroes United 
 // Iron Man & Hulk: Heroes United 
-// Iron Man 2 
-// Iron Man 3 
-// Iron Man:  1951, 2008 & 2009)
+// Iron Man
 // Iron Man: Rise of Technovore 
-// Iron Monkey: & 1993)
+// Iron Monkey
 // Iron Sky 
 // Iron Sky: The Coming Race 
 // Ironclad 
@@ -9367,7 +9289,6 @@ export const Pokemon = [
 // Irrational Man 
 // Irreconcilable Differences 
 // Irréversible 
-// Is Paris Burning? 
 // Isadora 
 // Ishaqzaade 
 // Ishq 
@@ -9380,7 +9301,7 @@ export const Pokemon = [
 // Island in the Sun 
 // Island of Death 
 // Island of Doomed Men 
-// Island of Lost Souls: & 2007)
+// Island of Lost Souls
 // Island of Terror 
 // Isle of Flowers 
 // Isn't It Romantic 
@@ -9404,7 +9325,7 @@ export const Pokemon = [
 // It Runs in the Family 
 // It Should Happen to You 
 // It Started in Naples 
-// It Takes Two:  1988 & 1995)
+// It Takes Two
 // It Was a Wonderful Life 
 // It! The Terror from Beyond Space 
 // It's Alive 
@@ -9418,7 +9339,6 @@ export const Pokemon = [
 // It's In the Water 
 // It's Kind of a Funny Story 
 // It's My Party 
-// It's Not Just You, Murray! 
 // It's a Disaster 
 // It's a Gift 
 // It's a Great Feeling 
@@ -9427,21 +9347,19 @@ export const Pokemon = [
 // It's a Very Merry Muppet Christmas Movie 
 // It's a Wonderful Afterlife 
 // It's a Wonderful Life 
-// It's a Wonderful World: & 1956)
+// It's a Wonderful World
 // It's in the Air 
 // It's the Rage 
-// It:  1990 & 2017)
+// It
 // It: Chapter Two 
 // Italian for Beginners 
 // Italianamerican 
 // Italy in a Day 
 // Ithile Iniyum Varu 
-// Itihaas: & 1997)
+// Itihaas
 // Itsuka dokusho suruhi 
-// Ivan & 2002)
+// Ivan
 // Ivan Vasilievich: Back to the Future 
-// Ivan the Terrible, Part I 
-// Ivan the Terrible, Part II 
 // Ivan's Childhood 
 // Ivanhoe 
 // Ivans XTC 
@@ -9450,8 +9368,6 @@ export const Pokemon = [
 // J. D.'s Revenge 
 // J. Edgar 
 // J. Edgar Hoover 
-// J.A.C.E. 
-// J.C. 
 // JCVD 
 // JFK 
 // JFK: 3 Shots That Changed America 
@@ -9466,9 +9382,9 @@ export const Pokemon = [
 // Jaadugar 
 // Jaag Utha Insan 
 // Jaago – Dare to Dream 
-// Jaago: & 2004)
+// Jaago
 // Jaagruti 
-// Jaal:  1967, 1973 & 1986)
+// Jaal
 // Jaal: The Trap 
 // Jaalakam 
 // Jaali Note 
@@ -9509,15 +9425,15 @@ export const Pokemon = [
 // Jack & Diane 
 // Jack Brooks: Monster Slayer 
 // Jack Frost 2: Revenge of the Mutant Killer Snowman 
-// Jack Frost:  1996 & 1998)
+// Jack Frost
 // Jack O'Lantern 
 // Jack Reacher 
 // Jack Reacher: Never Go Back 
 // Jack Reed: Badge of Honor 
 // Jack and Jill vs. the World 
-// Jack and Jill: & 2011)
-// Jack and the Beanstalk:  1931, 1952, 1974 & 2010)
-// Jack the Giant Killer: & 2013)
+// Jack and Jill
+// Jack and the Beanstalk
+// Jack the Giant Killer
 // Jack the Giant Slayer 
 // Jack's Back 
 // Jack's the Boy 
@@ -9525,7 +9441,7 @@ export const Pokemon = [
 // Jack-Jack Attack 
 // Jack-O 
 // Jack-Wabbit and the Beanstalk 
-// Jack:  2004, 2013 TV, 2014 & 2015)
+// Jack
 // Jackals 
 // Jackass 3D 
 // Jackass Presents: Bad Grandpa 
@@ -9536,46 +9452,46 @@ export const Pokemon = [
 // Jackie Brown 
 // Jackie Chan's First Strike 
 // Jackie's Back 
-// Jackie:  2010, 2012 & 2016)
+// Jackie
 // Jacknife 
-// Jackpot:  unfinished film, 1993, 2001, 2006, 2009, 2013, 2015, & 2018)
-// Jackson: & 2015)
+// Jackpot
+// Jackson
 // Jacky 
 // Jacob 
 // Jacob The Liar 
-// Jacob's Ladder & 2019)
-// Jacobo Timerman: Prisoner Without a Name, Cell Without a Number TV)
+// Jacob's Ladder
+// Jacobo Timerman: Prisoner Without a Name, Cell Without a Number
 // Jade 
 // Jade Goddess of Mercy 
 // Jadesoturi 
 // Jagged Edge 
 // Jagte Raho 
 // Jai-Jaz
-// Jail Bait:  1954 & 2004)
+// Jail Bait
 // Jail Birds 
 // Jail Birds of Paradise 
 // Jail Breakers 
 // Jail Busters 
 // Jail House Blues 
-// Jail Yatra: & 1981)
-// Jail: & 2009)
+// Jail Yatra
+// Jail
 // Jailbait 
-// Jailbirds:  1991 & 2015)
+// Jailbirds
 // Jailbreak in Hamburg 
-// Jailbreak: & 2017)
+// Jailbreak
 // Jailbreakers 
 // Jailhouse Rock 
 // Jailor Gaari Abbayi 
-// Jailor: & 1958)
+// Jailor
 // Jailppulli 
 // Jakob the Liar 
 // Jalitgeola 
 // Jalsaghar 
-// Jam Session  1944 & 1999)
+// Jam Session
 // Jamaica Inn 
 // James and the Giant Peach 
 // James' Journey to Jerusalem 
-// James: & 2008)
+// James
 // Jammin' the Blues 
 // Jamón, jamón 
 // Jan Dara 
@@ -9583,13 +9499,12 @@ export const Pokemon = [
 // Jan Dara: The Finale 
 // Jana 
 // Jandek on Corwood 
-// Jane Austen's Mafia! 
 // Jane Doe 
-// Jane Eyre:  1970, 1973 TV, 1983 TV, 1996, 1997 & 2011)
+// Jane Eyre
 // Jane's House 
 // Janice Meredith 
 // Janky Promoters 
-// Janneman: & 2012)
+// Janneman
 // Japan 
 // Japanese Story 
 // Jarhead 
@@ -9599,18 +9514,16 @@ export const Pokemon = [
 // Jason Goes to Hell: The Final Friday 
 // Jason Takes Manhattan 
 // Jason X 
-// Jason X 
 // Jason and the Argonauts 
 // Jason's Lyric 
 // Java Heat 
 // Jawbreaker 
 // Jaws 
-// Jaws 2 
 // Jaws 3-D 
 // Jaws: The Revenge 
 // Jay Jay 
 // Jay and Silent Bob Strike Back 
-// Jayam:  2002, 2003 & 2006)
+// Jayam
 // Jayne Mansfield's Car 
 // Jazz on a Summer's Day 
 // Je t'aime John Wayne 
@@ -9620,24 +9533,21 @@ export const Pokemon = [
 // Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles 
 // Jeanne d'Arc 
 // Jedda 
-// Jeepers Creepers 2 
-// Jeepers Creepers 3 
-// Jeepers Creepers: western, 1939 animated & 2001)
+// Jeepers Creepers
 // Jeff, Who Lives at Home 
 // Jefferson in Paris 
 // Jeffrey 
 // Jem and the Holograms 
-// Jennifer 8 
 // Jennifer's Body 
 // Jenny's Wedding 
-// Jenny:  1962 TV & 1970 TV)
+// Jenny
 // Jeopardy 
 // Jeremiah Johnson 
-// Jericho: & 2001)
+// Jericho
 // Jerry Maguire 
 // Jersey Boys 
-// Jersey Girl: & 2004)
-// Jesse James: & 1939)
+// Jersey Girl
+// Jesse James
 // Jesus Camp 
 // Jesus Christ Superstar 
 // Jesus Christ Vampire Hunter 
@@ -9645,7 +9555,7 @@ export const Pokemon = [
 // Jesus of Montreal 
 // Jesus of Nazareth 
 // Jesus' Son 
-// Jesus:  1979, 1999 & 2016)
+// Jesus
 // Jet Lag 
 // Jet Li's The Enforcer 
 // Jetsons: The Movie 
@@ -9664,26 +9574,24 @@ export const Pokemon = [
 // Jimi Plays Monterey 
 // Jimmy Hollywood 
 // Jimmy Neutron: Boy Genius 
-// Jimmy:  2008 & 2013)
+// Jimmy
 // Jin-Roh 
 // Jindabyne 
-// Jingle All the Way 2 
-// Jingle All the Way: & 2011 TV)
-// Jingle and Bell's Christmas Star TV)
+// Jingle All the Way
+// Jingle and Bell's Christmas Star
 // Jingzhe 
 // Jinnah 
 // Jinsei no Yakusoku 
 // Jinuyo Saraba: Kamuroba Mura e 
-// Jinxed! 
 // Jiro Dreams of Sushi 
 // Jis Desh Mein Ganga Behti Hai 
 // Jitterbugs 
 // Jo
 // Jo 
 // Jo Jo Dancer, Your Life Is Calling 
-// JoJo's Bizarre Adventure: Diamond Is Unbreakable Chapter I 
+// JoJo's Bizarre Adventure: Diamond Is Unbreakable
 // JoJo's Bizarre Adventure: Phantom Blood 
-// Joan of Arc: & 1999 TV)
+// Joan of Arc
 // Jobs 
 // Joe Butterfly 
 // Joe Dirt 
@@ -9694,8 +9602,8 @@ export const Pokemon = [
 // Joe Versus the Volcano 
 // Joe's Apartment 
 // Joe's Bed-Stuy Barbershop: We Cut Heads 
-// Joe: & 2013)
-// Joey:  1985, 1986 & 1997)
+// Joe
+// Joey
 // Jogo de Damas 
 // John Carter 
 // John Dies at the End 
@@ -9703,12 +9611,11 @@ export const Pokemon = [
 // John Q 
 // John Tucker Must Die 
 // John Wick 
-// John Wick: Chapter 2 
 // John Wick: Chapter 3 – Parabellum 
 // Johnny Angel 
 // Johnny Apollo 
 // Johnny Be Good 
-// Johnny Belinda: & 1967 TV)
+// Johnny Belinda
 // Johnny Come Lately 
 // Johnny Comes Flying Home 
 // Johnny Concho 
@@ -9743,23 +9650,22 @@ export const Pokemon = [
 // Johnny Tsunami 
 // Johnny on the Spot 
 // Johnny, You're Wanted 
-// Johnny:  1993, 2003 & 2018)
+// Johnny
 // Johns 
 // Johnson Family Vacation 
 // Joint Security Area 
 // Jojo Rabbit 
-// Joker:  2000, 2012, 2016 & 2019)
+// Joker
 // Jolly Fellows 
 // Jolly LLB 
 // Jolson Sings Again 
 // Jom kha mung wej 
 // Jon 
 // Jonah Hex 
-// Jonah Who Will Be 25 in the Year 2000 
 // Jonah: A VeggieTales Movie 
 // Jonas Brothers: The 3D Concert Experience 
 // Jonathan Livingston Seagull 
-// Jonathan:  2016 & 2018)
+// Jonathan
 // Jongno 
 // Joni's Promise 
 // Jor 
@@ -9770,7 +9676,7 @@ export const Pokemon = [
 // Josh Jarman 
 // Joshikō 
 // Joshua Then and Now 
-// Joshua:  2002 & 2007)
+// Joshua
 // Josie and the Pussycats 
 // Jour de fête 
 // Journey 2: The Mysterious Island 
@@ -9784,51 +9690,42 @@ export const Pokemon = [
 // Joy 
 // Joy Ride 
 // Joy Ride 2: Dead Ahead 
-// Joy Ride 3 
-// Joy Ride: & 2000)
 // Joyeux Noël 
 // Joyful Noise 
-// Joyride:  1996 & 2005)
+// Joyride
 // Ju Dou 
 // Ju-On: The Curse 
-// Ju-On: The Curse 2 
 // Ju-On: The Final Curse 
 // Ju-On: The Grudge 
-// Ju-On: The Grudge 2 
 // Juarez 
 // Jubal 
-// Jubilee:  2000 & 2008)
-// Judas Kiss: & 2011)
-// Judas: & 2004)
+// Jubilee
+// Judas Kiss
+// Judas
 // Jude 
-// Judex:  1934 & 1963)
+// Judex
 // Judge Dredd 
 // Judgment Night 
 // Judgment at Nuremberg 
-// Judith: & 1966)
+// Judith
 // Judwaa 
 // Judy 
 // Judy Berlin 
 // Judy and Punch 
-// Juggernaut: & 1974)
+// Juggernaut
 // Juice 
 // Jules and Jim 
-// Julia:  1977, 2008 & 2014)
+// Julia
 // Julie & Julia 
 // Julien Donkey-Boy 
 // Juliet of the Spirits 
-// Julius Caesar:  1950, 1953 & 1970)
+// Julius Caesar
 // Jumanji 
-// Jumanji 3 
-// Jumanji franchise:
 // Jumanji: Welcome to the Jungle 
 // Jumbo 
-// Jump Britain TV)
-// Jump In! TV)
-// Jump London TV)
-// Jump! 
-// Jump:  2009 & 2012)
-// Jumper: & 2008)
+// Jump
+// Jump London
+// Jumper
 // Jumpin' Jack Flash 
 // Jumping 
 // Jumping Jacks 
@@ -9839,39 +9736,38 @@ export const Pokemon = [
 // Jungle Emperor Leo 
 // Jungle Fever 
 // Jungle Holocaust 
-// Jungle:  2011, & 2017)
+// Jungle
 // Junior Bonner 
 // Junior G-Men 
 // Junior G-Men of the Air 
-// Junior: & 2008)
+// Junior
 // Junk the Movie 
 // Juno 
 // Juno and the Paycock 
 // Jupiter Ascending 
 // Jurassic Park 
-// Jurassic Park III 
 // Jurassic Park: The Lost World 
 // Jurassic World 
 // Jurassic World: Fallen Kingdom 
 // Jury Duty 
-// Just Before Dawn: & 1981)
+// Just Before Dawn
 // Just Cause 
 // Just Desserts 
 // Just Follow Law 
-// Just Friends: & 2005)
+// Just Friends
 // Just Friends? 
 // Just Go with It 
 // Just Imagine 
 // Just Like Heaven 
-// Just Like a Woman:  1967, 1992 & 2012)
+// Just Like a Woman
 // Just Married 
 // Just Mercy 
-// Just My Luck:  1936, 1957 & 2006)
+// Just My Luck
 // Just One of the Girls 
 // Just One of the Guys 
 // Just Visiting 
 // Just Write 
-// Just for Kicks: & 2005)
+// Just for Kicks
 // Just in Time 
 // Just the Ticket 
 // Justice League 
@@ -9885,7 +9781,7 @@ export const Pokemon = [
 // Justice League: The New Frontier 
 // Justice League: Throne of Atlantis 
 // Justice League: War 
-// Justice:  1917, 1993, & 2002 short)
+// Justice
 // Justin Bieber: Never Say Never 
 // Justine 
 // Juvenile 
@@ -9893,22 +9789,16 @@ export const Pokemon = [
 // Jídlo 
 // K 
 // K-19: The Widowmaker 
-// K-9 
-// K-911 
-// K-9: P.I. 
 // K-PAX 
-// K2 
 // K2: Siren of the Himalayas 
 // K3 en de Kattenprins 
 // K3 en het Magische Medaillon 
 // K3 en het ijsprinsesje 
 // K: Missing Kings 
-// KD No:1 
 // KID 
 // KIL 
 // KL 10 Patthu 
 // KL Gangster 
-// KL Gangster 2 
 // KL Special Force 
 // KLK Calling PTZ – The Red Orchestra 
 // KT 
@@ -9928,28 +9818,22 @@ export const Pokemon = [
 // Kagen no tsuki 
 // Kahaani 
 // Kaho Naa... Pyaar Hai 
-// Kai Po Che! 
-// Kain XVIII 
 // Kaise Kahoon Ke... Pyaar Hai 
 // Kakekomi 
 // Kakki Sattai 
 // Kal Ho Naa Ho 
-// Kaleidoscope: & 1990)
+// Kaleidoscope
 // Kali the Little Vampire 
 // Kalifornia 
 // Kama Sutra: A Tale of Love 
-// Kamen Rider 1 
 // Kamen Rider 555: Paradise Lost 
 // Kamen Rider Amazons the Movie: The Last Judgement 
 // Kamen Rider Blade: Missing Ace 
 // Kamen Rider Build the Movie: Be the One 
 // Kamen Rider Decade: All Riders vs. Dai-Shocker 
 // Kamen Rider Den-O & Kiva: Climax Deka 
-// Kamen Rider Den-O: I'm Born! 
 // Kamen Rider Drive: Surprise Future 
 // Kamen Rider Ex-Aid the Movie: True Ending 
-// Kamen Rider Fourze the Movie: Space, Here We Come! 
-// Kamen Rider Gaim: Great Soccer Battle! Golden Fruits Cup! 
 // Kamen Rider Ghost: The 100 Eyecons and Ghost's Fated Moment 
 // Kamen Rider Heisei Generations Final: Build & Ex-Aid with Legend Rider 
 // Kamen Rider Heisei Generations Forever 
@@ -9968,7 +9852,6 @@ export const Pokemon = [
 // Kamen Rider × Kamen Rider Gaim & Wizard: The Fateful Sengoku Movie Battle 
 // Kamen Rider × Kamen Rider Ghost & Drive: Super Movie War Genesis 
 // Kamen Rider × Kamen Rider OOO & W Featuring Skull: Movie War Core 
-// Kamen Rider × Kamen Rider W & Decade: Movie War 2010 
 // Kamen Rider × Kamen Rider Wizard & Fourze: Movie War Ultimatum 
 // Kamen Rider × Super Sentai × Space Sheriff: Super Hero Taisen Z 
 // Kamen Rider × Super Sentai: Super Hero Taisen 
@@ -9981,8 +9864,8 @@ export const Pokemon = [
 // Kandahar 
 // Kandukondain Kandukondain 
 // Kangaroo Jack 
-// Kangaroo Jack: G'Day U.S.A.! 
-// Kangaroo Palace  / Kangaroo:  1987, 2007 & 2015)
+// Kangaroo Palace  
+// Kangaroo
 // Kangaroo: A Love Hate Story 
 // Kanggeonneo maeul 
 // Kannathil Muthamittal 
@@ -9999,7 +9882,7 @@ export const Pokemon = [
 // Kaos 
 // Kapalkundala 
 // Kapantay ay Langit 
-// Kapo: & 2000)
+// Kapo
 // Kapoor & Sons 
 // Kapyong 
 // Karate 
@@ -10016,14 +9899,12 @@ export const Pokemon = [
 // Karayuki-san, the Making of a Prostitute 
 // Karie 
 // Karin's Face 
-// Karl Liebknecht - Solange Leben in mir ist 
-// Karl Liebknecht - Trotz alledem! 
+// Karl Liebknecht - Solange Leben in mir ist  
 // Karmic Mahjong 
 // Kart Racer 
 // Karu süda 
 // Karujaht Pärnumaal 
 // Karz 
-// Katasumi and 4444444444 
 // Kate & Leopold 
 // Katie Tippel 
 // Katy Perry: Part of Me 
@@ -10032,7 +9913,7 @@ export const Pokemon = [
 // Kaze ni Tatsu Lion 
 // Kazoku 
 // Ke Tumi 
-// Kean:  1924 & 1940)
+// Kean
 // Kean: Genius or Scoundrel 
 // Keane 
 // Keane of Kalgoorlie 
@@ -10044,16 +9925,16 @@ export const Pokemon = [
 // Kebe Tume Nahan Kebe Mu Nahin 
 // Kedarnath 
 // Kedi Billa Killadi Ranga 
-// Kedi:  2010 & 2016)
+// Kedi
 // Kedma 
 // Kedok Ketawa 
-// Kee // Kee en Janus naar Berlijn 
+// Kee 
+// Kee en Janus naar Berlijn 
 // Kee en Janus naar Parijs 
-// Keechaka Vadham 17)
 // Keelu Bommalu 
 // Keelu Gurram 
 // Keemat – They Are Back 
-// Keemat: & 1973)
+// Keemat
 // Keep 'Em Flying 
 // Keep Cool 
 // Keep Not Silent 
@@ -10061,11 +9942,12 @@ export const Pokemon = [
 // Keeper of Promises 
 // Keeping Mum 
 // Keeping the Faith 
-// Keeping the Promise  / Keerthi Chakra 
+// Keeping the Promise  
+// Keerthi Chakra 
 // Kekexili: Mountain Patrol 
 // Kelly's Heroes 
 // Ken Park 
-// Kenny: & 2006)
+// Kenny
 // Kentucky 
 // Keoma 
 // Kerala Kesari 
@@ -10078,13 +9960,12 @@ export const Pokemon = [
 // Keys to Tulsa 
 // Khan Kluay 
 // Khartoum 
-// Khatta Meetha: & 2010)
+// Khatta Meetha
 // Khoey Ho Tum Kahan 
 // Kick Ball 
-// Kick In:  1922, & 1931)
+// Kick In
 // Kick the Moon 
 // Kick-Ass 
-// Kick-Ass 2 
 // Kickboxer 
 // Kickboxer 2: The Road Back 
 // Kickboxer 3: The Art of War 
@@ -10092,36 +9973,33 @@ export const Pokemon = [
 // Kickboxer 5: The Redemption 
 // Kickboxer: Retaliation 
 // Kickboxer: Vengeance 
-// Kicking and Screaming: & 2005)
+// Kicking and Screaming
 // Kid Auto Races at Venice 
-// Kid Galahad: & 1962)
+// Kid Galahad
 // Kid Millions 
 // Kid's Story 
 // Kid: & 2015)
 // Kidco 
-// Kidnapped:  1995 TV & 1971)
+// Kidnapped
 // Kids 
 // Kids in America 
 // Kidulthood 
 // Kika 
-// Kiki's Delivery Service: & 2014)
+// Kiki's Delivery Service
 // Kikujiro 
-// Kill Bill: Volume 1 
-// Kill Bill: Volume 2 
 // Kill List 
 // Kill Me Again 
 // Kill Me Later 
 // Kill Me Three Times 
-// Kill Switch & 2017)
+// Kill Switch
 // Kill Time 
 // Kill the Irishman 
 // Kill the Man 
 // Kill the Poor 
-// Kill! 
 // Kill, Baby, Kill 
 // Killer Bash 
 // Killer Condom 
-// Killer Diller: & 2004)
+// Killer Diller
 // Killer Elite 
 // Killer Joe 
 // Killer Klowns from Outer Space 
@@ -10129,13 +10007,13 @@ export const Pokemon = [
 // Killer Tattoo 
 // Killer of Sheep 
 // Killer's Kiss 
-// Killer: & 1998)
+// Killer
 // Killer: A Journal of Murder 
 // Killer: Dead or Alive 
 // Killers Three 
 // Killers from Space 
-// Killers in the House TV)
-// Killers: TV, 2003, 2010 & 2014)
+// Killers in the House
+// Killers
 // Killing 
 // Killing Me Softly 
 // Killing Mr. Griffin 
@@ -10143,46 +10021,44 @@ export const Pokemon = [
 // Killing Them Softly 
 // Killing Zoe 
 // Killshot 
-// Kim Possible TV)
-// Kim Possible Movie: So the Drama TV)
-// Kim Possible: A Sitch in Time TV)
-// Kim: & 1984)
-// Kin Fables 2015) Canadian film project including three short films
-// Kin-dza-dza! 
+// Kim Possible
+// Kim Possible Movie: So the Drama
+// Kim Possible: A Sitch in Time
+// Kim
+// Kin Fables
 // Kinamand 
 // Kind Hearts and Coronets 
 // Kindergarten Cop 
-// Kindergarten Cop 2 
-// Kindergarten: & 1989)
+// Kindergarten
 // King Arthur 
 // King Arthur Was a Gentleman 
 // King Arthur: Legend of the Sword 
-// King Cobra: & 2016)
+// King Cobra
 // King Creole 
 // King David 
 // King Kong Escapes 
 // King Kong Lives 
 // King Kong vs. Godzilla 
-// King Kong:  1976 & 2005)
+// King Kong
 // King Ralph 
 // King Richard and the Crusaders 
-// King Solomon's Mines: & 1985)
+// King Solomon's Mines
 // King for a Day 
 // King of California 
 // King of Comedy 
-// King of Hearts:  1966 & 1968)
+// King of Hearts
 // King of Kings 
 // King of New York 
 // King of the Children 
 // King of the Hill 
 // King of the Zombies 
 // King's Ransom 
-// King: & 2008)
+// King
 // King: A Filmed Record... Montgomery to Memphis 
-// Kingdom Come & 2001)
+// Kingdom Come
 // Kingdom of Heaven 
 // Kingdom of the Spiders 
-// Kingpin: & 1996)
+// Kingpin
 // Kings Row 
 // Kingsman: The Golden Circle 
 // Kingsman: The Great Game 
@@ -10195,19 +10071,19 @@ export const Pokemon = [
 // Kippur 
 // Kirikou and the Sorceress 
 // Kirikou et les bêtes sauvages 
-// Kiss Kiss Bang) 
+// Kiss Kiss Bang 
 // Kiss Kiss Bang Bang 
 // Kiss Me Deadly 
 // Kiss Me Kate 
 // Kiss Me, Guido 
 // Kiss Me, Stupid 
 // Kiss Tomorrow Goodbye 
-// Kiss of Death: & 1995)
+// Kiss of Death
 // Kiss of the Damned 
 // Kiss of the Dragon 
 // Kiss of the Spider Woman 
 // Kiss the Blood Off My Hands 
-// Kiss the Bride: & 2008)
+// Kiss the Bride
 // Kiss the Girls 
 // Kiss the Sky 
 // Kissed 
@@ -10217,9 +10093,9 @@ export const Pokemon = [
 // Kit Kittredge: An American Girl 
 // Kitchen Party 
 // Kitchen Stories 
-// Kitchen: & 1997)
+// Kitchen
 // Kite Liberator 
-// Kite: & 2014)
+// Kite
 // Kites 
 // Kitty Foyle 
 // Kitty Kornered 
@@ -10242,7 +10118,7 @@ export const Pokemon = [
 // Kleinruppin forever 
 // Klepto 
 // Kleren Maken de Man 
-// Klettermaxe: & 1952)
+// Klettermaxe
 // Klezmer 
 // Klimt 
 // Klingende toner 
@@ -10262,20 +10138,20 @@ export const Pokemon = [
 // Knife Fight 
 // Knife in the Water 
 // Knight Moves 
-// Knight Rider 2000 
 // Knight and Day 
 // Knightquest 
 // Knightriders 
-// Knights of Justice TV)
+// Knights of Justice
 // Knights of the Round Table 
-// Knights of the South Bronx  / Knighty Knight Bugs 
+// Knights of the South Bronx  
+// Knighty Knight Bugs 
 // Knitting 
 // Knives Out 
 // Knock 'Em Dead, Kid 
-// Knock Knock:  2007 & 2015)
+// Knock Knock
 // Knock Off 
 // Knock on Any Door 
-// Knock on Wood & 1981)
+// Knock on Wood
 // Knockabout 
 // Knockaround Guys 
 // Knocked Up 
@@ -10283,9 +10159,9 @@ export const Pokemon = [
 // Knocking 
 // Knocking on Heaven's Door 
 // Knockout Reilly 
-// Knockout:  1941, 2001 & 2011)
+// Knockout
 // Knocks at My Door 
-// Knots TV)
+// Knots
 // Know Thy Child 
 // Know Thy Wife 
 // Know Your Ally: Britain 
@@ -10297,35 +10173,30 @@ export const Pokemon = [
 // Knowing Men 
 // Known Strangers 
 // Knuckle 
-// Knuckleball! 
 // Knucklebones 
-// Knucklehead: & 2015)
+// Knucklehead
 // Knute Rockne, All American 
 // Knutzy Knights 
 // Ko 
-// Ko 2 
 // Ko Antey Koti 
 // Ko Bongisa Mutu 
 // Ko Ko 
 // Ko Mark No Mark 
 // Koala Kid 
-// Kobe Doin' Work TV)
-// Kobiety nad przepaścią 
+// Kobe Doin' Work
 // Koch 
 // Koch Brothers Exposed 
 // Kochadaiiyaan 
-// Kochaj albo rzuć 
 // Kochaj tylko mnie 
 // Kochaniyan 
 // Kochaniyathi 
 // Kochavva Paulo Ayyappa Coelho 
 // Kochi Rajavu 
 // Kochu Kochu Santhoshangal 
-// Kochu Kochu Thettukal:  & 2000)
+// Kochu Kochu Thettukal
 // Kochu Thampuratti 
 // Kochu Themmadi 
 // Kochumon 
-// Kod Adı: K.O.Z. 
 // Kodachrome 
 // Kodaikanal 
 // Kodalu Diddina Kapuram 
@@ -10338,12 +10209,12 @@ export const Pokemon = [
 // Koko: A Talking Gorilla 
 // Kokoda 
 // Kokoro ga Sakebitagatterun Da 
-// Kokurikozaka kara Up on Poppy Hill) 
+// Kokurikozaka kara Up on Poppy Hill
 // Kolya 
 // Koma 
 // Komban 
 // Komodo 
-// Kon-Tiki: & 2012)
+// Kon-Tiki
 // Kong: Skull Island 
 // Kontroll 
 // Kook's Tour 
@@ -10369,7 +10240,7 @@ export const Pokemon = [
 // Krampus: The Reckoning 
 // Kranthiveera Sangolli Rayanna 
 // Kranthiyogi Basavanna 
-// Kranti:  2002 & 2006)
+// Kranti
 // Krechinsky's Wedding 
 // Krek 
 // Kremmen: The Movie 
@@ -10379,7 +10250,6 @@ export const Pokemon = [
 // Kriemhild's Revenge 
 // Kriminal 
 // Kriminaltango 
-// Kring... Kring... 
 // Krippendorf's Tribe 
 // Krishna Arjun 
 // Krishna Aur Kans 
@@ -10389,11 +10259,10 @@ export const Pokemon = [
 // Krishna Cottage 
 // Krishna-Krishna 
 // Krishna-Rukku 
-// Krishna: Hindi, 1996 Tamil, 2006, 2007 & 2008)
+// Krishna
 // Kronk's New Groove 
 // Kronos 
 // Krrish 
-// Krrish 3 
 // Krull 
 // Ku! Kin-dza-dza 
 // Ku-Fu? Dalla Sicilia con furore 
@@ -10401,11 +10270,10 @@ export const Pokemon = [
 // Kubala 
 // Kubera Kuchela 
 // Kubera Theevu 
-// Kuberan: & 2002)
+// Kuberan
 // Kubi Matthu Iyala 
 // Kubinke the Barber 
 // Kubo and the Two Strings 
-// Kubot: The Aswang Chronicles 2 
 // Kucch Luv Jaisaa 
 // Kucch To Hai 
 // Kuch Khatti Kuch Meethi 
@@ -10425,7 +10293,7 @@ export const Pokemon = [
 // Kudiyarasu 
 // Kudiyirundha Koyil 
 // Kudiyon Ka Hai Zamana 
-// Kudrat: & 1998)
+// Kudrat
 // Kudumba Gouravam 
 // Kudumba Sangili 
 // Kudumba Thalaivan 
@@ -10436,7 +10304,7 @@ export const Pokemon = [
 // Kudumbam Oru Kadambam 
 // Kudumbam Oru Koyil 
 // Kudumbam Oru Swargam Bharya Oru Devatha 
-// Kudumbam:  1967 & 1984)
+// Kudumbam
 // Kudumbapuranam 
 // Kudumbasammetham 
 // Kudumbasree Travels 
@@ -10447,15 +10315,11 @@ export const Pokemon = [
 // Kuffs 
 // Kuhio taisa 
 // Kuhle Wampe 
-// Kuhveriakee Kaakuhey? 
 // Kuiba 
-// Kuiba 2 
-// Kuiba 3 
 // Kull the Conqueror 
 // Kumaré 
 // Kundun 
 // Kung Aagawin Mo Ang Lahat Sa Akin 
-// Kung Ayaw Mo, Huwag Mo! 
 // Kung Fu Angels 
 // Kung Fu Chefs 
 // Kung Fu Cult Master 
@@ -10468,20 +10332,17 @@ export const Pokemon = [
 // Kung Fu Kid 
 // Kung Fu Killers 
 // Kung Fu Mahjong 
-// Kung Fu Mahjong 2 
 // Kung Fu Mama – Agentin mit Kids 
 // Kung Fu Man 
 // Kung Fu Master 
 // Kung Fu Monster 
 // Kung Fu Panda 
-// Kung Fu Panda 2 
-// Kung Fu Panda 3 
 // Kung Fu Pocong Perawan 
 // Kung Fu Style 
 // Kung Fu Tootsie 
 // Kung Fu VS Acrobatic 
 // Kung Fu Vampire Killers 
-// Kung Fu Vs. Yoga 1979)
+// Kung Fu Vs. Yoga
 // Kung Fu Yoga 
 // Kung Fu Zombie 
 // Kung Fu: The Movie 
@@ -10500,15 +10361,16 @@ export const Pokemon = [
 // Kunguma Poovum Konjum Puravum 
 // Kunguma Pottu Gounder 
 // Kungumam 
-// Kuni Mulgi Deta Ka Mulgi // Kunisada Chūji: & 1958)
-// Kuppathu Raja: & 2019)
+// Kuni Mulgi Deta Ka Mulgi 
+// Kunisada Chūji
+// Kuppathu Raja
 // Kuppivala 
 // Kura 
 // Kurama Tengu 
 // Kurama Tengu ōedo ihen 
 // Kurama Tengu: Kyōfu Jidai 
 // Kurangu Bommai 
-// Kurbaan: & 2009)
+// Kurbaan
 // Kurfürstendamm 
 // Kurigalu Saar Kurigalu 
 // Kuro Arirang 
@@ -10518,16 +10380,16 @@ export const Pokemon = [
 // Kurt & Courtney 
 // Kurtlar Vadisi Irak 
 // Kurukshethram 
-// Kurukshetra:  1987, 2000, 2002, 2008 & 2019)
-// Kurukshetram: & 2006)
+// Kurukshetra
+// Kurukshetram
 // Kuruthipunal 
 // Kusal 
-// Kushi: & 2001)
+// Kushi
 // Kutsal Damacana 
 // Kutsal Damacana 2: İtmen 
 // Kutsal Damacana: Dracoola 
 // Kutsu-Juku seiklusi 
-// Kutty: & 2010)
+// Kutty
 // Kvadrat 
 // Kwai Boo 
 // Kwaidan 
@@ -10540,15 +10402,12 @@ export const Pokemon = [
 // Kya Yehi Pyaar Hai 
 // Kyaa Dil Ne Kahaa 
 // Kyaa Kool Hai Hum 
-// Kyaa Kool Hain Hum 3 
 // Kyaa Super Kool Hain Hum 
 // Kyan Sit Min 
 // Kyo Kii... Main Jhuth Nahin Bolta 
 // Kyoko 
 // Kyon Ki 
-// Kyon? 
-// Kyon? Kis Liye? 
-// Kyoufu Densetsu Kaiki! Frankenstein TV)
+// Kyoufu Densetsu Kaiki! Frankenstein
 // Kyu-chan no Dekkai Yume 
 // Kyuketsu Onsen e Yokoso 
 // Kyun Hua Achanak 
@@ -10558,13 +10417,11 @@ export const Pokemon = [
 // Kōdai-ke no Hitobito 
 // L'Adolescente 
 // L'Alpagueur 
-// L'Amore in Città 
 // L'Appât 
 // L'Arbre, le maire et la médiathèque 
-// L'Argent: & 1983)
+// L'Argent
 // L'Armée des ombres 
 // L'Arroseur 
-// L'Arroseur Arrosé 
 // L'Atalante 
 // L'Enfance Nue 
 // L'Enfant 
@@ -10576,11709 +10433,11365 @@ export const Pokemon = [
 // L'arma 
 // L'armata Brancaleone 
 // L'avventura 
-// L'homme du train (2002)
-// L'important c'est d'aimer (1975)
-// L'ora legale (2017)
-// L'Âge d'Or (1930)
-// L.A. Confidential (1997)
-// L.A. Story (1991)
-// L.I.E. (2001)
-// L.O.R.D: Legend of Ravaging Dynasties (2016)
-// LOC Kargil (2003)
-// LOL (2012)
-// LUV (2013)
-// La Bamba (1987)
-// La Bestia y la Espada Magica (1983)
-// La Bohème: (1926 & 1965)
-// La Bête (1975)
-// La Bête Humaine (1938)
-// La Cage aux Folles (1978)
-// La Casa del Terror (1959)
-// La Chinoise (1968)
-// La Collectionneuse (1967)
-// La Dolce Vita (1960)
-// La Edad del amor (1954)
-// La Femme Nikita (1991)
-// La Grande Vadrouille (1966)
-// La Haine (1995)
-// La La La at Rock Bottom (2015)
-// La La Land (2016)
-// La Lingerie (2008)
-// La Loba (1965)
-// La Maldicion de la Bestia (1975)
-// La Mer (1895)
-// La Moustache (2005)
-// La Notte (1961)
-// La Pêche aux poissons rouges (1895)
-// La Quinceañera (2007)
-// La Ronde: (1950 & 1964)
-// La Terra Trema (1957)
-// La Voltige (1895)
-// La belle noiseuse (1991)
-// La commare secca (1962)
-// La estrategia del caracol (1993)
-// La jetée (1962)
-// La mujer de mi hermano (2005)
-// La strada (1954)
-// La vie en rose (2007)
-// Laaj (2003)
-// Labyrinth (1986)
-// Lacombe Lucien (1974)
-// Ladder 49 (2004)
-// Ladies and Gentlemen, The Fabulous Stains (2003)
-// Ladies in Lavender (2004)
-// Ladies of the Chorus (1948)
-// Ladies of the Mob (1928)
-// Ladies' Choice (1980)
-// Lady Be Good: (1928 & 1941)
-// Lady Bird (2017)
-// Lady Caroline Lamb (1972)
-// Lady Chatterley (2006)
-// Lady Death: The Movie (2004)
-// Lady Frankenstein (1971)
-// Lady Helen's Escapade (1909)
-// Lady Killer (1933)
-// Lady Sings the Blues (1972)
-// Lady Snowblood (1973)
-// Lady Windermere's Fan: A Play About a Good Woman (1925)
-// Lady and the Tramp (1955)
-// Lady and the Tramp II: Scamp's Adventure (2001)
-// Lady for a Day (1933)
-// Lady in White (1988)
-// Lady in a Cage (1964)
-// Lady in the Lake (1947)
-// Lady in the Water (2006)
-// Lady of Burlesque (1943)
-// Lady on a Train (1945)
-// Lady, Let's Dance (1944)
-// Lady, Play Your Mandolin! (1931)
-// Ladybug Ladybug (1963)
-// Ladybugs (1992)
-// Ladyhawke (1985)
-// Lagaan (2001)
-// Lage Raho Munna Bhai (2006)
-// Laitakaupungin valot (2006)
-// Lajja (2001)
-// Lake Dead (2008)
-// Lake Placid (1999)
-// Lake Placid 2 (2007)
-// Lake Placid 3 (2010)
-// Lake Placid vs. Anaconda (2015)
-// Lake Placid: Legacy (2018)
-// Lake Placid: The Final Chapter (2012)
-// Lakeview Terrace (2008)
-// Lakshya (2004)
-// Lala's Gun (2008)
-// Lamb (1986)
-// Lambada: (1990 & 1990)
-// Lambchops (1929)
-// Lammbock (2001)
-// Lan Yu (2001)
-// Lancelot du Lac (1974)
-// Land Beyond the Sunset (1912)
-// Land Without Bread (1933)
-// Land and Freedom (1995)
-// Land of Look Behind (1982)
-// Land of Plenty (2004)
-// Land of Silence and Darkness (1971)
-// Land of the Blind (2006)
-// Land of the Dead (2005)
-// Land of the Lost (2009)
-// Land of the Pharaohs (1955)
-// Lani Loa (1998)
-// Lantana (2001)
-// Lapin kullan kimallus (1999)
-// Lapitch the Little Shoemaker (1997)
-// Laputa: Castle in the Sky (1986)
-// Lara Croft Tomb Raider: The Cradle of Life (2003)
-// Lara Croft: Tomb Raider (2001)
-// Larceny, Inc. (1942)
-// Larger than Life (1996)
-// Larki Panjaban (2003)
-// Larry Crowne (2011)
-// Larry the Cable Guy: Health Inspector (2006)
-// Lars and the Real Girl (2007)
-// Larva (2012)
-// Las 13 rosas (2007)
-// Laser Mission (1990)
-// Laserblast (1978)
-// Lassie Come Home (1943)
-// Lassie: (1994 & 2005)
-// Last Action Hero (1993)
-// Last Call: (1991, 1995 & 2002)
-// Last Cannibal World (1978)
-// Last Chance Harvey (2008)
-// Last Christmas (2019)
-// Last Dance: (1996 & 2012)
-// Last Days (2005)
-// Last Embrace (1979)
-// Last Exit to Brooklyn (1990)
-// Last Exit: (2003 & 2006)
-// Last Holiday (2006)
-// Last House Standing (2004)
-// Last Life in the Universe (2003)
-// Last Man Standing (1996)
-// Last Night: (1964, 1998 & 2010)
-// Last Order: Final Fantasy VII (2005)
-// Last Orders (2002)
-// Last Present (2001)
-// Last Summer (1969)
-// Last Tango in Paris (1972)
-// Last Train from Gun Hill (1959)
-// Last Vegas (2013)
-// Last Wedding (2001)
-// Last Woman on Earth (1960)
-// Last Year at Marienbad (1961)
-// Last of the Dogmen (1995)
-// Last of the Mobile Hot Shots (1970)
-// Last of the Mustangs (2006)
-// Late Autumn (1960)
-// Late Marriage (2001)
-// Late Night Shopping (2001)
-// Late Spring (1949)
-// Latitude Zero (1969)
-// Latter Days (2003)
-// Lauderdale (1989)
-// Laughter in Paradise (1951)
-// Laura (1944)
-// Laura Lansing Slept Here (1988) (TV)
-// Laurel Canyon (2002)
-// Lavoura Arcaica (2001)
-// Law Abiding Citizen (2009)
-// Law of Desire (1987)
-// Lawless (2012)
-// Lawman (1971)
-// Lawn Dogs (1997)
-// Lawnmower Man 2: Beyond Cyberspace (1996)
-// Lawrence of Arabia (1962)
-// Laws of Attraction (2004)
-// Layer Cake (2004)
-// Lazer Team (2015)
-// Lazer Team 2 (2017)
-// Le Amiche (1955)
-// Le Beau Serge (1958)
-// Le Bivouac (1896)
-// Le Bonheur: (1934 & 1965)
-// Le Cercle rouge (1970)
-// Le Clown et ses chiens (1892)
-// Le Corbeau (1943)
-// Le Dernier Combat (The Last Battle) (1984)
-// Le Diable boiteux (1948; tr. The Lame Devil)
-// Le Divorce (2003)
-// Le Doulos (1962)
-// Le Grand Voyage (2004)
-// Le Havre (2011)
-// Le Jour se Leve (1940)
-// Le Mans (1971)
-// Le Million (1931)
-// Le Notti Bianche (1957)
-// Le Paon de Nuit (2015)
-// Le Petit Soldat (1963)
-// Le Peuple Migrateur (2001)
-// Le Plaisir (1952)
-// Le Pont du Nord (1981)
-// Le Professionnel (1981)
-// Le Samouraï (1967)
-// Le Saut à la couverture (1895)
-// Le Temps qui reste (2006)
-// Le Trou (1960)
-// Le Wazzou polygame (1971)
-// Le Week-End (2013)
-// Le deuxième souffle (1966)
-// Le fauteuil (2009)
-// Leadbelly (1976)
-// Lean on Me (1989)
-// Leap Year: (1921, 1932 & 2010)
-// Leap of Faith (1992)
-// Learning to Lie (2003)
-// Lease Wife (2006)
-// Leatherface: The Texas Chainsaw Massacre III (1990)
-// Leatherheads (2008)
-// Leave 'Em Laughing (1928)
-// Leave Her to Heaven (1945)
-// Leave It to Beaver (1997)
-// Leaves of Grass (2010)
-// Leaving Las Vegas (1995)
-// Leaving Metropolis (2002)
-// Lebanon (2009)
-// Led Zeppelin DVD (2003)
-// Lee Dae-ro Can't Die (2005)
-// Lee Daniels' The Butler (2013)
-// Leeches! (2003)
-// Left Behind (2014)
-// Left Behind II: Tribulation Force (2002)
-// Left Behind: The Movie (2000)
-// Left Behind: World at War (2005)
-// Left Luggage (1998)
-// Lefty (1964)
-// Legacy (2006)
-// Legacy: A Mormon Journey (1990)
-// Legal Eagles (1986)
-// Legally Blonde (2001)
-// Legally Blonde 2: Red, White & Blonde (2003)
-// Legally Blondes (2009)
-// Legend (1985)
-// Legend of Tianyun Mountain (1980)
-// Legend of a Rabbit: The Martial of Fire (2015)
-// Legend of the Guardians: The Owls of Ga'Hoole (2010)
-// Legend of the Lost (1957)
+// L'homme du train
+// L'important c'est d'aimer
+// L'ora legale 
+// L'Âge d'Or 
+// L.A. Confidential 
+// L.A. Story 
+// L.O.R.D: Legend of Ravaging Dynasties 
+// LOC Kargil 
+// LOL 
+// LUV 
+// La Bamba 
+// La Bestia y la Espada Magica 
+// La Bohème
+// La Bête 
+// La Bête Humaine 
+// La Cage aux Folles 
+// La Casa del Terror 
+// La Chinoise 
+// La Collectionneuse 
+// La Dolce Vita 
+// La Edad del amor 
+// La Femme Nikita 
+// La Grande Vadrouille 
+// La Haine 
+// La La La at Rock Bottom 
+// La La Land 
+// La Lingerie 
+// La Loba 
+// La Maldicion de la Bestia 
+// La Mer 
+// La Moustache 
+// La Notte 
+// La Pêche aux poissons rouges 
+// La Quinceañera 
+// La Ronde
+// La Terra Trema 
+// La Voltige 
+// La belle noiseuse 
+// La commare secca 
+// La estrategia del caracol 
+// La jetée 
+// La mujer de mi hermano 
+// La strada 
+// La vie en rose 
+// Laaj 
+// Labyrinth 
+// Lacombe Lucien 
+// Ladies and Gentlemen, The Fabulous Stains 
+// Ladies in Lavender 
+// Ladies of the Chorus 
+// Ladies of the Mob 
+// Ladies' Choice 
+// Lady Be Good
+// Lady Bird 
+// Lady Caroline Lamb 
+// Lady Chatterley 
+// Lady Death: The Movie 
+// Lady Frankenstein 
+// Lady Helen's Escapade 
+// Lady Killer 
+// Lady Sings the Blues 
+// Lady Snowblood 
+// Lady Windermere's Fan: A Play About a Good Woman 
+// Lady and the Tramp 
+// Lady and the Tramp II: Scamp's Adventure 
+// Lady for a Day 
+// Lady in White 
+// Lady in a Cage 
+// Lady in the Lake 
+// Lady in the Water 
+// Lady of Burlesque 
+// Lady on a Train 
+// Lady, Let's Dance 
+// Ladybug Ladybug 
+// Ladybugs 
+// Ladyhawke 
+// Lagaan 
+// Lage Raho Munna Bhai 
+// Laitakaupungin valot 
+// Lajja 
+// Lake Dead 
+// Lake Placid 
+// Lake Placid vs. Anaconda 
+// Lake Placid: Legacy 
+// Lake Placid: The Final Chapter 
+// Lakeview Terrace 
+// Lakshya 
+// Lala's Gun 
+// Lamb 
+// Lambada
+// Lambchops 
+// Lammbock 
+// Lan Yu 
+// Lancelot du Lac 
+// Land Beyond the Sunset 
+// Land Without Bread 
+// Land and Freedom 
+// Land of Look Behind 
+// Land of Plenty 
+// Land of Silence and Darkness 
+// Land of the Blind 
+// Land of the Dead 
+// Land of the Lost 
+// Land of the Pharaohs 
+// Lani Loa 
+// Lantana 
+// Lapin kullan kimallus 
+// Lapitch the Little Shoemaker 
+// Laputa: Castle in the Sky 
+// Lara Croft Tomb Raider: The Cradle of Life 
+// Lara Croft: Tomb Raider 
+// Larger than Life 
+// Larki Panjaban 
+// Larry Crowne 
+// Larry the Cable Guy: Health Inspector 
+// Lars and the Real Girl 
+// Larva 
+// Las 13 rosas 
+// Laser Mission 
+// Laserblast 
+// Lassie Come Home 
+// Lassie
+// Last Action Hero 
+// Last Call
+// Last Cannibal World 
+// Last Chance Harvey 
+// Last Christmas 
+// Last Dance
+// Last Days 
+// Last Embrace 
+// Last Exit to Brooklyn 
+// Last Exit
+// Last Holiday 
+// Last House Standing 
+// Last Life in the Universe 
+// Last Man Standing 
+// Last Night
+// Last Orders 
+// Last Present 
+// Last Summer 
+// Last Tango in Paris 
+// Last Train from Gun Hill 
+// Last Vegas 
+// Last Wedding 
+// Last Woman on Earth 
+// Last Year at Marienbad 
+// Last of the Dogmen 
+// Last of the Mobile Hot Shots 
+// Last of the Mustangs 
+// Late Autumn 
+// Late Marriage 
+// Late Night Shopping 
+// Late Spring 
+// Latitude Zero 
+// Latter Days 
+// Lauderdale 
+// Laughter in Paradise 
+// Laura 
+// Laura Lansing Slept Here  
+// Laurel Canyon 
+// Lavoura Arcaica 
+// Law Abiding Citizen 
+// Law of Desire 
+// Lawless 
+// Lawman 
+// Lawn Dogs 
+// Lawnmower Man 2: Beyond Cyberspace 
+// Lawrence of Arabia 
+// Laws of Attraction 
+// Layer Cake 
+// Lazer Team 
+// Le Amiche 
+// Le Beau Serge 
+// Le Bivouac 
+// Le Bonheur
+// Le Cercle rouge 
+// Le Clown et ses chiens 
+// Le Corbeau 
+// Le Dernier Combat ast Battle
+// Le Diable boiteux  tr. The Lame Devil
+// Le Divorce 
+// Le Doulos 
+// Le Grand Voyage 
+// Le Havre 
+// Le Jour se Leve 
+// Le Mans 
+// Le Million 
+// Le Notti Bianche 
+// Le Paon de Nuit 
+// Le Petit Soldat 
+// Le Peuple Migrateur 
+// Le Plaisir 
+// Le Pont du Nord 
+// Le Professionnel 
+// Le Saut à la couverture 
+// Le Temps qui reste 
+// Le Trou 
+// Le Wazzou polygame 
+// Le Week-End 
+// Le deuxième souffle 
+// Le fauteuil 
+// Leadbelly 
+// Lean on Me 
+// Leap Year
+// Leap of Faith 
+// Learning to Lie 
+// Lease Wife 
+// Leatherheads 
+// Leave 'Em Laughing 
+// Leave Her to Heaven 
+// Leave It to Beaver 
+// Leaves of Grass 
+// Leaving Las Vegas 
+// Leaving Metropolis 
+// Lebanon 
+// Led Zeppelin DVD 
+// Lee Dae-ro Can't Die 
+// Lee Daniels' The Butler 
+// Left Behind 
+// Left Behind II: Tribulation Force 
+// Left Behind: The Movie 
+// Left Behind: World at War 
+// Left Luggage 
+// Lefty 
+// Legacy 
+// Legacy: A Mormon Journey 
+// Legal Eagles 
+// Legally Blonde 
+// Legally Blonde 2: Red, White & Blonde 
+// Legally Blondes 
+// Legend 
+// Legend of Tianyun Mountain 
+// Legend of a Rabbit: The Martial of Fire 
+// Legend of the Guardians: The Owls of Ga'Hoole 
+// Legend of the Lost 
 // Legend of the Moles
-// Legend of the Moles – The Magic Train Adventure (2015)
-// Legend of the Moles: The Frozen Horror (2011)
-// Legend of the Moles: The Treasure of Scylla (2012)
-// Legend of the Werewolf (1975)
-// Legendary (2010)
-// Legends of the Fall (1994)
-// Legion (2010)
-// Legion of the Night (1995)
-// Legionnaire (1998)
-// Lego Batman: The Movie – DC Super Heroes Unite (2013)
-// Lego DC Super Hero Girls: Brain Drain (2017)
-// Legong: Dance of the Virgins (1935)
-// Leiutajateküla Lotte (2006)
-// Lemming (2006)
-// Lemonade Joe (1964)
-// Lemonade Mouth (2011) (TV)
-// Lemony Snicket's A Series of Unfortunate Events (2004)
-// Lenin in Paris (1980)
-// Leningrad Cowboys Go America (1989)
-// Lenny (1974)
-// Leo (2000)
-// Leo the Lion (1994)
-// Leonard Part 6 (1987)
-// Leprechaun (1993)
-// Leprechaun 2 (1994)
-// Leprechaun 3 (1994)
-// Leprechaun 4: In Space (1996)
-// Leprechaun in the Hood (2000)
-// Leprechaun: Back 2 tha Hood (2003)
-// Leprechaun: Origins (2014)
-// Leroy & Stitch (2006 TV)
-// Les Amants de Montparnasse (1958)
-// Les Biches (1968)
-// Les Blanchisseuses (1896)
-// Les Cousins (1959)
-// Les Dames du Bois de Boulogne (1945)
-// Les Diaboliques (1955)
-// Les Enfants Terribles (1950)
-// Les Forgerons (1895)
-// Les Girls (1957)
-// Les Misérables: (1909, 1917, 1925, 1934, 1935, 1948, 1952, 1958, 1967, 1978, 1982, 1995, 1998, & 2012)
-// Les Misérables: (1909, 1917, 1925, 1934, 1935, 1948, 1952, 1958, 1978, 1982, 1995, 1998 & 2012)
-// Les Vampires (1915–16)
-// Les Visiteurs du Soir (1942)
-// Lesbian Vampire Killers (2009)
-// Less Than Zero (1987)
-// Lessons of Darkness (1992)
-// Let Him Have It (1992)
-// Let Hoi Decide (2014)
-// Let It Be (1970)
-// Let It Ride (1989)
-// Let Me Die a Woman (1978)
-// Let Me In (2010)
-// Let Sleeping Corpses Lie (1975)
-// Let Them Chirp Awhile (2009)
-// Let the Right One In (2008)
-// Let's All Go To the Lobby (1957)
-// Let's Get Married (2015)
-// Let's Get Skase (2001)
-// Let's Go Crazy (1951)
-// Let's Go to Prison (2006)
-// Let's Make Love (1960)
-// Let's Scare Jessica to Death (1971)
-// Lethal Weapon (1987)
-// Lethal Weapon 2 (1989)
-// Lethal Weapon 3 (1992)
-// Lethal Weapon 4 (1998)
-// Letter Never Sent (1959)
-// Letter from an Unknown Woman: (1948 & 2004)
-// Letter to Brezhnev (1985)
-// Letter to Jane (1972)
-// Letter with Feather (1954)
-// Letters from Iwo Jima (2006)
-// Letters to Juliet (2010)
-// Leviathan: 1989, 2012 & 2014)
-// Levity (2003)
-// Lewis and Clark and George (1997)
-// Ley's Line (2002)
-// Leysa Leysa (2002)
-// Li Lianying: The Imperial Eunuch (1991)
-// Li'l Abner (1959)
-// Liam (2000)
-// Lianna (1983)
-// Liar Liar (1997)
-// Libeled Lady (1936)
-// Liberal Arts (2012)
-// Liberty (1929)
-// Liberty Heights (1999)
-// Liberty! The American Revolution (1997) (TV)
-// Library Wars: The Last Mission (2015)
-// Licence to Kill (1989)
-// License to Drive (1988)
-// License to Wed (2007)
-// Lick the Star (1998)
-// Licántropo (1996)
-// Lie with Me (2006)
-// Liebestraum (1991)
-// Lies My Mother Told Me (2005)
-// Life 101 (1995)
-// Life During Wartime (2009)
-// Life Is a Long Quiet River (1988)
-// Life Is a Miracle (2004)
-// Life Show (2002)
-// Life Stinks (1991)
-// Life With Feathers (1945)
-// Life Without Dick (2001)
-// Life as We Know It (2010)
-// Life as a House (2001)
-// Life at the End of the Rainbow (2002)
-// Life in a Day (2011)
-// Life is Beautiful: (1979, 1985, 1997, 2000 film), 2012 & 2014)
-// Life is Cool (2008)
-// Life is Sweet (1990)
-// Life of Brian (1979)
-// Life of Pi (2012)
-// Life on a String (1991)
-// Life or Something Like It (2002)
-// Life with Father (1947)
-// Life with Mikey (1993)
-// Life, and Nothing More... (1991)
-// Life-Size (2000) (TV)
-// Life: (1999 & 2017)
-// Lifeboat (1944)
-// Lifeforce (1985)
-// Light It Up (1999)
-// Light Sleeper (1992)
-// Light Years (1988)
-// Light of Day (1987)
-// Lightning Jack (1994)
-// Lights in the Dusk (2006)
-// Lights of New York: (1916 & 1928)
-// Like Crazy (2012)
-// Like Father Like Son (1987)
-// Like Father, like Son (2013)
-// Like Mike (2002)
-// Like Mike 2: Streetball (2006)
-// Like Stars on Earth (2007)
-// Like Water for Chocolate (1992)
-// Like a Virgin (2006)
-// Like for Likes (2016)
-// Lil' Pimp (2005)
-// Lila Says (2004)
-// Lili (1953)
-// Lilies (1997)
-// Lilies of the Field (1963)
-// Lilith (1964)
-// Lilja 4-ever (2002)
-// Lilo & Stitch (2002)
-// Lilo & Stitch 2: Stitch Has a Glitch (2005)
-// Limbo (1999)
-// Limelight: (1936, 1952 & 2011)
-// Limitless (2011)
-// Lincoln: (1988 TV & 2012)
-// Lincoln: Trial by Fire (TV, 1974)
-// Line Walker (2016)
-// Link (1986)
-// Lion (2016)
-// Lionheart (1987 & 1990)
-// Lions for Lambs (2007)
-// Lipstick (1976)
-// Liquid Sky (1982)
-// Lisa and the Devil (1976)
-// Lisbon (1956)
-// Listen to Britain (1942)
-// Lisztomania (1975)
-// Lisístrata (2002)
-// Little Ashes (2009)
-// Little Big League (1994)
-// Little Big Man (1970)
-// Little Big Panda (2011)
-// Little Black Book (2004)
-// Little Boy Lost: (1953 & 1978)
-// Little Buddha (1993)
-// Little Caesar (1931)
-// Little Children (2006)
-// Little Cigars (1973)
-// Little Darlings (1980)
-// Little Dieter Needs to Fly (1997)
-// Little Fish (2005)
-// Little Fockers (2010)
-// Little Fugitive (1953)
-// Little Giants (1994)
-// Little John (2002)
-// Little Man Tate (1991)
-// Little Man: (2005 & 2006)
-// Little Manhattan (2005)
-// Little Miss Marker (1934)
-// Little Miss Millions (1993)
-// Little Miss Sunshine (2006)
-// Little Monsters (1989)
-// Little Moth (2007)
-// Little Murders (1971)
-// Little Nellie Kelly (1940)
-// Little Nemo: Adventures in Slumberland (1992)
-// Little Nicky (2000)
-// Little Odessa (1994)
-// Little Red Flowers (2006)
-// Little Red Riding Hood (1997)
-// Little Red Riding Rabbit (1944)
-// Little Secrets (2002)
-// Little Shop of Horrors (1986)
-// Little Toys (1933)
-// Little Vera (1988)
-// Little Voice (1998)
-// Little Witches (1996)
-// Little Women: (1917, 1918, 1933, 1949, 1978 TV, 1994 & 2018)
-// Live Flesh (1998)
-// Live Free or Die (2006)
-// Live Free or Die Hard (2007)
-// Live Nude Girls (1995)
-// Live Wire (1992)
-// Live a Little, Love a Little (1968)
-// Live and Let Die (1973)
-// Live at the Aladdin Las Vegas (2003)
-// Live from Baghdad (2002) (TV)
-// Living Out Loud (1998)
-// Living in Missouri (2001)
-// Living in Oblivion (1995)
-// Living it Up (1954)
-// Living on Tokyo Time (1987)
-// Livvakterna (2001)
-// Ljeto u zlatnoj dolini (2003)
-// Lloyd's of London (1936)
-// Loaded Weapon 1 (1993)
-// Loafing and Camouflage (1984)
-// Loafing and Camouflage: Sirens in the Aegean (2005)
-// Local Hero (1983)
-// Loch Ness (1996)
-// Lock Up (1989)
-// Lock, Stock and Two Smoking Barrels (1998)
-// Lockdown (2000)
-// Locke (2013)
-// Lockout (2012)
-// Loft (2008)
-// Logan's Run (1976)
-// Loggerheads (2005)
-// Lokaneethi (1952)
-// Lola Montès (1955)
-// Lola Versus (2012)
-// Lola: (1961, 1969, 1974 & 1981)
-// Lolita: (1962 & 1997)
-// LolliLove (2004)
-// London (2005)
-// London After Midnight (1927)
-// London Boulevard (2010)
-// London Can Take It! (1940)
+// Legend of the Moles – The Magic Train Adventure 
+// Legend of the Moles: The Frozen Horror 
+// Legend of the Moles: The Treasure of Scylla 
+// Legend of the Werewolf 
+// Legendary 
+// Legends of the Fall 
+// Legion 
+// Legion of the Night 
+// Legionnaire 
+// Lego Batman: The Movie – DC Super Heroes Unite 
+// Lego DC Super Hero Girls: Brain Drain 
+// Legong: Dance of the Virgins 
+// Leiutajateküla Lotte 
+// Lemming 
+// Lemonade Joe 
+// Lemonade Mouth  
+// Lemony Snicket's A Series of Unfortunate Events 
+// Lenin in Paris 
+// Leningrad Cowboys Go America 
+// Lenny 
+// Leo 
+// Leo the Lion 
+// Leprechaun 
+// Leprechaun 4: In Space 
+// Leprechaun in the Hood 
+// Leprechaun: Back 2 tha Hood 
+// Leprechaun: Origins 
+// Leroy & Stitch
+// Les Amants de Montparnasse 
+// Les Biches 
+// Les Blanchisseuses 
+// Les Cousins 
+// Les Dames du Bois de Boulogne 
+// Les Diaboliques 
+// Les Enfants Terribles 
+// Les Forgerons 
+// Les Girls 
+// Les Misérables
+// Les Visiteurs du Soir 
+// Lesbian Vampire Killers 
+// Less Than Zero 
+// Lessons of Darkness 
+// Let Him Have It 
+// Let Hoi Decide 
+// Let It Be 
+// Let It Ride 
+// Let Me Die a Woman 
+// Let Me In 
+// Let Sleeping Corpses Lie 
+// Let Them Chirp Awhile 
+// Let the Right One In 
+// Let's All Go To the Lobby 
+// Let's Get Married 
+// Let's Get Skase 
+// Let's Go Crazy 
+// Let's Go to Prison 
+// Let's Make Love 
+// Let's Scare Jessica to Death 
+// Lethal Weapon 
+// Letter Never Sent 
+// Letter from an Unknown Woman
+// Letter to Brezhnev 
+// Letter to Jane 
+// Letter with Feather 
+// Letters from Iwo Jima 
+// Letters to Juliet 
+// Leviathan
+// Levity 
+// Lewis and Clark and George 
+// Ley's Line 
+// Leysa Leysa 
+// Li Lianying: The Imperial Eunuch 
+// Li'l Abner 
+// Liam 
+// Lianna 
+// Liar Liar 
+// Libeled Lady 
+// Liberal Arts 
+// Liberty 
+// Liberty Heights 
+// Liberty! The American Revolution  
+// Library Wars: The Last Mission 
+// Licence to Kill 
+// License to Drive 
+// License to Wed 
+// Lick the Star 
+// Licántropo 
+// Lie with Me 
+// Liebestraum 
+// Lies My Mother Told Me 
+// Life During Wartime 
+// Life Is a Long Quiet River 
+// Life Is a Miracle 
+// Life Show 
+// Life Stinks 
+// Life With Feathers 
+// Life Without Dick 
+// Life as We Know It 
+// Life as a House 
+// Life at the End of the Rainbow 
+// Life in a Day 
+// Life is Beautiful
+// Life is Cool 
+// Life is Sweet 
+// Life of Brian 
+// Life of Pi 
+// Life on a String 
+// Life or Something Like It 
+// Life with Father 
+// Life with Mikey 
+// Life-Size  
+// Life
+// Lifeboat 
+// Lifeforce 
+// Light It Up 
+// Light Sleeper 
+// Light Years 
+// Light of Day 
+// Lightning Jack 
+// Lights in the Dusk 
+// Lights of New York
+// Like Crazy 
+// Like Father Like Son 
+// Like Father, like Son 
+// Like Mike 
+// Like Mike 2: Streetball 
+// Like Stars on Earth 
+// Like Water for Chocolate 
+// Like a Virgin 
+// Like for Likes 
+// Lil' Pimp 
+// Lila Says 
+// Lili 
+// Lilies 
+// Lilies of the Field 
+// Lilith 
+// Lilja 4-ever 
+// Lilo & Stitch 
+// Lilo & Stitch 2: Stitch Has a Glitch 
+// Limbo 
+// Limelight
+// Limitless 
+// Lincoln
+// Lincoln: Trial by Fire
+// Line Walker 
+// Link 
+// Lion 
+// Lionheart
+// Lions for Lambs 
+// Lipstick 
+// Liquid Sky 
+// Lisa and the Devil 
+// Lisbon 
+// Listen to Britain 
+// Lisztomania 
+// Lisístrata 
+// Little Ashes 
+// Little Big League 
+// Little Big Man 
+// Little Big Panda 
+// Little Black Book 
+// Little Boy Lost
+// Little Buddha 
+// Little Caesar 
+// Little Children 
+// Little Cigars 
+// Little Darlings 
+// Little Dieter Needs to Fly 
+// Little Fish 
+// Little Fockers 
+// Little Fugitive 
+// Little Giants 
+// Little John 
+// Little Man Tate 
+// Little Man
+// Little Manhattan 
+// Little Miss Marker 
+// Little Miss Millions 
+// Little Miss Sunshine 
+// Little Monsters 
+// Little Moth 
+// Little Murders 
+// Little Nellie Kelly 
+// Little Nemo: Adventures in Slumberland 
+// Little Nicky 
+// Little Odessa 
+// Little Red Flowers 
+// Little Red Riding Hood 
+// Little Red Riding Rabbit 
+// Little Secrets 
+// Little Shop of Horrors 
+// Little Toys 
+// Little Vera 
+// Little Voice 
+// Little Witches 
+// Little Women
+// Live Flesh 
+// Live Free or Die 
+// Live Free or Die Hard 
+// Live Nude Girls 
+// Live Wire 
+// Live a Little, Love a Little 
+// Live and Let Die 
+// Live at the Aladdin Las Vegas 
+// Live from Baghdad  
+// Living Out Loud 
+// Living in Missouri 
+// Living in Oblivion 
+// Living it Up 
+// Living on Tokyo Time 
+// Livvakterna 
+// Ljeto u zlatnoj dolini 
+// Lloyd's of London 
+// Loafing and Camouflage 
+// Loafing and Camouflage: Sirens in the Aegean 
+// Local Hero 
+// Loch Ness 
+// Lock Up 
+// Lock, Stock and Two Smoking Barrels 
+// Lockdown 
+// Locke 
+// Lockout 
+// Loft 
+// Logan's Run 
+// Loggerheads 
+// Lokaneethi 
+// Lola Montès 
+// Lola Versus 
+// Lola
+// Lolita
+// LolliLove 
+// London 
+// London After Midnight 
+// London Boulevard 
 // London Fields
-// London Has Fallen (2016)
-// London Voodoo (2004)
-// London to Brighton (2006)
-// Lone Star: (1952 & 1996)
-// Lone Survivor (2013)
-// Lone Wolf and Cub: Baby Cart at the River Styx (1972)
-// Lone Wolf and Cub: Baby Cart in Peril (1972)
-// Lone Wolf and Cub: Baby Cart in the Land of Demons (1973)
-// Lone Wolf and Cub: Baby Cart to Hades (1972)
-// Lone Wolf and Cub: Sword of Vengeance (1972)
-// Lone Wolf and Cub: White Heaven in Hell (1974)
-// Lonely Heart (1985)
-// Lonely Hearts: (1982, 1991 & 2006)
-// Lonely Island (2014)
-// Lonely are the Brave (1962)
-// Lonelyhearts (1958)
-// Loner (2008)
-// Lonesome (1928)
-// Lonesome Cowboys (1968)
-// Lonesome Dove (1990)
-// Lonesome Jim (2005)
-// Long Day's Journey Into Night (1962)
-// Long Time Dead (2002)
-// Long Weekend (1979)
-// Long-Haired Hare (1949)
-// Longinus (2004)
-// Longshot: The Movie (1999)
-// Longtime Companion (1990)
-// Look Back in Anger (1958)
-// Look Both Ways (2005)
-// Look Who's Talking (1989)
-// Look Who's Talking Now (1993)
-// Look Who's Talking Too (1990)
-// Look at Me (2004)
-// Looker (1981)
-// Lookin' to Get Out (1982)
-// Looking for Alibrandi (2000)
-// Looking for Comedy in the Muslim World (2005)
-// Looking for Eric (2009)
-// Looking for Fidel (2004)
-// Looking for Mr. Goodbar (1978)
-// Looking for Richard (1996)
-// Looney Tunes: Back in Action (2003)
-// Looper (2012)
-// Lord of War (2005)
-// Lord of the Flies: (1963 & 1990)
-// Lords of Dogtown (2005)
-// Lorenzo's Oil (1992)
-// Lorna (1964)
-// Los olvidados (1952)
-// Loser (2000)
-// Losin' It (1983)
-// Losing Isaiah (1995)
-// Lost & Found (1999)
-// Lost Boys: The Thirst (2010)
-// Lost Boys: The Tribe (2008)
-// Lost Highway (1997)
-// Lost Horizon: (1937 & 1973)
-// Lost Indulgence (2008)
-// Lost Souls (2000)
-// Lost Transmissions (2019)
-// Lost and Delirious (2001)
-// Lost and Found: (1979, 1996 & 2008)
-// Lost in America (1985)
-// Lost in Beijing (2007)
-// Lost in La Mancha (2002)
-// Lost in Space (1998)
-// Lost in Translation (2003)
-// Lost in White (2016)
-// Lost in Wrestling (2015)
-// Lost in a Harem (1944)
-// Lotna (1979)
-// Lotte and the Moonstone Secret (2011)
-// Lotte from Gadgetville (2006)
-// Lottovoittaja UKK Turhapuro (1976)
-// Lotus Code (2015)
-// Lotus Lantern (1999)
-// Louie Bluie (1985)
-// Louisiana Purchase (1941)
-// Louisiana Story (1948)
-// Love & Basketball (2000)
-// Love & Other Drugs (2010)
-// Love & Peace (2015)
-// Love & Sex (2000)
-// Love 'em and Weep (1927)
-// Love Actually (2003)
-// Love Affair: 1932, 1939 & 1994)
-// Love Among the Ruins (1975) (TV)
-// Love Clinic (2015)
-// Love Contractually (2017)
-// Love Crazy (1941)
-// Love Don't Cost a Thing (2003)
-// Love Field (1992)
-// Love Finds Andy Hardy (1938)
-// Love Happens (2009)
-// Love Happy (1949)
-// Love Hurts (1991)
-// Love Is All You Need (2012)
-// Love Is on the Air (1937)
-// Love Is the Devil: Study for a Portrait of Francis Bacon (1998)
-// Love Jones (1997)
-// Love Kills (1998)
-// Love Letters: (1945 & 1999)
-// Love Live! The School Idol Movie (2015)
-// Love Liza (2003)
-// Love Me If You Dare (2003)
-// Love Me Tender (1956)
-// Love Me Tonight (1932)
-// Love Me or Leave Me (1955)
-// Love Meetings (1965)
-// Love O2O (2016)
-// Love Object (2003)
-// Love Phobia (2006)
-// Love Potion No. 9 (1992)
-// Love Sick (2006)
-// Love Stinks (1999)
-// Love Story: (1970, 1981 & 2013)
-// Love Streams (1984)
-// Love Studio (2016)
-// Love That Boy (2003)
-// Love Without Distance (2015)
-// Love and Anarchy (1973)
-// Love and Death (1975)
-// Love and Death on Long Island (1997)
-// Love and Duty (1931)
-// Love and Honor (2013)
-// Love and Human Remains (1993)
-// Love and Kisses (1965)
-// Love and Other Catastrophes (1996)
-// Love and Support (2003)
-// Love and a .45 (1994)
-// Love at First Bite (1979)
-// Love in Magic (2005)
-// Love in Thoughts (2004)
-// Love in the Afternoon: (1957 & 1972)
-// Love in the Time of Cholera (2007)
-// Love is Colder than Death (1969)
-// Love is a Many-Splendored Thing (1955)
-// Love on a Diet (2001)
-// Love on the Cloud (2014)
-// Love on the Dole (1941)
-// Love on the Run: (1936 & 1979)
-// Love the Hard Way (2003)
-// Love with the Proper Stranger (1963)
-// Love! Valour! Compassion! (1997)
-// Love's Berries (1926)
-// Love's Brother (2004)
-// Love's Labour's Lost (2000)
-// Love's Whirlpool (2014)
-// Love, At First… (2015)
-// Love, Gilda (2018)
-// Love, Honour and Obey (2000)
-// Love, Simon (2018)
-// Love, So Divine (2004)
-// Love: (1971 & 1991)
-// Lovelife (1996)
-// Lovely & Amazing (2001)
-// Lovely Rivals (2004)
-// Lover Come Back (1961)
-// Lover's Grief over the Yellow River (1999)
-// Loverboy: (1989 & 2005)
-// Lovers & Movies (2015)
-// Lovers and Liars (1979)
-// Lovers and Other Strangers (1970)
-// Lovers of the Arctic Circle (1998)
-// Lovers' Concerto (2002)
-// Loves of a Blonde (1965)
-// Lovewrecked (2005)
-// Lovin' Molly (1974)
-// Loving (2016)
-// Loving You (1957)
-// Lower City (2006)
-// Loyalties: (1933 & 1987)
-// Lucas (1986)
-// Lucky Loser (2006)
-// Lucky Number Slevin (2006)
-// Lucky Numbers (2000)
-// Lucky Star 2015 (2015)
-// Lucky Three: an Elliott Smith Portrait (1997)
-// Lucky You (2007)
-// Lucky: No Time for Love (2005)
-// Luckytown (2000)
-// Ludwig (1972)
-// Lulu on the Bridge (1998)
-// Lulu: (1914, 1918, 1953, 1962, 1996 & 2014)
-// Luminal (2004)
-// Lumière and Company (1995)
-// Luna (1979)
-// Luna Papa (1999)
-// Lunacy (2005)
-// Lunar Eclipse (1999)
-// Lupin III: Dead or Alive (1996)
-// Lupin III: Farewell to Nostradamus (1995)
-// Lupin III: Goemon Ishikawa's Spray of Blood (2017)
-// Lupin III: Jigen's Gravestone (2014)
-// Lupin III: Legend of the Gold of Babylon (1985)
-// Lupin III: Strange Psychokinetic Strategy (2011)
-// Lupin the 3rd (2014)
-// Lupin the 3rd vs. Detective Conan: The Movie (2013)
-// Lupin the Third: The Castle of Cagliostro (1979)
-// Lust for Life (1956)
-// Lust for a Vampire (1971)
-// Lust, Caution (2007)
-// Luster (2002)
-// Luther: (1928, 1964 TV, 1973 & 2003)
-// Luxo Jr. (1986)
-// Luxury Car (2006)
-// Lycanthrope (1999)
-// Lycanthropus (1962)
-// Lymelife (2009)
-// Léolo (1992)
-// Léon Morin, Priest (1961)
-// Léon: The Professional (1994)
-// M*A*S*H (1970)
-// M. Butterfly (1993)
-// M: (1931 & 1951)
-// MBA Partners (2016)
-// MVP 2: Most Vertical Primate (2002)
-// MVP: Most Valuable Primate (2000)
-// Ma 6-T va crack-er (1997)
-// Ma Vie en Rose (1997)
-// Ma vie en cinémascope (2004)
-// Ma-Mha (2007)
-// Maalamaal (1988)
-// Maangamizi: The Ancient One (2002)
-// Maborosi (1997)
-// Mabudachi (2001)
-// Mac (1992)
-// Mac and Me (1988)
-// MacArthur (1977)
-// MacGruber (2010)
-// Macabre: (1958, 1980 & 2010)
-// Macadam Tribu (1996)
-// Macao (1952)
-// Macaroni (1985)
-// Macbeth: (1948, 1971, 1982, & 2006)
-// Machete (2010)
-// Machete Kills (2013)
-// Machine Gun Preacher (2011)
-// Machine-Gun Kelly (1958)
-// Macho Dancer (1988)
-// Machuca (2004)
-// Mackenna's Gold (1969)
-// Macon County Line (1974)
-// Macunaíma (1969)
-// Mad City (1997)
-// Mad Dog and Glory (1993)
-// Mad Hot Ballroom (2005)
-// Mad Love: (1935, 1995, 2001 & 2015)
-// Mad Max (1979)
-// Mad Max 2: The Road Warrior (1981)
-// Mad Max Beyond Thunderdome (1985)
-// Mad Max: Fury Road (2015)
-// Mad Money (2008)
-// Mad Monster Party (1969)
-// Mad at the Moon (1992)
-// Madadayo (1993)
-// Madagascar (2005)
-// Madagascar 3: Europe's Most Wanted (2012)
-// Madagascar Skin (1995)
-// Madagascar: Escape 2 Africa (2008)
-// Madame (Madame Sans-Gêne) (1961)
-// Madame Bovary: (1934, 1937, 1947, 1949, 1969, 1991 & 2014)
-// Madame Butterfly: (1915 and 1932)
-// Madame Curie (1943)
-// Madame Rosa (1977)
-// Madame Satã (2002)
-// Madame Sousatzka (1988)
-// Made (2001)
-// Made for Each Other (1939)
-// Made in America (1993)
-// Made in Dagenham (2010)
-// Made in Heaven: (1952 & 1987)
-// Made in Sheffield (2002)
-// Made in U.S.A.: (1966 & 1987)
-// Made of Honor (2008)
-// Madea Goes to Jail (2009)
-// Madea's Big Happy Family (2011)
-// Madea's Family Reunion (2006)
-// Madea's Tough Love (2015)
-// Madea's Witness Protection (2012)
-// Madeline (1998)
-// Mademoiselle from Armentières (1926)
-// Madhouse: (1974, 1990 & 2004)
-// Madhumati (1958)
-// Madigan (1968)
-// Madigan's Millions (1969)
-// Madman (1982)
-// Madu Tiga (1964)
-// Maelström (2000)
-// Maestro! (2015)
-// Mafioso (1962)
-// Maggie (2015)
-// Magic (1978)
-// Magic Card (2015)
-// Magic Mike (2012)
-// Magic Mike XXL (2015)
-// Magic Town (1947)
-// Magic Wonderland (2014)
-// Magic in the Water (1995)
-// Magical Maestro (1952)
-// Magical Mystery Tour (1967 TV)
-// Magicians (2007)
-// Magnificent Obsession: (1935 & 1954)
-// Magnolia (1999)
-// Magnum Force (1973)
-// Mah Nakorn (2004)
-// Mahanagar (1963)
-// Mahogany (1975)
-// Maid in Manhattan (2002)
-// Maid to Order (1987)
-// Main Hoon Na (2004)
-// Main Prem Ki Diwani Hoon (2003)
-// Main Tulsi Tere Aangan Ki (1978)
-// Maine Pyar Kiya (1989)
-// Major Barbara (1941)
-// Major Dundee (1965)
-// Major League (1989)
-// Major League II (1994)
-// Major League: Back to the Minors (1998)
-// Major Movie Star (2008)
-// Major Payne (1995)
-// Major Wilson's Last Stand (1899)
-// Make Mine Music (1946)
-// Make Way for Tomorrow (1937)
-// Make the Yuletide Gay (2009)
-// Making Love (1982)
-// Making Mr. Right (1987)
-// Making a Living (1914)
-// Making the Grade (1984)
-// Maku ga Agaru (2015)
-// Mala Noche (1985)
-// Malaga (1954)
-// Malamaal Weekly (2006)
-// Malaya (1949)
-// Malcolm (1986)
-// Malcolm X (1992)
-// Male and Female (1919)
-// Malevil (1972)
-// Malevolence (2005)
-// Malibu's Most Wanted (2003)
-// Malice (1993)
-// Malizia (1973)
-// Mallboy (2001)
-// Malli (1998)
-// Mallrats (1995)
-// Malta Story (1953)
-// Malèna (2000)
-// Mama Flora's Family (1998) (TV)
-// Mama's Affair (1921)
-// Mama: (1990, 2012 & 2013)
-// Mamba (1930)
-// Mambo Italiano (2003)
-// Mame (1974)
-// Mamma Mia! (2008)
-// Mamma Roma (1962)
-// Mammoth (2006) (TV)
-// Man About Town (2006)
-// Man Bites Dog (1993)
-// Man Facing Southeast (1987)
-// Man Hunt (1941 & 1985)
-// Man Walking Around a Corner (1887)
-// Man Without a Star (1955)
-// Man in the Wilderness (1971)
-// Man of Aran (1934)
-// Man of Iron (1981)
-// Man of La Mancha (1972)
-// Man of Marble (1977)
-// Man of Steel (2013)
-// Man of a Thousand Faces (1957)
-// Man of the Century (1999)
-// Man of the Frontier (1936)
-// Man of the House: (1995 & 2005)
-// Man of the West (1958)
-// Man of the Year (2006)
-// Man on Fire: (1987 & 2004)
-// Man on Wire (2008)
-// Man on a Ledge (2012)
-// Man on the Moon (1999)
-// Man with a Million (1954)
-// Man with the Movie Camera (1929)
-// Man with the Screaming Brain (2005)
-// Man's Best Friend (1993)
-// Man's Favorite Sport? (1964)
-// Man-Thing (2005) (TV)
-// Management (2009)
-// Manatsu no Chikyū (1991)
-// Manchester by the Sea (2016)
-// Mandala (1981)
-// Mandela: Long Walk to Freedom (2013)
-// Manderlay (2005)
-// Mandingo (1975)
-// Mandragora (1997)
-// Mangal Pandey (2005)
-// Mangetsu no Kuchizuke (1989)
-// Manhandled (1924 & 1949)
-// Manhatta (1922)
-// Manhattan (1979)
-// Manhattan Melodrama (1934)
-// Manhattan Murder Mystery (1993)
-// Manhattan Project (1986)
-// Manhood (2003)
-// Manhunter (1986)
-// Maniac Cop (1988)
-// Maniac Cop 2 (1990)
-// Maniac: (1934, 1963, 1980 & 2012)
-// Manic (2003)
-// Manly Times (1977)
-// Mannequin: (1937 & 1987)
-// Manolete (2006)
-// Manon des Sources (1986)
-// Manos: The Hands of Fate (1966)
-// Mansfield Park (1999)
-// Manson (1973)
-// Manufacturing Consent: Noam Chomsky and the Media (1992)
-// Many Rivers to Cross (1955)
-// Mao's Last Dancer (2009)
-// Map of the Human Heart (1993)
-// Mapado (2005)
-// Mapado 2: Back to the Island (2007)
-// Mar adentro (2004)
-// Maradona (2006)
-// Marat/Sade (1967)
-// Marathon Man (1976)
-// March Comes in like a Lion (2017)
-// March of Time: Inside Nazi Germany (1938)
-// March of the Penguins (2005)
-// Marci X (2003)
-// Mare Nostrum (1926)
-// Marebito (2005)
-// Margaret (2011)
-// Margaret's Museum (1995)
-// Margin Call (2011)
-// Margot at the Wedding (2008)
-// Maria Full of Grace (2004)
-// Mariah Carey's All I Want For Christmas Is You (2017)
-// Marian Anderson: the Lincoln Memorial Concert (1939)
-// Marie Antoinette: (1938 & 2006)
-// Marihuana (1936)
-// Marilyn Hotchkiss' Ballroom Dancing and Charm School (2005)
-// Marine Boy (2009)
-// Marion Bridge (2002)
-// Marjoe (1972)
-// Marjorie Morningstar (1958)
-// Mark of the Devil (1972)
-// Mark of the Vampire (1935)
-// Marked Woman (1937)
-// Marked for Death (1990)
-// Marley & Me (2008)
-// Marley (2012)
-// Marlowe (1969)
-// Marmaduke (2010)
-// Marmoulak (2004)
-// Marnie (1964)
-// Maroko (1990)
-// Marooned (1969)
-// Marriage Italian-Style (1964)
-// Married Life (2007)
-// Married to the Mob (1988)
-// Mars (2004)
-// Mars Attacks! (1996)
-// Mars Needs Moms (2011)
-// Mars Needs Women (1967) (TV)
-// Mars: Tada, Kimi wo Aishiteru (2016)
-// Martha Marcy May Marlene (2011)
-// Martha, Inc.: The Story of Martha Stewart (2003)
-// Martha, Meet Frank, Daniel and Laurence (1998)
-// Martian Child (2007)
-// Martian Through Georgia (1962)
-// Martians Go Home (1990)
-// Martin (1978)
-// Martin Lawrence Live: Runteldat (2002)
-// Marty (1955)
-// Martyrs: (2008, 2008 docudrama & 2015)
-// Martín Fierro (1968)
-// Marvin's Room (1996)
-// Marwencol (2010)
-// Mary Poppins (1964)
-// Mary Poppins Returns (2018)
-// Mary Queen of Scots: (2013 & 2018)
-// Mary Reilly (1996)
-// Mary Shelley's Frankenstein (1994)
-// Mary and Max (2009)
-// Mary of Scotland (1936)
-// Mary, Queen of Scots (1971)
-// Mary, Queen of Tots (1925)
-// Mary: (1931 & 2005)
-// Maryam (2000)
-// Masculin, féminin (1966)
-// Mask (1985)
-// Masked and Anonymous (2003)
-// Master Hands (1936)
-// Master and Commander: The Far Side of the World (2003)
-// Master of Disguise (2002)
-// Master of the Flying Guillotine (1977)
-// Master of the World (1961)
-// Mastermind (1976)
-// Masterminds: (1997, 2013, & 2016)
-// Masters of the Universe (1987)
-// Masti (2004)
-// Mata Hari (1931)
-// Matador (1986)
-// Matango (1963)
-// Match Point (2005)
-// Matchstick Men (2003)
-// Material Girls (2006)
-// Matewan (1987)
-// Matilda: (1978, 1996 & 2017)
-// Matinee (1993)
-// Matriculated (2003)
-// Matru Ki Bijlee Ka Mandola (2013)
-// Maundy Thursday (2006)
-// Maurice (1987)
-// Mauvaises fréquentations (1999)
-// Maverick (1994)
-// Max 2: White House Hero (2017)
-// Max Hell Frog Warrior (2002)
-// Max Keeble's Big Move (2001)
-// Max Payne (2008)
-// Max, My Love (1986)
-// Max: (2002 & 2015)
-// Maximum Overdrive (1986)
-// Maximum Ride (2016)
-// Maximum Risk (1996)
-// May (2002)
-// Maybe Baby (2001)
-// Mayerling: (1936 & 1968)
-// Mayrig (1992)
-// Maytime (1937)
-// Maîtresse (1973)
-// McBain (1991)
-// McCabe & Mrs. Miller (1971)
-// McDull, The Alumni (2006)
-// McDull: Me & My Mum (2014)
-// McDull: Rise of the Rice Cooker (2016)
-// McHale's Navy Joins the Air Force (1965)
-// McHale's Navy: (1964 & 1997)
-// McLintock! (1963)
-// McQ (1974)
-// McVicar (1980)
-// Me Before You (2016)
-// Me Myself I (2000)
-// Me Without You (2001)
-// Me You Them (2000)
-// Me and Her (2006)
-// Me and Orson Welles (2009)
-// Me and You and Everyone We Know (2005)
-// Me and the Big Guy (1999)
-// Me, Myself & Irene (2000)
-// Me... Myself (2007)
-// Mean Creek (2004)
-// Mean Girls (2004)
-// Mean Girls 2 (2011 TV)
-// Mean Guns (1997)
-// Mean Machine (2001)
-// Mean Streets (1973)
-// Meatballs (1979)
-// Meatballs 2 (1984)
-// Meatballs III: Summer Job (1986)
-// Mechanic: Resurrection (2016)
-// Medea (1969)
-// Medicine Man (1992)
-// Mediterraneo (1991)
-// Medium Cool (1969)
-// Mee-Shee: The Water Giant (2005)
-// Meek's Cutoff (2011)
-// Meenaxi: A Tale of Three Cities (2004)
-// Meet Dave (2008)
-// Meet Joe Black (1998)
-// Meet John Doe (1941)
-// Meet Me in St. Louis (1944)
-// Meet Miss Anxiety (2014)
-// Meet the Browns (2008)
-// Meet the Deedles (1998)
-// Meet the Feebles (1989)
-// Meet the Fockers (2005)
-// Meet the Hollowheads (1989)
-// Meet the Missus: (1937 & 1940)
-// Meet the Parents (2000)
-// Meet the Robinsons (2007)
-// Meet the Spartans (2008)
-// Mega Shark Versus Crocosaurus (2010)
-// Mega Shark Versus Giant Octopus (2009)
-// Mega Shark Versus Mecha Shark (2014)
-// Megaforce (1982)
-// Megamind (2010)
-// Megan Is Missing (2011)
-// Meghe Dhaka Tara (1960)
-// Mehed ei nuta (1968)
-// Mehndi (1998)
-// Mekhong Full Moon Party (2002)
-// Melancholia (2008 & 2011)
-// Melinda and Melinda (2004)
-// Melody (1953, 1971 & 2014)
-// Melody Ranch (1940)
-// Melody Time (1948)
-// Melvin and Howard (1980)
-// Memento (2000)
-// Memento Mori (1999)
-// Memoirs of a Geisha (2005)
-// Memoirs of an Invisible Man (1992)
-// Memories (1995)
-// Memories of Murder (2003)
-// Memories of a River (1990)
-// Memphis Belle (1990)
-// Memron (2004)
-// Men Behind the Sun (1987)
-// Men Boxing (1891)
-// Men O' War (1929)
-// Men and Women (1964 & 1999)
-// Men at Work (1990)
-// Men in Black (1997)
-// Men in Black 3 (2012)
-// Men in Black II (2002)
-// Men in Black: International (2019)
-// Men of Honor (2000)
-// Men with Brooms (2002)
-// Menace II Society (1993)
-// Menace from Outer Space (1956)
-// Mephisto: (1930 & 1981)
-// Mera Naam Joker (1970)
-// Mercenary for Justice (2006)
-// Merci pour le chocolat (2000)
-// Mercury Man (2006)
-// Mercury Rising (1998)
-// Merlin (1998)
-// Merlin's Shop of Mystical Wonders (1996)
-// Mermaid Legend (1984)
-// Mermaid's Scar (1993) (OVA)
-// Mermaid: (1996, 2000 & 2007)
-// Mermaids: (1990 & 2003 TV)
-// Mermaids: The Body Found (2012)
-// Merrily We Live (1938)
-// Merry Andrew (1958)
-// Merry Christmas (2000)
-// Merry Christmas, Mr. Lawrence (1983)
-// Mesa of Lost Women (1953)
-// Meshes of the Afternoon (1943)
-// Mesrine: (1984 & 2008)
-// Message from the King (2017)
-// Message in a Bottle (1999)
-// Metal: A Headbanger's Journey (2005)
-// Metallic Blues (2004)
-// Metallica Through the Never (2013)
-// Metallica: Some Kind of Monster (2003)
-// Metalstorm: The Destruction of Jared-Syn (1983)
-// Meteor (1979)
-// Metro: (1997, 2013 & 2016)
-// Metroland (1997)
-// Metropolis: (1927 & 2001)
-// Metropolitan: (1935 & 1990)
-// Metrosexual (2006)
-// Mexicali Shmoes (1959)
-// Mi vida sin mí (2003)
-// Miami Blues (1990)
-// Miami Vice (2006)
-// Michael Clayton (2007)
-// Michael Collins (1996)
-// Michael Jackson's This Is It (2009)
-// Michael Lucas' Dangerous Liaisons (2005)
-// Michael Moore Hates America (2004)
-// Michael: (1924 & 1996)
-// Mickey Blue Eyes (1999)
-// Mickey's Christmas Carol (1983)
-// Mickey's Magical Christmas: Snowed in at the House of Mouse (2001)
-// Mickey's Once Upon a Christmas (1999) (TV)
-// Mickey's Polo Team (1936)
-// Mickey's Trailer (1938)
-// Mickey's Twice Upon a Christmas (2004)
-// Mickey, Donald, Goofy: The Three Musketeers (2004)
-// Mickey: (1918, 1948 & 2004)
-// Micki + Maude (1984)
-// Micmacs (2009)
-// Microcosmos (1996)
-// Mid-Afternoon Barks (2007)
-// Mid-July Days (2015)
-// Mid-July Days 2 (2016)
-// Midnight Cowboy (1969)
-// Midnight Express (1978)
-// Midnight Garage (2014)
-// Midnight Hair (2014)
-// Midnight Lace (1960)
-// Midnight Madness (1980)
-// Midnight Movie (2009)
-// Midnight My Love (2005)
-// Midnight Run (1988)
-// Midnight Whisper (2015)
-// Midnight in Paris (2011)
-// Midnight in the Garden of Good and Evil (1997)
-// Midnight: (1934 & 1939)
-// Midsummer Dream (2005)
-// Midway (1976)
-// Mifune's Last Song (1999)
-// Mighty Aphrodite (1995)
-// Mighty Ducks the Movie: The First Face-Off (1997)
-// Mighty Joe Young: (1949 & 1998)
-// Mighty Like a Moose (1926)
-// Mighty Morphin Power Rangers: The Movie (1995)
-// Mike Bassett: England Manager (2001)
-// Mike's New Car (2002)
-// Mikey and Nicky (1976)
-// Milae (2002)
-// Milano calibro 9 (1972)
-// Mildred Pierce (1945)
-// Miles of Fire (1957)
-// Miley: The Movement (2013)
-// Mili: (1975 & 2015)
-// Milk (2009)
-// Milk Money (1994)
-// Milky Way Liberation Front (2007)
-// Millennium (1989)
-// Millennium Actress (2001)
-// Miller's Crossing (1990)
-// Million Dollar Arm (2014)
-// Million Dollar Baby (2004)
-// Million Dollar Baby: (1941 & 2004)
-// Millions (2004)
-// Millions: (1937 & 2004)
-// Milou in May (1990)
-// Mimic (1997)
-// Mimic: Sentinel (2003)
-// Min & Max (2016)
-// Min and Bill (1930)
-// Mina olin siin (2008)
-// Mind Game (2004)
-// Mindhunters (2004)
-// Mini Moni Ja Movie: Okashina Daibouken (2002)
-// Mini's First Time (2006)
-// Ministry of Fear (1944)
-// Minnale (2001)
-// Minnalppadayaali (1959)
-// Minnesota Clay (1965)
-// Minnie and Moskowitz (1972)
-// Minority Report (2002)
-// Minotaur (2006)
-// Minsaara Kanavu (1997)
-// Minshū no Teki (1946)
-// Mio in the Land of Faraway (1987)
-// Miracle Mile (1988)
-// Miracle at St. Anna (2008)
-// Miracle in Lane 2 (2000 TV)
-// Miracle in Milan (1951)
-// Miracle on 1st Street (2007)
-// Miracle on 34th Street: (1947 & 1994)
-// Miracle: (1982 & 2004)
-// Miracles from Heaven (2016)
-// Miracles: (1986 & 1989)
-// Mirage: (1965, 1972, 1995, 2004 & 2014)
-// Miranda: (1948, 1985 & 2002)
-// Mirch Masala (1985)
-// Mirror Mirror (2012)
-// Mirror, Mirror (1990)
-// MirrorMask (2005)
-// Mirrors (2008)
-// Mischief (1985)
-// Mise Éire (1959)
-// Misery (1990)
-// Mishima: A Life in Four Chapters (1995)
-// Miss Bala (2011)
-// Miss Congeniality (2000)
-// Miss Congeniality 2: Armed and Fabulous (2005)
-// Miss Gold Digger (2007)
-// Miss Jerry (1894)
-// Miss Julie: (1951, 1999 & 2014)
-// Miss Lulu Bett (1922)
-// Miss March (2009)
-// Miss Peregrine's Home for Peculiar Children (2016)
-// Miss Pettigrew Lives for a Day (2008)
-// Miss Potter (2006)
-// Miss Sloane (2016)
-// Miss Suwanna of Siam (1923)
-// Missile to the Moon (1958)
-// Missing You (2016)
-// Missing in Action (1984)
-// Missing in Action 2: The Beginning (1985)
-// Missing in America (2005)
-// Missing: (1918, 1982 & 2016)
-// Mission Milano (2016)
-// Mission Stardust (1967)
-// Mission to Mars (2000)
-// Mission: Impossible (1996)
-// Mission: Impossible 2 (2000)
-// Mission: Impossible III (2006)
-// Mission: Impossible – Fallout (2018)
-// Mission: Impossible – Ghost Protocol (2011)
-// Mission: Impossible – Rogue Nation (2015)
-// Missionary (2013)
-// Mississippi Burning (1988)
-// Mississippi Grind (2015)
-// Mississippi Masala (1991)
-// Mississippi Mermaid (1969)
-// Mister 880 (1950)
-// Mister Bug Goes to Town (1941)
-// Mister Felicità (2017)
-// Mister Roberts: (1955 & 1984)
-// Mistress (1992)
-// Mitchell (1975)
-// Mixed Nuts (1994)
-// Mo' Better Blues (1990)
-// Mo' Money (1992)
-// Moana: (1926 & 2016)
-// Mobsters (1991)
-// Moby Dick: (1930, 1956, 1978 & 2008)
-// Mockingbird Don't Sing (2001)
-// Model Behavior (2000 TV)
-// Modern Boy (2008)
-// Modern Girls (1986)
-// Modern Problems (1981)
-// Modern Times (1936)
-// Modesta (1956)
-// Modesty Blaise: (1966 & 1982)
-// Modigliani (2004)
-// Mogambo (1953)
-// Mogliamante (1977)
-// Mohabbatein (2000)
-// Mohammad, Messenger of God (1976)
-// Mojados: Through the Night (2004)
-// Moll Flanders (1996)
-// Molly & Gina (1994)
-// Molly's Game (2017)
-// Mom and Dad (1945)
-// Mom and Dad Save the World (1992)
-// Mom's Got a Date with a Vampire (2000) (TV)
-// Momentum: (1992, 2001 & 2003 TV)
-// Mommie Dearest (1981)
-// Momo (1986)
-// Momotaro's Divine Sea Warriors (1945)
-// Momotaro's Sea Eagles (1943)
-// Mon Oncle (1958)
-// Mon oncle Antoine (1971)
-// Mon oncle d'Amérique (1980)
-// Mona Lisa (1986)
-// Mona Lisa Smile (2003)
-// Mondo Cane (1962)
-// Mondo New York (1988)
-// Mondo Topless (1966)
-// Mondo Trasho (1969)
-// Mondovino (2004)
-// Money Game (2015)
-// Money Talks: (1926, 1932, 1972 & 1997)
-// Money Train (1995)
-// Money for Nothing: (1932 & 1993)
-// Money from Home (1953)
-// Moneyball (2011)
-// Mongol: The Rise of Genghis Khan (2007)
-// Monk Dawson (1998)
-// Monkey Business: (1931 & 1952)
-// Monkey King: Hero Is Back (2015)
-// Monkey Shines (1988)
-// Monkeybone (2001)
-// Monkeyshines (1889)
-// Mononoke Hime (1997)
-// Monrak Transistor (2001)
-// Monsieur Beaucaire: (1924 & 1946)
-// Monsieur Hire (1990)
-// Monsieur Hulot's Holiday (1954)
-// Monsieur Ibrahim (2003)
-// Monsieur Klein (1976)
-// Monsieur Lazhar (2011)
-// Monsieur N. (2003)
-// Monsieur Verdoux (1947)
-// Monsieur Vincent (1947)
-// Monsoon Wedding (2001)
-// Monster Dog (1984)
-// Monster Family (2018)
-// Monster House (2006)
-// Monster Hunt (2015)
-// Monster Hunt 2 (2018)
-// Monster Man (2005)
-// Monster Mash (1995 & 2000)
-// Monster Strike The Movie (2016)
-// Monster Trucks (2017)
-// Monster from a Prehistoric Planet (1967)
-// Monster in a Box (1992)
-// Monster's Ball (2001)
-// Monster-in-Law (2005)
-// Monster: (2003 & 2008)
-// Monsters University (2013)
-// Monsters vs Aliens (2009)
-// Monsters, Inc. (2001)
-// Monsters: (2004, 2010 & 2015)
-// Monsters: Dark Continent (2014)
-// Monsterz (2014)
-// Monstrosity (1964)
-// Montana: (1950, 1998 & 2014)
-// Monte Carlo or Bust (1969)
-// Monte Carlo: (1925, 1926, 1930 & 2011)
-// Monterey Pop (1968)
-// Montparnasse 19 (1958)
-// Monty Python Live at the Hollywood Bowl (1982)
-// Monty Python and the Holy Grail (1975)
-// Monty Python's Life of Brian (1979)
-// Monty Python's The Meaning of Life (1983)
-// Monument Ave. (1998)
-// Moog (2004)
-// Moon (2009)
-// Moon 44 (1990)
-// Moon Child: (1989 & 2003)
-// Moon Over Parador (1988)
-// Moon Zero Two (1969)
-// Moon of the Wolf (1972 TV)
-// Moonfleet (1955)
-// Moonlight Mile (2002)
-// Moonlight Whispers (1999)
-// Moonlight: (2002 & 2016)
-// Moonlighting (1982)
-// Moonraker (1979)
-// Moonrise Kingdom (2012)
-// Moonrunners (1975)
-// Moonstruck (1987)
-// Moontrap (1989)
-// Moonwalker (1988)
-// Moosa Khan (2002)
-// More American Graffiti (1979)
-// More than Blue (2009)
-// More than Famous (2003)
-// More: (1969 & 1998)
-// Morgan - A Suitable Case for Treatment (1966)
-// Morgan Stewart's Coming Home (1987)
-// Morgan: (2012 & 2016)
-// Morgenrot (1933)
-// Morituri: (1948 & 1965)
-// Morning Glory: (1933 & 2010)
-// Morning Patrol (1987)
-// Morocco (1930)
-// Mortal Engines (2018)
-// Mortal Kombat (1995)
-// Mortal Kombat: Annihilation (1997)
-// Mortal Thoughts (1991)
-// Mortuary: (1983 & 2005)
-// Morvern Callar (2002)
-// Mosaic (2007)
-// Moscow Does Not Believe in Tears (1979)
-// Moscow on the Hudson (1984)
-// Moses (1995)
-// Most Wanted: (1997 & 2011)
-// Mostly Martha (2001)
-// Motel Hell (1980)
-// Mother India (1957)
-// Mother Night (1996)
-// Mother and Child (2010)
-// Mother of Mine (2005)
-// Mother of Tears (2007)
-// Mother's Day: (1980, 2010, & 2016)
-// Mother, Jugs & Speed (1976)
-// Mother, Mother, Mother Pin a Rose on Me (1924)
-// Mother: (1926, 1996 & 2009)
-// Motherhood (1917 & 2009)
-// Mothra (1961)
-// Mothra vs. Godzilla (1964)
-// Motion Painting No. 1 (1947)
-// Motocross Kids (2004)
-// Motorpsycho (1965)
-// Mouchette (1967)
-// Moulin Rouge: (1952 & 2001)
-// Mountain Cry (2015)
-// Mountains May Depart (2015)
-// Mountains of the Moon (1990)
-// Mourning Becomes Electra (1947)
-// Mouse Menace (1946)
-// MouseHunt (1997)
-// Move Over, Darling (1963)
-// Movie 43 (2013)
-// Movie Crazy (1932)
-// Movie Critters' Big Picture (2003)
-// Moving Malcolm (2003)
-// Moving Violations (1985)
-// Moving: (1988 & 1993)
-// Mowgli (2018)
-// Mozu (2015)
-// Mr. & Mrs. '55 (1955)
-// Mr. & Mrs. Smith: (1941 & 2005)
-// Mr. 3000 (2004)
-// Mr. Arkadin (1955)
-// Mr. Baseball (1992)
-// Mr. Bean's Holiday (2007)
-// Mr. Black: Green Star (2015)
-// Mr. Blandings Builds His Dream House (1948)
-// Mr. Brooks (2007)
-// Mr. Butterfly (2003)
-// Mr. Death: The Rise and Fall of Fred A. Leuchter, Jr. (2000)
-// Mr. Deeds (2002)
-// Mr. Deeds Goes to Town (1936)
-// Mr. Destiny (1990)
-// Mr. Donkey (2016)
-// Mr. Dramatic (2005)
-// Mr. Freedom (1969)
-// Mr. High Heels (2016)
-// Mr. Hobbs Takes a Vacation (1962)
-// Mr. Holland's Opus (1995)
-// Mr. Lucky (1943)
-// Mr. Magoo (1997)
-// Mr. Magoo's Christmas Carol (1962) (TV)
-// Mr. Magorium's Wonder Emporium (2007)
-// Mr. Majestyk (1974)
-// Mr. Mike's Mondo Video (1979)
-// Mr. Mom (1983)
-// Mr. Nian (2016)
-// Mr. Nice Guy: (1987 & 1997)
-// Mr. Nobody (2009)
-// Mr. Popper's Penguins (2011)
-// Mr. Sardonicus (1962)
-// Mr. Saturday Night (1992)
-// Mr. Skeffington (1944)
-// Mr. Smith Goes to Washington (1939)
-// Mr. Topaze (1961)
-// Mr. Vampire (1986)
-// Mr. Woodcock (2007)
-// Mr. Wrong (1996)
-// Mr. Zhao (1998)
-// Mr. and Mrs. Iyer (2002)
-// Mr. and Mrs. Khiladi (1997)
-// Mrityudata (1997)
-// Mrs Henderson Presents (2005)
-// Mrs. Brown (1997)
-// Mrs. Brown's Boys D'Movie (2014)
-// Mrs. Doubtfire (1993)
-// Mrs. Miniver (1942)
-// Mrs. Palfrey at the Claremont (2008)
-// Mrs. Parker and the Vicious Circle (1994)
-// Mrs. Santa Claus (1996) (TV)
-// Mrs. Winterbourne (1996)
-// Ms. 45 (1981)
-// Mt. Tsurugidake (2009)
-// Much Ado About Nothing: (1973, 1993, 2012 & 2016)
-// Mud: (1997 & 2012)
-// Mudbound (2017)
-// Mudhoney (1965)
-// Mug Travel (2007)
-// Mugavari (2000)
-// Mughal-e-Azam (1960)
-// Muhwagwa (1935)
-// Mujhe Chand Chahiye (2000)
-// Mujhse Dosti Karoge! (2002)
-// Mujhse Shaadi Karogi (2004)
-// Mulan II (2005)
-// Mulan: (1998, 2009 & 2020)
-// Mulholland Drive (2001)
-// Mulholland Falls (1996)
-// Mullet (2001)
-// Multi-Facial (1994)
-// Multiple Maniacs (1970)
-// Multiple Sidosis (1970)
-// Multiplicity (1996)
-// Mum & Dad (2008)
-// Mumbai Diaries (2011)
-// Mumford (1999)
-// Munchies (1987)
-// Munich (2005)
-// Munna Bhai M.B.B.S. (2003)
-// Muoi: The Legend of a Portrait (2007)
-// Muppet Classic Theater (1994)
-// Muppet Treasure Island (1996)
-// Muppets Most Wanted (2014)
-// Muppets from Space (1999)
-// Murder (2004)
-// Murder 2 (2011)
-// Murder 3 (2013)
-// Murder Ahoy (1964)
-// Murder Most Foul (1964)
-// Murder at 1600 (1997)
-// Murder at Honeymoon Hotel (2016)
-// Murder at the Gallop (1963)
-// Murder by Death (1976)
-// Murder by Decree (1979)
-// Murder by Numbers (2002)
-// Murder in Pacot (2014)
-// Murder in the Big House (1942)
-// Murder in the First (1995)
-// Murder in the Heartland (1993)
-// Murder on the Orient Express: (1974, 2001 TV & 2017)
-// Murder! (1930)
-// Murder, My Sweet (1944)
-// Murder-Set-Pieces (2004)
-// Murderball (2005)
-// Murderers' Row (1966)
-// Murders in the Rue Morgue (1932)
-// Muriel's Wedding (1994)
-// Murmur of the Heart (1971)
-// Murmur of the Hearts (2015)
-// Murphy's Romance (1985)
-// Musa (2001)
-// Musafir (2004)
-// Muscle Tussle (1953)
-// Mushrooming (2012)
-// Music Box (1989)
-// Music and Lyrics (2007)
-// Music from Another Room (1998)
-// Music of the Heart (1999)
-// Must Love Dogs (2005)
-// Mutant Aliens (2001)
-// Mutant Chronicles (2009)
-// Mute Witness (1995)
-// Muthu (1995)
-// Mutiny on the Bounty: (1935 & 1962)
-// My 20th Century (1989)
-// My Baby's Daddy (2004)
-// My Beautiful Girl, Mari (2002)
-// My Beautiful Laundrette (1985)
-// My Best Fiend (1999)
-// My Best Friend Is a Vampire (1988)
-// My Best Friend's Birthday (1987)
-// My Best Friend's Girl (2008)
-// My Best Friend's Wedding (1997)
-// My Best Friend's Wedding (2016)
-// My Big Fat Greek Wedding (2002)
-// My Bloody Valentine (1981)
-// My Bloody Valentine 3D (2009)
-// My Blue Heaven (1990)
-// My Blueberry Nights (2007)
-// My Bodyguard (1980)
-// My Boss's Daughter (2003)
-// My Boss, My Hero (2001)
-// My Boss, My Teacher (2006)
-// My Boyfriend is Type B (2005)
-// My Boyfriend's Back (1993)
-// My Brilliant Career (1979)
-// My Bunny Lies Over the Sea (1948)
-// My Chauffeur (1986)
-// My Cousin Rachel (1952)
-// My Cousin Rachel (2017)
-// My Cousin Vinny (1992)
-// My Darling Clementine (1946)
-// My Date with Drew (2005)
-// My Date with the President's Daughter (1998) (TV)
-// My Dinner with Andre (1981)
-// My Dog Skip (2000)
-// My Fair Lady (1964)
-// My Family (1995)
-// My Father the Hero: (1991 & 1994)
-// My Father's Glory (1991)
-// My Favorite Brunette (1947)
-// My Favorite Martian (1999)
-// My Favorite Season (1993)
-// My Favorite Wife (1940)
-// My Favorite Year (1982)
-// My Fellow Americans (1996)
-// My First Mister (2001)
-// My Friend Dahmer (2017)
-// My Friend Flicka (1943)
-// My Friend Irma (1949)
-// My Friend Irma Goes West (1950)
-// My Geeky Nerdy Buddies (2014)
-// My Geisha (1962)
-// My Giant (1998)
-// My Girl (1991)
-// My Girl 2 (1994)
-// My Gun Is Quick (1957)
-// My Hawaiian Discovery (2014)
-// My Hero: (1912 & 1990)
-// My Heroes Have Always Been Cowboys (1991)
-// My Learned Friend (1943)
-// My Left Eye Sees Ghosts (2002)
-// My Left Foot (1989)
-// My Life (1993)
-// My Life So Far (1999)
-// My Life Without Me (2003)
-// My Life as McDull (2001)
-// My Life as a Dog (1985)
-// My Life in Cinemascope (2004)
-// My Life in Pink (1997)
-// My Life in Ruins (2009)
-// My Life on Ice (2002)
-// My Life to Live (1962)
-// My Little Chickadee (1940)
-// My Little Eye (2002)
-// My Little Pony: A Very Minty Christmas (2005)
-// My Little Pony: Equestria Girls (2013)
-// My Little Pony: The Movie: (1986 & 2017)
-// My Little Pony: The Princess Promenade (2006)
-// My Love Story!! (2015)
-// My Love: (1970, 2006 & 2007)
-// My Lover My Son (1970)
-// My Lucky Stars (1985)
-// My Man (2014)
-// My Man Godfrey (1936)
-// My Mighty Princess (2008)
-// My Mother, the Mermaid (2004)
-// My Name Is Bill W. (1989)
-// My Name Is Bruce (2007)
-// My Name Is Joe (1998)
-// My Name Is Julia Ross (1945)
-// My Name Is Khan (2010)
-// My Name Is Modesty (2003)
-// My Name Is Nobody (1973)
-// My Neighbor Totoro (1988)
-// My Neighbors the Yamadas (1999)
-// My New Partner (1985)
-// My New Sassy Girl (2015)
-// My Night at Maud's (1969)
-// My Night with Reg (1996)
-// My Old Kentucky Home (1926)
-// My One and Only (2009)
-// My Original Dream (2015)
-// My Own Private Idaho (1991)
-// My Own Swordsman (2011)
-// My Sassy Girl (2001)
-// My Sassy Girl 2 (2010)
-// My Scary Girl (2006)
-// My Science Project (1985)
-// My Second Brother (1959)
-// My Side of the Mountain (1969)
-// My Sister Eileen (1942)
-// My Sister's Keeper (2009)
-// My Sister, My Love (1966)
-// My Six Convicts (1952)
-// My Son the Fanatic (1998)
-// My Sons (1991)
-// My Soul to Take (2010)
-// My Stepmother is an Alien (1988)
-// My Summer Story (1994)
-// My Summer of Love (2004)
-// My Super Ex-Girlfriend (2006)
-// My Teacher, Mr. Kim (2003)
-// My Tutor (1983)
-// My Uncle Benjamin (1969)
-// My Voyage to Italy (1999)
-// My War (2016)
-// My Way: (1973, 2011 & 2012)
-// My Week with Marilyn (2011)
-// My Wife Got Married (2008)
-// My Wife Is a Gangster (2001)
-// My Wife Is a Gangster 2 (2003)
-// My Wife Is an Actress (2001)
-// Myra Breckinridge (1970)
-// Myriad of Lights (1948)
-// Myself in the Distant Future (1997)
-// Mysterious Island (1961)
-// Mysterious Object at Noon (2000)
-// Mysterious Skin (2004)
-// Mysterium Occupation (2004)
-// Mystery (2012)
-// Mystery (2014)
-// Mystery Mansion (1983)
-// Mystery Men (1999)
-// Mystery Science Theater 3000: The Movie (1996)
-// Mystery Street (1950)
-// Mystery Train (1989)
-// Mystery of Mamo (1978)
-// Mystery of the Wax Museum (1933)
-// Mystery, Alaska (1999)
-// Mystic Pizza (1988)
-// Mystic River (2003)
-// Mystical Adventure (1988)
-// Mythos (1987)
-// Mädchen in Uniform (1931)
-// Ménage (1986)
-// Münchhausen (1943)
-// N - The Madness of Reason (2014)
-// N is a Number: A Portrait of Paul Erdős (1993)
-// N. a pris les dés... (1971)
-// N.G.O (1967)
-// N.T.R: Kathanayakudu (2019)
-// N.T.R: Mahanayakudu (2019)
-// N.U. (1948)
-// N.Y., N.Y. (1957)
-// N.Y.H.C. (1999)
-// NASCAR 3D: The IMAX Experience (2004)
-// NCR: Not Criminally Responsible (2013)
-// NEKRomantik (1987)
-// NEKRomantik 2 (1991)
-// NH 47 (1984)
-// NH-8 Road to Nidhivan (2015)
-// NN (2014)
-// NOTA (2018)
-// NVA (2005)
-// NY77: The Coolest Year in Hell (2007)
-// NYC: Tornado Terror (2008)
-// Na Band Na Baraati (2018)
-// Na Bolona (2006)
-// Na Ghar Ke Na Ghaat Ke (2010)
-// Na Hannyate (2012)
-// Na Maloom Afraad (2014)
-// Na Maloom Afraad 2 (2017)
-// Na Ninna Preetisuve (1986)
-// Na Svatém Kopečku (1934)
-// Na Tum Jaano Na Hum (2002)
-// Na Wewe (2010)
-// Na białym szlaku (1962)
-// Na istarski način (1985)
-// Na konci města (1955)
-// Na odsiecz Wiedniowi (1983)
-// Na pytlácké stezce (1979)
-// Na růžích ustláno (1935)
-// Na svoji zemlji (1948)
-// Naa Alludu (2005)
-// Naa Autograph (2004)
-// Naa Bangaaru Talli (2013)
-// Naa Desam (1982)
-// Naa Illu (1953)
-// Naa Ishtam (2012)
-// Naa Mechida Huduga (1972)
-// Naa Ninna Bidalaare (1979)
-// Naa Ninna Mareyalare (1976)
-// Naa Peru Surya, Naa Illu India (2018)
-// Naa... Nuvve (2018)
-// Naach (2004)
-// Naach Govinda Naach (1992)
-// Naach Uthe Sansaar (1976)
-// Naache Mayuri (1986)
-// Naachiyaar (2018)
-// Naadam (1983)
-// Naadan Pennu (1967)
-// Naadan Premam (1972)
-// Naadi Aada Janme (1965)
-// Naadodigal (2009)
-// Naadodigal 2 (2019)
-// Naadodikal (1959)
-// Naadody (1992)
-// Naadu Adhai Naadu (1991)
-// Naag Jyoti (1963)
-// Naag Mohini (1963)
-// Naag Nagin (1990)
-// Naag aur Nagin (2005)
-// Naaga (2003)
-// Naaga Nandhini (1961)
-// Naagam: (1985 & 1991)
-// Naagamalai Azhagi (1962)
-// Naagapanchami (1989)
-// Naagarahaavu (1972)
-// Naagdev (2018)
-// Naagu (1984)
-// Naaigal Jaakirathai (2014)
-// Naajayaz (1995)
-// Naaka Bandi (1990)
-// Naakaa (2018)
-// Naal (2018)
-// Naalaaga Endaro (1978)
-// Naalai (2006)
-// Naalai Manithan (1989)
-// Naalai Namadhe: (1975 & 2009)
-// Naalai Unathu Naal (1984)
-// Naalaiya Theerpu (1992)
-// Naalamkettile Nalla Thampimar (1996)
-// Naalaya Seidhi (1992)
-// Naale (2008)
-// Naale Ennundengil (1990)
-// Naale Njangalude Vivaham (1986)
-// Naalkavala (1987)
-// Naalo Unna Prema (2001)
-// Naalu Pennungal (2007)
-// Naalu Peruku Nalladhuna Edhuvum Thappilla (2017)
-// Naalu Policeum Nalla Irundha Oorum (2015)
-// Naalu Veli Nilam (1959)
-// Naalumanippookkal (1978)
-// Naalvar (1953)
-// Naam Gum Jaayega (2005)
-// Naam Iruvar Namakku Iruvar (1998)
-// Naam Iruvar: (1947 & 1985)
-// Naam Moovar (1966)
-// Naam O Nishan (1987)
-// Naam Pirandha Mann (1977)
-// Naam Shabana (2017)
-// Naam: (1953, 1986, 2003 & 2018)
-// Naamcheen (1991)
-// Naami Chor (1977)
-// Naan Aanaiyittal (1966)
-// Naan Adimai Illai (1986)
-// Naan Aval Adhu (unreleased)
-// Naan Avalai Sandhitha Pothu (TBD)
-// Naan Avanillai 2 (2009)
-// Naan Avanillai: (1974 & 2007)
-// Naan Kadavul (2009)
-// Naan Kanda Sorgam (1960)
-// Naan Mahaan Alla: (1984 & 2010)
-// Naan Paadum Paadal (1984)
-// Naan Pesa Ninaipathellam (1993)
-// Naan Petha Magane (1995)
-// Naan Petra Selvam (1956)
-// Naan Potta Savaal (1980)
-// Naan Rajavaga Pogiren (2013)
-// Naan: (1967 & 2012)
-// Naavadakku Paniyedukku (1985)
-// Nabab Nandini (2007)
-// Nabat (2014)
-// Nabbie's Love (1999)
-// Nabi (2001)
-// Nabin Jatra (1953)
-// Nache Nagin Gali Gali (1989)
-// Nacher Putul (1971)
-// Nacho Libre (2006)
-// Nacholer Rani (2006)
-// Nachom-ia Kumpasar (2015)
-// Nacht voller Angst (2005)
-// Nachtrit (2006)
-// Nachtvlinder (1999)
-// Nacidos para cantar (1965)
-// Nad Niemnem (1986)
-// Nada Sōsō (2006)
-// Nada Untuk Asa (2015)
-// Nada más que amor (1942)
-// Nada's Revolution (2015)
-// Nada: (1947 & 1974)
-// Nadaan: (1943 & 1971)
-// Nadakame Ulakam (2011)
-// Nadan (2013)
-// Nadan Pennum Natupramaniyum (2000)
-// Nadanpennum Naattupramaaniyum (2000)
-// Nadi Theke Sagare (1978)
-// Nadi Vahate (2017)
-// Nadia (1984)
-// Nadia and the Hippos (1999)
-// Nadia's Friends (2006)
-// Nadie dijo nada (1971)
-// Nadie oyó gritar (1973)
-// Nadie oyó gritar a Cecilio Fuentes (1965)
-// Nadie te querra como yo (1972)
-// Nadigai (2008)
-// Nadigan (1990)
-// Nadina Bhagya (1970)
-// Nadine (1987)
-// Nadiya Ke Paar: (1948 & 1982)
-// Nadiya Kollappetta Rathri (2007)
-// Nadja (1994)
-// Nadodi (1966)
-// Nagaram: (2007, 2008 & 2010)
-// Nagin: (1954, 1976 & 2010)
-// Nagina: (1986 & 2014)
-// Nail Gun Massacre (1985)
-// Nail in the Boot (1931)
-// Nails: (1979, 1992, 2003 & 2017)
-// Najangalude Kochu Doctor (1989)
-// Naked Alibi (1954)
-// Naked Ambition (2003)
-// Naked Ambition 2 (2014)
-// Naked Ambition: An R Rated Look at an X Rated Industry (2009)
-// Naked Gun 33⅓: The Final Insult (1994)
-// Naked Killer (1992)
-// Naked Lunch (1991)
-// Naked Weapon (2002)
-// Naked in New York (1992)
-// Naked: (1993, 2013 & 2017)
-// Nala Damayanthi (2003)
-// Nam's Angels (1970)
-// Namak Haraam (1973)
-// Name of the Rose (2003)
-// Names in Marble (2002)
-// Namkeen (1982)
-// Nan of Music Mountain (1917)
-// Nan of the North (1922)
-// Nana - A Tale of Us (2017)
-// Nana 2 (2006)
-// Nana Means King (2015)
-// Nana to Kaoru (2011)
-// Nana to Kaoru: Chapter 2 (2012)
-// Nana, the True Key of Pleasure (1982)
-// Nana: (1926, 1934, 1944, 1955, 1985 & 2005)
-// Nanak Nam Jahaz Hai (1969)
-// Nanba Nanba (2002)
-// Nanban: (1954 & 2012)
-// Nanbanin Kadhali (2007)
-// Nanbargal (1991)
-// Nance (1920)
-// Nancy (2018)
-// Nancy Bikin Pembalesan (1930)
-// Nancy Drew and the Hidden Staircase: (1939 & 2019)
-// Nancy Drew... Detective (1938)
-// Nancy Drew... Reporter (1939)
-// Nancy Drew: (2002 TV & 2007)
-// Nancy Drew… Trouble Shooter (1939)
-// Nancy Goes to Rio (1950)
-// Nancy from Nowhere (1922)
-// Nanda (2009)
-// Nanda Deepa (1963)
-// Nanda Gokula (1972)
-// Nanda Loves Nanditha (2008)
-// Nandagopaalante Kusruthikal (1996)
-// Nandakumar (1938)
-// Nandalala (2010)
-// Nandanam (2002)
-// Nandanar (1942)
-// Nandha (2001)
-// Nang Nak (1999)
-// Nanny McPhee (2005)
-// Nanny McPhee and the Big Bang (2010)
-// Nanook of the North (1922)
-// Napló apámnak, anyámnak (1990)
-// Napoleon Dynamite (2004)
-// Napoleon and Josephine: A Love Story (1987)
-// Napoleon and Me (2006)
-// Napoleon and Samantha (1972)
-// Napoleon and the Little Washerwoman (1920)
-// Napoleon at Saint Helena (1929)
-// Napoleon's Barber (1928)
-// Napoleon's Daughter (1922)
-// Napoleon: (1951, 1994, 1995 & 2007)
-// Napoli violenta (1976)
-// Napoléon: (1927 & 1955)
-// Naqoyqatsi (2002)
-// Narc (2002)
-// Narrow Margin (1990)
-// Naruto Shippuden the Movie (2007)
-// Naruto Shippuden the Movie: Bonds (2008)
-// Naruto Shippuden the Movie: The Lost Tower (2010)
-// Naruto Shippuden the Movie: The Will of Fire (2009)
-// Naruto the Movie: Blood Prison (2011)
-// Naruto the Movie: Guardians of the Crescent Moon Kingdom (2006)
-// Naruto the Movie: Legend of the Stone of Gelel (2005)
-// Naruto the Movie: Ninja Clash in the Land of Snow (2004)
-// Nashville (1975)
-// Nata Sarvabhouma (1968)
-// Natacha Atlas, la rose pop du Caire (2007)
-// Natakala Rayudu (1969)
-// Natale a New York (2006)
-// Natale a Rio (2008)
-// Natale a cinque stelle (2018)
-// Natale col Boss (2015)
-// Natale sul Nilo (2002)
-// Natalee Holloway (2009)
-// Natalia (1988)
-// Natalie (2010)
-// Natannethuwa Dinna (2016)
-// Natasaarvabhowma (2019)
-// Natasha: (1974, 2001 & 2015)
-// Natchathira Nayagan (1992)
-// Natchathiram (1980)
-// Nate and Hayes (1983)
-// Nate and the Colonel (2003)
-// Nathalie... (2003)
-// Nathan the Wise (1922)
-// Nathayil Muthu (1973)
-// Nathi Bari Tarzan (2019)
-// Nathi Muthal Nathi Vare (1983)
-// Nathicharami (2018)
-// Natholi Oru Cheriya Meenalla (2013)
-// Nathoon (1974)
-// Nati (2014)
-// Nati stanchi (2002)
-// Nation Aflame (1937)
-// Nation Awakes (2016)
-// Nation Estate (2013)
-// Nation Under Siege (2013)
-// Nation and Destiny series (1992-2002)
-// National Anthem (2003)
-// National Bird (2016)
-// National Bomb (2004)
-// National Customs (1935)
-// National Lampoon Presents Dorm Daze (2003)
-// National Lampoon's Adam & Eve (2005)
-// National Lampoon's Animal House (1978)
-// National Lampoon's Bag Boy (2007)
-// National Lampoon's Barely Legal (2003)
-// National Lampoon's Christmas Vacation (1989)
-// National Lampoon's Christmas Vacation 2: Cousin Eddie's Island Adventure (2003) (TV)
-// National Lampoon's Class Reunion (1982)
-// National Lampoon's Dorm Daze 2 (2006)
-// National Lampoon's European Vacation (1985)
-// National Lampoon's Gold Diggers (2003)
-// National Lampoon's Golf Punks (1998)
-// National Lampoon's Last Resort (1994)
-// National Lampoon's Loaded Weapon 1 (1993)
-// National Lampoon's Movie Madness (1982)
-// National Lampoon's Pledge This! (2006)
-// National Lampoon's Pucked (2006)
-// National Lampoon's Senior Trip (1995)
-// National Lampoon's TV: The Movie (2006)
-// National Lampoon's Thanksgiving Family Reunion (2003)
-// National Lampoon's Vacation (1983)
-// National Lampoon's Van Wilder (2002)
-// National Lampoon's Van Wilder: Freshman Year (2009)
-// National Lampoon's Van Wilder: The Rise of Taj (2006)
-// National Lampoon: Drunk Stoned Brilliant Dead (2015)
-// National Mechanics (1972)
-// National Security: (2003 & 2012)
-// National Treasure (2004)
-// National Treasure: Book of Secrets (2007)
-// National Velvet (1944)
-// Natir Puja (1932)
-// Native (2016)
-// Native Land (1942)
-// Native New Yorker (2006)
-// Native Son: (1951, 1986, 2010 & 2019)
-// Nativity 2: Danger in the Manger (2012)
-// Nativity 3: Dude, Where's My Donkey? (2014)
-// Nativity! (2009)
-// Natpadhigaram 79 (2016)
-// Natpe Thunai (2019)
-// Natpu (1986)
-// Natpukkaga (1998)
-// Natpuna Ennanu Theriyuma (2019)
-// Natsamrat (2016)
-// Natsume's Book of Friends the Movie: Tied to the Temporal World (2018)
-// Nattamai (1994)
-// Nattbuss 807 (1997)
-// Nattu Vishesham (1991)
-// Nattuchakkeruttu (1980)
-// Nattukku Oru Nallavan (1991)
-// Nattupura Nayagan (1997)
-// Nattupura Pattu (1996)
-// Natturajavu (2004)
-// Natural Born Killers (1994)
-// Natural Born Pranksters (2016)
-// Natural Causes: (1985 & 1994)
-// Natural City (2003)
-// Natural Enemies (1979)
-// Natural Selection: (2011 & 2016)
-// Natural Woman (1994)
-// Naturally Obsessed (2009)
-// Nature Calls (2012)
-// Nature Law (2014)
-// Nature Unleashed: Earthquake (2005)
-// Nature of the Beast (2007)
-// Nature's Gentleman (1918)
-// Nature's Half Acre (1951)
-// Nature's Touch (1914)
-// Natutulog Pa Ang Diyos (1988)
-// Nau Do Gyarah (1957)
-// Naug Ma Kja Kyay (2004)
-// Naughty 40 (2017)
-// Naughty @ 40 (2011)
-// Naughty Baby (1928)
-// Naughty Boy (1962)
-// Naughty Boys & Soldiers (1996)
-// Naughty But Nice (1927)
-// Naughty Cinderella (1933)
-// Naughty Dallas (1964)
-// Naughty Girl (1956)
-// Naughty Grandma (2017)
-// Naughty Jatts (2013)
-// Naughty Marietta (1935)
-// Naughty Martine (1947)
-// Naughty Nanette (1927)
-// Naughty Neighbors (1939)
-// Naughty Professor (2012)
-// Naughty Reunion (2011)
-// Naughty but Mice (1939)
-// Naughty but Nice (1939)
-// Naughty or Nice: (2004 & 2012)
-// Naughty, Naughty (1974)
-// Naughty, Naughty! (1918)
-// Naujawan (1951)
-// Naukar (1943)
-// Naukar Biwi Ka (1983)
-// Naukar Ki Kameez (1999)
-// Naukar Wohti Da (1974)
-// Nauker (1979)
-// Naulakha Haar (1953)
-// Nausicaä of the Valley of the Wind (1984)
-// Nautanki Saala! (2013)
-// Nava Vasantham (2007)
-// Navagatharkku Swagatham (2012)
-// Navagraha (2008)
-// Navagraha Nayagi (1985)
-// Navagraham (1970)
-// Navajeevana (1964)
-// Navajeevanam (1949)
-// Navajeros (1980)
-// Navajo (1952)
-// Navajo Joe (1966)
-// Navarasa (2005)
-// Navy Blue Days (1925)
-// Navy Blue and Gold (1937)
-// Navy Blues: (1929, 1937 & 1941)
-// Navy Nurse (1945)
-// Navy SEALs (1990)
-// Navy Secrets (1939)
-// Navy Spy (1937)
-// Navy Wife: (1935 & 1956)
-// Nazarin (1968)
-// Nazis at the Center of the Earth (2012)
-// Nazis: The Occult Conspiracy (1998)
-// Ne daj se, Floki (1986)
-// Ne jouez pas avec les Martiens (1967)
-// Ne m'abandonne pas (2016 TV)
-// Ne parliamo Lunedi (1990)
-// Ne quittez pas ! (2004)
-// Ne čakaj na maj (1957)
-// Neal 'n' Nikki (2005)
-// Neang Champameas (1970)
-// Neang Pumary (2004)
-// Neapolitan Carousel (1954)
-// Neapolitan Mouse (1954)
-// Neapolitan Mystery (1979)
-// Neapolitan Turk (1953)
-// Near Dark (1987)
-// Near Death Experience (2014)
-// Near Dublin (1924)
-// Near and Far Away (1976)
-// Near the Rainbow's End (1930)
-// Near to Earth (1913)
-// Nearer My God to Thee (1917)
-// Nearest and Dearest (1972)
-// Nearing Grace (2005)
-// Nearly Eighteen (1943)
-// Nearly Married (1917)
-// Nearly a Deserter (1916)
-// Nearly a King (1916)
-// Nearly a Lady (1915)
-// Nearly a Nasty Accident (1961)
-// Neberte nám princeznú (1981)
-// Nebeski odred (1961)
-// Nebeští jezdci (1968)
-// Nebo Zovyot (1959)
-// Nebraska (2013)
-// Necesito una madre (1966)
-// Necessary Evil: Super-Villains of DC Comics (2013)
-// Necessary Love (1991)
-// Necessary Roughness (1991)
-// Neck (2010)
-// Necrofobia (2014)
-// Necromancer: (1988 & 2005)
-// Necromancy (1972)
-// Necromentia (2009)
-// Necronomicon (1994)
-// Necropolis (1970)
-// Necropolis Awakened (2002)
-// Necrosis (2009)
-// Ned (2003)
-// Ned Blessing: The True Story of My Life (1992 TV)
-// Ned Kelly: (1970 & 2003)
-// Ned McCobb's Daughter (1928)
-// Ned's Project (2016)
-// Nederland en Oranje (1913)
-// Neds (2010)
-// Nedunalvaadai (2019)
-// Nedunchaalai (2014)
-// Nee Bareda Kadambari (1985)
-// Nee Ente Lahari (1976)
-// Nee Enthan Vaanam (2000)
-// Nee Illadhe (2011)
-// Nee Jathaga Nenundali (2014)
-// Nee Ko Njaa Cha (2013)
-// Nee Kosam (1999)
-// Nee Manasu Naaku Telusu (2003)
-// Nee Naan Nila (2007)
-// Nee Nanna Gellalare (1981)
-// Nee Pathi Naan Pathi (1991)
-// Nee Premakai (2002)
-// Nee Sneham (2002)
-// Nee Sukhame Ne Korukunna (2008)
-// Nee Sukhame Ne Koruthunna (2008)
-// Nee Tata Naa Birla (2008)
-// Nee Thanda Kanike (1985)
-// Nee Thodu Kavali (2002)
-// Nee Unnai Arindhaal (2009)
-// Nee Varuvai Ena (1999)
-// Nee Varuvolam (1997)
-// Nee Venunda Chellam (2006)
-// Nee! (1965)
-// Nee-Na (2015)
-// Neecha Nagar (1946)
-// Need for Speed (2014)
-// Needful Things (1993)
-// Needhi (1972)
-// Needhi Pizhaithathu (1981)
-// Needhi Singh (2016)
-// Needhikku Thalaivanangu (1976)
-// Needhikkuppin Paasam (1963)
-// Needhipathi (1955)
-// Needhiyin Nizhal (1985)
-// Needi Naadi Oke Katha (2018)
-// Needing You (2000)
-// Needle (2010)
-// Needle in a Timestack (TBD)
-// Needle in the Haystack (1953)
-// Neeku Naaku Dash Dash (2012)
-// Neeku Nenu Naaku Nuvvu (2003)
-// Neel Akasher Chandni (2009)
-// Neel Akasher Neechey (1958)
-// Neel Kamal: (1947 & 1968)
-// Neel Rajar Deshe (2008)
-// Neela (2001)
-// Neela Aakash (1965)
-// Neela Kurinji Poothappol (1987)
-// Neela Kuyil (1995)
-// Neela Malargal (1979)
-// Neela Parbat (1969)
-// Neela Ponman (1975)
-// Neela Sari (1976)
-// Neela Vaanam (1965)
-// Neelagiri (1991)
-// Neelagiri Express (1968)
-// Neelakannukal (1974)
-// Neelakanta (2006)
-// Neelakasham Pachakadal Chuvanna Bhoomi (2013)
-// Neelakurukkan (1992)
-// Neelakuyil (1954)
-// Neelam (2013)
-// Neelamalai Thirudan (1957)
-// Neelambari: (1978 & 2010)
-// Neelathadaakatthile Nizhalppakshikal (2000)
-// Neelathamara: (1979 & 2009)
-// Neelavukku Neranja Manasu (1958)
-// Neeli (2018)
-// Neeli Saali (1960)
-// Neelkanth (2012)
-// Neelmani (1957)
-// Neem Annapurna (1979)
-// Neenade Naa (2014)
-// Neend Hamari Khwab Tumhare: (1966 & 1971)
-// Neenello Naanalle (2006)
-// Neenga Nalla Irukkanum (1992)
-// Neengadha Ninaivu (1963)
-// Neengal Kettavai (1984)
-// Neenu Nakkare Haalu Sakkare (1991)
-// Neenyare (2008)
-// Neer Dose (2016)
-// Neeraba Jhada (1984)
-// Neerali (2018)
-// Neerja (2016)
-// Neerkumizhi (1965)
-// Neermaathalathinte pookkal (2006 TV)
-// Neerparavai (2012)
-// Neerum Neruppum (1971)
-// Neethaane En Ponvasantham (2012)
-// Neethi (1971)
-// Neethi Devan Mayakkam (1982)
-// Neethibathi (1983)
-// Neethikku Thandanai (1987)
-// Neethipeedam (1977)
-// Neethiyin Marupakkam (1985)
-// Neetho (2002)
-// Neeti-Nijayiti (1972)
-// Neevevaro (2018)
-// Neeya 2 (2019)
-// Neeya? (1979)
-// Neeyallengil Njan (1987)
-// Neeyat (1980)
-// Neeye Nijam (2005)
-// Neeyethra Dhanya (1987)
-// Neeyo Njaano (1979)
-// Neeyum Naanum (2010)
-// Neeyum Njanum (2019)
-// Nefarious: Merchant of Souls (2011)
-// Nefertiti, Queen of the Nile (1961)
-// Nefertiti, figlia del sole (1994)
-// Negadon: The Monster from Mars (2005)
-// Negar (2017)
-// Negative Space (2017)
-// Negroes with Guns: Rob Williams and Black Power (2004)
-// Neige (1981)
-// Neighbor (2009)
-// Neighborhood House (1936)
-// Neighboring Sounds (2012)
-// Neighbors 2: Sorority Rising (2016)
-// Neighbors: (1920, 1981 & 2014)
-// Neighbours: (1952 & 1966)
-// Neighbours: They Are Vampires (2014)
-// Neil Gaiman: Dream Dangerously (2013)
-// Neil Simon's I Ought to Be in Pictures (1982)
-// Neil Young Journeys (2011)
-// Neil Young Trunk Show (2009)
-// Neil Young: Heart of Gold (2006)
-// Neil's Party (2005)
-// Neither Are We Enemies (1970 TV)
-// Neither Blood nor Sand (1941)
-// Neither Rich nor Poor (1953)
-// Neither Seen Nor Recognized (1958)
-// Neither at Home or Abroad (1919)
-// Neither by Day nor by Night (1972)
-// Nejlepší člověk (1954)
-// Nejlepší ženská mého života (1968)
-// Největší z Čechů (2010)
-// Nekabborer Mohaproyan (2014)
-// Nekro (1997)
-// Nel blu dipinto di blu (1959)
-// Nel sole (1967)
-// Nela (2018)
-// Nelavanka (1983)
-// Nell (1994)
-// Nell Gwyn (1926)
-// Nell Gwynn (1934)
-// Nell's Eugenic Wedding (1914)
-// Nella città l'inferno (1959)
-// Nellie, the Beautiful Cloak Model (1924)
-// Nelligan (1991)
-// Nellu: (1974 & 2010)
-// Nelly and Mr. Arnaud (1995)
-// Nelly's Folly (1961)
-// Nelly's Version (1983)
-// Nelly, the Bride Without a Husband (1924)
-// Nelly: (2004 & 2016)
-// Nelson: (1918 & 1926)
-// Nema aviona za Zagreb (2012)
-// Nema problema: (1984 & 2004)
-// Nemesis 2: Nebula (1995)
-// Nemesis 3: Prey Harder (1996)
-// Nemesis 4: Death Angel (1996)
-// Nemesis Game (2003)
-// Nemesis: (1920, 1992 & 2010)
-// Nemir (1982)
-// Nemo's Bank (1934)
-// Nemtsov (2016)
-// Nemuranai Machi: Shinjuku Same (1993)
-// Nemuri Kyōshirō manji giri (1969)
-// Nemuri no Mori (2014 TV)
-// Nemuritorii (1974)
-// Nena (2014)
-// Nenante Nene (1968)
-// Nenapina Doni (1986)
-// Nenapirali (2005)
-// Nenè (1977)
-// Nerrukku Ner (1997)
-// Nerve: (2013 & 2016)
-// Nerven (1919)
-// Netherworld (1991)
-// Netto (2005)
-// Network: (1976 & 2019)
-// Nevada Smith (1966)
-// Never Back Down (2008)
-// Never Been Kissed (1999)
-// Never Cry Wolf (1983)
-// Never Die Alone (2004)
-// Never Give a Sucker an Even Break (1941)
-// Never Let Me Go: (1953 & 2010)
-// Never Look Away (2018)
-// Never Said Goodbye (2016)
-// Never Say Never Again (1983)
-// Never So Few (1959)
-// Never Talk to Strangers (1995)
-// Never Too Late: (1965 & 1997)
-// Never a Dull Moment: (1950 & 1968)
-// Never on Sunday (1960)
-// New Best Friend (2002)
-// New Happy Dad and Son 2: The Instant Genius (2016)
-// New Jack City (1991)
-// New Moon: (1930 & 1940)
-// New Pillow Fight (1897)
-// New Police Story (2004)
-// New Rose Hotel (1999)
-// New Waterford Girl (1999)
-// New Women (1935)
-// New World Order (2009)
-// New Year's Day: (1989 & 2001)
-// New Year's Eve: (1924, 1929, 2002 & 2011)
-// New Year's Evil (1980)
-// New Year: (1924 & 1989)
-// New York Doll (2005)
-// New York Minute (2004)
-// New York New York (2016)
-// New York Stories (1989)
-// New York, I Love You (2009)
-// New York, New York (1977)
-// New in Town (2009)
-// Newark Athlete (1891)
-// News Is Made at Night (1939)
-// Newsies (1992)
-// Next Day Air (2009)
-// Next Friday (2000)
-// Next Stop Wonderland (1998)
-// Next of Kin: (1982, 1984 & 1989)
-// Next: (1990 & 2007)
-// Next: A Primer on Urban Painting (2005)
-// Niagara (1953)
-// Niagara, Niagara (1997)
-// Nicholas Nickleby: (1912 & 2002)
-// Nicholas and Alexandra (1971)
-// Nick & Norah's Infinite Playlist (2008)
-// Nick Fury: Agent of S.H.I.E.L.D. (1998) (TV)
-// Nick of Time (1995)
-// Nickelodeon (1976)
-// Nigakute Amai (2016)
-// Night (1930)
-// Night Caller from Outer Space (1965)
-// Night Inn (1947)
-// Night Life (1989)
-// Night Life of the Gods (1935)
-// Night Moves: (1975 & 2013)
-// Night Nurse: (1931 & 1979)
-// Night Passage (1957)
-// Night Shift (1982)
-// Night Skies (2006)
-// Night Tide (1961)
-// Night Train to Lisbon (2013)
-// Night Train to Munich (1940)
-// Night Train: (1959, 1999, 2007 & 2009)
-// Night Watch: (1973 & 2004)
-// Night and Day: (1946 & 2008)
-// Night and Fog: (1955 & 2009)
-// Night and the City: (1950 & 1992)
-// Night at the Museum (2006)
-// Night at the Museum: Battle of the Smithsonian (2009)
-// Night at the Museum: Secret of the Tomb (2014)
-// Night in the City (1933)
-// Night of the Comet (1984)
-// Night of the Creeps (1986)
-// Night of the Day of the Dawn (1991)
-// Night of the Demon (1957)
-// Night of the Demons 2 (1994)
-// Night of the Demons 3 (1997)
-// Night of the Demons: (1988 & 2009)
-// Night of the Hunter (1955)
-// Night of the Lepus (1972)
-// Night of the Living Dead 3D (2006)
-// Night of the Living Dead: (1968 & 1990)
-// Night of the Living Dead: Darkest Dawn (2015)
-// Night of the Seagulls (1975)
-// Night on Earth (1991)
-// Nightbreed (1990)
-// Nightfall: (1957, 1988, 2000 & 2012)
-// Nightflyers (1987)
-// Nighthawks (1981)
-// Nightmare Alley (1947)
-// Nightmare Castle (1966)
-// Nightmare City (1983)
-// Nightmare: (1942, 1956, 1964, 1981 & 2000)
-// Nightmares: (1980 & 1983)
-// Nights in Rodanthe (2008)
-// Nights of Cabiria (1957)
-// Nightveil: Witch War (2005)
-// Nightwatch: (1994 & 1997)
-// Nightwatching (2007)
-// Nil by Mouth (1997)
-// Nim's Island (2008)
-// Nimed marmortahvlil (2002)
-// Nimona (2020)
-// Nine Lives: (1957, 2002, 2005 & 2016)
-// Nine Months (1995)
-// Nine Queens (2000)
-// Nine to Five (1980)
-// Ninja (2009)
-// Ninja Academy (1990)
-// Ninja Assassin (2009)
-// Ninja III: The Domination (1984)
-// Ninja Kids!!! (2011)
-// Ninja Scroll (1996)
-// Ninja: Shadow of a Tear (2013)
-// Ninjas vs. Zombies (2008)
-// Ninotchka (1939)
-// Nirvana (1997)
-// Nirvana Street Murder (1990)
-// Nishi Ginza Station (1958)
-// Nitrate Kisses (1992)
-// Nixon (1995)
-// No Babies Wanted (1928)
-// No Bed of Roses (2017)
-// No Bigger than a Minute (2006)
-// No Blade of Grass (1970)
-// No Blood No Tears (2002)
-// No Boyfriend Since Birth (2015)
-// No Breathing (2013)
-// No Burqas Behind Bars (2013)
-// No Census, No Feeling (1940)
-// No Child of Mine (1997)
-// No Clue (2013)
-// No Code of Conduct (1998)
-// No Contest (1995)
-// No Contest II (1997)
-// No Country for Old Men (2007)
-// No Crossover: The Trial of Allen Iverson (2010)
-// No Date, No Signature (2017)
-// No Day Without You (1933)
-// No Defense (1929)
-// No Deposit (2015)
-// No Deposit, No Return (1976)
-// No Dessert, Dad, till You Mow the Lawn (1994)
-// No Direction Home (2005)
-// No Distance Left to Run (2010)
-// No Dough Boys (1944)
-// No Down Payment (1957)
-// No Drums, No Bugles (1972)
-// No End (1985)
-// No End in Sight (2007)
-// No Entrance (1960)
-// No Entry (2005)
-// No Entry Pudhe Dhoka Aahey (2012)
-// No Escape: (1934, 1936, 1953, 1994 & 2015)
-// No Evidence of Disease (2013)
-// No Exit: (1930, 1962 & 1995)
-// No Fathers in Kashmir (2019)
-// No Fear, No Die (1990)
-// No Filter (2016)
-// No Funny Business (1933)
-// No Game, No Life Zero (2017)
-// No God, No Master (2012)
-// No Gold for a Dead Diver (1974)
-// No Good Deed: (2002, 2014 & 2017)
-// No Greater Glory (1934)
-// No Greater Law (2018)
-// No Greater Love: (1952, 1960, 1996 & 2010)
-// No Hair Day (1999)
-// No Hands on the Clock (1941)
-// No Highway in the Sky (1951)
-// No Holds Barred: (1952 & 1989)
-// No Home Movie (2015)
-// No Hunting (1955)
-// No Impact Man (2009)
-// No Joke (2013)
-// No Kidding (1960)
-// No Lady (1931)
-// No Land's Song (2014)
-// No Leave, No Love (1946)
-// No Letting Go (2015)
-// No Lies (1973)
-// No Limit Kids: Much Ado About Middle School (2010)
-// No Limit: (1931, 1935, 2006 & 2011)
-// No Lonely Angels (2002)
-// No Longer 17 (2003)
-// No Looking Back (1998)
-// No Love for Johnnie (1961)
-// No Man Is an Island (1962)
-// No Man of Her Own: (1932 & 1950)
-// No Man's Gold (1926)
-// No Man's Land: (1918, 1939, 1984, 1985, 1987, 2001 & 2013)
-// No Man's Law (1927)
-// No Man's Range (1935)
-// No Man's Woman (1955)
-// No Manches Frida (2016)
-// No Manches Frida 2 (2019)
-// No Maps for These Territories (2000)
-// No Marriage Ties (1933)
-// No Me Digas Solterona (2018)
-// No Men Beyond This Point (2015)
-// No Mercy for the Rude (2006)
-// No Mercy: 1986, 2010 & 2019)
-// No Minor Vices (1948)
-// No Money Needed (1932)
-// No Monkey Business (1935)
-// No More Easy Life (1979)
-// No More Hiroshima (1984)
-// No More Ladies (1935)
-// No More Love (1931)
-// No More Love, No More Death (1993)
-// No More Mr. Nice Guy (1993)
-// No More Orchids (1932)
-// No More Sunsets (2006)
-// No More Tears Sister (2005)
-// No More Women (1934)
-// No Mother to Guide Her (1923)
-// No My Darling Daughter (1961)
-// No Name on the Bullet (1959)
-// No Names on the Doors (1997)
-// No Night Is Too Long (2002)
-// No No Sleep (2015)
-// No No: A Dockumentary (2014)
-// No Noise (1923)
-// No Nukes (1980)
-// No One Killed Jessica (2011)
-// No One Lives (2013)
-// No One Would Tell (1996)
-// No Regret (2006)
-// No Regrets for Our Youth (1946)
-// No Reservations (2007)
-// No Retreat, No Surrender (1986)
-// No Retreat, No Surrender 2 (1988)
-// No Rules (2005)
-// No Skin Off My Ass (1991)
-// No Small Affair (1984)
-// No Smoking: (1951 & 2007)
-// No Strings Attached (2011)
-// No Such Thing (2002)
-// No Surrender (1985)
-// No Time for Nuts (2006)
-// No Time for Sergeants (1958)
-// No Way Out: (1950 & 1973 & 1987)
-// No sos vos, soy yo (2004)
-// No: (1998 & 2012)
-// Noah: (1998, 2013, & 2014)
-// Nobel Son (2006)
-// Nobody Knows: (1970 & 2004)
-// Nobody Walks (2012)
-// Nobody's Fool: (1936, 1986, 1994 & 2018)
-// Nobunaga Concerto (2016)
-// Nocturnal Animals (2016)
-// Noel (2004)
-// Noi the Albino (2003)
-// Noirs et blancs en couleur (1976)
-// Noises Off (1992)
-// Nomad (1982)
-// Nomad: The Warrior (2005)
-// Nomads: (1986 & 2010)
-// Nonchan Noriben (2009)
-// None But the Lonely Heart (1944)
-// Nongjungjo (1926)
-// Noo Hin: The Movie (2006)
-// Noor pensionär (1972)
-// Noored kotkad (1927)
-// Nora's Hair Salon (2004)
-// Nora's Hair Salon 2: A Cut Above (2008)
-// Norbit (2007)
-// Norm of the North (2016)
-// Norma Jean & Marilyn (1996)
-// Norma Rae (1979)
-// Normais, Os - O Filme (2003)
-// Normal: (2003, 2007 & 2009)
-// North Country (2005)
-// North Dallas Forty (1979)
-// North East Past: Po Ma Zhang Fei (2017)
-// North Star (1996)
-// North West Mounted Police (1940)
-// North by Northwest (1959)
-// North to Alaska (1960)
-// North: (1994 & 2009)
-// Northfork (2003)
-// Northwest Passage (1940)
-// Norwegian Wood (2010)
-// Nosferatu, a Symphony of Horror (1922)
-// Nosferatu: Phantom der Nacht (1979)
-// Nostalghia (1983)
-// Not Another Not Another Movie (2011)
-// Not Another Teen Movie (2001)
-// Not Easily Broken (2009)
-// Not Forgotten (2009)
-// Not One Less (1999)
-// Not as a Stranger (1955)
-// Not of This Earth: (1957 & 1988)
-// Notebook: (2006 & 2013)
-// Notes on a Scandal (2007)
-// Nothing (2004)
-// Nothing But Trouble: (1918, 1944 & 1991)
-// Nothing But the Best (1964)
-// Nothing But the Truth: (1929, 1941, 2008 American & 2008 South African)
-// Nothing Lasts Forever (1984)
-// Nothing Sacred (1937)
-// Nothing in Common (1986)
-// Nothing to Lose: (1997 & 2002)
-// Notorious: (1946 & 2009)
-// Notting Hill (1999)
-// Nousukausi (2003)
-// November: (2004 & 2017)
-// Noviembre (2003)
-// Novocaine (2001)
-// Now Hear This (1963)
-// Now Is Good (2012)
-// Now You Know (2002)
-// Now You See Me (2013)
-// Now You See Me 2 (2016)
-// Now and Then (1995)
-// Now, Voyager (1942)
-// Nowhere (1997)
-// Nowhere Boy (2009)
-// Nowhere in Africa (2001)
-// Nowhere to Hide: (1987, 1994 TV & 1999)
-// Nowhere to Run: (1989, 1993, 2010 & 2015)
-// Nozoki Ana (2014)
-// Noël Noël (2003)
-// Nu går den på Dagmar (1972)
-// Nu-Meri: Book of the New Spawn (2008)
-// Nua Bou (1962)
-// Nuan (2003)
-// Nuba Conversations (2000)
-// Nubes de humo (1958)
-// Nucingen House (2008)
-// Nuclear Tipping Point (2010)
-// Nude Actress Murder Case: Five Criminals (1957)
-// Nude Fear (1998)
-// Nude Nuns with Big Guns (2010)
-// Nude for Satan (1974)
-// Nude in Charcoal (1961)
-// Nude on the Moon (1961)
-// Nude with Violin (1964)
-// Nude: (2017 & 2018)
-// Nudist Colony of the Dead (1991)
-// Nueba Yol (1995)
-// Nueve reinas (2000)
-// Nugam (2013)
-// Nugget Nell (1919)
-// Nuit 1 (2010)
-// Nuit d'ivresse (1986)
-// Nuit de chien (2008)
-// Nuit noire 17 octobre 1961 (2005)
-// Nuits Rouges (1974)
-// Nukie (1987)
-// Nulli Novikkathe (1985)
-// Numa Numa (2005)
-// Numafung (2004)
-// Numb: (2007 & 2015)
-// Numba Nadan Apita Pissu (2003)
-// Number 1 Cheerleader Camp (2010)
-// Number 111: (1919 & 1938)
-// Number 13 (2006)
-// Number 17: (1928 & 1949)
-// Number 55 (2014)
-// Number One Fan (2014)
-// Number One Shakib Khan (2010)
-// Number One with a Bullet (1987)
-// Number One: (1969, 1973, 1994 & 2017)
-// Number Our Days (1976)
-// Number Seventeen (1932)
-// Number Ten Blues (1975)
-// Number Two (1975)
-// Number, Please (1931)
-// Number, Please? (1920)
-// Numbered Men (1930)
-// Numbered Woman (1938)
-// Numbri Aadmi (1991)
-// Numm (2013)
-// Nunca pasa nada (1963)
-// Nungshi Feijei (2015)
-// Nungshit Mapi (2015)
-// Nunnunarvu (2016)
-// Nuns on the Run (1990)
-// Nunzio (1978)
-// Nuovo Cinema Paradiso (1989)
-// Nuovomondo (2006)
-// Nur Kasih The Movie (2011)
-// Nur eine Frau (1958)
-// Nurayum Pathayum (1977)
-// Nuregami kenpō (1958)
-// Nuremberg (2000)
-// Nuremberg Trials (1947)
-// Nuremberg: The Nazis Facing their Crimes (2006)
-// Nurit (1972)
-// Nurmoo: Shout from the Plain (2009)
-// Nurse (1969)
-// Nurse 3D (2013)
-// Nurse Betty (2000)
-// Nurse Cavell (1916)
-// Nurse Edith Cavell (1939)
-// Nurse Marjorie (1920)
-// Nurse on Wheels (1963)
-// Nurse.Fighter.Boy (2008)
-// Nursie! Nursie! (1916)
-// Nursing a Viper (1909)
-// Nutcase (1980)
-// Nutcracker (1982)
-// Nutcracker Fantasy (1979)
-// Nutcracker: The Motion Picture (1986)
-// Nuts & Bolts (2003)
-// Nuts and Volts (1964)
-// Nuts for Love (2000)
-// Nuts in May: (1917 & 1976)
-// Nuts! (2016)
-// Nuts: (1987 & 2012)
-// Nutty News (1942)
-// Nutty Professor II: The Klumps (2000)
-// Nutty but Nice (1940)
-// Nutty, Naughty Chateau (1963)
-// Nuummioq (2009)
-// Nuvva Nena (2012)
-// Nuvvala Nenila (2013)
-// Nuvvante Naakishtam (2005)
-// Nuvve Kavali (2000)
-// Nuvve Nuvve (2002)
-// Nuvvekkadunte Nenakkadunta (2012)
-// Nuvvila (2011)
-// Nuvvostanante Nenoddantana (2005)
-// Nuvvu Leka Nenu Lenu (2002)
-// Nuvvu Naaku Nachav (2001)
-// Nuvvu Nenu (2001)
-// Nuvvu Vastavani (2000)
-// Nya (2017)
-// Nya hyss av Emil i Lönneberga (1972)
-// Nyay Anyay (1990)
-// Nyay Juddho (1991)
-// Nyaya Ellide (1982)
-// Nyaya Gedditu (1983)
-// Nyaya Neethi Dharma (1980)
-// Nyaya Tharasu (1989)
-// Nyayam Kavali (1981)
-// Nyayam Ketkirom (1973)
-// Nyayam Meere Cheppali (1985)
-// Nyayave Devaru (1971)
-// Nyayavidhi (1986)
-// Nyaydaata (1999)
-// Nyfes (2004)
-// Nymph: (1973 & 2009)
-// Nymphomaniac (2013)
-// Nzambi Mpungu (1928)
-// O (2001)
-// O Amor Natural (1996)
-// O Baby! Yentha Sakkagunnave (TBD)
-// O Bobo (1987)
-// O Brother, Where Art Thou? (2000)
-// O Canada! (1981)
-// O Cangaceiro (1953)
-// O Carnaval Cantado de 1932 (1932)
-// O Carteiro (2011)
-// O Casamento de Romeu e Julieta (2005)
-// O Chinadana (2002)
-// O Circo das Qualidades Humanas (2000)
-// O Concurso (2013)
-// O Fantasma (2000)
-// O Homem Que Copiava (2003)
-// O Lucky Man!: (1973 & 2009)
-// O' Horten (2007)
-// O'Shaughnessy's Boy (1935)
-// O, Brazen Age (2015)
-// O, My Darling Clementine (1943)
-// O, Vrba (1945)
-// O, more, more! (1983)
-// O-Bi, O-Ba: The End of Civilization (1985)
-// O-Kay for Sound (1937)
-// O-Solar Meow (1967)
-// O-Town (2015)
-// O... Çocuklari (2008)
-// O.C. Confidential (2011)
-// O.C. and Stiggs (1987)
-// O.G. (2018)
-// O.H.M.S. (1937)
-// O.J.: Made in America (2016)
-// O.K. ... Laliberté (1973)
-// O.K. Garage (1998)
-// O.K. Nerone (1951)
-// O.S.S. (1946)
-// O21 (2014)
-// OHMS (1980)
-// OK Baytong (2003)
-// OK Connery (1967)
-// OK, Good (2012)
-// OMG – Oh My God! (2012)
-// OMG, I'm a Robot! (2015)
-// OMG... We're in a Horror Movie!!! (2015)
-// OOO, Den-O, All Riders: Let's Go Kamen Riders (2011)
-// OSS 117 Is Not Dead (1957)
-// OSS 117 Is Unleashed (1963)
-// OSS 117 Mission for a Killer (1965)
-// OSS 117 Takes a Vacation (1970)
-// OSS 117 – Double Agent (1968)
-// OSS 117: Cairo, Nest of Spies (2006)
-// OSS 117: Lost in Rio (2009)
-// OSS 77 – Operazione fior di loto (1965)
-// OT: Our Town (2002)
-// Oasis of Fear (1971)
-// Oasis of the Zombies (1981)
-// Oasis: (1955 & 2002)
-// Oath of Vengeance (1944)
-// Oath-Bound (1922)
-// Oba Koheda Priye (2001)
-// Oba Nathuwa Oba Ekka (2012)
-// Oba: The Last Samurai (2011)
-// Oberst Redl (1985)
-// Obey Giant (2017)
-// Obey the Law: (1926 & 1933)
-// Obhishopto Nighty (2014)
-// Objective, Burma! (1945)
-// Obliging Young Lady (1942)
-// Oblique (2008)
-// Oblivion 2: Backlash (1996)
-// Oblivion Island: Haruka and the Magic Mirror (2009)
-// Oblivion: (1994 & 2013)
-// Oblivious (2001)
-// Obon Brothers (2015)
-// Oboreru Knife (2016)
-// Observe and Report (2009)
-// Obsessed: (1987, 1992, 2009 & 2014)
-// Obsession: (1949, 1954, 1976 & 1997)
-// Obsession: Radical Islam's War Against the West (2005)
-// Obsessive Love (1984 TV)
-// Obvious Child (2014)
-// Ocaña, an Intermittent Portrait (1978)
-// Occhio, malocchio, prezzemolo e finocchio (1983)
-// Occident (2002)
-// Occult (2009)
-// Occupant (2011)
-// Occupation (2018)
-// Occupation 101 (2006)
-// Occupation in 26 Pictures (1978)
-// Occupation: Dreamland (2005)
-// Occupied Minds (2006)
-// Ocean (2002)
-// Ocean Breakers (1935)
-// Ocean Heaven (2010)
-// Ocean Waves (1993)
-// Ocean of Fear (2007 TV)
-// Ocean of Pearls (2008)
-// Ocean of Tears (2012)
-// Ocean's 8 (2018)
-// Ocean's Deadliest (2007)
-// Ocean's Eleven: (1960 & 2001)
-// Ocean's Thirteen (2007)
-// Ocean's Twelve (2004)
-// OceanWorld 3D (2009)
-// Oceans (2009)
-// Oceans of Fire (1986 TV)
-// Oceanus: Act One (2015)
-// Oconomowoc (2013)
-// Octaman (1971)
-// Octane (2003)
-// Octavia (1984)
-// Octavio Is Dead! (2018)
-// October Moon (2005)
-// October Sky (1999)
-// October: (2010 & 2018)
-// October: Ten Days That Shook the World (1927)
-// Octopus 2: River of Fear (2001)
-// Octopussy (1983)
-// Odd Couple (1979)
-// Odd Girl Out (2005 TV)
-// Odd Jobs (1986)
-// Odd Man Out (1947)
-// Odd Thomas (2013)
-// Odds Against Tomorrow (1959)
-// Of Freaks and Men (1998)
-// Of Gods and Men (2010)
-// Of Human Bondage: (1934, 1946 & 1964)
-// Of Human Hearts (1938)
-// Of Mice and Men: (1939 & 1992)
-// Off Limits: (1953 & 1988)
-// Off Sides (Pigs vs. Freaks) (1984 TV)
-// Off the Map (2007)
-// Off-Balance (2000)
-// OffOn (1972)
-// Office Christmas Party (2016)
-// Office Girls (2011)
-// Office Killer (1997)
-// Office Space (1999)
-// Office: (2015 Hong Kong & 2015 South Korean)
-// Officer 444 (1926)
-// Officer 666 (1916)
-// Officer Down (2013)
-// Officer Downe (2016)
-// Officer Duck (1939)
-// Officer Thirteen (1932)
-// Officer: (2001 & 2018)
-// Officers (1971)
-// Official Secrets (2019)
-// Offside: (2000, 2005, 2006 Iranian, 2006 Swedish & 2009)
-// Oh Heavenly Dog (1980)
-// Oh Mong-nyeo (1937)
-// Oh My God: (2009 & 2015)
-// Oh! My God (2006)
-// Oh! My Zombie Mermaid (2004)
-// Oh! What a Lovely War (1969)
-// Oh, God! (1977)
-// Oh, God! Book II (1980)
-// Oh, God! You Devil (1984)
-// Oh, Johnny, How You Can Love! (1940)
-// Oh, Mr. Porter! (1937)
-// Oh, My God (2008)
-// Oh, What a Night: (1944 & 1992)
-// Oh... Rosalinda!! (1955)
-// Ohm Krüger (1941)
-// Ohtlikud mängud (1974)
-// Oily Hare (1952)
-// Ojarumaru the Movie: The Promised Summer - Ojaru and Semira (2000)
-// Ojuju (2014)
-// Ok-nyeo (1928)
-// Okinawa Rendez-vous (2000)
-// Okja (2017)
-// Oklahoma (1979)
-// Oklahoma!: (1955 & 1999)
-// Okouzlená (1942)
-// Okraina: (1933 & 1998)
-// Old Acquaintance (1943)
-// Old Boys (2010)
-// Old Boys: The Way of the Dragon (2014)
-// Old Dog (2011)
-// Old Dogs (2009)
-// Old English (1930)
-// Old Enough (1984)
-// Old Faithful (1935)
-// Old Fashioned (2015)
-// Old Glory (1939)
-// Old Gringo (1989)
-// Old Heidelberg: (1915, 1923, & 1959)
-// Old Home Week (1925)
-// Old Ironsides (1926)
-// Old Joy (2007)
-// Old King Cole (1933)
-// Old MacDonald Had a Farm (1946)
-// Old Mother Riley (1937)
-// Old Mother Riley Detective (1943)
-// Old Mother Riley Headmistress (1950)
-// Old Mother Riley Joins Up (1940)
-// Old Mother Riley Overseas (1943)
-// Old Mother Riley at Home (1945)
-// Old Mother Riley in Business (1941)
-// Old Mother Riley in Paris (1938)
-// Old Mother Riley in Society (1940)
-// Old Mother Riley's Circus (1941)
-// Old Mother Riley's Ghosts (1941)
-// Old Mother Riley's Jungle Treasure (1951)
-// Old Mother Riley's New Venture (1949)
-// Old Mother Riley, MP (1939)
-// Old San Francisco (1927)
-// Old School (2003)
-// Old School New School (2011)
-// Old Shatterhand (1964)
-// Old Well (1987)
-// Old Yeller (1957)
-// Oldboy: (2003 & 2013)
-// Older Than America (2008)
-// Oleanna (1994)
-// Oliver & Company (1988)
-// Oliver Twist: (1922, 1948, 1997 TV & 2005)
-// Oliver! (1968)
-// Oliver's Story (1977)
-// Olivia (1951)
-// Olly Olly Oxen Free (1978)
-// Olympia: (1938 & 1998)
-// Olympus Has Fallen (2013)
-// Om Jai Jagadish (2002)
-// Om Shanthi Om (2015)
-// Om Shanti Om (2007)
-// Om: (1995 & 2003)
-// Omagh (2004)
-// Omen II (1978)
-// Omen III: The Final Conflict (1981)
-// Omen IV: The Awakening (1991 TV)
-// Omkara: (2004 & 2006)
-// Omphalos (2014)
-// On - drakon (2015)
-// On Any Sunday (1971)
-// On Borrowed Time (1939)
-// On Chesil Beach (2018)
-// On Dangerous Ground: (1915, 1917 & 1952)
-// On Deadly Ground (1994)
-// On Golden Pond: (1981 & 2001 TV)
-// On Her Majesty's Secret Service (1969)
-// On Hostile Ground (2000 TV)
-// On Line: (2002 & 2015)
-// On Moonlight Bay (1951)
-// On Top (1982)
-// On a Clear Day (2005)
-// On a Clear Day You Can See Forever (1970)
-// On the 2nd Day of Christmas (1997 TV)
-// On the Basis of Sex (2018)
-// On the Beach: (1959 & 2000 TV)
-// On the Beat: (1962 & 1995)
-// On the Double (1961)
-// On the Edge of Innocence (1997)
-// On the Green Carpet (2001)
-// On the Job: (1924 & 2013)
-// On the Line: (2001 & 2011)
-// On the Nameless Height (2003)
-// On the Occasion of Remembering the Turning Gate (2002)
-// On the Riviera (1951)
-// On the Road (2012)
-// On the Top of the Cherry Tree (1984)
-// On the Town (1949)
-// On the Waterfront (1954)
-// On the Wrong Trek (1936)
-// On with the Dance (1920)
-// On with the Show! (1929)
-// Onaaigal Jakkiradhai (2018)
-// Onaayum Aattukkuttiyum (2013)
-// Onan (2009)
-// Onappudava (1978)
-// Onathumbikkoru Oonjaal (1985)
-// Onbadhu Roobai Nottu (2007)
-// Onbadhule Guru (2013)
-// Once (2007)
-// Once Aboard the Lugger (1920)
-// Once Again (2012)
-// Once Before I Die (1966)
-// Once Bitten: (1932 & 1985)
-// Once Brothers (2010)
-// Once Fallen (2010)
-// Once I Loved a Girl in Vienna (1931)
-// Once I Was a Beehive (2015)
-// Once I Will Return (1953)
-// Once Is Never (1955)
-// Once More: (1988 & 1997)
-// Once Upon Another Time (2000)
-// Once Upon a Brothers Grimm (1977)
-// Once Upon a Christmas (2000)
-// Once Upon a Crime (1992)
-// Once Upon a Dog (1982)
-// Once Upon a Dream (1949)
-// Once Upon a Forest (1993)
-// Once Upon a Girl (1976)
-// Once Upon a Halloween (2005)
-// Once Upon a Holiday (2015)
-// Once Upon a Honeymoon: (1942 & 1956)
-// Once Upon a Line (2016)
-// Once Upon a Mirage (1982)
-// Once Upon a Mouse (1981)
-// Once Upon a Scoundrel (1974)
-// Once Upon a Texas Train (1988)
-// Once Upon a Time Was I, Verônica (2012)
-// Once Upon a Time in America (1984)
-// Once Upon a Time in Amritsar (2016)
-// Once Upon a Time in Anatolia (2011)
-// Once Upon a Time in Bihar (2015)
-// Once Upon a Time in Bolivia (2012)
-// Once Upon a Time in Brooklyn (2013)
-// Once Upon a Time in China (1991)
-// Once Upon a Time in China II (1992)
-// Once Upon a Time in China III (1993)
-// Once Upon a Time in China IV (1994)
-// Once Upon a Time in China V (1995)
-// Once Upon a Time in China and America (1997)
-// Once Upon a Time in High School (2004)
-// Once Upon a Time in Hollywood (2019)
-// Once Upon a Time in Kolkata (2014)
-// Once Upon a Time in Manila (1994)
-// Once Upon a Time in Mexico (2003)
-// Once Upon a Time in Mumbaai (2010)
-// Once Upon a Time in Phuket (2012)
-// Once Upon a Time in Queens (2013)
-// Once Upon a Time in Rio (2008)
-// Once Upon a Time in Seoul (2008)
-// Once Upon a Time in Shanghai: (1998 & 2014)
-// Once Upon a Time in Staten Island (TBA)
-// Once Upon a Time in Tibet (2010)
-// Once Upon a Time in Triad Society (1996)
-// Once Upon a Time in Venice (2017)
-// Once Upon a Time in Vietnam (2013)
-// Once Upon a Time in a Battlefield (2003)
-// Once Upon a Time in the East: (1974 & 2011)
-// Once Upon a Time in the Midlands (2002)
-// Once Upon a Time in the Northeast (2017)
-// Once Upon a Time in the Oued (2005)
-// Once Upon a Time in the Provinces (2008)
-// Once Upon a Time in the West (1968)
-// Once Upon a Time in the Woods (2006)
-// Once Upon a Time, Cinema (1992)
-// Once Upon a Time...When We Were Colored (1996)
-// Once Upon a Time: (1918, 1933, 1944, 1973, 1994, 2008, 2013 & 2017)
-// Once Upon a Wheel (1971)
-// Once Upon ay Time in Mumbai Dobaara! (2013)
-// Once Were Warriors (1994)
-// Once a Cop (1993)
-// Once a Thief: (1935, 1950, 1965, 1991 & 1996 TV)
-// Once a Thief: Brother Against Brother (1997) (TV)
-// Once a Thief: Family Business (1998) (TV)
-// Once in a Lifetime: The Extraordinary Story of the New York Cosmos (2006)
-// Once in the Life (2000)
-// Ondine (2010)
-// One 2 Ka 4 (2001)
-// One A.M. (1916)
-// One Against All (1927)
-// One Angry Man (2010)
-// One Arabian Night (1923)
-// One Armed Boxer (1971)
-// One Armed Swordsman Against Nine Killers (1976)
-// One Away (1976)
-// One Bad Knight (1938)
-// One Big Affair (1952)
-// One Big Hapa Family (2010)
-// One Big Holiday (2011)
-// One Body Too Many (1994)
-// One Breath (2015)
-// One Brief Summer (1970)
-// One Bright Shining Moment: The Forgotten Summer of George McGovern (2005)
-// One Bullet Is Enough (1954)
-// One Cab's Family (1952)
-// One Can't Always Tell (1913)
-// One Chance (2013)
-// One Christmas (1994)
-// One Clear Call (1922)
-// One Colombo Night (1926)
-// One Crazy Ride (2009)
-// One Crazy Summer (1986)
-// One Crowded Night (1940)
-// One Cut of the Dead (2017)
-// One Dark Night (1983)
-// One Day in Europe (2005)
-// One Day in September (1999)
-// One Deadly Summer (1983)
-// One Direction: This Is Us (2013)
-// One Eight Seven (1997)
-// One Fine Day (1996)
-// One Fine Spring Day (2001)
-// One Flew Over the Cuckoo's Nest (1975)
-// One Foot in Heaven (1941)
-// One Froggy Evening (1955)
-// One Good Cop (1991)
-// One Good Turn: (1931, 1936, 1951 & 1955)
-// One Heavenly Night (1931)
-// One Hour Photo (2002)
-// One Hour in Wonderland (1950 TV)
-// One Hour with You (1932)
-// One Hundred Men and a Girl (1937)
-// One Hundred Years of Evil (2010)
-// One Hundred and One Dalmatians (1961)
-// One Last Dance: (2003 & 2006)
-// One Last Thing... (2006)
-// One Leg Kicking (2001)
-// One Little Indian (1973)
-// One Magic Christmas (1985)
-// One Man Band (2005)
-// One Million B.C. (1940)
-// One Million Years B.C. (1966)
-// One Minute to Nine (2007)
-// One Missed Call: (2003 & 2008)
-// One More Time (1970)
-// One More Time: (1931, 1970 & 2015)
-// One Night Husband (2003)
-// One Night Only: (2008 & 2016)
-// One Night Stand: (1984, 1997 & 2016)
-// One Night Stud (2015)
-// One Night at McCool's (2001)
-// One Night in the Tropics (1940)
-// One Night of Love (1934)
-// One Perfect Day: (2004 & 2013)
-// One Piece Film Gold (2016)
-// One Piece Film: Strong World (2009)
-// One Piece Film: Z (2012)
-// One Piece Movie: The Desert Princess and the Pirates: Adventures in Alabasta (2007)
-// One Piece The Movie: Chopper's Kingdom on the Island of Strange Animals (2002)
-// One Piece The Movie: Clockwork Island Adventure (2001)
-// One Piece The Movie: Dead End no Bōken (2003)
-// One Piece: Stampede (2019)
-// One Piece: The Cursed Holy Sword (2004)
-// One Piece: The Movie (2000)
-// One Potato, Two Potato (1964)
-// One Shot (2005)
-// One Step Away (2014)
-// One Touch of Venus (1948)
-// One True Thing (1998)
-// One Way (2006)
-// One Way Street (1950)
-// One Way Ticket: (1935, 1988, 1997 TV, & 2008)
-// One Week Friends (2017)
-// One Week: (1920 & 2008)
-// One Wonderful Sunday (1947)
-// One and Eight (1983)
-// One for the Money (2012)
-// One from the Heart (1982)
-// One of Our Aircraft Is Missing (1942)
-// One of Our Dinosaurs Is Missing (1975)
-// One, Two, Three (1961)
-// One-Armed Swordsman (1967)
-// One-Eyed Jacks (1961)
-// One-Eyed Monster (2008)
-// One-Trick Pony (1980)
-// One-Way Ticket to Mombasa (2002)
-// One: (2009, 2013, & 2017)
-// One: The Movie (2005)
-// OneChanbara (2008)
-// Onegin (2000)
-// Ong Bak 2 (2008)
-// Ong Bak 3 (2010)
-// Ong-Bak: Muay Thai Warrior (2003)
-// Onibaba (1964)
-// Onion From the Boot of a Benz (2015)
-// Only 38 (1923)
-// Only Angels Have Wings (1939)
-// Only Clouds Move the Stars (1998)
-// Only God Forgives (2013)
-// Only God Knows (2006)
-// Only Human: (2004 & 2010)
-// Only Lovers Left Alive (2013)
-// Only One Night: (1922, 1939 & 1950)
-// Only People (1957)
-// Only Saps Work (1930)
-// Only Two Can Play (1962)
-// Only When I Larf (1968)
-// Only When I Laugh (1981)
-// Only Yesterday: (1933 & 1991)
-// Only You: (1992, 1994, 2011, & 2015)
-// Only the Brave: (1930, 1994, 2006 & 2017)
-// Only the Lonely (1991)
-// Only the Strong (1993)
-// Onmyoji (2004)
-// Onmyōji 2 (2003)
-// Onna Babo (2002)
-// Onna Gokuakuchō (1970)
-// Onna Irukka Kathukanum (1992)
-// Onna Keirin-ō (1956)
-// Onna Tachiguishi-Retsuden (2006)
-// Onna no Ana (2014)
-// Onna no Hosomichi: Nureta Kaikyo (1980)
-// Onna no Koyomi (1954)
-// Onnaam Maanam Poomaanam (1987)
-// Onnaam Muhurtham (1991)
-// Onnaamvattam Kandappol (1999)
-// Onnam Prathi Olivil (1985)
-// Onnaman (2002)
-// Onnanam Kunnil Oradi Kunnil (1985)
-// Onnanu Nammal (1984)
-// Onnara Vattu (2006)
-// Onnelliset leikit (1964)
-// Onningu Vannengil (1985)
-// Onninu Purake Mattonnu (1988)
-// Onnorokom Bhalobasha (2012)
-// Onnu Chirikku (1983)
-// Onnu Muthal Poojyam Vare (1986)
-// Onnu Randu Moonnu (1986)
-// Onnum Mindatha Bharya (1984)
-// Onnum Mindathe (2014)
-// Onnum Onnum Moonu (2015)
-// Onnum Onnum Pathinonnu (1988)
-// Onsdagsväninnan (1946)
-// Ontari (2008)
-// Ontari Poratam (1989)
-// Onti (TBD)
-// Onti Salaga (1989)
-// Ontmaskerd (1915)
-// Ontrouw (1911)
-// Onward (2020)
-// Onward Christian Soldiers (1918)
-// Onye Ozi (2013)
-// Oo Na, Mahal Na Kung Mahal (1999)
-// Oodi Oodi Uzhaikanum (2020)
-// Ooh La La La (2012)
-// Ooh... You Are Awful (1972)
-// Ooh... diese Ferien (1958)
-// Ooha (1996)
-// Oohakachavadam (1988)
-// Oohalu Gusagusalade (2014)
-// Oolkatal (1979)
-// Oollo Pelliki Kukkala Hadavidi (2018)
-// Oomai Vizhigal (1986)
-// Oomakkuyil (1983)
-// Oomakkuyil Padumbol (2012)
-// Oomana Thinkal (1983)
-// Oomappenninu Uriyadappayyan (2002)
-// Oonch Neech Beech (1989)
-// Oonche Log: (1965 & 1985)
-// Oonga (2013)
-// Oonjaal (1977)
-// Ooparwala Jaane (1977)
-// Oops! (2003)
-// Oor Mariyadhai (1992)
-// Oorantha Sankranthi (1983)
-// Oorige Upakari (1982)
-// Oorkavalan (1987)
-// Oorlog en vrede (1918)
-// Oormakale Vida Tharu (1980)
-// Ooru Vittu Ooru Vanthu (1990)
-// Ooruki Monagadu (1981)
-// Oorukichchina Maata (1981)
-// Oorukku Oru Pillai (1982)
-// Oorukku Uzhaippavan (1976)
-// Ooruku Nooruper (2003)
-// Oorum Uravum (1982)
-// Oorummadi Brathukulu (1976)
-// Oos Raat Ke Baad (1969)
-// Oosaravelli (2011)
-// Oothikachiya Ponnu (1981)
-// Oottyppattanam (1982)
-// Ooty (1999)
-// Ooty Varai Uravu (1967)
-// Ooyala (1998)
-// Oozham: (1988 & 2016)
-// Opasniye Povoroty (1962)
-// Open (2011)
-// Open All Night: (1924 & 1934)
-// Open City (2008)
-// Open Grave (2013)
-// Open Heart (2012)
-// Open Hearts (2002)
-// Open House (1987, 2004 & 2010)
-// Open Range: (1927 & 2003)
-// Open Season (1974)
-// Open Season (2006)
-// Open Season 2 (2008)
-// Open Season 3 (2010)
-// Open Season: Scared Silly (2015)
-// Open Water (2003)
-// Open Water 2: Adrift (2006)
-// Opening Nights (1977 & 2016)
-// Opening of the Kiel Canal (1895)
-// Opera (1987)
-// Operation Agneepath (TBA)
-// Operation Alamelamma (2017)
-// Operation Amsterdam (1959)
-// Operation Antha (1995)
-// Operation Arapaima (TBA)
-// Operation Atlantis (1965)
-// Operation Autumn (2012)
-// Operation Avalanche (2016)
-// Operation Bikini (1963)
-// Operation Bottleneck (1961)
-// Operation Bullshine (1959)
-// Operation C.I.A. (1965)
-// Operation Chromite (2016)
-// Operation Concrete (1955)
-// Operation Counterspy (1965)
-// Operation Crossbow (1965)
-// Operation Cupid (1960)
-// Operation Dames (1959)
-// Operation Daybreak (1975)
-// Operation Delilah (1967)
-// Operation Delta Force (1997 TV)
-// Operation Delta Force 2: Mayday (1997 TV)
-// Operation Delta Force 3: Clear Target (1999)
-// Operation Delta Force 4: Deep Fault (1999)
-// Operation Delta Force 5: Random Fire (2000)
-// Operation Diamond Racket (1978)
-// Operation Diplomat (1953)
-// Operation Dumbo Drop (1995)
-// Operation Duryodhana (2007)
-// Operation Duryodhana 2 (2013)
-// Operation E (2012)
-// Operation Edelweiss (1954)
-// Operation Eichmann (1961)
-// Operation Finale (2018)
-// Operation Gold Fish (2019)
-// Operation Gold Ingot (1962)
-// Operation Happy New Year (1996)
-// Operation Haylift (1950)
-// Operation Homecoming: Writing the Wartime Experience (2007)
-// Operation Jackpot Nalli C.I.D 999 (1969)
-// Operation Leopard (1980)
-// Operation Mad Ball (1957)
-// Operation Malaya (1953)
-// Operation Manhunt (1954)
-// Operation Mata Hari (1968)
-// Operation Mekong (2016)
-// Operation Mitra (1951)
-// Operation Murder (1957)
-// Operation Nam (1986)
-// Operation Pacific (1951)
-// Operation Petticoat (1959)
-// Operation Poker (1965)
-// Operation Red Sea (2018)
-// Operation Secret (1952)
-// Operation Shmenti Capelli (2011)
-// Operation Snatch (1962)
-// Operation St. Peter's (1967)
-// Operation Stadium (1977)
-// Operation Stogie (1959)
-// Operation Swallow: The Battle for Heavy Water (1948)
-// Operation Thunderbolt (1977)
-// Operation Vittles (1948)
-// Operation Warzone (1988)
-// Operation Y and Shurik's Other Adventures (1965)
-// Operation: Endgame (2012)
-// Operation: Rabbit (1952)
-// Operation: Smokescreen (2013)
-// Operator (2016)
-// Ophelia: (1963 & 2018)
-// Or (My Treasure) (2004)
-// Or Iravu (1951)
-// Ora (2011)
-// Ora Charjon (1988)
-// Ora Egaro Jon (1972)
-// Ora Thake Odhare (1954)
-// Oraal (2005)
-// Oraalppokkam (2014)
-// Orage (1938)
-// Oral Koodi Kallanayi (1964)
-// Oral Mathram (1997)
-// Oram Po (2007)
-// Orange Blossom (1932)
-// Orange County (2002)
-// Orange Mittai (2015)
-// Orange Revolution (2007)
-// Orange Valley (2018)
-// Orange Winter (2007)
-// Orange: (2010, 2012, 2015 & 2018)
-// Orca (1977)
-// Ordeal by Innocence (1984)
-// Ordet (1955)
-// Ordinary Decent Criminal (2000)
-// Ordinary People: (1980 & 2009)
-// Orgazmo (1997)
-// Orgy of the Dead (1965)
-// Origin: Spirits of the Past (2006)
-// Original (2009)
-// Original Gangstas (1996)
-// Original Sin: (1992 & 2001)
-// Orlando (1992)
-// Orphan's Benefit (1934)
-// Orphan: (2009 & 2016)
-// Orphans (1987 & 1998)
-// Orphans of the Storm (1922)
-// Orpheus (1949)
-// Orphée (1949)
-// Osama (2003)
-// Oscar Wilde (1960)
-// Oscar and Lucinda (1997)
-// Oscar: (1967 & 1991)
-// Oslo, August 31st (2011)
-// Osmosis Jones (2001)
-// Ossessione (1943)
-// Ossos (1997)
-// Otesánek (2000)
-// Othello: (1952, 1965 & 1995)
-// Other Men's Women (1931)
-// Other People's Money (1991)
-// Otherhood (TBA)
-// Otoko no Isshō (2014)
-// Ouija 3: The Charlie Charlie Challenge (2016)
-// Ouija 4 (2015)
-// Ouija: (2003, 2007, 2014 & 2015)
-// Ouija: Origin of Evil (2016)
-// Our Beloved Month of August (2008)
-// Our Body (2018)
-// Our Boy (1936)
-// Our Brand Is Crisis: (2005 & 2015)
-// Our Children (2012)
-// Our Country (2006)
-// Our Curse (2013)
-// Our Daily Bread: (1929, 1934 & 2005)
-// Our Dancing Daughters (1928)
-// Our Daughter (1981)
-// Our Day (1938)
-// Our Day Out (1977, TV)
-// Our Day Will Come (2010)
-// Our Diary (2017)
-// Our Everyday Life (2015)
-// Our Family (2014)
-// Our Family Wedding (2010)
-// Our Father: (1953, 2016 British & 2016 Israeli)
-// Our Fathers (2005, TV)
-// Our Feature Presentation (2008)
-// Our Forbidden Places (2008)
-// Our Fragrance (2003)
-// Our Friend Tili (1981)
-// Our Friend, Martin (1999)
-// Our Gang (1922)
-// Our Gang Follies of 1936 (1935)
-// Our Gang Follies of 1938 (1937)
-// Our Generation (2010)
-// Our Grand Despair (2011)
-// Our Hearts Were Growing Up (1946)
-// Our Hearts Were Young and Gay (1944)
-// Our Homeland (2012)
-// Our Hospitality (1923)
-// Our Huff and Puff Journey (2014)
-// Our Huge Adventure (2005, direct-to-video)
-// Our Idiot Brother (2011)
-// Our Italian Husband (2004)
-// Our Kind of Traitor (2016)
-// Our Lady of Sorrows (1934)
-// Our Lady of the Assassins (2000)
-// Our Land (2006)
-// Our Leading Citizen: (1922 & 1939)
-// Our Lips Are Sealed (2000, direct-to-video)
-// Our Love (2000)
-// Our Man Flint (1966)
-// Our Man in Havana (1960)
-// Our Man in Tehran (2013)
-// Our Men in Bagdad (1966)
-// Our Miss Brooks (1956)
-// Our Mother's House (1967)
-// Our Relations (1936)
-// Our School (2009)
-// Our Shining Days (2017)
-// Our Son, the Matchmaker (1996, TV)
-// Our Song (2000)
-// Our Sons (1991, TV)
-// Our Souls at Night (2017)
-// Our Story (1984)
-// Our Time: (1974 & 2018)
-// Our Times (2015)
-// Our Town: (1940, 2003 & 2007)
-// Our Twisted Hero (1992)
-// Our Very Own: (1950 & 2005)
-// Our Wife: (1931 & 1941)
-// Ouran High School Host Club (2012)
-// Ourselves Alone (1936)
-// Out 1 (1971)
-// Out Cold: (1989 & 2001)
-// Out West: (1918 & 1947)
-// Out for Justice (1991)
-// Out for a Kill (2003)
-// Out of Africa (1985)
-// Out of Control: (1985, 2002, 2003 & 2017)
-// Out of My Intention (2008)
-// Out of Reach (2004)
-// Out of Sight (1998)
-// Out of Time: (1988 & 2003)
-// Out of the Blue: (1931, 1947, 1980, 2002 & 2006)
-// Out of the Blue: Live at Wembley (1980)
-// Out of the Darkness: (1971 & 1985)
-// Out of the Furnace (2013)
-// Out of the Past (1947)
-// Out of the Wilderness (2001 TV)
-// Out to Sea (1997)
-// Outbreak (1995)
-// Outcast: (1917, 1922, 1928, 1937, 2010 & 2014)
-// Outfoxed: Rupert Murdoch's War on Journalism (2004)
-// Outkast (2001)
-// Outland (1981)
-// Outlander (2008)
-// Outlaw King (2018)
-// Outlaw: (1999 & 2007)
-// Outlaws and Angels (2016)
-// Outpost: (1944, 1959 & 2008)
-// Outpost: Black Sun (2012)
-// Outpost: Rise of the Spetsnaz (2013)
-// Outrageous! (1977)
-// Outside (2004)
-// Outside Providence (1999)
-// Outside the Law: (1920, 1930, 1937, 1956, 2002 & 2010)
-// Outsider: (1997 & 2012)
-// Outsourced (2007)
-// Over 21 (1945)
-// Over Her Dead Body (2008)
-// Over Here (2007)
-// Over My Dead Body: (1942, 1995, & 2012)
-// Over Run Over (2016)
-// Over She Goes (1937)
-// Over Your Cities Grass Will Grow (2010)
-// Over Your Dead Body (2014)
-// Over da Rainbow (2008)
-// Over stork og stein (1994)
-// Over the Border: (1922 & 2006)
-// Over the Brooklyn Bridge (1984)
-// Over the Edge (1981)
-// Over the Fence: (1917, 2009, & 2016)
-// Over the Garden Wall: (1919, 1934 & 1950)
-// Over the Goal (1937)
-// Over the Hedge (2006)
-// Over the Hill to the Poorhouse (1920)
-// Over the Hill: (1917, 1931 & 1992)
-// Over the Moon (1939)
-// Over the Odds (1961)
-// Over the Rainbow (2002)
-// Over the River...Life of Lydia Maria Child, Abolitionist for Freedom (2007)
-// Over the Santa Fe Trail (1947)
-// Over the Top (1987)
-// Over the Wall (1938)
-// Over the Waves (1950)
-// Overboard: (1987 & 2018)
-// Overcomer (2019)
-// Overdrawn at the Memory Bank (1983 TV)
-// Overdrive (2017)
-// Overexposed (1990)
-// Overfed & Undernourished (2014)
-// Overheard (2009)
-// Overheard 2 (2011)
-// Overheard 3 (2014)
-// Overhill (2013)
-// Overland Mail (1942)
-// Overland Telegraph (1951)
-// Overland with Kit Carson (1939)
-// Overlord: (1975 & 2018)
-// Overman (2015)
-// Overnight Delivery (1998)
-// Overnight Sensation (1932)
-// Overnight: (1985 & 2003)
-// Overpass (2015)
-// Override (1994)
-// Overture to The Merry Wives of Windsor (1953)
-// Overture: (1958 & 1965)
-// Owd Bob: (1924, 1938 & 1998)
-// Owl (2003)
-// Owl and the Sparrow (2007)
-// Owning Mahowny (2003)
-// Oxford Blues (1984)
-// Oxhide (2005)
-// Oy Vey! My Son Is Gay!! (2009)
-// Oye Hoye Pyar Ho Gaya (2013)
-// Oye Kuch Kar Guzar (2016)
-// Oye Lucky! Lucky Oye! (2008)
-// Oye! (2009)
-// Oyee (2016)
-// Oyster Farmer (2004)
-// Oyster Village (1972)
-// Oysters at Nam Kee's (2002)
-// Oz (1976)
-// Oz the Great and Powerful (2013)
-// OzLand (2014)
-// Ozhivudivasathe Kali (2015)
-// Ozhivukaalam (1985)
-// Ozhukkinethire (1976)
-// Ozone (1993)
-// Ozzy (2016)
-// P.S. (2004)
-// P.S. I Love You (2008)
-// P.S. Your Cat Is Dead (2002)
-// P2 (2007)
-// PCU (1994)
-// PR Girls (1998)
-// PT 109 (1963)
-// Paan Singh Tomar (2012)
-// Pacific Heights (1990)
-// Pacific Rim (2013)
-// Pacific Rim Uprising (2018)
-// Pack Up Your Troubles (1932)
-// Padre Padrone (1977)
-// Pagal Nilavu (1985)
-// Paheli (2005)
-// Paid in Full: (1919, 1950 & 2002)
-// Pain & Gain (2013)
-// Painful Indifference (1987)
-// Painkiller Jane (2005 TV)
-// Paint Your Wagon (1969)
-// Painted Angels (1997)
-// Paisà (1946)
-// Pajama Party (1964)
-// Pale Flower (1964)
-// Pale Moon (2014)
-// Pale Rider (1985)
-// Palindromes (2004)
-// Palmetto (1998)
-// Palo Alto (2013 film) (2013)
-// Pan's Labyrinth (2006)
-// Pan: (1922, 1995 & 2015)
-// Panama Hattie (1942)
-// Panda! Go, Panda! (1972)
-// Pandaemonium (2000)
-// Pandemonium (1982)
-// Pandora and the Flying Dutchman (1951)
-// Pandora's Box: (1929 & 2008)
-// Pandorum (2009)
-// Panic High School (1978)
-// Panic Room (2002)
-// Panic in Year Zero! (1962)
-// Panic in the Streets (1950)
-// Panic: (1928, 1963, 1982 & 2000)
-// Panther (1995)
-// Paparazzi: (1998 & 2004)
-// Paper Clips Project (2004)
-// Paper Heart (2009)
-// Paper Lion (1968)
-// Paper Moon (1973)
-// Paper Towns (1973)
-// Paperboys (2011)
-// Paperhouse (1989)
-// Papillon: (1973 & 2018)
-// Pappa ante Portas (1991)
-// Paprika: (2006 & 1991)
-// ParaNorman (2012)
-// Parade: (1974 & 2009)
-// Paradise Canyon (1935)
-// Paradise Lost 2: Revelations (2000)
-// Paradise Lost 3: Purgatory (2011)
-// Paradise Lost: The Child Murders at Robin Hood Hills (1996)
-// Paradise Murdered (2007)
-// Paradise Now (2005)
-// Paradise Road: (1936 & 1997)
-// Paradise, Hawaiian Style (1966)
-// Paradise: (1982 & 1991)
-// Paradox: (2010 TV, 2016 & 2017)
-// Paragraph 175 (2000)
-// Paranoia 1.0 (2004)
-// Paranoia: (1967, 1969, 1970 & 2013)
-// Paranoid Park (2007)
-// Paranoid: (2000 horror & 2000 thriller)
-// Paranormal Activity (2007)
-// Paranormal Activity 2 (2010)
-// Paranormal Activity 2: Tokyo Night (2010)
-// Paranormal Activity 3 (2011)
-// Paranormal Activity 4 (2012)
-// Paranormal Activity: The Ghost Dimension (2015)
-// Paranormal Activity: The Marked Ones (2014)
-// Paranormal Entity (2011)
-// Parasite (1982)
-// Parasyte: Part 1 (2014)
-// Parasyte: Part 2 (2015)
-// Pardes (1997)
-// Pardners (1956)
-// Pardon My Sarong (1942)
-// Pardon Us (1931)
-// Parent Trap III (1989 TV)
-// Parent Trap: Hawaiian Honeymoon (1989 TV)
-// Parental Guidance (2012)
-// Parenthood (1989)
-// Parents (1989)
-// Paris Holiday (2015)
-// Paris Is Burning (1990)
-// Paris Qui Dort (1926)
-// Paris, Texas (1984)
-// Paris, When It Sizzles (1964)
-// Paris, je t'aime (2006)
-// Parker: (1984 & 2013)
-// Parthale Paravasam (2001)
-// Partie de cartes (1895)
-// Parting Glances (1986)
-// Partner: (1968, 2007 & 2008)
-// Partners: (1932, 1982 & 2009)
-// Parts: The Clonus Horror (1979)
-// Party Girl: (1958 & 1995)
-// Party Monster: (1998 & 2003)
-// Pass the Gravy (1928)
-// Passage to Marseille (1944)
-// Passages (2004)
-// Passchendaele (2008)
-// Passenger 57 (1992)
-// Passenger: (1963 & 2009)
-// Passengers: (2008 & 2016)
-// Passion Fish (1992)
-// Passion Play (2011)
-// Passion: (1925, 1954, 1982, 1998, 1999, 2005 & 2012)
-// Passionada (2002)
-// Passions (1994)
-// Passport to Paris (1999)
-// Passport to Pimlico (1948)
-// Pat Garrett and Billy the Kid (1973)
-// Pat and Mike (1952)
-// Patch Adams (1998)
-// Paternity (1981)
-// Path to War (2002)
-// Pather Panchali (1955)
-// Pathfinder: (1987 & 2007)
-// Pathology (2008)
-// Paths of Glory (1957)
-// Patlabor the Movie (1989)
-// Patriot Games (1992)
-// Patriotism (1966)
-// Patriots Day (2016)
-// Patti Smith: Dream of Life (2008)
-// Patton (1970)
-// Patty Hearst (1988)
-// Paul (2011)
-// Paul Blart: Mall Cop (2009)
-// Paul Blart: Mall Cop 2 (2015)
-// Paulie (1998)
-// Pauline at the Beach (1983)
-// Pauly Shore Is Dead (2003)
-// Pauvre Pierrot (1892)
-// Pay Day: (1918, 1922 & 1972)
-// Pay It Forward (2000)
-// Payback: (1995, 1999, 2010 & 2012)
-// Paycheck (2003)
-// Payday (1972)
-// Payment on Demand (1951)
-// Peace on Earth (1939)
-// Peaceful Warrior (2006)
-// Peacemaker (1990)
-// Peacock: (2005 & 2009)
-// Pearl Harbor (2001)
-// Peau d'Âne (1970)
-// Pecker (1998)
-// Pedicab Driver (1989)
-// Pee-wee's Big Adventure (1985)
-// Pee-wee's Big Holiday (2016)
-// Peeping Tom (1960)
-// Peepli Live (2010)
-// Peggy Sue Got Married (1986)
-// Peking Opera Blues (1986)
-// Pelican Man (2004)
-// Pelle the Conqueror (1987)
-// Peluca (2003)
-// Penelope: (1966 & 2008)
-// Penitentiary: (1938 & 1979)
-// Penn & Teller Get Killed (1989)
-// Pennies from Heaven: (1936 & 1981)
-// Penny Dreadful (2006)
-// Penny Points to Paradise (1951)
-// Penny Serenade (1941)
-// Penrod and Sam: (1923, 1931 & 1937)
-// People I Know (2002)
-// People Like Us (2012)
-// People Will Talk (1951)
-// People on Sunday (1930)
-// Pepe (1960)
-// Peppa Pig (2004)
-// Peppermint Candy (2000)
-// Perazhagan (2004)
-// Perceval le Gallois (1978)
-// Percy Jackson & the Olympians: The Lightning Thief (2010)
-// Percy Jackson: Sea of Monsters (2013)
-// Percy: (1971 & 1989)
-// Perdita Durango (1997)
-// Perfect (1985)
-// Perfect Blue (1997)
-// Perfect Blue: Yume Nara Samete (2002)
-// Perfect Creature (2007)
-// Perfect Day: (1929 & 2005 TV)
-// Perfect Imperfection (2016)
-// Perfect Sense (2011)
-// Perfect Stranger (2007)
-// Performance (1968)
-// Perfume (2001)
-// Perfume: The Story of a Murderer (2006)
-// Perhaps Love: (1987 & 2005)
-// Permanent Midnight (1998)
-// Permanent Record (1988)
-// Permanent Vacation: (1980 & 2007)
-// Perpetual Motion (2005)
-// Persepolis (2007)
-// Persona (1966)
-// Personal Best (1982)
-// Personal Services (1987)
-// Personal Velocity: Three Portraits (2002)
-// Persuasion: (1995 TV & 2007 TV)
-// Pet Sematary Two (1992)
-// Pet Sematary: (1989 & 2019)
-// Petals on the Wind (2014)
-// Pete's Dragon: (1977 & 2016)
-// Pete's Meteor (1998)
-// Peter Pan: (1924, 1953 & 2003)
-// Peter and the Wolf: (1946 & 2006)
-// Pets or Meat: The Return to Flint (1992) (TV)
-// Pettin' in the Park (1934)
-// Petulia (1968)
-// Peyton Place (1957)
-// Phaedra (1962)
-// Phantasm (1979)
-// Phantasm II (1988)
-// Phantasm III: Lord of the Dead (1994)
-// Phantasm IV: Oblivion (1998)
-// Phantasm: Ravager (2016)
-// Phantom Lady (1944)
-// Phantom of the Mall: Eric's Revenge (1989)
-// Phantom of the Megaplex (2000 TV)
-// Phantom of the Paradise (1974)
-// Phantom: (1922, 2002, 2013 & 2015)
-// Phantoms (1998)
-// Phase IV: (1974 & 2002)
-// Phat Girlz (2006)
-// Phenomena (1985)
-// Phenomenon (1996)
-// Phenomenon II (2003 TV)
-// Phil the Alien (2003)
-// Philadelphia (1993)
-// Phileine Says Sorry (2003)
-// Philomena (2013)
-// Philosophy of a Knife (2008)
-// Phineas and Ferb the Movie: Across the 2nd Dimension(2011)
-// Phir Milenge (2004)
-// Phoebe in Wonderland (2009)
-// Phone (2002)
-// Phone Booth (2002)
-// Photographing Fairies (1997)
-// Phurbu & Tenzin (2014)
-// Pi (1998)
-// Picasso at the Lapin Agile (2008)
-// Piccadilly (1929)
-// Picking Up the Pieces (2000)
-// Pickpocket (1959)
-// Pickup on South Street (1953)
-// Picnic at Hanging Rock (1975)
-// Picnic: (1955, 1975 & 1996)
-// Picture Bride (1995)
-// Picture Perfect: (1995 & 1997)
-// Piece of Cake (2015)
-// Pieces (1982)
-// Pieces of April (2003)
-// Pied Piper of Cleveland (1955)
-// Pierrepoint (2006)
-// Pierrot le fou (1965)
-// Pietà (2012)
-// Piglet's Big Movie (2003)
-// Pigs and Battleships (1961)
-// Pigs in a Polka (1943)
-// Pigs is Pigs (1937)
-// Pigskin Parade (1936)
-// Pigsty (1969)
-// Pilgrim (2000)
-// Pillow Talk (1959)
-// Pimpernel Smith (1941)
-// Pin (1989)
-// Pina (2011)
-// Pineapple Express (2008)
-// Ping Pong (2002)
-// Pingu (1986)
-// Pink (2011 & 2016)
-// Pink Dream (1932)
-// Pink Five (2002)
-// Pink Five Strikes Back (2004)
-// Pink Flamingos (1972)
-// Pink Floyd The Wall (1982)
-// Pink Floyd: Live at Pompeii (1972)
-// Pink and Gray (2016)
-// Pinky (1949)
-// Pinocchio 3000 (2004)
-// Pinocchio and the Emperor of the Night (1987)
-// Pinocchio in Outer Space (1965)
-// Pinocchio's Revenge (1996)
-// Pinocchio: (1940, 1967, 1972, 1992, 2002, 2008 & 2012)
-// Pioneer Marshal (1949)
-// Pippi Longstocking (1997)
-// Piranha 3DD (2012)
-// Piranha II: The Spawning (1982)
-// Piranha: (1978, 1995 & 2010)
-// Pirates II: Stagnetti's Revenge (2008)
-// Pirates of Silicon Valley (1999) (TV)
-// Pirates of the Caribbean: At World's End (2007)
-// Pirates of the Caribbean: Dead Man's Chest (2006)
-// Pirates of the Caribbean: Dead Men Tell No Tales (2017)
-// Pirates of the Caribbean: On Stranger Tides (2011)
-// Pirates of the Caribbean: The Curse of the Black Pearl (2003)
-// Pirates: (1986 & 2005)
-// Pisaj (2004)
-// Pistachio – The Little Boy That Woodn't (2010)
-// Pistol Opera (2001)
-// Pitch Black (2000)
-// Pitch Perfect (2012)
-// Pitch Perfect 2 (2015)
-// Pitch Perfect 3 (2017)
-// Pitfall: 1948 & 1962)
-// Pithamagan (2003)
-// Pixel Perfect (2004) (TV)
-// Pixote: The Law of the Weakest (1981)
-// Pizza Man: (1991 & 2011)
-// Piñero (2001)
-// Place des Cordeliers à Lyon (1895)
-// Places in the Heart (1984)
-// Plague: (1979 & 2014)
-// Plan 9 from Outer Space (1959)
-// Plane Crazy (1928)
-// Planes (2013)
-// Planes, Trains & Automobiles (1987)
-// Planes: Fire & Rescue (2014)
-// Planet 51 (2009)
-// Planet Terror (2007)
-// Planet of the Apes: (1968 & 2001)
-// Planet of the Vampires (1965)
-// Plants Vs Zombies (2006)
-// Platform: (1993 & 2000)
-// Platinum Blonde (1931)
-// Platoon (1986)
-// Play Dirty (1969)
-// Play It Again, Sam (1972)
-// Play It to the Bone (2000)
-// Play Misty for Me (1971)
-// Playing God (1997)
-// Playing by Heart (1999)
-// Playing for Keeps: (1986 & 2012)
-// Playtime (1967)
-// Pleasant Goat and Big Big Wolf – Amazing Pleasant Goat (2015)
-// Pleasantville (1998)
-// Please Don't Eat the Daisies (1960)
-// Please Give (2010)
-// Pleasure Factory (2007)
-// Plunder of Peach and Plum (1934)
-// Plunkett & Macleane (1999)
-// Pocahontas II: Journey to a New World (1998)
-// Pocahontas: (1910, 1994 & 1995)
-// Pocahontas: The Legend (1995)
-// Pocketful of Miracles (1961)
-// Podium (2004)
-// Point Blank: (1967 & 2010)
-// Point Break: (1991 & 2015)
-// Point of No Return: (1993 & 1995)
-// Poison (1991)
-// Poison Ivy II: Lily (1996)
-// Poison Ivy: (1985 TV & 1992)
-// Poison Ivy: The New Seduction (1997)
-// Poison Ivy: The Secret Society (2008 TV)
-// Pokrovsky Gates (1982)
-// Pokémon 3: The Movie (2001)
-// Pokémon 4Ever (2002)
-// Pokémon Heroes (2003)
-// Pokémon Ranger and the Temple of the Sea (2007)
-// Pokémon the Movie: Black - Victini and Reshiram (2011)
-// Pokémon the Movie: Diancie and the Cocoon of Destruction (2014)
-// Pokémon the Movie: Genesect and the Legend Awakened (2013)
-// Pokémon the Movie: Hoopa and the Clash of Ages (2015)
-// Pokémon the Movie: I Choose You! (2017)
-// Pokémon the Movie: Kyurem vs. the Sword of Justice (2012)
-// Pokémon the Movie: Volcanion and the Mechanical Marvel (2016)
-// Pokémon the Movie: White - Victini and Zekrom (2011)
-// Pokémon: Arceus and the Jewel of Life (2009)
-// Pokémon: Destiny Deoxys (2005)
-// Pokémon: Giratina and the Sky Warrior (2009)
-// Pokémon: Jirachi Wishmaker (2004)
-// Pokémon: Lucario and the Mystery of Mew (2006)
-// Pokémon: Mewtwo Returns (2001)
-// Pokémon: The First Movie (1999)
-// Pokémon: The Mastermind of Mirage Pokémon (2006 TV)
-// Pokémon: The Movie 2000 (2000)
-// Pokémon: The Rise of Darkrai (2008)
-// Pokémon: Zoroark: Master of Illusions (2011)
-// Pola X (1999)
-// Polar (2019)
-// Polar Adventure (2015)
-// Police Academy (1984)
-// Police Academy 2: Their First Assignment (1985)
-// Police Academy 3: Back in Training (1986)
-// Police Academy 4: Citizens on Patrol (1987)
-// Police Academy 5: Assignment Miami Beach (1988)
-// Police Academy 6: City Under Siege (1989)
-// Police Academy 7: Mission to Moscow (1994)
-// Police Story (1987)
-// Police Story (1996)
-// Police Story 2 (1988)
-// Police Story 2 (2007)
-// Police Story 2013 (2013)
-// Police Story 3 (2011)
-// Police Story 3: Super Cop (1992)
-// Police Story 4: First Strike (1996)
-// Polish Wedding (1998)
-// Pollock (2000)
-// Poltergeist II: The Other Side (1986)
-// Poltergeist III (1988)
-// Poltergeist: (1982 & 2015)
-// Polyester (1981)
-// Pom Poko (1994)
-// Pompeii (2014)
-// Ponette (1997)
-// Pontypool (2009)
-// Ponyo (2009)
-// Pooh's Grand Adventure: The Search for Christopher Robin (1997)
-// Pooh's Heffalump Halloween Movie (2005)
-// Pooh's Heffalump Movie (2005)
-// Pool Sharks (1915)
-// Poolhall Junkies (2003)
-// Pootie Tang (2001)
-// Pop In Q (2016)
-// Pop Skull (2007)
-// Popeye (1980)
-// Popeye the Sailor Meets Ali Baba's Forty Thieves (1937)
-// Popeye the Sailor Meets Sindbad the Sailor (1936)
-// Population 436 (2006)
-// Porco Rosso (1992)
-// Porgy and Bess (1959)
-// Pork Chop Hill (1959)
-// Porklips Now (1980)
-// Porky's (1982)
-// Porky's Duck Hunt (1937)
-// Porky's II: The Next Day (1984)
-// Porky's Revenge (1985)
-// Pornmaking for Dummies (2007)
-// Pornostar (1998)
-// Port of Shadows (1938)
-// Portrait of a Beauty (2008)
-// Poseidon (2006)
-// Positive: (1990, 2007 & 2008)
-// Positive: A Journey Into AIDS (1995)
-// Possessed: (1947 & 2006)
-// Possession: (1981 & 2002)
-// Post Grad (2009)
-// Postal (2007)
-// Postcards from the Edge (1990)
-// Postman (1995)
-// Postmen in the Mountains (1999)
-// Poultrygeist: Night of the Chicken Dead (2008)
-// Pound Puppies and the Legend of Big Paw (1988)
-// Powaqqatsi (1988)
-// Powder (1995)
-// Powder Blue (2009)
-// Power Rangers (2017)
-// Power of the Press (1948)
-// Powwow Highway (1989)
-// Practical Magic (1998)
-// Prahlada (1941)
-// Prancer (1989)
-// Prasanna (1950)
-// Prayer of the Rollerboys (1991)
-// Preaching to the Perverted (1997)
-// Precious (2009)
-// Predator (1987)
-// Predator 2 (1990)
-// Predators (2010)
-// Prefontaine (1997)
-// Prelude to a Kiss (1992)
-// Premature Burial (1962)
-// Premium Rush (2012)
-// Premonition: (2004 & 2007)
-// Preservation (2014)
-// President McKinley Inauguration Footage (1901)
-// Presumed Innocent (1990)
-// Pretty Baby (1978)
-// Pretty Persuasion (2006)
-// Pretty Poison (1968)
-// Pretty Woman (1990)
-// Pretty in Pink (1986)
-// Prey for Rock & Roll (2003)
-// Prey: (2007 & 2009)
-// PriPara Mi~nna no Akogare Let's Go PriPari (2016)
-// Priceless: (2006 & 2016)
-// Prick Up Your Ears (1987)
-// Pride Divide (1997)
-// Pride and Glory (2008)
-// Pride and Prejudice and Zombies (2016)
-// Pride and Prejudice: (1940, 2003 & 2005)
-// Pride and Prejudice: (1955, 1998, 2004, 2007 & 2014)
-// Pride of the Bowery (1941)
-// Priest: (1994 & 2011)
-// Primal Fear (1996)
-// Primary Colors (1998)
-// Prime (2005)
-// Prime Cut (1972)
-// Primer (2004)
-// Prince Vladimir (2006)
-// Prince of Central Park (2000)
-// Prince of Darkness (1987)
-// Prince of Persia: The Sands of Time (2010)
-// Prince of Space (1959)
-// Prince of the City (1981)
-// Princesa (2001)
-// Princesas (2005)
-// Princess Caraboo (1994)
-// Princess Iron Fan (1941)
-// Princess Mononoke (1999)
-// Prison (1989)
-// Prisoner of Honor (1991) (TV)
-// Prisoners (2013)
-// Private (2004)
-// Private Benjamin (1980)
-// Private Lessons (1981)
-// Private Parts: (1972 & 1997)
-// Private Resort (1985)
-// Private School (1983)
-// Private's Progress (1956)
-// Priyamana Thozhi (2003)
-// Prizzi's Honor (1985)
-// Problem Child (1990)
-// Problem Child 2 (1991)
-// Problem Child 3 (1995) (TV)
-// Procès de Jeanne d'Arc (1962)
-// Professori Uuno D.G. Turhapuro (1975)
-// Program (2003)
-// Project A (1983)
-// Project A Part II (1987)
-// Project Grizzly (1996)
-// Project Makeover (2007)
-// Project X: (1987 & 2012)
-// Prom Night III: The Last Kiss (1990)
-// Prom Night IV: Deliver Us from Evil (1991)
-// Prom Night: (1980 & 2008)
-// Prom Queen: The Marc Hall Story (2004) (TV)
-// Prometheus (2012)
-// Promised Land: (1987, 2002 & 2012)
-// Proof of Life (2000)
-// Proof: (1991 & 2005)
-// Prophecy (1979)
-// Prospero's Books (1991)
-// Protected (1975)
-// Protection: (1929 & 2001)
-// Protector (2009)
-// Protocol (1984)
-// Providence (1977)
-// Provoking Laughter (2016)
-// Prozac Nation (2003)
-// Psycho II (1983)
-// Psycho III (1986)
-// Psycho IV: The Beginning (1990 TV)
-// Psycho-Pass: The Movie (2015)
-// Psycho: (1960 & 1998)
-// Psychotropica (2009)
-// Pubescence (2011)
-// Pubescence 3 (2012)
-// Public Access (1993)
-// Public Enemies: (1941, 1996 & 2009)
-// Public Enemy (2002)
-// Puddle Cruiser (1996)
-// Puff, Puff, Pass (2006)
-// Pulp Fiction (1994)
-// Pulp: (1972 & 2012)
-// Pulse: (1988, 1995, 2001 & 2006)
-// Pump Up the Volume (1990)
-// Pumping Iron (1986)
-// Pumpkin (2002)
-// Pumpkinhead (1988)
-// Pumpkinhead II: Blood Wings (1994)
-// Pumpkinhead: Ashes to Ashes (2006 TV)
-// Pumpkinhead: Blood Feud (2007 TV)
-// Punch Drunks (1934)
-// Punch-Drunk Love (2002)
-// Punchline (1988)
-// Punguna (1926)
-// Punisher: War Zone (2007)
-// Punishment Park (1980)
-// Puppet Master (1989)
-// Puppet Master 4 (1993)
-// Puppet Master 5: The Final Chapter (1994)
-// Puppet Master II (1991)
-// Puppet Master III: Toulon's Revenge (1991)
-// Puppet Master X: Axis Rising (2012)
-// Puppet Master vs Demonic Toys (2004)
-// Puppet Master: Axis Termination (2017)
-// Puppet Master: Axis of Evil (2010)
-// Puppet Master: The Legacy (2003)
-// Pure (2002)
-// Pure Country (1992)
-// Pure Country 2: The Gift (2010)
-// Pure Country: Pure Heart (2017)
-// Pure Luck (1991)
-// Purple Butterfly (2003)
-// Purple Noon (1960)
-// Purple Rain (1984)
-// Purple Sunset (2001)
-// Pursued (1947)
-// Pursuit to Algiers (1945)
-// Push (2009)
-// Pusher II (2004)
-// Pusher III (2005)
-// Pusher: (1996 & 2012)
-// Pushing Hands (1992)
-// Pushing Tin (1999)
-// Pushpaka Vimana (1988)
-// Puss in Boots: (1922, 1961, 1969, 1988, 1999 & 2011)
-// Putney Swope (1969)
-// Puttin' on the Ritz (1930)
-// Puzzle: (1974, 2006, 2010 & 2014)
-// Pyaasa: (1957 & 2002)
-// Pygmalion: (1935, 1937, 1938, 1948 & 1983)
-// Pyongyang Nalpharam (2006)
-// Pépé le Moko (1937)
-// Püha Tõnu kiusamine (2009)
-// Q Planes (1939)
-// Q&A (1990)
-// Q-Bec My Love (1970)
-// Q.R.R (Quien resulte responsable) (1970)
-// Q: (1982 & 2011)
-// Qafqaz və Merkuri cəmiyyətinin paroxodunun limandan yola düşməsi (1898)
-// Qahar (1997)
-// Qaid (1975)
-// Qaidi Band (2017)
-// Qaidi No. 911 (1959)
-// Qaidi: (1940, 1957, 1984, 1986 & 2002)
-// Qasam (1993)
-// Qatil Aur Ashiq (1986)
-// Qayamat (1983)
-// Qayamat Se Qayamat Tak (1998)
-// Qayamat – A Love Triangle In Afghanistan (2003)
-// Qayamat: City Under Threat (2003)
-// Qerq (2007)
-// Qeysar (1969)
-// Qila (1998)
-// Qimmit, a Clash of Two Truths (2010)
-// Qissa (2013)
-// Qissa Panjab (2015)
-// Qissa-e Parsi: The Parsi Story (2014)
-// Qiu Jin (1983)
-// Qortimet e vjeshtës (1982)
-// Qu Yuan (1977)
-// Quack Shot (1954)
-// Quacker Tracker (1967)
-// Quackodile Tears (1962)
-// Quackser Fortune Has a Cousin in the Bronx (1970)
-// Quad God (2000)
-// Quadrille: (1938 & 1997)
-// Quadrophenia (1979)
-// Quai des Orfèvres (1947)
-// Quality Street: (1927 & 1937)
-// Quality Time (2017)
-// Quality of Life (2004)
-// Qualquer Gato Vira-Lata (2011)
-// Qualunquemente (2011)
-// Quand j'avais cinq ans je m'ai tué (1994)
-// Quando Elas Querem (1925)
-// Quando Eu Era Vivo (2014)
-// Quando c'era lui... caro lei! (1978)
-// Quando la coppia scoppia (1981)
-// Quanto sei bella Roma (1959)
-// Quanto è bello lu murire acciso (1976)
-// Quantrill's Raiders (1958)
-// Quantum Apocalypse (2010)
-// Quantum Hoops (2007)
-// Quantum Love (2014)
-// Quantum Quest: A Cassini Space Odyssey (2010)
-// Quantum of Solace (2008)
-// Quarantine 2: Terminal (2011)
-// Quarantine L.A. (2013)
-// Quarantine: (1923, 1983, 2000 & 2008)
-// Quarantined (1970)
-// Quarta Divisão (2013)
-// Quarterback Princess (1981)
-// Quartet of Five (1949)
-// Quartet: (1948, 1981 & 2012)
-// Quartier V.I.P. (2005)
-// Quartiere (1987)
-// Quasi at the Quackadero (1975)
-// Quasimodo d'El Paris (1999)
-// Quatermass 2 (1957)
-// Quatermass and the Pit (1967)
-// Quatre-vingt-treize (1920)
-// Quattro bravi ragazzi (1993)
-// Quattro rose rosse (1952)
-// Quax in Africa (1947)
-// Quax the Crash Pilot (1941)
-// Quay (2015)
-// Que Dios me perdone (1948)
-// Que Sera (2014)
-// Que la barque se brise, que la jonque s'entrouvre (2001)
-// Que me toquen las golondrinas (1957)
-// Que sera, sera (2002)
-// Que viva la lucha (2007)
-// Quebec (1951)
-// Quebec – Path of Conquest (1942)
-// Queberc: (1951 & 2007)
-// Quebracho (1974)
-// Queen & Slim (2019)
-// Queen Bee (1955)
-// Queen Christina (1933)
-// Queen Draga (1920)
-// Queen High (1930)
-// Queen Kelly (1929)
-// Queen Kong (1976)
-// Queen Louise: (1927 & 1957)
-// Queen Margot: (1954 & 1994)
-// Queen Mimi (2015)
-// Queen Sacrifice (1988)
-// Queen Sized (2008)
-// Queen X (1917)
-// Queen and Country (2014)
-// Queen for a Day (1951)
-// Queen o'Diamonds (1926)
-// Queen of Babylon (1954)
-// Queen of Blood: (1966 & 2014)
-// Queen of Broadway (1942)
-// Queen of Burlesque (1946)
-// Queen of Cactus Cove (2005)
-// Queen of Carthage (2014)
-// Queen of Clubs (1966)
-// Queen of Earth (2015)
-// Queen of Fashion (1929)
-// Queen of Hearts: (1936 & 1989)
-// Queen of Housewives (2009)
-// Queen of Katwe (2016)
-// Queen of Media (2008)
-// Queen of Montreuil (2012)
-// Queen of Outer Space (1958)
-// Queen of Reversals (2010)
-// Queen of Sports (1934)
-// Queen of Temple Street (1990)
-// Queen of the Amazons (1947)
-// Queen of the Arena (1952)
-// Queen of the Boulevards (1927)
-// Queen of the Chantecler (1962)
-// Queen of the Damned (2002)
-// Queen of the Desert (2015)
-// Queen of the Gas Station (1963)
-// Queen of the Mob (1940)
-// Queen of the Mountain (2005)
-// Queen of the Mountains (2014)
-// Queen of the Night Clubs (1929)
-// Queen of the Night: (1931 German, 1931 Italian, 1951, 2001 & 2013)
-// Queen of the Pirates (1960)
-// Queen of the Road (1984)
-// Queen of the Scala (1937)
-// Queen of the Sea (1918)
-// Queen of the Seas (1961)
-// Queen of the Stardust Ballroom (1975)
-// Queen of the Streets (1921)
-// Queen of the Sun (2010)
-// Queen of the Tabarin Club (1960)
-// Queen of the Yukon (1940)
-// Queen to Play (2009)
-// Queen's Evidence (1919)
-// Queen: (2014 & 2018)
-// Queenie of Hollywood (1931)
-// Queens (2005)
-// Queens Logic (1991)
-// Queens of Langkasuka (2008)
-// Queensland (1976)
-// Queer Boys and Girls on the Shinkansen (or ... on the Bullet Train) (2004)
-// Queer Cargo (1938)
-// Queer China (2008)
-// Queer Duck: The Movie (2006)
-// Queer Hutterite (2016)
-// Queercore: How to Punk a Revolution (2017)
-// Quel fantasma di mio marito (1950)
-// Quel movimento che mi piace tanto (1977)
-// Quelle drôle de gosse! (1935)
-// Quelli che soffrono per voi (1951)
-// Quem Matou Pixote? (1996)
-// Quemar las Naves (2007)
-// Querelle (1982)
-// Quest for Camelot (1998)
-// Quest for Fire (1981)
-// Quest for Love: (1971 & 1988)
-// Quest for Zhu (2011)
-// Quest for the Lost City (1955)
-// Quest for the Mighty Sword (1991)
-// Quest of the Delta Knights (1993)
-// Quest: (1996, 2006 & 2017)
-// Questa volta parliamo di uomini (1965)
-// Questi giorni (2016)
-// Questi pazzi, pazzi italiani (1965)
-// Question 7 (1961)
-// Question in Details (2010)
-// Questions à la terre natale (2006)
-// Questo amore ai confini del mondo (1960)
-// Questo e Quello (1983)
-// Questo pazzo, pazzo mondo della canzone (1965)
-// Qui c'est les plus forts? (2015)
-// Qui comincia l'avventura (1975)
-// Quick Change: (1990 & 2013)
-// Quick Gun Murugun (2009)
-// Quick Millions: (1931 & 1939)
-// Quick Money (1937)
-// Quick Pick (2006)
-// Quick Trigger Lee (1931)
-// Quick Triggers (1928)
-// Quick, Before It Melts (1964)
-// Quick, Let's Get Married (1964)
-// Quick: (1932 & 2011)
-// Quicker'n a Wink (1940)
-// Quickie Express (2007)
-// Quicksand: (1918, 1950, 2002 & 2003)
-// Quicksand: No Escape (1992)
-// Quicksands: (1913 & 1923)
-// Quicksilver (1986)
-// Quicksilver Highway (1997)
-// Quid Pro Quo (2008)
-// Quiero llenarme de ti (1969)
-// Quiero ser (I want to be...) (2000)
-// Quiet Bliss (2014)
-// Quiet Chaos (2008)
-// Quiet City (2007)
-// Quiet Comes the Dawn (2019)
-// Quiet Cool (1986)
-// Quiet Days in August (1991)
-// Quiet Days in Clichy: (1970 & 1990)
-// Quiet Days in Hollywood (1997)
-// Quiet Killer (1992)
-// Quiet Killing (2018)
-// Quiet Night In (2005)
-// Quiet Nights of Blood and Pain (2009)
-// Quiet Please, Murder (1942)
-// Quiet Riot - Well Now You're Here (2015)
-// Quiet Wedding (1941)
-// Quiet Weekend (1946)
-// Quiet Zone (2015)
-// Quigley Down Under (1990)
-// Quill (2004)
-// Quills (2000)
-// Quilombo (1984)
-// Quinceañera (2006)
-// Quincy (2018)
-// Quincy Adams Sawyer (1922)
-// Quincy's Quest (1979)
-// Quinneys: (1919 & 1927)
-// Quintet (1979)
-// Quints (2000) (TV)
-// Quisiera Ser Hombre (1988)
-// Quit Staring at My Plate (2016)
-// Quitters (2015)
-// Quitting (2001)
-// Quiz Show (1994)
-// Quiéreme porque me muero (1953)
-// Quo Vadis, Baby? (2005)
-// Quo Vadis: (1913, 1924, 1951 & 2001)
-// Quo Vado? (2016)
-// Quod Erat Demonstrandum (2013)
-// Qurbani (1980)
-// Qurbani Jatt Di (1990)
-// Qurbani Rang Layegi (1991)
-// Qurbaniyaan (2000)
-// R-Point (2004)
-// R. P. M. (1970)
-// R... Rajkumar (2013)
-// R.I.P.D. (2013)
-// R.O.T.O.R. (1989)
-// R.S.V.P.: (1984 & 2002)
-// R2B: Return to Base (2012)
-// REC (2007)
-// REC 2 (2009)
-// REC 3: Genesis (2012)
-// REC 4: Apocalypse (2014)
-// RED 2 (2013)
-// RFK (2002)
-// RFK Must Die (2007)
-// RIP? (2017)
-// RK Nagar (TBD)
-// RKO 281 (1999)
-// RPM (1998)
-// RR (2007)
-// RSVP (1991)
-// RV (2006)
-// RV: Resurrected Victims (2017)
-// Ra.One (2011)
-// Rab Ne Bana Di Jodi (2008)
-// Rabbit Fire (1951)
-// Rabbit Hero (2015)
-// Rabbit Hole (2011)
-// Rabbit Hood (1949)
-// Rabbit Seasoning (1952)
-// Rabbit Test (1978)
-// Rabbit of Seville (1950)
-// Rabbit, Run (1970)
-// Rabbit-Proof Fence (2002)
-// Rabid (1977)
-// Race (2008)
-// Race 2 (2013)
-// Race 3 (2018)
-// Race Riot (1929)
-// Race for Your Life, Charlie Brown (1977)
-// Race the Sun (1996)
-// Race to Nowhere (2009)
-// Race to Space (2002)
-// Race to Witch Mountain (2009)
-// Race with the Devil (1975)
-// Race: (2011, 2013 & 2016)
-// Rachel Getting Married (2008)
-// Rachel and the Stranger (1948)
-// Rachel, Rachel (1968)
-// Racing Stripes (2005)
-// Racing with the Moon (1984)
-// Racketeer Rabbit (1946)
-// Radio Days (1987)
-// Radio Flyer (1992)
-// Radio: (2003, 2009 & 2013)
-// Radioland Murders (1994)
-// Raggedy Ann & Andy: A Musical Adventure (1977)
-// Raging Bull (1980)
-// Ragtime (1981)
-// Raiders of the Living Dead (1986)
-// Raiders of the Lost Ark (1981)
-// Railroad Tigers (2016)
-// Railroaded! (1947)
-// Rain Clouds over Wushan (1995)
-// Rain Man (1988)
-// Rain: (1932 & 2001)
-// Rainbow Bird and Monster Man (2002)
-// Rainbow Brite and the Star Stealer (1985)
-// Rainbow Song (2006)
-// Rainbow: (1996 & 2005)
-// Raincoat (2004)
-// Raintree County (1957)
-// Raise Your Voice (2004)
-// Raise the Red Lantern (1991)
-// Raise the Titanic! (1980)
-// Raised from Dust (2005)
-// Raising Arizona (1987)
-// Raising Cain (1992)
-// Raising Helen (2004)
-// Raising Victor Vargas (2003)
-// Raja Harishchandra (1913)
-// Rajini Murugan (2015)
-// Rakthabandham (1951)
-// Rally 'Round the Flag, Boys! (1958)
-// Ralph Breaks the Internet (2018)
-// Rambo (2007)
-// Rambo III (1988)
-// Rambo: First Blood Part II (1985)
-// Ramona and Beezus (2010)
-// Rampage: (1963, 1987, 2006, 2009 & 2018)
-// Rampart (2012)
-// Ran (1985)
-// Rancho Notorious (1952)
-// Random Encounter (1998)
-// Random Harvest (1942)
-// Random Hearts (1999)
-// Rang De Basanti (2006)
-// Range War (1939)
-// Rango (2011)
-// Ransom (1996)
-// Ransom! (1956)
-// Rapa Nui (1994)
-// Rape Me (2000)
-// Rapid Fire (1992)
-// Rappin' (1985)
-// Rapunzel (2010)
-// Rare Exports: A Christmas Tale (2010)
-// Rasen (1998)
-// Rasganço (2001)
-// Rashōmon (1950)
-// Rasputin: Dark Servant of Destiny (1996)
-// Rat Race (2001)
-// Ratatouille (2007)
-// Ratcatcher (1999)
-// Rated X (2000)
-// Rattle and Hum (1988)
-// Ravenous (1999)
-// Raw Deal: (1948, 1977 & 1986)
-// Rawhead Rex (1987)
-// Ray (2004)
-// Razor Blade Smile (1998)
-// Razorback (1984)
-// Re-Animator (1985)
-// Re-cycle (2006)
-// ReLIFE (2017)
-// Reach for the Sky (1956)
-// Read It and Weep (2006) (TV)
-// Ready to Rumble (2000)
-// Real Genius (1985)
-// Real Life: (1979 & 2004)
-// Real Steel (2011)
-// Real Women Have Curves (2002)
-// Reality Bites (1994)
-// Reap the Wild Wind (1942)
-// Rear Window (1954)
-// Rebecca (1940)
-// Rebecca of Sunnybrook Farm: (1917, 1932 & 1938)
-// Rebel Without a Cause (1955)
-// Rebel: (1985 & 2012)
-// Rebels of the Neon God (1992)
-// Rebound (2005)
-// Recep İvedik 4 (2014)
-// Recess: School's Out (2001)
-// Red Amnesia (2014)
-// Red Beard (1965)
-// Red Cherry (1995)
-// Red Cliff: (2008 & 2009)
-// Red Corner (1997)
-// Red Dawn: (1984 & 2012)
-// Red Desert (1964)
-// Red Dog (2011)
-// Red Dragon (2002)
-// Red Dust (1932)
-// Red Eye (2005)
-// Red Firecracker, Green Firecracker (1994)
-// Red Heat (1988)
-// Red Hill (2010)
-// Red Hook Summer (2012)
-// Red Hot Riding Hood (1943)
-// Red Lights (2012)
-// Red Planet (2000)
-// Red Riding Hood: (1989, 2003, 2006 & 2011)
-// Red River (1948 & 2009)
-// Red River Valley: (1941 & 1997)
-// Red Road (2006)
-// Red Rock West (1992)
-// Red Scorpion (1989)
-// Red Sonja (1985)
-// Red Sorghum (1987)
-// Red State: (2006 & 2011)
-// Red Sun (1972)
-// Red Tails (2012)
-// Red-Headed Woman (1932)
-// Red: (2002, 2008 & 2010)
-// Redacted (2007)
-// Redbelt (2008)
-// Redemption: The Stan Tookie Williams Story (2004) (TV)
-// Redline (2007)
-// Redneck Zombies (1986)
-// Reds (1981)
-// Redskin (1929)
-// Reefer Madness: (1936 & 2005 TV)
-// Reeker (2006)
-// Reflections in a Golden Eye (1967)
-// Reform School Girls (1986)
-// Regarding Henry (1991)
-// Regeneration (1915)
-// Reign Over Me (2007)
-// Reign of Fire (2002)
-// Reign of the Supermen (2019)
-// Reincarnation (2006)
-// Reindeer Games (2000)
-// Relationship Dilemma (2015)
-// Relative Values (2000)
-// Religulous (2008)
-// Rembrandt (1936, 1942, 1999)
-// Remember Me (2010)
-// Remember the Night (1940)
-// Remember the Titans (2000)
-// Remo Williams: The Adventure Begins (1985)
-// Remorse at Death (1948)
-// Ren and Stimpy (1997)
-// Renaissance (2006)
-// Renaissance Man (1994)
-// Renaldo and Clara (1978)
-// Rendition (2007)
-// Renegade (2004)
-// Reno 911!: Miami (2007)
-// Rent (2005)
-// Rent-a-Cop (1987)
-// Repas de bébé (1895)
-// Repli-Kate (2002)
-// Replicant (2001)
-// Repo Chick (2009)
-// Repo Man (1984)
-// Repo Men (2010)
-// Repo! The Genetic Opera (2008)
-// Repossessed (1990)
-// Reptilian (1999)
-// Repulsion (1965)
-// Requiem for a Dream (2000)
-// Requiem for a Heavyweight (1962)
-// Rescue Dawn (2007)
-// Reservation Road (2007)
-// Reservoir Dogs (1992)
-// Resident Evil (2002)
-// Resident Evil: Afterlife (2010)
-// Resident Evil: Apocalypse (2004)
-// Resident Evil: Damnation (2012)
-// Resident Evil: Degeneration (2008)
-// Resident Evil: Extinction (2007)
-// Resident Evil: Retribution (2012)
-// Resident Evil: The Final Chapter (2016)
-// Resident Evil: Vendetta (2017)
-// Respiro (2002)
-// Ressha Sentai ToQger vs. Kyoryuger: The Movie (2015)
-// Rest Stop (2006)
-// Restoration (1995)
-// Restrepo (2010)
-// Resurrecting the Champ (2007)
-// Resurrection (1999)
-// Resurrection of the Little Match Girl (2002)
-// Retro Puppet Master (1999)
-// Retroactive (1997)
-// Return from Witch Mountain (1978)
-// Return of Sabata (1971)
-// Return of the Blind Dead (1975)
-// Return of the Fly (1959)
-// Return of the Jedi (1983)
-// Return of the Killer Tomatoes! (1988)
-// Return of the Living Dead 3 (1993)
-// Return of the Living Dead Part II (1988)
-// Return of the Living Dead: Necropolis (2005)
-// Return of the Living Dead: Rave to the Grave (2005)
-// Return of the Magnificent Seven (1966)
-// Return of the Secaucus Seven (1980)
-// Return of the Seven (1966)
-// Return to Halloweentown (2006 TV)
-// Return to Halloweentown (2006) (TV)
-// Return to Horror High (1987)
-// Return to House on Haunted Hill (2007)
-// Return to Innocence (2001)
-// Return to Me (2000)
-// Return to Never Land (2002)
-// Return to Oz (1985)
-// Return to Paradise (1998)
-// Return to Sleepaway Camp (2010)
-// Return to the Batcave: The Misadventures of Adam and Burt (2003) (TV)
-// Return: (1985, 2010 & 2011)
-// Returner (2002)
-// Reuben, Reuben (1983)
-// Revanche (2008)
-// Reveille with Beverly (1943)
-// Revenge for Love (2017)
-// Revenge of the Creature (1955)
-// Revenge of the Nerds (1984)
-// Revenge of the Nerds II: Nerds in Paradise (1987)
-// Revenge of the Nerds III: The Next Generation (1992)
-// Revenge of the Nerds IV: Nerds in Love (1994)
-// Revenge of the Ninja (1983)
-// Revenge of the Pink Panther (1978)
-// Revenge: (1918, 1971, 1990 & 2007)
-// Revenge: A Love Story (2010)
-// Reversal of Fortune: (1990 & 2003)
-// Revolt of the Zombies (1936)
-// Revolution (1985)
-// Revolution OS (2001)
-// Revolution of Pigs (2004)
-// Revolutionary Road (2009)
-// Revolver: (1973 & 2005)
-// Rhapsody Rabbit (1946)
-// Rhapsody in August (1991)
-// Rhapsody of Happiness (1947)
-// Rhinestone (1984)
-// Rhubarb Rhubarb (1980)
-// Rhubarb: (1951 & 1969)
-// Rice (1963)
-// Rice Rhapsody (2004)
-// Rich and Famous: (1981 & 1987)
-// Richard III: (1955, 1995, & 2006)
-// Richard Pryor: Live in Concert (1979)
-// Ricky 6 (2000)
-// Riddick (2013)
-// Ride 'Em Cowboy (1942)
-// Ride Lonesome (1959)
-// Ride a Crooked Trail (1958)
-// Ride in the Whirlwind (1965)
-// Ride the High Country (1962)
-// Ride the Pink Horse (1947)
-// Ride with the Devil (1999)
-// Ride, Vaquero! (1953)
-// Riders (2002)
-// Ridicule (1996)
-// Riding Alone for Thousands of Miles (2005)
-// Riding Giants (2004)
-// Riding in Cars with Boys (2001)
-// Riding in Vans with Boys (2003)
-// Riding the Bullet (2004)
-// Rififi (1955)
-// Right at Your Door (2006)
-// Righteous Kill (2008)
-// Righteous Ties (2006)
-// Riki-Oh: The Story of Ricky (1991)
-// Ring (1998)
-// Ring 0: Birthday (2000)
-// Ring 2 (1999)
-// Ring of Darkness (2004)
-// Ringmaster (1998)
-// Rings: (2005 & 2017)
-// Rio 2 (2014)
-// Rio Lobo (1970)
-// Rio Rita: (1929 & 1942)
-// Rio: (1939 & 2011)
-// Ripley's Game (2003)
-// Risas en Vacaciones (1990)
-// Rise (2014)
-// Rise of the Footsoldier (2008)
-// Rise of the Guardians (2012)
-// Rise of the Planet of the Apes (2011)
-// Rise: Blood Hunter (2007)
-// Rising Sun (1993)
-// Risky Business (1983)
-// Rita, Sue and Bob Too (1987)
-// Ritual: (2002 & 2013)
-// Rituals (1977)
-// River Without Buoys (1983)
-// River of No Return (1954)
-// River's Edge (1987)
-// Rize (2005)
-// Ri¢hie Ri¢h (1994)
-// Ro(c)k podvraťáků (2006)
-// Road (2002)
-// Road Agent: (1941 & 1952)
-// Road Demon (1938)
-// Road Ends (1997)
-// Road Games (2015)
-// Road Gang (1936)
-// Road Hard (2015)
-// Road House 2 (2006)
-// Road House: (1928, 1934, 1948 & 1989)
-// Road Kill: (1999 & 2010)
-// Road Movie (2002)
-// Road No. 1 (2010)
-// Road North (2012)
-// Road Rage (1999)
-// Road Romeo (2007)
-// Road Runner a Go-Go (1965)
-// Road Show (1941)
-// Road Trip (2000)
-// Road Trip: Beer Pong (2009)
-// Road of Hell: (1931, 1946 & 1951)
-// Road to Alcatraz (1945)
-// Road to Andalay (1964)
-// Road to Bali (1952)
-// Road to Dawn (2007)
-// Road to Fame (2008)
-// Road to Happiness (1942)
-// Road to Hell (2008)
-// Road to Istanbul (2016)
-// Road to Life: (1931 & 1955)
-// Road to Morocco (1942)
-// Road to Nhill (1997)
-// Road to Ninja: Naruto the Movie (2012)
-// Road to Nowhere (2010)
-// Road to Paloma (2014)
-// Road to Paradise (1930)
-// Road to Paris (2001)
-// Road to Perdition (2002)
-// Road to Redemption (2008)
-// Road to Rio: (1931 & 1947)
-// Road to Rocío (1966)
-// Road to Ruin (1991)
-// Road to Salina (1970)
-// Road to Sangam (2009)
-// Road to Singapore (1940)
-// Road to Utopia (1946)
-// Road to Victory: (1941 & 1944)
-// Road to Yesterday (2015)
-// Road to Zanzibar (1941)
-// Road to the Big House (1947)
-// Road to the Big Leagues (2007)
-// Road to the Reich (1945)
-// Road to the Stage (1963)
-// Road to the Stars (1957)
-// Road, Movie (2010)
-// Roadblock (1951)
-// Roadflower (1994)
-// Roadgames (1981)
-// Roadhouse 66 (1984)
-// Roadhouse Nights (1930)
-// Roadie: (1980 & 2011)
-// Roadkill: (1989 & 2011)
-// Roadracers: (1959 & 1994)
-// Roads and Bridges (2000)
-// Roads of Destiny (1921)
-// Roads of Kiarostami (2005)
-// Roads to Koktebel (2003)
-// Roads to the South (1978)
-// Roadside (2013)
-// Roadside Ambanis (2011)
-// Roadside Prophets (1992)
-// Roadside Romeo (2008)
-// Roald Dahl's Esio Trot (2015)
-// Roam Sweet Home (1996)
-// Roamin' Holiday (1937)
-// Roamin' Wild (1936)
-// Roaming (2013)
-// Roaming Lady (1936)
-// Roar of the Crowd (1953)
-// Roar of the Dragon (1932)
-// Roar of the People (1941)
-// Roar of the Press (1941)
-// Roar: (1981 & 2014)
-// Roar: Tigers of the Sundarbans (2014)
-// Roarin' Dan (1920)
-// Roarin' Guns (1936)
-// Roarin' Lead (1936)
-// Roaring City (1951)
-// Roaring Fire (1981)
-// Roaring Lions at Home (1924)
-// Roaring Rails (1924)
-// Roaring Ranch (1930)
-// Roaring Roads (1935)
-// Roaring Timber (1937)
-// Roaring Wheels (2000)
-// Roaring Years (1962)
-// Roast Beef and Movies (1934)
-// Rob Roy, the Highland Rogue (1953)
-// Rob Roy: (1922 & 1995)
-// Rob the Mob (2014)
-// Rob-B-Hood (2006)
-// Roba da ricchi (1987)
-// Robbery: (1897, 1967 & 1985)
-// Roberta (1935)
-// Robin Hood Daffy (1958)
-// Robin Hood: (1922, 1973 & 2010)
-// Robin Hood: Men in Tights (1993)
-// Robin Hood: Prince of Thieves (1991)
-// Robin and Marian (1976)
-// Robin and the 7 Hoods (1964)
-// Robin of Locksley (1996) (TV)
-// Robinson Crusoe on Mars (1964)
-// Robinson Crusoe: (1902, 1927, 1954, 1997 & 2016)
-// RoboCop 2 (1990)
-// RoboCop 3 (1993)
-// RoboCop: (1987 & 2014)
-// Robot & Frank (2012)
-// Robot (2010)
-// Robot Carnival (1987)
-// Robot Stories (2003)
-// Robots: (1988 & 2005)
-// Rocco (2015)
-// Rock 'n' Roll High School (1979)
-// Rock Dog (2017)
-// Rock Star: (2001, 2011 & 2015)
-// Rock of Ages: (1918 & 2012)
-// Rock-A-Bye Baby (1958)
-// Rock-a-Doodle (1991)
-// Rocket Science (2007)
-// RocketMan (1997)
-// Rocketman (2019)
-// Rocketship X-M (1950)
-// Rockin' in the Rockies (1945)
-// RocknRolla (2008)
-// Rocky (1976)
-// Rocky Balboa (2006)
-// Rocky II (1979)
-// Rocky III (1982)
-// Rocky IV (1985)
-// Rocky V (1990)
-// Roco Kingdom 3 (2014)
-// Roco Kingdom 4 (2015)
-// Roco Kingdom: The Desire of Dragon (2013)
-// Rodan (1956)
-// Rodney Rude Live Volume 1 (1984)
-// Rodora (1956)
-// Roe v. Wade (2019)
-// Roe vs. Wade (1989)
-// Roger & Me (1989)
-// Roger Dodger (2002)
-// Rogue One (2016)
-// Rogue Trader (1999)
-// Rogue: (2007 & 2017)
-// Rohini (1953)
-// Roilo Baki Char (TBD)
-// Roja (1992)
-// Roja Kootam (2002)
-// Roja Malare (1997)
-// Rojavai Killathe (1993)
-// Rojavanam (1999)
-// Rojavin Raja (1976)
-// Rojo Amanecer (1990)
-// Rojulu Marayi (1955)
-// Rok spokojnego slonca (1984)
-// Rokk í Reykjavík (1982)
-// Role Models (2008)
-// Roll Bounce (2005)
-// Roller Boogie (1979)
-// Rollerball: (1975 & 2002)
-// Rollercoaster: (1977 & 1999)
-// Rolling Kansas (2003)
-// Rolling Thunder (1977)
-// Rollover (1981)
-// Roma: (1972, 2004 & 2018)
-// Roman Candles (1956)
-// Roman Holiday (1953)
-// Roman Scandals (1933)
-// Romance & Cigarettes (2006)
-// Romance Out of the Blue (2015)
-// Romance in Manhattan (1935)
-// Romance of the Western Chamber (1927)
-// Romance: (1930 & 1999)
-// Romancing the Stone (1984)
-// Romanzo criminale (2005)
-// Rome, Open City (1945)
-// Romeo & Juliet: Sealed with a Kiss (2006)
-// Romeo Is Bleeding (1993)
-// Romeo Juliet (2015)
-// Romeo Must Die (2000)
-// Romeo and Juliet in Sarajevo (1994)
-// Romeo and Juliet: (1900, 1908, 1916 Fox, 1916 Metro Pictures, 1936, 1940, 1953, 1954, 1955, 1968, 1996, 2007 & 2013)
-// Romeo.Juliet (1990)
-// Romper Stomper (1992)
-// Romy and Michele's High School Reunion (1997)
-// Ronin (1999)
-// Rookie of the Year (1993)
-// Room 6 (2006)
-// Room Service: (1938 & 2007)
-// Room at the Top: (1959 & 2012)
-// Room in Rome (2010)
-// Room: (2005 & 2015)
-// Rooster Cogburn (1975)
-// Roots Search (1986)
-// Rope (1948)
-// Ropewalk (2000)
-// Rory O'More (1911)
-// Rory o' the Bogs (1913)
-// Rosa (1986)
-// Rosa Luxemberg (1986)
-// Rosa Morena (2010)
-// Rosa and Cornelia (2000)
-// Rosa de América (1946)
-// Rosa de las nieves (1944)
-// Rosalba, la fanciulla di Pompei (1952)
-// Rosalie (1937)
-// Rosalinda (1945)
-// Rosapoo (2018)
-// Rosappu Ravikkaikari (1979)
-// Rosario Tijeras (2005)
-// Rosario: (1935 & 2010)
-// Rosaura at 10 O'Clock (1958)
-// Rose Bernd: (1919 & 1957)
-// Rose Bowl (1936)
-// Rose Hill (1997 TV)
-// Rose Hobart (1936)
-// Rose Kennedy: A Life to Remember (1990)
-// Rose Marie: (1936 & 1954)
-// Rose Rose I Love You (1993)
-// Rose by Any Other Name... (1997)
-// Rose o' the River (1919)
-// Rose o' the Sea (1922)
-// Rose o'Paradise (1918)
-// Rose of Cimarron (1952)
-// Rose of Tralee: (1937 & 1942)
-// Rose of Washington Square (1939)
-// Rose of the Alley (1916)
-// Rose of the Asphalt Streets (1922)
-// Rose of the Golden West (1927)
-// Rose of the Mountain (1952)
-// Rose of the Rancho: (1914 & 1936)
-// Rose of the Rio Grande (1938)
-// Rose of the Tenements (1926)
-// Rose of the Wilderness (1918)
-// Rose of the World: (1918 & 1925)
-// Rose of the Yukon (1949)
-// Rose-Marie (1928)
-// Rose: (2011, 2012 & 2014)
-// Roseanna: (1967 & 1993)
-// Rosebud: (1975 & 2019)
-// Roseland (1977)
-// Roselyne and the Lions (1989)
-// Rosemary (1958)
-// Rosemary Climbs the Heights (1918)
-// Rosemary's Baby (1968)
-// Rosemary's Daughter (1976)
-// Rosemary, That's for Remembrance (1914)
-// Rosemont (2015)
-// Rosencrantz & Guildenstern Are Dead (1990)
-// Rosenmontag (1924)
-// Rosenstrasse (2003)
-// Rosenwald (2015)
-// Roses Are Red (1947)
-// Roses Bloom Twice (1978 TV)
-// Roses Bloom on the Moorland: (1929 & 1952)
-// Roses for the Prosecutor (1959)
-// Roses from the South: (1926 & 1954)
-// Roses in Tyrol (1940)
-// Roses of Picardy (1927)
-// Roses à crédit (2010)
-// Rosetta (1999)
-// Rosewater (2014)
-// Rosewood (1997)
-// Rosewood Lane (2011)
-// Rosie Dixon – Night Nurse (1978)
-// Rosie the Riveter (1944)
-// Rosie! (1967)
-// Rosie: (1965, 1998, 2013 & 2018)
-// Rosies of the North (1999)
-// Rosita (1923)
-// Rosogolla (2018)
-// Rosolino Paternò, soldato... (1970)
-// Rossana (1953)
-// Rossini (1942)
-// Rossini! Rossini! (1991)
-// Rossini's Ghost (1996)
-// Roswell (1994 TV)
-// Roswell: The Aliens Attack (1999 TV)
-// Rosy (2018)
-// Rosy Dreams (1977)
-// Rotation (1949)
-// Roti Kapda Aur Makaan (1974)
-// Roti Ki Keemat (1990)
-// Roti: (1942, 1974 & 1988)
-// Rotkäppchen (1962)
-// Rotten to the Core (1965)
-// Rottweiler (2005)
-// Rouge (1987)
-// Rouge and Riches (1920)
-// Rough (2014)
-// Rough Aunties (2008)
-// Rough But Respectable (1949)
-// Rough Cut: (1980 & 2008)
-// Rough Diamonds (1994)
-// Rough Going (1925)
-// Rough House Rosie (1927)
-// Rough Justice (1970)
-// Rough Magic (1995)
-// Rough Night (2017)
-// Rough Night in Jericho (1967)
-// Rough Play (2013)
-// Rough Rider (2014)
-// Rough Riders (1997)
-// Rough Riders of Cheyenne (1945)
-// Rough Riders of Durango (1951)
-// Rough Riding Ranger (1935)
-// Rough Riding Romance (1919)
-// Rough Romance (1930)
-// Rough Sea at Dover (1895)
-// Rough Shoot (1953)
-// Rough Stuff (1925)
-// Rough Waters (1930)
-// Rough and Ready (1918)
-// Rough, Tough and Ready (1945)
-// Roughly Speaking (1945)
-// Roughshod: (1922 & 1949)
-// Roujin Z (1991)
-// Roulette (2013)
-// Round Eyes in the Middle Kingdom (1995)
-// Round Midnight (1986)
-// Round Trip to Mars (1957)
-// Round-Up Time in Texas (1937)
-// Rounders (1998)
-// Roundhay Garden Scene (1888)
-// Rounding Up the Law (1922)
-// Roundtrip (2004)
-// Roustabout (1964)
-// Rover Dangerfield: The Dog Who Gets No Respect (1991)
-// Rover's Big Chance (1942)
-// Rovin' Tumbleweeds (1939)
-// Roving Mars (2006)
-// Row Your Boat (1998)
-// Rowdy & MLA (1991)
-// Rowdy Aliya (2004)
-// Rowdy Alludu (1991)
-// Rowdy Fellow (2014)
-// Rowdy Gaari Pellam (1991)
-// Rowdy Inspector (1992)
-// Rowdy Rajamma (1977)
-// Rowdy Ramu (1978)
-// Rowdy Ramudu Konte Krishnudu (1980)
-// Rowdy Ranganna (1968)
-// Rowdy Rathore (2012)
-// Rowdy: (1966 & 2014)
-// Rowing with the Wind (1988)
-// Roxanne (1987)
-// Roxanne Roxanne (2018)
-// Roxie Hart (1942)
-// Roxy Hunter and the Horrific Halloween (2008)
-// Roxy Hunter and the Mystery of the Moody Ghost (2007)
-// Roxy Hunter and the Myth of the Mermaid (2008)
-// Roxy Hunter and the Secret of the Shaman (2008)
-// Roxy and the Wonderteam (1938)
-// Roy (2015)
-// Royal Bengal Rahashya (2011)
-// Royal Blood (1916)
-// Royal Cat Nap (1958)
-// Royal Cavalcade (1935)
-// Royal Children (1950)
-// Royal Eagle (1936)
-// Royal Family (1969)
-// Royal Flash (1975)
-// Royal Hearts (2018)
-// Royal Journey (1951)
-// Royal Kill (2009)
-// Royal Paintbox (2013)
-// Royal River (1959)
-// Royal Space Force: The Wings of Honnêamise (1987)
-// Royal Tramp (1992)
-// Royal Tramp II (1992)
-// Royal Treasure (2016)
-// Royal Waltz (1936)
-// Royal Wedding (1951)
-// Royce (1994)
-// Rozina, the Love Child (1945)
-// Ruang Talok 69 (1999)
-// Rubber's Lover (1996)
-// Rubber: (1936 & 2010)
-// Ruby Sparks (2012)
-// Ruby in Paradise (1993)
-// Rudo y Cursi (2009)
-// Rudolph and Ippaiattena (2016)
-// Rudy (1993)
-// Ruggles of Red Gap (1935)
-// Rugrats Go Wild (2003)
-// Rugrats in Paris: The Movie (2000)
-// Rules of Dating (2005)
-// Rules of Engagement (2000)
-// Rumble Fish (1983)
-// Rumble in the Bronx (1996)
-// Rumor Has It (2005)
-// Run Lola Run (1998)
-// Run Ronnie Run (2003)
-// Run Silent, Run Deep (1958)
-// Run, Fatboy, Run (2008)
-// Run: (1991 & 2002)
-// Runaway Bride (1999)
-// Runaway Jury (2003)
-// Runaway Train (1985)
-// Runaway! (1973) (TV)
-// Runaway: (1984, 2001 & 2005)
-// Runner Runner (2013)
-// Running Man: (2013 & 2015)
-// Running Out of Time: (1994) & 1999)
-// Running Scared: (1972, 1980, 1986, & 2006)
-// Running Wild: (1992 & 2006)
-// Running With Scissors (2006)
-// Running on Empty: (1982 & 1988)
-// Running on Karma (2003)
-// Rush Hour (1998)
-// Rush Hour 2 (2001)
-// Rush Hour 3 (2007)
-// Rush in Rio (2003)
-// Rush: (1991 & 2013)
-// Rushmore (1998)
-// Russian Ark (2002)
-// Rust and Bone (2012)
-// Rustlers' Rhapsody (1985)
-// Ruthless People (1986)
-// Ryan's Daughter (1970)
-// Ryuzo and The Seven Henchmen (2015)
-// S Diary (2004)
-// S.M.A.R.T. Chase (2017)
-// S.S. Doomtrooper (2006) (TV)
-// S.W.A.T. (2003)
-// S.W.A.T.: Firefight (2011)
-// S1m0ne (2001)
-// SARS Wars (2004)
-// SLC Punk! (1998)
-// SLiTHER (2006)
-// SPL: Sha Po Lang (2005)
-// SSSSSSS (1973)
-// Sa Pusod ng Dagat (1998)
-// Saagar (1985)
-// Saamy (2003)
-// Saathiya (2002)
-// Saawariya (2007)
-// Sabata (1969)
-// Sabotage: (1936, 1939 & 2014)
-// Saboteur (1942)
-// Sabretooth (2002)
-// Sabrina Goes to Rome (1998 TV)
-// Sabrina the Teenage Witch (1996 TV)
-// Sabrina, Down Under (1999 TV)
-// Sabrina: (1954 & 1995)
-// Sabrina: Friends Forever (2002 TV)
-// Sade (2000)
-// Sadie McKee (1934)
-// Sadie Thompson (1928)
-// Sadomania (1981)
-// Safe Haven (2013)
-// Safe House: (1998 TV & 2012)
-// Safe Men (1998)
-// Safe: (1995 & 2012)
-// Safety Last! (1923)
-// Safety Not Guaranteed (2012)
-// Sagar (2012)
-// Sahara: (1943, 1983 & 2005)
-// Sailor Beware (1952)
-// Sailor Beware! (1956)
-// Sailor Moon R: The Movie (1993)
-// Sailor Moon S: The Movie (1994)
-// Sailor Moon Super S: The Movie (1995)
-// Sailor Suit and Machine Gun (1981)
-// Sailor Suit and Machine Gun: Graduation (2016)
-// Sailors, Beware! (1927)
-// Saimin (1999)
-// Saint Ange (2004)
-// Saint Joan (1957)
-// Saint Ralph (2005)
-// Saint-Ex (1997)
-// Saints and Soldiers (2004)
-// Saippuaprinssi (2006)
-// Saki (2017)
-// Salaam Bombay! (1988)
-// Salaam Namaste (2005)
-// Salakhain (2004)
-// Salangeul chajaseo (1929)
-// Salem's Lot (1979) (TV)
-// Salesman (1969)
-// Sally: (1925, 1929 & 2000)
-// Salmon Fishing in the Yemen (2011)
-// Salome of the Tenements (1925)
-// Salome's Last Dance (1988)
-// Salomé: (1918, 1923 & 1953)
-// Salon Kitty (1977)
-// Salt and Pepper (1968)
-// Salt of the Earth (1954)
-// Salt: (1987, 2006, 2009 & 2010)
-// Saludos Amigos (1943)
-// Salvador Dalí (1971)
-// Salvador: (1986 & 2006)
-// Salvatore Giuliano (1962)
-// Salween (1994)
-// Salò, or the 120 Days of Sodom (1975)
-// Samaritan Girl (2004)
-// Same Kind of Different as Me (2017)
-// Same Time, Next Year (1979)
-// Sampo (1959)
-// Samsara: (2001 & 2011)
-// Samson and Delilah: (1922, 1949, 1984, 1996 TV & 2009)
-// Samson and His Mighty Challenge (1964)
-// Samson: (1914, 1915, 1923, 1936, 1961 Polish, 1961 Italian & 2018)
-// Samurai Assassin (1965)
-// Samurai Cop (1991)
-// Samurai Fiction (1998)
-// Samurai Hustle (2014)
-// Samurai Hustle Returns (2016)
-// Samurai I: Musashi Miyamoto (1954)
-// Samurai II: Duel at Ichijoji Temple (1955)
-// Samurai III: Duel at Ganryu Island (1956)
-// Samurai Rebellion (1967)
-// Samurai Spy (1965)
-// San Andreas (2015)
-// San Francisco: (1936 & 1968)
-// Sanada 10 Braves (2016)
-// Sanctum (2011)
-// Sanders of the River (1935)
-// Sandor / Ida (2005)
-// Sands of Iwo Jima (1949)
-// Sangam: (1964 Hindi, 1964 Urdu & 1997)
-// Sango-sho Densetsu: Aoi Umi no Erufii (1986)
-// Sanjuro (1962)
-// Sankaku (2010)
-// Sans Soleil (1983)
-// Sanshiro Sugata (1943)
-// Sanshiro Sugata Part II (1945)
-// Sansho the Bailiff (1954)
-// Santa Claus Conquers the Martians (1964)
-// Santa Claus: (1898 & 1959)
-// Santa Claus: The Movie (1985)
-// Santa Fe Trail (1940)
-// Santa Sangre (1989)
-// Santa Who? (2000)
-// Santa with Muscles (1996)
-// Santa's Little Helper (2015)
-// Santa's Slay (2005)
-// Santo Contra los Zombis (1961)
-// Sapphire (1959)
-// Saps at Sea (1940)
-// Saraba Abunai Deka (2016)
-// Saraba Kamen Rider Den-O: Final Countdown (2008)
-// Saraband (2003 TV)
-// Sarah Silverman: Jesus Is Magic (2005)
-// Sarah and Son (1930)
-// Sarah's Key (2011)
-// Saratoga Trunk (1945)
-// Sardaar Ji (2015)
-// Sarfarosh (1998)
-// Sarkar 3 (2017)
-// Sarkar Raj (2008)
-// Sarkar: (2005 & 2014)
-// Sarraounia (1986)
-// Sasidharan (1950)
-// Satan Met a Lady (1936)
-// Sathya: (1988, 2010, 2017 Malayalam & 2017 Tamil)
-// Sathyam: (1980 & 2004)
-// Satomi Hakkenden (1983)
-// Saturday Night Fever (1977)
-// Saturday Night and Sunday Morning (1960)
-// Saturday the 14th (1981)
-// Saturn 3 (1980)
-// Satya: (1998 & 2017)
-// Satyam: (1976, 2003 & 2008)
-// Satyricon (Polidoro, 1969)
-// Sauerbruch – Das war mein Leben (1954)
-// Sausage Party (2016)
-// Sauve qui peut (la vie) (1980)
-// Savage Beach (1989)
-// Savage Grace (2007)
-// Savage Planet (2006) (TV)
-// Savage Streets (1984)
-// Savage! (1973)
-// Savages: (1972, 1974 TV & 2012)
-// Save the Green Planet! (2003)
-// Save the Last Dance (2001)
-// Save the Tiger (1973)
-// Saved from the Titanic (1912)
-// Saved! (2004)
-// Saving Face (2004)
-// Saving Grace (2000)
-// Saving Mr. Banks (2013)
-// Saving My Hubby (2002)
-// Saving Private Ryan (1998)
-// Saving Silverman (2001)
-// Saving Star Wars (2004)
-// Savior (1998)
-// Saw (2003)
-// Saw (2004)
-// Saw 3D (2010)
-// Saw II (2005)
-// Saw III (2006)
-// Saw IV (2007)
-// Saw V (2008)
-// Saw VI (2009)
-// Sawdust and Tinsel (1953)
-// Sax Rohmer's The Castle of Fu Manchu (1972)
-// Say Anything... (1989)
-// Say It Isn't So (2001)
-// Say Uncle (2006)
-// Say Yes (2001)
-// Sayew (2003)
-// Sayonara (1957)
-// Sayonara (2015)
-// Sayonara Midori-chan (2005)
-// Scandal Maker (2016)
-// Scandal Makers (2008)
-// Scandal Sheet: (1931, 1952 & 1985 TV)
-// Scandal Street (1938)
-// Scandal at Scourie (1953)
-// Scandal: (1950 & 1989)
-// Scanner Cop (1994)
-// Scanners (1981)
-// Scanners II: The New Order (1991)
-// Scanners III: The Takeover (1992)
-// Scanners: The Showdown (1995)
-// Scaramouche (1952)
-// Scarecrow Gone Wild (2004)
-// Scarecrow: (1973, 2002 & 2013)
-// Scarecrows (1988)
-// Scared Stiff: (1945, 1953 & 1987)
-// Scared to Death (1947)
-// Scaredy Cat (1948)
-// Scarface: (1932 & 1983)
-// Scarlet Diva (2000)
-// Scarlet Sails (Алые Паруса) (1961)
-// Scarlet Street (1945)
-// Scars of Dracula (1970)
-// Scary Godmother: The Revenge of Jimmy (2005)
-// Scary Movie (2000)
-// Scary Movie 2 (2001)
-// Scary Movie 3 (2003)
-// Scary Movie 4 (2006)
-// Scary Movie 5 (2013)
-// Scary Road Is Fun (2015)
-// Scary Stories to Tell in the Dark (2019)
-// Scavenger Hunt (1979)
-// Scenes from a Mall (1991)
-// Scenes from a Marriage (1973) (TV)
-// Scenic Route (1961)
-// Scent of Love (2003)
-// Scent of Mystery (1960)
-// Scent of a Woman: (1974 & 1992)
-// Schatten – Eine nächtliche Halluzination (1923)
-// Schindler's List (1993)
-// Schizopolis (1996)
-// School Daze (1988)
-// School Ties (1992)
-// School for Scoundrels: (1960 & 2006)
-// School for Seduction (2004)
-// School of Rock (2003)
-// Schoolgirl Report Part 1: What Parents Don't Think Is Possible (1970)
-// Schoolmates 1 (1976)
-// Schtonk! (1992)
-// Schulmädchen-Report: Was Eltern nicht für möglich halten (1970)
-// Schultze Gets the Blues (2003)
-// Sci-Fi High: A Movie Musical (2011)
-// Scooby-Doo (2002)
-// Scooby-Doo 2: Monsters Unleashed (2004)
-// Scooby-Doo Meets the Boo Brothers (1987 TV)
-// Scooby-Doo and the Alien Invaders (2000)
-// Scooby-Doo and the Cyber Chase (2001)
-// Scooby-Doo on Zombie Island (1998)
-// Scooby-Doo! & Batman: The Brave and the Bold (2018)
-// Scooby-Doo! Abracadabra-Doo (2010)
-// Scooby-Doo! Adventures: The Mystery Map (2013)
-// Scooby-Doo! Camp Scare (2010)
-// Scooby-Doo! Curse of the Lake Monster (2010 TV)
-// Scooby-Doo! Frankencreepy (2014)
-// Scooby-Doo! Legend of the Phantosaur (2011)
-// Scooby-Doo! Mask of the Blue Falcon (2013)
-// Scooby-Doo! Moon Monster Madness (2015)
-// Scooby-Doo! Music of the Vampire (2012)
-// Scooby-Doo! Pirates Ahoy! (2006)
-// Scooby-Doo! Shaggy's Showdown (2017)
-// Scooby-Doo! Stage Fright (2013)
-// Scooby-Doo! The Mystery Begins (2009 TV)
-// Scooby-Doo! WrestleMania Mystery (2014)
-// Scooby-Doo! and Kiss: Rock and Roll Mystery (2015)
-// Scooby-Doo! and WWE: Curse of the Speed Demon (2016)
-// Scooby-Doo! and the Goblin King (2008)
-// Scooby-Doo! and the Legend of the Vampire (2003)
-// Scooby-Doo! and the Loch Ness Monster (2004)
-// Scooby-Doo! and the Monster of Mexico (2003)
-// Scooby-Doo! and the Reluctant Werewolf (1988 TV)
-// Scooby-Doo! and the Witch's Ghost (1999)
-// Scooby-Doo! in Arabian Nights (1994) (TV)
-// Scooby-Doo! in Where's My Mummy? (2005)
-// Scoop! (2016)
-// Scoop: (1987 & 2006)
-// Scorched (2003)
-// Score: (1974 & 2016)
-// Score: A Hockey Musical (2010)
-// Scorpio (1973)
-// Scorpio Rising (1964)
-// Scotland, PA (2001)
-// Scott Pilgrim vs. the World (2010)
-// Scott of the Antarctic (1948)
-// Scratch (2001)
-// Scream (1996)
-// Scream 2 (1997)
-// Scream 3 (2000)
-// Scream 4 (2011)
-// Scream Blacula Scream (1973)
-// Scream Bloody Murder (1973)
-// Scream and Scream Again (1970)
-// Screamers (1995)
-// Screamers: The Hunting (2009)
-// Screaming Masterpiece (2005)
-// Screwed (2000)
-// Scrooge: (1951 & 1970)
-// Scrooged (1988)
-// Scrub Me Mama with a Boogie Beat (1941)
-// Scum (1979)
-// Scum of the Earth (1974)
-// Scum of the Earth! (1963)
-// Se7en (1995)
-// Sea of Love (1989)
-// Seabiscuit (2003)
-// Seafood (2001)
-// Seal Team Six: The Raid on Osama Bin Laden (2012)
-// Searching for Bobby Fischer (1993)
-// Searching for Sugar Man (2012)
-// Season of the Witch: (1972 & 2011)
-// Sebastiane (1976)
-// Second Act (2018)
-// Second Chorus (1940)
-// Second Skin (2000)
-// Second in Command (2006)
-// Secondhand Lions (2003)
-// Seconds (1966)
-// Secret (2007)
-// Secret Admirer (1985)
-// Secret Agent: (1936 & 1947)
-// Secret Beyond the Door (1948)
-// Secret Ceremony (1968)
-// Secret Honor (1984)
-// Secret People (1952)
-// Secret Sunshine (2007)
-// Secret Things (2002)
-// Secret Treasure (2015)
-// Secret Window (2004)
-// Secret in Their Eyes (2016)
-// Secret of the Wastelands (1941)
-// Secretariat (2010)
-// Secretary (2002)
-// Secrets & Lies (1996)
-// Secrets: (1933 & 1973 TV)
-// Seduced and Abandoned (1964)
-// Seducing Doctor Lewis (2003)
-// Seduction: The Cruel Woman (1985)
-// See No Evil, Hear No Evil (1989)
-// See No Evil: (1971 & 2006)
-// See Spot Run (2001)
-// See You in Hell, My Darling (1999)
-// Seed (2007)
-// Seed of Chucky (2004)
-// Seeds of Yesterday (2015)
-// Seeing Other People (2004)
-// Seeking Justice (2011)
-// Seeking a Friend for the End of the World (2012)
-// Seema: (1955 & 1971)
-// Seems Like Old Times (1980)
-// Sehnsucht (1920)
-// Seizure (1974)
-// Seksmisja (1984)
-// Selena (1997)
-// Self Helpless (2010)
-// Selma (2014)
-// Semi-Pro (2008)
-// Semi-Tough (1977)
-// Send Me No Flowers (1964)
-// Sengoku Jieitai 1549 (2005)
-// Senna (2010)
-// Sennenbi (2004)
-// Sensations of 1945 (1944)
-// Sense and Sensibility (1995)
-// Senseless (1998)
-// Senso (1954)
-// Seopyeonje (1993)
-// Seoul Train (2005)
-// Separate Lies (2005)
-// Separate Tables (1958)
-// September 12th (2005)
-// September Dawn (2007)
-// September in the Rain (1937)
-// September: (1984, 1987, 2003 & 2011)
-// Sequel to the Diamond from the Sky (1916)
-// Seraphim Falls (2007)
-// Serenade (1956)
-// Serendipity (2001)
-// Serene Velocity (1970)
-// Serenity (2005)
-// Sergeant Rutledge (1960)
-// Sergeant York (1941)
-// Serial (1980)
-// Serial Lover (2001)
-// Serial Mom (1994)
-// Series 7: The Contenders (2001)
-// Serpentinen Tanz (1895)
-// Serpico (1973)
-// Service de nuit (1943)
-// Serving Sara (2002)
-// Sesame Street Presents: Follow That Bird (1985)
-// Session 9 (2001)
-// Set It Off (1996)
-// Setoutsumi (2016)
-// Settai (2013)
-// Setup (2011)
-// Seven Beauties (1976)
-// Seven Blows of The Dragon (1972)
-// Seven Brides for Seven Brothers (1954)
-// Seven Chances (1925)
-// Seven Days in May (1964)
-// Seven Days to Noon (1950)
-// Seven Hills of Rome (1957)
-// Seven Minutes in Heaven (1985)
-// Seven Psychopaths (2012)
-// Seven Samurai (1954)
-// Seven Times Seven (1969)
-// Seven Up! (1964)
-// Seven Years in Tibet (1997)
-// Seventeen Again (2000)
-// Seventeen Moments of Spring (1973)
-// Seventeen Years (1999)
-// Seventh Heaven: (1927, 1937 & 1993)
-// Seventh Son (2015)
-// Severance (2006)
-// Sex & Fury (1973)
-// Sex Drive (2008)
-// Sex Is Zero (2002)
-// Sex Is Zero 2 (2007)
-// Sex Lives of the Potato Men (2004)
-// Sex Madness (1938)
-// Sex and Death 101 (2007)
-// Sex and Lucia (2001)
-// Sex and Zen (1992)
-// Sex and the City (2008)
-// Sex and the City 2 (2010)
-// Sex and the Single Girl (1964)
-// Sex in Chains (1928)
-// Sex, Shame, and Tears (1999)
-// Sex: The Annabel Chong Story (1999)
-// Sexmission (1984)
-// Sexo, pudor y lágrimas (1999)
-// Sextette (1978)
-// Sexual Meditation: Room with View (1971)
-// Sexy Beast (2000)
-// Sgt. Bilko (1996)
-// Sgt. Kabukiman N.Y.P.D. (1991)
-// Sgt. Pepper's Lonely Hearts Club Band (1978)
-// Shaadi Se Pehle (2006)
-// Shade (2003)
-// Shadow (1956)
-// Shadow Builder (1998)
-// Shadow Conspiracy (1997)
-// Shadow Man: (1988 & 2006)
-// Shadow of Evil (1964)
-// Shadow of a Doubt (1943)
-// Shadow of the Thin Man (1941)
-// Shadow of the Vampire (2000)
-// Shadowboxer (2006)
-// Shadowlands (1994)
-// Shadowless Sword (2005)
-// Shadows (1959)
-// Shadows and Fog (1992)
-// Shadows of Forgotten Ancestors (1965)
-// Shaft in Africa (1973)
-// Shaft's Big Score (1972)
-// Shaft: (1971 & 2000)
-// Shag (1989)
-// Shake Hands With the Devil: (1959 & 2007)
-// Shake Hands with the Devil: The Journey of Roméo Dallaire (2004)
-// Shake! Otis at Monterey (1987)
-// Shakedown: Return of the Sontarans (1995)
-// Shakes the Clown (1992)
-// Shakespeare Wallah (1965)
-// Shakespeare in Love (1998)
-// Shalako (1968)
-// Shall We Dance: (1937, 1996 & 2004)
-// Shallow Grave (1994)
-// Shallow Ground (2005)
-// Shallow Hal (2001)
-// Shame: (1968 & 2011)
-// Shampoo (1975)
-// Shane (1953)
-// Shanghai Dreams (2005)
-// Shanghai Express (1932)
-// Shanghai Kiss (2007)
-// Shanghai Knights (2003)
-// Shanghai Noon (2000)
-// Shanghai Story (2004)
-// Shanghai Surprise (1986)
-// Shanghai Triad (1994)
-// Shaolin (2011)
-// Shaolin Soccer (2001)
-// Shaolin Temple: (1976 & 1982)
-// Shaolin Wooden Men (1976)
-// Shaolin and Wu Tang (1981)
-// Shape of the Moon (2004)
-// Shararat (2003)
-// Shark (2000)
-// Shark Attack (1999)
-// Shark Attack 2 (2000)
-// Shark Attack 3: Megalodon (2004)
-// Shark Night (2011)
-// Shark Tale (2004)
-// Shark! (1969)
-// Shark: Mind of a Demon (2006)
-// Sharknado (2013)
-// Sharknado 2: The Second One (2014)
-// Sharknado 3: Oh Hell No! (2015)
-// Sharknado 5: Global Swarming (2017)
-// Sharknado: The 4th Awakens (2016)
-// Sharky's Machine (1981)
-// Shaso (1989)
-// Shatter Dead (1994)
-// Shattered (1991)
-// Shattered (Butterfly on a Wheel) (2007)
-// Shattered Glass (2003)
-// Shaukeen (1981)
-// Shaun of the Dead (2004)
-// Shaun the Sheep Movie (2015)
-// She (1965)
-// She Creature (2001)
-// She Done Him Wrong (1933)
-// She Gods of Shark Reef (1958)
-// She Hate Me (2004)
-// She Remembers, He Forgets (2015)
-// She Shoulda Said 'No'! (1949)
-// She Stoops to Conquer (1914)
-// She Was an Acrobat's Daughter (1937)
-// She Wore a Yellow Ribbon (1949)
-// She's All That (1999)
-// She's Gotta Have It (1986)
-// She's Having a Baby (1988)
-// She's Out of Control (1989)
-// She's Out of My League (2010)
-// She's So Lovely (1997)
-// She's Too Young (2004)
-// She's the Man (2006)
-// She's the One (1996)
-// She-Devil (1989)
-// She-Wolf of London (1946)
-// Sheena (1984)
-// Sheitan (2006)
-// Shelter Dogs (2003)
-// Shelter: (2007 & 2010)
-// Shenandoah (1965)
-// Sherlock Holmes (2009)
-// Sherlock Holmes Faces Death (1943)
-// Sherlock Holmes and the Secret Weapon (1943)
-// Sherlock Holmes and the Voice of Terror (1942)
-// Sherlock Holmes in Washington (1943)
-// Sherlock Holmes: A Game of Shadows (2011)
-// Sherlock, Jr. (1924)
-// Sherman's March: A Meditation on the Possibility of Romantic Love In the South During an Era of Nuclear Weapons Proliferation (1986)
-// Sherman's Way (2009)
-// Sherrybaby (2006)
-// Shi Er Sheng Xiao Cheng Shi Ying Xiong (2014)
-// Shikake-nin Baian (1981)
-// Shimajiro to Kujira no Uta (2014)
-// Shimajirō to Fufu no Daibōken: Sukue! Nanairo no Hana (2013)
-// Shimajirō to Ōkina Ki (2015)
-// Shine (1996)
-// Shine a Light (2008)
-// Shining Through (1992)
-// Shining Victory (1941)
-// Shinjuku Incident (2009)
-// Shinobi: Heart Under Blade (2005)
-// Shinsukki Blues (2004)
-// Ship Ahoy (1942)
-// Ship of Fools (1965)
-// Shiri (1999)
-// Shirley Valentine (1989)
-// Shiroi Kyotō (1966)
-// Shivering Shakespeare (1929)
-// Shivers (1975)
-// Shiza (2004)
-// Shoah (1985)
-// Shock (1946)
-// Shock Corridor (1963)
-// Shock Treatment (1981)
-// Shock Waves (1977)
-// Shocker (1989)
-// Shocking Asia (1974)
-// Shocking Asia II: The Last Taboos (1985)
-// Shoeshine (1946)
-// Shogun Assassin (1980)
-// Shokubutsu Zukan: Unmei no Koi, Hiroimashita (2016)
-// Sholay (1975)
-// Shoot 'Em Up (2007)
-// Shoot the Moon (1982)
-// Shoot the Piano Player (1960)
-// Shoot to Kill (1988)
-// Shooter (2007)
-// Shooting Fish (1997)
-// Shooting at the Moon (2003)
-// Shootout at Wadala (2013)
-// Shopgirl (2001)
-// Shopping (1994)
-// Short Circuit (1986)
-// Short Circuit 2 (1988)
-// Short Term 12 (2013)
-// Shorts: (2009 & 2013)
-// Show Girl (1928)
-// Showgirl in Hollywood (1930)
-// Showgirls (1995)
-// Showtime (2002)
-// Shrek (2001)
-// Shrek 2 (2004)
-// Shrek Forever After (2010)
-// Shrek the Third (2007)
-// Shriek If You Know What I Did Last Friday the Thirteenth (2000)
-// Shrieker (1997)
-// Shrink (2009)
-// Shrooms (2007)
-// Shut Up & Sing (2006)
-// Shut Up and Play the Hits (2012)
-// Shutter Island (2010)
-// Shutter: (2004 & 2008)
-// Shuttle (2009)
-// Si accettano miracoli (2015)
-// SiREN (2016)
-// Siberiade (1979)
-// Siberian Lady Macbeth (1961)
-// Sick: The Life and Death of Bob Flanagan, Supermasochist (1997)
-// Sicko (2007)
-// Sid and Nancy (1986)
-// Side Effects (2013)
-// Side Out (1990)
-// Side Street (1950)
-// Sidewalks of New York (2001)
-// Sideways (2004)
-// Siege (1940)
-// Siegfried (1924)
-// Sigade revolutsioon (2004)
-// Signore & Signori (1965)
-// Signs (2002)
-// Siin me oleme! (1979)
-// Sikandar: (1941 & 2009)
-// Silence of the North (1981)
-// Silent Hill (2006)
-// Silent Hill: Revelation 3D (2012)
-// Silent House (2012)
-// Silent Light (2007)
-// Silent Movie (1976)
-// Silent Night, Bloody Night (1974)
-// Silent Night, Deadly Night (1984)
-// Silent Night, Deadly Night 3: Better Watch Out! (1989)
-// Silent Night, Deadly Night 4: Initiation (1990)
-// Silent Night, Deadly Night 5: The Toy Maker (1992)
-// Silent Night, Deadly Night Part 2 (1987)
-// Silent Rage (1982)
-// Silent Running (1971)
-// Silent Tongue (1994)
-// Silent Warnings (2003) (TV)
-// Silk (2007)
-// Silk Stockings (1957)
-// Silkwood (1983)
-// Silmido (2003)
-// Silver & Black (2019)
-// Silver Bullet (1985)
-// Silver City: (1951, 1984 & 2004)
-// Silver Linings Playbook (2012)
-// Silver Lode (1954)
-// Silver Streak: (1934 & 1976)
-// Silverado (1985)
-// Simon Birch (1998)
-// Simon Says (2006)
-// Simon Sez (1999)
-// Simon of the Desert (1965)
-// Simon, Simon (1970)
-// Simpatico (2000)
-// Simply Irresistible (1999)
-// Sin City (2005)
-// Sin City: A Dame to Kill For (2008)
-// Sin Nombre (2009)
-// Sinbad (1993)
-// Sinbad and The Minotaur (2011)
-// Sinbad and the Eye of the Tiger (1977)
-// Sinbad of the Seven Seas (1989)
-// Sinbad the Sailor: (1935 & 1947)
-// Sinbad: Beyond the Veil of Mists (2000)
-// Sinbad: Legend of the Seven Seas (2003)
-// Sinbad: Sora Tobu Hime to Himitsu no Shima (2015)
-// Since Otar Left (2003)
-// Since You Went Away (1944)
-// Since You've Been Gone (1998) (TV)
-// Sing (2016)
-// Sing As We Go (1934)
-// Sing Boy Sing (1958)
-// Singapore Dreaming (2006)
-// Singapore Sling (1990)
-// Singin' in the Rain (1952)
-// Single White Female (1992)
-// Singles: (1992 & 2003)
-// Sinister (2012)
-// Sink the Bismarck! (1960)
-// Sinkin' in the Bathtub (1930)
-// Sione's Wedding (2006)
-// Sirens: (1994 & 1999)
-// Sirocco (1951)
-// Sisily 2km (2004)
-// Sissi (1955)
-// Sista Kontraktet (1998)
-// Sister Act (1992)
-// Sister Act 2: Back in the Habit (1993)
-// Sister Kenny (1946)
-// Sister Wife (2000)
-// Sisters : (1973, 2001, 2006 & 2015)
-// Sisters, or the Balance of Happiness (1979)
-// Sitcom (1998)
-// Sith Apprentice (2005)
-// Sitting Bull (1954)
-// Sitting Pretty (1948)
-// Sitting Target (1972)
-// Six Days Seven Nights (1998)
-// Six Degrees of Separation (1993)
-// Six Ways To Sunday (1997)
-// Six-String Samurai (1998)
-// Sixteen Candles (1984)
-// Skammen (1968)
-// Ski Party (1965)
-// Ski Patrol (1990)
-// Ski School (1991)
-// Skidoo (1968)
-// Skin Deep (1989)
-// Skin Game (1971)
-// Skin: (1995 & 2008)
-// Skinned Deep (2004)
-// Skinner (1993)
-// Skins: (2002 & 2017)
-// Skinwalkers: (2002 & 2007)
-// Skipped Parts (2001)
-// Skippy (1931)
-// Skum Rocks! (2013)
-// Sky Captain and the World of Tomorrow (2004)
-// Sky High: (1922, 2003 & 2005)
-// Sky Lovers (2002)
-// Sky Riders (1976)
-// Sky on Fire (2016)
-// Skyfall (2012)
-// Skyline: (1931 & 2010)
-// Skyscraper: (1928, 1996, 2011 & 2018)
-// Skytturnar (1987)
-// Slacker (1991)
-// Slackers (2002)
-// Slam (1998)
-// Slam Dunk Ernest (1995)
-// Slap Her... She's French (2002)
-// Slap Shot (1977)
-// Slapstick of Another Kind (1984)
-// Slasher (2004 & 2007)
-// Slaughter Disc (2005)
-// Slaughter High (1986)
-// Slaughterhouse-Five (1972)
-// Slaves of New York (1989)
-// Sleep (1963)
-// Sleepaway Camp (1983)
-// Sleepaway Camp II: Unhappy Campers (1990
-// Sleepaway Camp III: Teenage Wasteland (1989)
-// Sleeper (1973)
-// Sleepers (1996)
-// Sleeping Beauties (1999)
-// Sleeping Beauty: (1930, 1959, 1973, 1987, 1995 & 2011)
-// Sleeping Bride (2000)
-// Sleeping Dogs (1977)
-// Sleeping Dogs Lie: (2005 & 2006)
-// Sleeping with Other People (2015)
-// Sleeping with the Enemy (1991)
-// Sleepless Nights (2002)
-// Sleepless in Seattle (1993)
-// Sleepless: (1957, 2001 & 2017)
-// Sleepover (2004)
-// Sleepstalker (1995)
-// Sleepwalkers (1992)
-// Sleepy Hollow (1999)
-// Sleuth: (1972 & 2007)
-// Sliding Doors (1998)
-// Slightly Scarlet (1956)
-// Slim (1937)
-// Sling Blade (1996)
-// Slipping Wives (1927)
-// Slipstream: (1967, 1973, 1989, 2005 & 2007)
-// Sliver (1993)
-// Sloane (1984)
-// Slow Burn: (1986, 2000 & 2005)
-// Slugs: The Movie (1988)
-// Slugterra: Return of the Elementals (2014)
-// Slumber Party Massacre II (1987)
-// Slumdog Millionaire (2008)
-// Slums of Beverly Hills (1998)
-// Small Change (1976)
-// Small Faces (1996)
-// Small Sacrifices (1989) (TV)
-// Small Soldiers (1998)
-// Small Time Crooks (2000)
-// Small Town Rivals (2007)
-// Small Tragedy (2007)
-// Smart Alec (1951)
-// Smart House (1999 TV)
-// Smart Money (1931)
-// Smart People (2008)
-// Smash Palace (1981)
-// Smash-Up, the Story of a Woman (1947)
-// Smashed (2012)
-// Smile: (1975 & 2005)
-// Smiles of a Summer Night (1955)
-// Smiley (1956)
-// Smiley Face (2007)
-// Smilin' Through (1932)
-// Smilla's Sense of Snow (1997)
-// Smithy (1946)
-// Smoke (1995)
-// Smoke Signals (1998)
-// Smokey and the Bandit (1977)
-// Smokey and the Bandit II (1980)
-// Smokey and the Bandit Part 3 (1983)
-// Smokin' Aces (2007)
+// London Has Fallen 
+// London Voodoo 
+// London to Brighton 
+// Lone Star
+// Lone Survivor 
+// Lone Wolf and Cub: Baby Cart at the River Styx 
+// Lone Wolf and Cub: Baby Cart in Peril 
+// Lone Wolf and Cub: Baby Cart in the Land of Demons 
+// Lone Wolf and Cub: Baby Cart to Hades 
+// Lone Wolf and Cub: Sword of Vengeance 
+// Lone Wolf and Cub: White Heaven in Hell 
+// Lonely Heart 
+// Lonely Hearts
+// Lonely Island 
+// Lonely are the Brave 
+// Lonelyhearts 
+// Loner 
+// Lonesome 
+// Lonesome Cowboys 
+// Lonesome Dove 
+// Lonesome Jim 
+// Long Day's Journey Into Night 
+// Long Time Dead 
+// Long Weekend 
+// Long-Haired Hare 
+// Longinus 
+// Longshot: The Movie 
+// Longtime Companion 
+// Look Back in Anger 
+// Look Both Ways 
+// Look Who's Talking 
+// Look Who's Talking Now 
+// Look Who's Talking Too 
+// Look at Me 
+// Looker 
+// Lookin' to Get Out 
+// Looking for Alibrandi 
+// Looking for Comedy in the Muslim World 
+// Looking for Eric 
+// Looking for Fidel 
+// Looking for Mr. Goodbar 
+// Looking for Richard 
+// Looney Tunes: Back in Action 
+// Looper 
+// Lord of War 
+// Lord of the Flies
+// Lords of Dogtown 
+// Lorenzo's Oil 
+// Lorna 
+// Los olvidados 
+// Loser 
+// Losin' It 
+// Losing Isaiah 
+// Lost & Found 
+// Lost Boys: The Thirst 
+// Lost Boys: The Tribe 
+// Lost Highway 
+// Lost Horizon
+// Lost Indulgence 
+// Lost Souls 
+// Lost Transmissions 
+// Lost and Delirious 
+// Lost and Found
+// Lost in America 
+// Lost in Beijing 
+// Lost in La Mancha 
+// Lost in Space 
+// Lost in Translation 
+// Lost in White 
+// Lost in Wrestling 
+// Lost in a Harem 
+// Lotna 
+// Lotte and the Moonstone Secret 
+// Lotte from Gadgetville 
+// Lottovoittaja UKK Turhapuro 
+// Lotus Code 
+// Lotus Lantern 
+// Louie Bluie 
+// Louisiana Purchase 
+// Louisiana Story 
+// Love & Basketball 
+// Love & Other Drugs 
+// Love & Peace 
+// Love & Sex 
+// Love 'em and Weep 
+// Love Actually 
+// Love Affair
+// Love Among the Ruins  
+// Love Clinic 
+// Love Contractually 
+// Love Crazy 
+// Love Don't Cost a Thing 
+// Love Field 
+// Love Finds Andy Hardy 
+// Love Happens 
+// Love Happy 
+// Love Hurts 
+// Love Is All You Need 
+// Love Is on the Air 
+// Love Is the Devil: Study for a Portrait of Francis Bacon 
+// Love Jones 
+// Love Kills 
+// Love Letters
+// Love Live! The School Idol Movie 
+// Love Liza 
+// Love Me If You Dare 
+// Love Me Tender 
+// Love Me Tonight 
+// Love Me or Leave Me 
+// Love Meetings 
+// Love Object 
+// Love Phobia 
+// Love Sick 
+// Love Stinks 
+// Love Story
+// Love Streams 
+// Love Studio 
+// Love That Boy 
+// Love Without Distance 
+// Love and Anarchy 
+// Love and Death 
+// Love and Death on Long Island 
+// Love and Duty 
+// Love and Honor 
+// Love and Human Remains 
+// Love and Kisses 
+// Love and Other Catastrophes 
+// Love and Support 
+// Love at First Bite 
+// Love in Magic 
+// Love in Thoughts 
+// Love in the Afternoon
+// Love in the Time of Cholera 
+// Love is Colder than Death 
+// Love is a Many-Splendored Thing 
+// Love on a Diet 
+// Love on the Cloud 
+// Love on the Dole 
+// Love on the Run
+// Love the Hard Way 
+// Love with the Proper Stranger 
+// Love's Berries 
+// Love's Brother 
+// Love's Labour's Lost 
+// Love's Whirlpool 
+// Love, Gilda 
+// Love, Honour and Obey 
+// Love, Simon 
+// Love, So Divine 
+// Love
+// Lovelife 
+// Lovely & Amazing 
+// Lovely Rivals 
+// Lover Come Back 
+// Lover's Grief over the Yellow River 
+// Loverboy
+// Lovers & Movies 
+// Lovers and Liars 
+// Lovers and Other Strangers 
+// Lovers of the Arctic Circle 
+// Lovers' Concerto 
+// Loves of a Blonde 
+// Lovewrecked 
+// Lovin' Molly 
+// Loving 
+// Loving You 
+// Lower City 
+// Loyalties
+// Lucas 
+// Lucky Loser 
+// Lucky Number Slevin 
+// Lucky Numbers 
+// Lucky Three: an Elliott Smith Portrait 
+// Lucky You 
+// Lucky: No Time for Love 
+// Luckytown 
+// Ludwig 
+// Lulu on the Bridge 
+// Lulu
+// Luminal 
+// Lumière and Company 
+// Luna 
+// Luna Papa 
+// Lunacy 
+// Lunar Eclipse 
+// Lupin III: Dead or Alive 
+// Lupin III: Farewell to Nostradamus 
+// Lupin III: Goemon Ishikawa's Spray of Blood 
+// Lupin III: Jigen's Gravestone 
+// Lupin III: Legend of the Gold of Babylon 
+// Lupin III: Strange Psychokinetic Strategy 
+// Lupin the 3rd 
+// Lupin the 3rd vs. Detective Conan: The Movie 
+// Lupin the Third: The Castle of Cagliostro 
+// Lust for Life 
+// Lust for a Vampire 
+// Lust, Caution 
+// Luster 
+// Luther
+// Luxo Jr. 
+// Luxury Car 
+// Lycanthrope 
+// Lycanthropus 
+// Lymelife 
+// Léolo 
+// Léon Morin, Priest 
+// Léon: The Professional 
+// M*A*S*H 
+// M. Butterfly 
+// M
+// MBA Partners 
+// MVP 2: Most Vertical Primate 
+// MVP: Most Valuable Primate 
+// Ma 6-T va crack-er 
+// Ma Vie en Rose 
+// Ma vie en cinémascope 
+// Ma-Mha 
+// Maalamaal 
+// Maangamizi: The Ancient One 
+// Maborosi 
+// Mabudachi 
+// Mac 
+// Mac and Me 
+// MacArthur 
+// MacGruber 
+// Macabre
+// Macadam Tribu 
+// Macao 
+// Macaroni 
+// Macbeth
+// Machete 
+// Machete Kills 
+// Machine Gun Preacher 
+// Machine-Gun Kelly 
+// Macho Dancer 
+// Machuca 
+// Mackenna's Gold 
+// Macon County Line 
+// Macunaíma 
+// Mad City 
+// Mad Dog and Glory 
+// Mad Hot Ballroom 
+// Mad Love
+// Mad Max 
+// Mad Max 2: The Road Warrior 
+// Mad Max Beyond Thunderdome 
+// Mad Max: Fury Road 
+// Mad Money 
+// Mad Monster Party 
+// Mad at the Moon 
+// Madadayo 
+// Madagascar 
+// Madagascar 3: Europe's Most Wanted 
+// Madagascar Skin 
+// Madagascar: Escape 2 Africa 
+// Madame e Sans-Gêne
+// Madame Bovary
+// Madame Butterfly
+// Madame Curie 
+// Madame Rosa 
+// Madame Satã 
+// Madame Sousatzka 
+// Made 
+// Made for Each Other 
+// Made in America 
+// Made in Dagenham 
+// Made in Heaven
+// Made in Sheffield 
+// Made of Honor 
+// Madea Goes to Jail 
+// Madea's Big Happy Family 
+// Madea's Family Reunion 
+// Madea's Tough Love 
+// Madea's Witness Protection 
+// Madeline 
+// Mademoiselle from Armentières 
+// Madhouse
+// Madhumati 
+// Madigan 
+// Madigan's Millions 
+// Madman 
+// Madu Tiga 
+// Maelström 
+// Mafioso 
+// Maggie 
+// Magic 
+// Magic Card 
+// Magic Mike 
+// Magic Mike XXL 
+// Magic Town 
+// Magic Wonderland 
+// Magic in the Water 
+// Magical Maestro 
+// Magical Mystery Tour
+// Magicians 
+// Magnificent Obsession
+// Magnolia 
+// Magnum Force 
+// Mah Nakorn 
+// Mahanagar 
+// Mahogany 
+// Maid in Manhattan 
+// Maid to Order 
+// Main Hoon Na 
+// Main Prem Ki Diwani Hoon 
+// Main Tulsi Tere Aangan Ki 
+// Maine Pyar Kiya 
+// Major Barbara 
+// Major Dundee 
+// Major League 
+// Major League: Back to the Minors 
+// Major Movie Star 
+// Major Payne 
+// Major Wilson's Last Stand 
+// Make Mine Music 
+// Make Way for Tomorrow 
+// Make the Yuletide Gay 
+// Making Love 
+// Making Mr. Right 
+// Making a Living 
+// Making the Grade 
+// Maku ga Agaru 
+// Mala Noche 
+// Malaga 
+// Malamaal Weekly 
+// Malaya 
+// Malcolm 
+// Malcolm X 
+// Male and Female 
+// Malevil 
+// Malevolence 
+// Malibu's Most Wanted 
+// Malice 
+// Malizia 
+// Mallboy 
+// Malli 
+// Mallrats 
+// Malta Story 
+// Malèna 
+// Mama Flora's Family  
+// Mama's Affair 
+// Mama
+// Mamba 
+// Mambo Italiano 
+// Mame 
+// Mamma Roma 
+// Mammoth  
+// Man About Town 
+// Man Bites Dog 
+// Man Facing Southeast 
+// Man Hunt
+// Man Walking Around a Corner 
+// Man Without a Star 
+// Man in the Wilderness 
+// Man of Aran 
+// Man of Iron 
+// Man of La Mancha 
+// Man of Marble 
+// Man of Steel 
+// Man of a Thousand Faces 
+// Man of the Century 
+// Man of the Frontier 
+// Man of the House
+// Man of the West 
+// Man of the Year 
+// Man on Fire
+// Man on Wire 
+// Man on a Ledge 
+// Man on the Moon 
+// Man with a Million 
+// Man with the Movie Camera 
+// Man with the Screaming Brain 
+// Man's Best Friend 
+// Man-Thing  
+// Management 
+// Manatsu no Chikyū 
+// Manchester by the Sea 
+// Mandala 
+// Mandela: Long Walk to Freedom 
+// Manderlay 
+// Mandingo 
+// Mandragora 
+// Mangal Pandey 
+// Mangetsu no Kuchizuke 
+// Manhandled
+// Manhatta 
+// Manhattan 
+// Manhattan Melodrama 
+// Manhattan Murder Mystery 
+// Manhattan Project 
+// Manhood 
+// Manhunter 
+// Maniac Cop 
+// Maniac
+// Manic 
+// Manly Times 
+// Mannequin
+// Manolete 
+// Manon des Sources 
+// Manos: The Hands of Fate 
+// Mansfield Park 
+// Manson 
+// Manufacturing Consent: Noam Chomsky and the Media 
+// Many Rivers to Cross 
+// Mao's Last Dancer 
+// Map of the Human Heart 
+// Mapado 
+// Mapado 2: Back to the Island 
+// Mar adentro 
+// Maradona 
+// Marat/Sade 
+// Marathon Man 
+// March Comes in like a Lion 
+// March of Time: Inside Nazi Germany 
+// March of the Penguins 
+// Marci X 
+// Mare Nostrum 
+// Marebito 
+// Margaret 
+// Margaret's Museum 
+// Margin Call 
+// Margot at the Wedding 
+// Maria Full of Grace 
+// Mariah Carey's All I Want For Christmas Is You 
+// Marian Anderson: the Lincoln Memorial Concert 
+// Marie Antoinette
+// Marihuana 
+// Marilyn Hotchkiss' Ballroom Dancing and Charm School 
+// Marine Boy 
+// Marion Bridge 
+// Marjoe 
+// Marjorie Morningstar 
+// Mark of the Devil 
+// Mark of the Vampire 
+// Marked Woman 
+// Marked for Death 
+// Marley & Me 
+// Marley 
+// Marlowe 
+// Marmaduke 
+// Marmoulak 
+// Marnie 
+// Maroko 
+// Marooned 
+// Marriage Italian-Style 
+// Married Life 
+// Married to the Mob 
+// Mars 
+// Mars Needs Moms 
+// Mars Needs Women  
+// Mars: Tada, Kimi wo Aishiteru 
+// Martha Marcy May Marlene 
+// Martha, Inc.: The Story of Martha Stewart 
+// Martha, Meet Frank, Daniel and Laurence 
+// Martian Child 
+// Martian Through Georgia 
+// Martians Go Home 
+// Martin 
+// Martin Lawrence Live: Runteldat 
+// Marty 
+// Martyrs
+// Martín Fierro 
+// Marvin's Room 
+// Marwencol 
+// Mary Poppins 
+// Mary Poppins Returns 
+// Mary Queen of Scots
+// Mary Reilly 
+// Mary Shelley's Frankenstein 
+// Mary and Max 
+// Mary of Scotland 
+// Mary, Queen of Scots 
+// Mary, Queen of Tots 
+// Mary
+// Maryam 
+// Masculin, féminin 
+// Mask 
+// Masked and Anonymous 
+// Master Hands 
+// Master and Commander: The Far Side of the World 
+// Master of Disguise 
+// Master of the Flying Guillotine 
+// Master of the World 
+// Mastermind 
+// Masterminds
+// Masters of the Universe 
+// Masti 
+// Mata Hari 
+// Matador 
+// Matango 
+// Match Point 
+// Matchstick Men 
+// Material Girls 
+// Matewan 
+// Matilda
+// Matinee 
+// Matriculated 
+// Matru Ki Bijlee Ka Mandola 
+// Maundy Thursday 
+// Maurice 
+// Mauvaises fréquentations 
+// Maverick 
+// Max 2: White House Hero 
+// Max Hell Frog Warrior 
+// Max Keeble's Big Move 
+// Max Payne 
+// Max, My Love 
+// Max
+// Maximum Overdrive 
+// Maximum Ride 
+// Maximum Risk 
+// May 
+// Maybe Baby 
+// Mayerling
+// Mayrig 
+// Maytime 
+// Maîtresse 
+// McBain 
+// McCabe & Mrs. Miller 
+// McDull, The Alumni 
+// McDull: Me & My Mum 
+// McDull: Rise of the Rice Cooker 
+// McHale's Navy Joins the Air Force 
+// McHale's Navy
+// McQ 
+// McVicar 
+// Me Before You 
+// Me Myself I 
+// Me Without You 
+// Me You Them 
+// Me and Her 
+// Me and Orson Welles 
+// Me and You and Everyone We Know 
+// Me and the Big Guy 
+// Me, Myself & Irene 
+// Me... Myself 
+// Mean Creek 
+// Mean Girls 
+// Mean Guns 
+// Mean Machine 
+// Mean Streets 
+// Meatballs 
+// Meatballs III: Summer Job 
+// Mechanic: Resurrection 
+// Medea 
+// Medicine Man 
+// Mediterraneo 
+// Medium Cool 
+// Mee-Shee: The Water Giant 
+// Meek's Cutoff 
+// Meenaxi: A Tale of Three Cities 
+// Meet Dave 
+// Meet Joe Black 
+// Meet John Doe 
+// Meet Me in St. Louis 
+// Meet Miss Anxiety 
+// Meet the Browns 
+// Meet the Deedles 
+// Meet the Feebles 
+// Meet the Fockers 
+// Meet the Hollowheads 
+// Meet the Missus
+// Meet the Parents 
+// Meet the Robinsons 
+// Meet the Spartans 
+// Mega Shark Versus Crocosaurus 
+// Mega Shark Versus Giant Octopus 
+// Mega Shark Versus Mecha Shark 
+// Megaforce 
+// Megamind 
+// Megan Is Missing 
+// Meghe Dhaka Tara 
+// Mehed ei nuta 
+// Mehndi 
+// Mekhong Full Moon Party 
+// Melancholia
+// Melinda and Melinda 
+// Melody
+// Melody Ranch 
+// Melody Time 
+// Melvin and Howard 
+// Memento 
+// Memento Mori 
+// Memoirs of a Geisha 
+// Memoirs of an Invisible Man 
+// Memories 
+// Memories of Murder 
+// Memories of a River 
+// Memphis Belle 
+// Memron 
+// Men Behind the Sun 
+// Men Boxing 
+// Men O' War 
+// Men and Women
+// Men at Work 
+// Men in Black 
+// Men in Black: International 
+// Men of Honor 
+// Men with Brooms 
+// Menace II Society 
+// Menace from Outer Space 
+// Mephisto
+// Mera Naam Joker 
+// Mercenary for Justice 
+// Merci pour le chocolat 
+// Mercury Man 
+// Mercury Rising 
+// Merlin 
+// Merlin's Shop of Mystical Wonders 
+// Mermaid Legend 
+// Mermaid's Scar  
+// Mermaid
+// Mermaids
+// Mermaids: The Body Found 
+// Merrily We Live 
+// Merry Andrew 
+// Merry Christmas 
+// Merry Christmas, Mr. Lawrence 
+// Mesa of Lost Women 
+// Meshes of the Afternoon 
+// Mesrine
+// Message from the King 
+// Message in a Bottle 
+// Metal: A Headbanger's Journey 
+// Metallic Blues 
+// Metallica Through the Never 
+// Metallica: Some Kind of Monster 
+// Metalstorm: The Destruction of Jared-Syn 
+// Meteor 
+// Metro
+// Metroland 
+// Metropolis
+// Metropolitan
+// Metrosexual 
+// Mexicali Shmoes 
+// Mi vida sin mí 
+// Miami Blues 
+// Miami Vice 
+// Michael Clayton 
+// Michael Collins 
+// Michael Jackson's This Is It 
+// Michael Lucas' Dangerous Liaisons 
+// Michael Moore Hates America 
+// Michael
+// Mickey Blue Eyes 
+// Mickey's Christmas Carol 
+// Mickey's Magical Christmas: Snowed in at the House of Mouse 
+// Mickey's Once Upon a Christmas  
+// Mickey's Polo Team 
+// Mickey's Trailer 
+// Mickey's Twice Upon a Christmas 
+// Mickey, Donald, Goofy: The Three Musketeers 
+// Mickey
+// Micki + Maude 
+// Micmacs 
+// Microcosmos 
+// Mid-Afternoon Barks 
+// Mid-July Days 
+// Midnight Cowboy 
+// Midnight Express 
+// Midnight Garage 
+// Midnight Hair 
+// Midnight Lace 
+// Midnight Madness 
+// Midnight Movie 
+// Midnight My Love 
+// Midnight Run 
+// Midnight Whisper 
+// Midnight in Paris 
+// Midnight in the Garden of Good and Evil 
+// Midnight
+// Midsummer Dream 
+// Midway 
+// Mifune's Last Song 
+// Mighty Aphrodite 
+// Mighty Ducks the Movie: The First Face-Off 
+// Mighty Joe Young
+// Mighty Like a Moose 
+// Mighty Morphin Power Rangers: The Movie 
+// Mike Bassett: England Manager 
+// Mike's New Car 
+// Mikey and Nicky 
+// Milae 
+// Mildred Pierce 
+// Miles of Fire 
+// Miley: The Movement 
+// Mili
+// Milk 
+// Milk Money 
+// Milky Way Liberation Front 
+// Millennium 
+// Millennium Actress 
+// Miller's Crossing 
+// Million Dollar Arm 
+// Million Dollar Baby 
+// Millions 
+// Milou in May 
+// Mimic 
+// Mimic: Sentinel 
+// Min & Max 
+// Min and Bill 
+// Mina olin siin 
+// Mind Game 
+// Mindhunters 
+// Mini Moni Ja Movie: Okashina Daibouken 
+// Mini's First Time 
+// Ministry of Fear 
+// Minnale 
+// Minnalppadayaali 
+// Minnesota Clay 
+// Minnie and Moskowitz 
+// Minority Report 
+// Minotaur 
+// Minsaara Kanavu 
+// Minshū no Teki 
+// Mio in the Land of Faraway 
+// Miracle Mile 
+// Miracle at St. Anna 
+// Miracle in Milan 
+// Miracle on 1st Street 
+// Miracle on 34th Street
+// Miracle
+// Miracles from Heaven 
+// Miracles
+// Mirage
+// Miranda
+// Mirch Masala 
+// Mirror Mirror 
+// Mirror, Mirror 
+// MirrorMask 
+// Mirrors 
+// Mischief 
+// Mise Éire 
+// Misery 
+// Mishima: A Life in Four Chapters 
+// Miss Bala 
+// Miss Congeniality 
+// Miss Congeniality 2: Armed and Fabulous 
+// Miss Gold Digger 
+// Miss Jerry 
+// Miss Julie
+// Miss Lulu Bett 
+// Miss March 
+// Miss Peregrine's Home for Peculiar Children 
+// Miss Pettigrew Lives for a Day 
+// Miss Potter 
+// Miss Sloane 
+// Miss Suwanna of Siam 
+// Missile to the Moon 
+// Missing You 
+// Missing in Action 
+// Missing in Action 2: The Beginning 
+// Missing in America 
+// Missing
+// Mission Milano 
+// Mission Stardust 
+// Mission to Mars 
+// Mission: Impossible 
+// Mission: Impossible – Fallout 
+// Mission: Impossible – Ghost Protocol 
+// Mission: Impossible – Rogue Nation 
+// Missionary 
+// Mississippi Burning 
+// Mississippi Grind 
+// Mississippi Masala 
+// Mississippi Mermaid 
+// Mister Bug Goes to Town 
+// Mister Felicità 
+// Mister Roberts
+// Mistress 
+// Mitchell 
+// Mixed Nuts 
+// Mo' Better Blues 
+// Mo' Money 
+// Moana
+// Mobsters 
+// Moby Dick
+// Mockingbird Don't Sing 
+// Model Behavior
+// Modern Boy 
+// Modern Girls 
+// Modern Problems 
+// Modern Times 
+// Modesta 
+// Modesty Blaise
+// Modigliani 
+// Mogambo 
+// Mogliamante 
+// Mohabbatein 
+// Mohammad, Messenger of God 
+// Mojados: Through the Night 
+// Moll Flanders 
+// Molly & Gina 
+// Molly's Game 
+// Mom and Dad 
+// Mom and Dad Save the World 
+// Mom's Got a Date with a Vampire  
+// Momentum
+// Mommie Dearest 
+// Momo 
+// Momotaro's Divine Sea Warriors 
+// Momotaro's Sea Eagles 
+// Mon Oncle 
+// Mon oncle Antoine 
+// Mon oncle d'Amérique 
+// Mona Lisa 
+// Mona Lisa Smile 
+// Mondo Cane 
+// Mondo New York 
+// Mondo Topless 
+// Mondo Trasho 
+// Mondovino 
+// Money Game 
+// Money Talks
+// Money Train 
+// Money for Nothing
+// Money from Home 
+// Moneyball 
+// Mongol: The Rise of Genghis Khan 
+// Monk Dawson 
+// Monkey Business
+// Monkey King: Hero Is Back 
+// Monkey Shines 
+// Monkeybone 
+// Monkeyshines 
+// Mononoke Hime 
+// Monrak Transistor 
+// Monsieur Beaucaire
+// Monsieur Hire 
+// Monsieur Hulot's Holiday 
+// Monsieur Ibrahim 
+// Monsieur Klein 
+// Monsieur Lazhar 
+// Monsieur Verdoux 
+// Monsieur Vincent 
+// Monsoon Wedding 
+// Monster Dog 
+// Monster Family 
+// Monster House 
+// Monster Hunt 
+// Monster Man 
+// Monster Mash
+// Monster Strike The Movie 
+// Monster Trucks 
+// Monster from a Prehistoric Planet 
+// Monster in a Box 
+// Monster's Ball 
+// Monster-in-Law 
+// Monster
+// Monsters University 
+// Monsters vs Aliens 
+// Monsters
+// Monsters: Dark Continent 
+// Monsterz 
+// Monstrosity 
+// Montana
+// Monte Carlo or Bust 
+// Monte Carlo
+// Monterey Pop 
+// Monty Python Live at the Hollywood Bowl 
+// Monty Python and the Holy Grail 
+// Monty Python's Life of Brian 
+// Monty Python's The Meaning of Life 
+// Moog 
+// Moon 
+// Moon Child
+// Moon Over Parador 
+// Moon Zero Two 
+// Moon of the Wolf
+// Moonfleet 
+// Moonlight Mile 
+// Moonlight Whispers 
+// Moonlight
+// Moonlighting 
+// Moonraker 
+// Moonrise Kingdom 
+// Moonrunners 
+// Moonstruck 
+// Moontrap 
+// Moonwalker 
+// Moosa Khan 
+// More American Graffiti 
+// More than Blue 
+// More than Famous 
+// More
+// Morgan - A Suitable Case for Treatment 
+// Morgan Stewart's Coming Home 
+// Morgan
+// Morgenrot 
+// Morituri
+// Morning Glory
+// Morning Patrol 
+// Morocco 
+// Mortal Engines 
+// Mortal Kombat 
+// Mortal Kombat: Annihilation 
+// Mortal Thoughts 
+// Mortuary
+// Morvern Callar 
+// Mosaic 
+// Moscow Does Not Believe in Tears 
+// Moscow on the Hudson 
+// Moses 
+// Most Wanted
+// Mostly Martha 
+// Motel Hell 
+// Mother India 
+// Mother Night 
+// Mother and Child 
+// Mother of Mine 
+// Mother of Tears 
+// Mother's Day
+// Mother, Jugs & Speed 
+// Mother, Mother, Mother Pin a Rose on Me 
+// Mother
+// Motherhood
+// Mothra 
+// Mothra vs. Godzilla 
+// Motocross Kids 
+// Motorpsycho 
+// Mouchette 
+// Moulin Rouge
+// Mountain Cry 
+// Mountains May Depart 
+// Mountains of the Moon 
+// Mourning Becomes Electra 
+// Mouse Menace 
+// MouseHunt 
+// Move Over, Darling 
+// Movie Crazy 
+// Movie Critters' Big Picture 
+// Moving Malcolm 
+// Moving Violations 
+// Moving
+// Mowgli 
+// Mozu 
+// Mr. & Mrs. Smith
+// Mr. Arkadin 
+// Mr. Baseball 
+// Mr. Bean's Holiday 
+// Mr. Black: Green Star 
+// Mr. Blandings Builds His Dream House 
+// Mr. Brooks 
+// Mr. Butterfly 
+// Mr. Deeds 
+// Mr. Deeds Goes to Town 
+// Mr. Destiny 
+// Mr. Donkey 
+// Mr. Dramatic 
+// Mr. Freedom 
+// Mr. High Heels 
+// Mr. Hobbs Takes a Vacation 
+// Mr. Holland's Opus 
+// Mr. Lucky 
+// Mr. Magoo 
+// Mr. Magoo's Christmas Carol  
+// Mr. Magorium's Wonder Emporium 
+// Mr. Majestyk 
+// Mr. Mike's Mondo Video 
+// Mr. Mom 
+// Mr. Nian 
+// Mr. Nice Guy
+// Mr. Nobody 
+// Mr. Popper's Penguins 
+// Mr. Sardonicus 
+// Mr. Saturday Night 
+// Mr. Skeffington 
+// Mr. Smith Goes to Washington 
+// Mr. Topaze 
+// Mr. Vampire 
+// Mr. Woodcock 
+// Mr. Wrong 
+// Mr. Zhao 
+// Mr. and Mrs. Iyer 
+// Mr. and Mrs. Khiladi 
+// Mrityudata 
+// Mrs Henderson Presents 
+// Mrs. Brown 
+// Mrs. Brown's Boys D'Movie 
+// Mrs. Doubtfire 
+// Mrs. Miniver 
+// Mrs. Palfrey at the Claremont 
+// Mrs. Parker and the Vicious Circle 
+// Mrs. Santa Claus  
+// Mrs. Winterbourne 
+// Mt. Tsurugidake 
+// Much Ado About Nothing
+// Mud
+// Mudbound 
+// Mudhoney 
+// Mug Travel 
+// Mugavari 
+// Mughal-e-Azam 
+// Muhwagwa 
+// Mujhe Chand Chahiye 
+// Mujhse Shaadi Karogi 
+// Mulan
+// Mulholland Drive 
+// Mulholland Falls 
+// Mullet 
+// Multi-Facial 
+// Multiple Maniacs 
+// Multiple Sidosis 
+// Multiplicity 
+// Mum & Dad 
+// Mumbai Diaries 
+// Mumford 
+// Munchies 
+// Munich 
+// Muoi: The Legend of a Portrait 
+// Muppet Classic Theater 
+// Muppet Treasure Island 
+// Muppets Most Wanted 
+// Muppets from Space 
+// Murder 
+// Murder Ahoy 
+// Murder Most Foul 
+// Murder at Honeymoon Hotel 
+// Murder at the Gallop 
+// Murder by Death 
+// Murder by Decree 
+// Murder by Numbers 
+// Murder in Pacot 
+// Murder in the Big House 
+// Murder in the First 
+// Murder in the Heartland 
+// Murder on the Orient Express
+// Murder, My Sweet 
+// Murder-Set-Pieces 
+// Murderball 
+// Murderers' Row 
+// Murders in the Rue Morgue 
+// Muriel's Wedding 
+// Murmur of the Heart 
+// Murmur of the Hearts 
+// Murphy's Romance 
+// Musa 
+// Musafir 
+// Muscle Tussle 
+// Mushrooming 
+// Music Box 
+// Music and Lyrics 
+// Music from Another Room 
+// Music of the Heart 
+// Must Love Dogs 
+// Mutant Aliens 
+// Mutant Chronicles 
+// Mute Witness 
+// Muthu 
+// Mutiny on the Bounty
+// My 20th Century 
+// My Baby's Daddy 
+// My Beautiful Girl, Mari 
+// My Beautiful Laundrette 
+// My Best Fiend 
+// My Best Friend Is a Vampire 
+// My Best Friend's Birthday 
+// My Best Friend's Girl 
+// My Best Friend's Wedding 
+// My Best Friend's Wedding 
+// My Big Fat Greek Wedding 
+// My Bloody Valentine 
+// My Bloody Valentine 3D 
+// My Blue Heaven 
+// My Blueberry Nights 
+// My Bodyguard 
+// My Boss's Daughter 
+// My Boss, My Hero 
+// My Boss, My Teacher 
+// My Boyfriend is Type B 
+// My Boyfriend's Back 
+// My Brilliant Career 
+// My Bunny Lies Over the Sea 
+// My Chauffeur 
+// My Cousin Rachel 
+// My Cousin Vinny 
+// My Darling Clementine 
+// My Date with Drew 
+// My Date with the President's Daughter  
+// My Dinner with Andre 
+// My Dog Skip 
+// My Fair Lady 
+// My Family 
+// My Father the Hero
+// My Father's Glory 
+// My Favorite Brunette 
+// My Favorite Martian 
+// My Favorite Season 
+// My Favorite Wife 
+// My Favorite Year 
+// My Fellow Americans 
+// My First Mister 
+// My Friend Dahmer 
+// My Friend Flicka 
+// My Friend Irma 
+// My Friend Irma Goes West 
+// My Geeky Nerdy Buddies 
+// My Geisha 
+// My Giant 
+// My Girl 
+// My Gun Is Quick 
+// My Hawaiian Discovery 
+// My Hero
+// My Heroes Have Always Been Cowboys 
+// My Learned Friend 
+// My Left Eye Sees Ghosts 
+// My Left Foot 
+// My Life 
+// My Life So Far 
+// My Life Without Me 
+// My Life as McDull 
+// My Life as a Dog 
+// My Life in Cinemascope 
+// My Life in Pink 
+// My Life in Ruins 
+// My Life on Ice 
+// My Life to Live 
+// My Little Chickadee 
+// My Little Eye 
+// My Little Pony: A Very Minty Christmas 
+// My Little Pony: Equestria Girls 
+// My Little Pony: The Movie
+// My Little Pony: The Princess Promenade 
+// My Love
+// My Lover My Son 
+// My Lucky Stars 
+// My Man 
+// My Man Godfrey 
+// My Mighty Princess 
+// My Mother, the Mermaid 
+// My Name Is Bruce 
+// My Name Is Joe 
+// My Name Is Julia Ross 
+// My Name Is Khan 
+// My Name Is Modesty 
+// My Name Is Nobody 
+// My Neighbor Totoro 
+// My Neighbors the Yamadas 
+// My New Partner 
+// My New Sassy Girl 
+// My Night at Maud's 
+// My Night with Reg 
+// My Old Kentucky Home 
+// My One and Only 
+// My Original Dream 
+// My Own Private Idaho 
+// My Own Swordsman 
+// My Sassy Girl 
+// My Scary Girl 
+// My Science Project 
+// My Second Brother 
+// My Side of the Mountain 
+// My Sister Eileen 
+// My Sister's Keeper 
+// My Sister, My Love 
+// My Six Convicts 
+// My Son the Fanatic 
+// My Sons 
+// My Soul to Take 
+// My Stepmother is an Alien 
+// My Summer Story 
+// My Summer of Love 
+// My Super Ex-Girlfriend 
+// My Teacher, Mr. Kim 
+// My Tutor 
+// My Uncle Benjamin 
+// My Voyage to Italy 
+// My War 
+// My Way
+// My Week with Marilyn 
+// My Wife Got Married 
+// My Wife Is a Gangster 
+// My Wife Is an Actress 
+// Myra Breckinridge 
+// Myriad of Lights 
+// Myself in the Distant Future 
+// Mysterious Island 
+// Mysterious Object at Noon 
+// Mysterious Skin 
+// Mysterium Occupation 
+// Mystery 
+// Mystery Mansion 
+// Mystery Men 
+// Mystery Science Theater 3000: The Movie 
+// Mystery Street 
+// Mystery Train 
+// Mystery of Mamo 
+// Mystery of the Wax Museum 
+// Mystery, Alaska 
+// Mystic Pizza 
+// Mystic River 
+// Mystical Adventure 
+// Mythos 
+// Mädchen in Uniform 
+// Ménage 
+// Münchhausen 
+// N - The Madness of Reason 
+// N is a Number: A Portrait of Paul Erdős 
+// N.G.O 
+// N.T.R: Kathanayakudu 
+// N.T.R: Mahanayakudu 
+// NASCAR 3D: The IMAX Experience 
+// NCR: Not Criminally Responsible 
+// NEKRomantik 
+// NH-8 Road to Nidhivan 
+// NN 
+// NOTA 
+// NVA 
+// NY77: The Coolest Year in Hell 
+// NYC: Tornado Terror 
+// Na Band Na Baraati 
+// Na Bolona 
+// Na Ghar Ke Na Ghaat Ke 
+// Na Hannyate 
+// Na Maloom Afraad 
+// Na Ninna Preetisuve 
+// Na Svatém Kopečku 
+// Na Tum Jaano Na Hum 
+// Na Wewe 
+// Na białym szlaku 
+// Na istarski način 
+// Na konci města 
+// Na odsiecz Wiedniowi 
+// Na pytlácké stezce 
+// Na růžích ustláno 
+// Na svoji zemlji 
+// Naa Alludu 
+// Naa Autograph 
+// Naa Bangaaru Talli 
+// Naa Desam 
+// Naa Illu 
+// Naa Ishtam 
+// Naa Mechida Huduga 
+// Naa Ninna Bidalaare 
+// Naa Ninna Mareyalare 
+// Naa Peru Surya, Naa Illu India 
+// Naa... Nuvve 
+// Naach 
+// Naach Govinda Naach 
+// Naach Uthe Sansaar 
+// Naache Mayuri 
+// Naachiyaar 
+// Naadam 
+// Naadan Pennu 
+// Naadan Premam 
+// Naadi Aada Janme 
+// Naadodigal  
+// Naadodikal 
+// Naadody 
+// Naadu Adhai Naadu 
+// Naag Jyoti 
+// Naag Mohini 
+// Naag Nagin 
+// Naag aur Nagin 
+// Naaga 
+// Naaga Nandhini 
+// Naagam
+// Naagamalai Azhagi 
+// Naagapanchami 
+// Naagarahaavu 
+// Naagdev 
+// Naagu 
+// Naaigal Jaakirathai 
+// Naajayaz 
+// Naaka Bandi 
+// Naakaa 
+// Naal 
+// Naalaaga Endaro 
+// Naalai 
+// Naalai Manithan 
+// Naalai Namadhe
+// Naalai Unathu Naal 
+// Naalaiya Theerpu 
+// Naalamkettile Nalla Thampimar 
+// Naalaya Seidhi 
+// Naale 
+// Naale Ennundengil 
+// Naale Njangalude Vivaham 
+// Naalkavala 
+// Naalo Unna Prema 
+// Naalu Pennungal 
+// Naalu Peruku Nalladhuna Edhuvum Thappilla 
+// Naalu Policeum Nalla Irundha Oorum 
+// Naalu Veli Nilam 
+// Naalumanippookkal 
+// Naalvar 
+// Naam Gum Jaayega 
+// Naam Iruvar Namakku Iruvar 
+// Naam Iruvar
+// Naam Moovar 
+// Naam O Nishan 
+// Naam Pirandha Mann 
+// Naam Shabana 
+// Naam
+// Naamcheen 
+// Naami Chor 
+// Naan Aanaiyittal 
+// Naan Adimai Illai 
+// Naan Aval Adhu eased)
+// Naan Avalai Sandhitha Pothu 
+// Naan Avanillai
+// Naan Kadavul 
+// Naan Kanda Sorgam 
+// Naan Mahaan Alla
+// Naan Paadum Paadal 
+// Naan Pesa Ninaipathellam 
+// Naan Petha Magane 
+// Naan Petra Selvam 
+// Naan Potta Savaal 
+// Naan Rajavaga Pogiren 
+// Naan
+// Naavadakku Paniyedukku 
+// Nabab Nandini 
+// Nabat 
+// Nabbie's Love 
+// Nabi 
+// Nabin Jatra 
+// Nache Nagin Gali Gali 
+// Nacher Putul 
+// Nacho Libre 
+// Nacholer Rani 
+// Nachom-ia Kumpasar 
+// Nacht voller Angst 
+// Nachtrit 
+// Nachtvlinder 
+// Nacidos para cantar 
+// Nad Niemnem 
+// Nada Untuk Asa 
+// Nada más que amor 
+// Nada's Revolution 
+// Nada
+// Nadaan
+// Nadakame Ulakam 
+// Nadan 
+// Nadan Pennum Natupramaniyum 
+// Nadanpennum Naattupramaaniyum 
+// Nadi Theke Sagare 
+// Nadi Vahate 
+// Nadia 
+// Nadia and the Hippos 
+// Nadia's Friends 
+// Nadie dijo nada 
+// Nadie oyó gritar 
+// Nadie oyó gritar a Cecilio Fuentes 
+// Nadie te querra como yo 
+// Nadigai 
+// Nadigan 
+// Nadina Bhagya 
+// Nadine 
+// Nadiya Ke Paar
+// Nadiya Kollappetta Rathri 
+// Nadja 
+// Nadodi 
+// Nagaram
+// Nagin
+// Nagina
+// Nail Gun Massacre 
+// Nail in the Boot 
+// Nails
+// Najangalude Kochu Doctor 
+// Naked Alibi 
+// Naked Ambition 
+// Naked Ambition: An R Rated Look at an X Rated Industry  
+// Naked Killer 
+// Naked Lunch 
+// Naked Weapon 
+// Naked in New York 
+// Naked
+// Nala Damayanthi 
+// Nam's Angels 
+// Namak Haraam 
+// Name of the Rose 
+// Names in Marble 
+// Namkeen 
+// Nan of Music Mountain 
+// Nan of the North 
+// Nana - A Tale of Us 
+// Nana Means King 
+// Nana to Kaoru 
+// Nana, the True Key of Pleasure 
+// Nana
+// Nanak Nam Jahaz Hai 
+// Nanba Nanba 
+// Nanban
+// Nanbanin Kadhali 
+// Nanbargal 
+// Nance 
+// Nancy 
+// Nancy Bikin Pembalesan 
+// Nancy Drew and the Hidden Staircase
+// Nancy Drew... Detective 
+// Nancy Drew... Reporter 
+// Nancy Drew
+// Nancy Drew… Trouble Shooter 
+// Nancy Goes to Rio 
+// Nancy from Nowhere 
+// Nanda 
+// Nanda Deepa 
+// Nanda Gokula 
+// Nanda Loves Nanditha 
+// Nandagopaalante Kusruthikal 
+// Nandakumar 
+// Nandalala 
+// Nandanam 
+// Nandanar 
+// Nandha 
+// Nang Nak 
+// Nanny McPhee 
+// Nanny McPhee and the Big Bang 
+// Nanook of the North 
+// Napló apámnak, anyámnak 
+// Napoleon Dynamite 
+// Napoleon and Josephine: A Love Story 
+// Napoleon and Me 
+// Napoleon and Samantha 
+// Napoleon and the Little Washerwoman 
+// Napoleon at Saint Helena 
+// Napoleon's Barber 
+// Napoleon's Daughter 
+// Napoleon
+// Napoli violenta 
+// Napoléon
+// Naqoyqatsi 
+// Narc 
+// Narrow Margin 
+// Naruto Shippuden the Movie 
+// Naruto Shippuden the Movie: Bonds 
+// Naruto Shippuden the Movie: The Lost Tower 
+// Naruto Shippuden the Movie: The Will of Fire 
+// Naruto the Movie: Blood Prison 
+// Naruto the Movie: Guardians of the Crescent Moon Kingdom 
+// Naruto the Movie: Legend of the Stone of Gelel 
+// Naruto the Movie: Ninja Clash in the Land of Snow 
+// Nashville 
+// Nata Sarvabhouma 
+// Natacha Atlas, la rose pop du Caire 
+// Natakala Rayudu 
+// Natale a New York 
+// Natale a Rio 
+// Natale a cinque stelle 
+// Natale col Boss 
+// Natale sul Nilo 
+// Natalee Holloway 
+// Natalia 
+// Natalie 
+// Natannethuwa Dinna 
+// Natasaarvabhowma 
+// Natasha
+// Natchathira Nayagan 
+// Natchathiram 
+// Nate and Hayes 
+// Nate and the Colonel 
+// Nathan the Wise 
+// Nathayil Muthu 
+// Nathi Bari Tarzan 
+// Nathi Muthal Nathi Vare 
+// Nathicharami 
+// Natholi Oru Cheriya Meenalla 
+// Nathoon 
+// Nati 
+// Nati stanchi 
+// Nation Aflame 
+// Nation Awakes 
+// Nation Estate 
+// Nation Under Siege 
+// Nation and Destiny
+// National Anthem 
+// National Bird 
+// National Bomb 
+// National Customs 
+// National Lampoon Presents Dorm Daze 
+// National Lampoon's Adam & Eve 
+// National Lampoon's Animal House 
+// National Lampoon's Bag Boy 
+// National Lampoon's Barely Legal 
+// National Lampoon's Christmas Vacation 
+// National Lampoon's Christmas Vacation 2: Cousin Eddie's Island Adventure  
+// National Lampoon's Class Reunion 
+// National Lampoon's European Vacation 
+// National Lampoon's Gold Diggers 
+// National Lampoon's Golf Punks 
+// National Lampoon's Last Resort 
+// National Lampoon's Movie Madness 
+// National Lampoon's Pucked 
+// National Lampoon's Senior Trip 
+// National Lampoon's TV: The Movie 
+// National Lampoon's Thanksgiving Family Reunion 
+// National Lampoon's Vacation 
+// National Lampoon's Van Wilder 
+// National Lampoon's Van Wilder: Freshman Year 
+// National Lampoon's Van Wilder: The Rise of Taj 
+// National Lampoon: Drunk Stoned Brilliant Dead 
+// National Mechanics 
+// National Security
+// National Treasure 
+// National Treasure: Book of Secrets 
+// National Velvet 
+// Natir Puja 
+// Native 
+// Native Land 
+// Native New Yorker 
+// Native Son
+// Nativity 2: Danger in the Manger 
+// Natpe Thunai 
+// Natpu 
+// Natpukkaga 
+// Natpuna Ennanu Theriyuma 
+// Natsamrat 
+// Natsume's Book of Friends the Movie: Tied to the Temporal World 
+// Nattamai 
+// Nattu Vishesham 
+// Nattuchakkeruttu 
+// Nattukku Oru Nallavan 
+// Nattupura Nayagan 
+// Nattupura Pattu 
+// Natturajavu 
+// Natural Born Killers 
+// Natural Born Pranksters 
+// Natural Causes
+// Natural City 
+// Natural Enemies 
+// Natural Selection
+// Natural Woman 
+// Naturally Obsessed 
+// Nature Calls 
+// Nature Law 
+// Nature Unleashed: Earthquake 
+// Nature of the Beast 
+// Nature's Gentleman 
+// Nature's Half Acre 
+// Nature's Touch 
+// Natutulog Pa Ang Diyos 
+// Nau Do Gyarah 
+// Naug Ma Kja Kyay 
+// Naughty Baby 
+// Naughty Boy 
+// Naughty Boys & Soldiers 
+// Naughty But Nice 
+// Naughty Cinderella 
+// Naughty Dallas 
+// Naughty Girl 
+// Naughty Grandma 
+// Naughty Jatts 
+// Naughty Marietta 
+// Naughty Martine 
+// Naughty Nanette 
+// Naughty Neighbors 
+// Naughty Professor 
+// Naughty Reunion 
+// Naughty but Mice 
+// Naughty but Nice 
+// Naughty or Nice
+// Naughty, Naughty 
+// Naujawan 
+// Naukar 
+// Naukar Biwi Ka 
+// Naukar Ki Kameez 
+// Naukar Wohti Da 
+// Nauker 
+// Naulakha Haar 
+// Nausicaä of the Valley of the Wind 
+// Nava Vasantham 
+// Navagatharkku Swagatham 
+// Navagraha 
+// Navagraha Nayagi 
+// Navagraham 
+// Navajeevana 
+// Navajeevanam 
+// Navajeros 
+// Navajo 
+// Navajo Joe 
+// Navarasa 
+// Navy Blue Days 
+// Navy Blue and Gold 
+// Navy Blues
+// Navy Nurse 
+// Navy SEALs 
+// Navy Secrets 
+// Navy Spy 
+// Navy Wife
+// Nazarin 
+// Nazis at the Center of the Earth 
+// Nazis: The Occult Conspiracy 
+// Ne daj se, Floki 
+// Ne jouez pas avec les Martiens 
+// Ne m'abandonne pas
+// Ne parliamo Lunedi 
+// Ne čakaj na maj 
+// Neal 'n' Nikki 
+// Neang Champameas 
+// Neang Pumary 
+// Neapolitan Carousel 
+// Neapolitan Mouse 
+// Neapolitan Mystery 
+// Neapolitan Turk 
+// Near Dark 
+// Near Death Experience 
+// Near Dublin 
+// Near and Far Away 
+// Near the Rainbow's End 
+// Near to Earth 
+// Nearer My God to Thee 
+// Nearest and Dearest 
+// Nearing Grace 
+// Nearly Eighteen 
+// Nearly Married 
+// Nearly a Deserter 
+// Nearly a King 
+// Nearly a Lady 
+// Nearly a Nasty Accident
+// Nebeski odred 
+// Nebeští jezdci 
+// Nebo Zovyot 
+// Nebraska 
+// Necesito una madre 
+// Necessary Evil: Super-Villains of DC Comics 
+// Necessary Love 
+// Necessary Roughness 
+// Neck 
+// Necrofobia 
+// Necromancer
+// Necromancy 
+// Necromentia 
+// Necronomicon 
+// Necropolis 
+// Necropolis Awakened 
+// Necrosis 
+// Ned 
+// Ned Blessing: The True Story of My Life
+// Ned Kelly
+// Ned McCobb's Daughter 
+// Ned's Project 
+// Nederland en Oranje 
+// Neds 
+// Nedunalvaadai 
+// Nedunchaalai 
+// Nee Bareda Kadambari 
+// Nee Ente Lahari 
+// Nee Enthan Vaanam 
+// Nee Illadhe 
+// Nee Jathaga Nenundali 
+// Nee Ko Njaa Cha 
+// Nee Kosam 
+// Nee Manasu Naaku Telusu 
+// Nee Naan Nila 
+// Nee Nanna Gellalare 
+// Nee Pathi Naan Pathi 
+// Nee Premakai 
+// Nee Sneham 
+// Nee Sukhame Ne Korukunna 
+// Nee Sukhame Ne Koruthunna 
+// Nee Tata Naa Birla 
+// Nee Thanda Kanike 
+// Nee Thodu Kavali 
+// Nee Unnai Arindhaal 
+// Nee Varuvai Ena 
+// Nee Varuvolam 
+// Nee Venunda Chellam 
+// Nee-Na 
+// Neecha Nagar 
+// Need for Speed 
+// Needful Things 
+// Needhi 
+// Needhi Pizhaithathu 
+// Needhi Singh 
+// Needhikku Thalaivanangu 
+// Needhikkuppin Paasam 
+// Needhipathi 
+// Needhiyin Nizhal 
+// Needi Naadi Oke Katha 
+// Needing You 
+// Needle 
+// Needle in a Timestack 
+// Needle in the Haystack 
+// Neeku Naaku Dash Dash 
+// Neeku Nenu Naaku Nuvvu 
+// Neel Akasher Chandni 
+// Neel Akasher Neechey 
+// Neel Kamal
+// Neel Rajar Deshe 
+// Neela 
+// Neela Aakash 
+// Neela Kurinji Poothappol 
+// Neela Kuyil 
+// Neela Malargal 
+// Neela Parbat 
+// Neela Ponman 
+// Neela Sari 
+// Neela Vaanam 
+// Neelagiri 
+// Neelagiri Express 
+// Neelakannukal 
+// Neelakanta 
+// Neelakasham Pachakadal Chuvanna Bhoomi 
+// Neelakurukkan 
+// Neelakuyil 
+// Neelam 
+// Neelamalai Thirudan 
+// Neelambari
+// Neelathadaakatthile Nizhalppakshikal 
+// Neelathamara
+// Neelavukku Neranja Manasu 
+// Neeli 
+// Neeli Saali 
+// Neelkanth 
+// Neelmani 
+// Neem Annapurna 
+// Neenade Naa 
+// Neend Hamari Khwab Tumhare
+// Neenello Naanalle 
+// Neenga Nalla Irukkanum 
+// Neengadha Ninaivu 
+// Neengal Kettavai 
+// Neenu Nakkare Haalu Sakkare 
+// Neenyare 
+// Neer Dose 
+// Neeraba Jhada 
+// Neerali 
+// Neerja 
+// Neerkumizhi 
+// Neermaathalathinte pookkal
+// Neerparavai 
+// Neerum Neruppum 
+// Neethaane En Ponvasantham 
+// Neethi 
+// Neethi Devan Mayakkam 
+// Neethibathi 
+// Neethikku Thandanai 
+// Neethipeedam 
+// Neethiyin Marupakkam 
+// Neetho 
+// Neeti-Nijayiti 
+// Neevevaro 
+// Neeyallengil Njan 
+// Neeyat 
+// Neeye Nijam 
+// Neeyethra Dhanya 
+// Neeyo Njaano 
+// Neeyum Naanum 
+// Neeyum Njanum 
+// Nefarious: Merchant of Souls 
+// Nefertiti, Queen of the Nile 
+// Nefertiti, figlia del sole 
+// Negadon: The Monster from Mars 
+// Negar 
+// Negative Space 
+// Negroes with Guns: Rob Williams and Black Power 
+// Neige 
+// Neighbor 
+// Neighborhood House 
+// Neighboring Sounds 
+// Neighbors 2: Sorority Rising 
+// Neighbors
+// Neighbours
+// Neighbours: They Are Vampires 
+// Neil Gaiman: Dream Dangerously 
+// Neil Simon's I Ought to Be in Pictures 
+// Neil Young Journeys 
+// Neil Young Trunk Show 
+// Neil Young: Heart of Gold 
+// Neil's Party 
+// Neither Are We Enemies
+// Neither Blood nor Sand 
+// Neither Rich nor Poor 
+// Neither Seen Nor Recognized 
+// Neither at Home or Abroad 
+// Neither by Day nor by Night 
+// Nejlepší člověk 
+// Nejlepší ženská mého života 
+// Nekabborer Mohaproyan 
+// Nekro 
+// Nel blu dipinto di blu 
+// Nel sole 
+// Nela 
+// Nelavanka 
+// Nell 
+// Nell Gwyn 
+// Nell Gwynn 
+// Nell's Eugenic Wedding 
+// Nella città l'inferno 
+// Nellie, the Beautiful Cloak Model 
+// Nelligan 
+// Nellu
+// Nelly and Mr. Arnaud 
+// Nelly's Folly 
+// Nelly's Version 
+// Nelly, the Bride Without a Husband 
+// Nelly
+// Nelson
+// Nema aviona za Zagreb 
+// Nema problema
+// Nemesis 2: Nebula 
+// Nemesis 3: Prey Harder 
+// Nemesis 4: Death Angel 
+// Nemesis Game 
+// Nemesis
+// Nemir 
+// Nemo's Bank 
+// Nemtsov 
+// Nemuranai Machi: Shinjuku Same 
+// Nemuri Kyōshirō manji giri 
+// Nemuri no Mori
+// Nemuritorii 
+// Nena 
+// Nenante Nene 
+// Nenapina Doni 
+// Nenapirali 
+// Nenè 
+// Nerrukku Ner 
+// Nerve
+// Nerven 
+// Netherworld 
+// Netto 
+// Network
+// Nevada Smith 
+// Never Back Down 
+// Never Been Kissed 
+// Never Cry Wolf 
+// Never Die Alone 
+// Never Give a Sucker an Even Break 
+// Never Let Me Go
+// Never Look Away 
+// Never Said Goodbye 
+// Never Say Never Again 
+// Never So Few 
+// Never Talk to Strangers 
+// Never Too Late
+// Never a Dull Moment
+// Never on Sunday 
+// New Best Friend 
+// New Happy Dad and Son 2: The Instant Genius 
+// New Jack City 
+// New Moon
+// New Pillow Fight 
+// New Police Story 
+// New Rose Hotel 
+// New Waterford Girl 
+// New Women 
+// New World Order 
+// New Year's Day
+// New Year's Eve
+// New Year's Evil 
+// New Year
+// New York Doll 
+// New York Minute 
+// New York New York 
+// New York Stories 
+// New York, I Love You 
+// New York, New York 
+// New in Town 
+// Newark Athlete 
+// News Is Made at Night 
+// Newsies 
+// Next Day Air 
+// Next Friday 
+// Next Stop Wonderland 
+// Next of Kin
+// Next
+// Next: A Primer on Urban Painting 
+// Niagara 
+// Niagara, Niagara 
+// Nicholas Nickleby
+// Nicholas and Alexandra 
+// Nick & Norah's Infinite Playlist 
+// Nick of Time 
+// Nickelodeon 
+// Nigakute Amai 
+// Night 
+// Night Caller from Outer Space 
+// Night Inn 
+// Night Life 
+// Night Life of the Gods 
+// Night Moves
+// Night Nurse
+// Night Passage 
+// Night Shift 
+// Night Skies 
+// Night Tide 
+// Night Train to Lisbon 
+// Night Train to Munich 
+// Night Train
+// Night Watch
+// Night and Day
+// Night and Fog
+// Night and the City
+// Night at the Museum 
+// Night at the Museum: Battle of the Smithsonian 
+// Night at the Museum: Secret of the Tomb 
+// Night in the City 
+// Night of the Comet 
+// Night of the Creeps 
+// Night of the Day of the Dawn 
+// Night of the Demon 
+// Night of the Demons
+// Night of the Hunter 
+// Night of the Lepus 
+// Night of the Living Dead 3D 
+// Night of the Living Dead
+// Night of the Living Dead: Darkest Dawn 
+// Night of the Seagulls 
+// Night on Earth 
+// Nightbreed 
+// Nightfall
+// Nightflyers 
+// Nighthawks 
+// Nightmare Alley 
+// Nightmare Castle 
+// Nightmare City 
+// Nightmare
+// Nightmares
+// Nights in Rodanthe 
+// Nights of Cabiria 
+// Nightveil: Witch War 
+// Nightwatch
+// Nightwatching 
+// Nil by Mouth 
+// Nim's Island 
+// Nimed marmortahvlil 
+// Nimona 
+// Nine Lives
+// Nine Months 
+// Nine Queens 
+// Nine to Five 
+// Ninja 
+// Ninja Academy 
+// Ninja Assassin 
+// Ninja III: The Domination 
+// Ninja Scroll 
+// Ninja: Shadow of a Tear 
+// Ninjas vs. Zombies 
+// Ninotchka 
+// Nirvana 
+// Nirvana Street Murder 
+// Nishi Ginza Station 
+// Nitrate Kisses 
+// Nixon 
+// No Babies Wanted 
+// No Bed of Roses 
+// No Bigger than a Minute 
+// No Blade of Grass 
+// No Blood No Tears 
+// No Boyfriend Since Birth 
+// No Breathing 
+// No Burqas Behind Bars 
+// No Census, No Feeling 
+// No Child of Mine 
+// No Clue 
+// No Code of Conduct 
+// No Contest 
+// No Country for Old Men 
+// No Crossover: The Trial of Allen Iverson 
+// No Date, No Signature 
+// No Day Without You 
+// No Defense 
+// No Deposit 
+// No Deposit, No Return 
+// No Dessert, Dad, till You Mow the Lawn 
+// No Direction Home 
+// No Distance Left to Run 
+// No Dough Boys 
+// No Down Payment 
+// No Drums, No Bugles 
+// No End 
+// No End in Sight 
+// No Entrance 
+// No Entry 
+// No Entry Pudhe Dhoka Aahey 
+// No Escape
+// No Evidence of Disease 
+// No Exit
+// No Fathers in Kashmir 
+// No Fear, No Die 
+// No Filter 
+// No Funny Business 
+// No Game, No Life Zero 
+// No God, No Master 
+// No Gold for a Dead Diver 
+// No Good Deed
+// No Greater Glory 
+// No Greater Law 
+// No Greater Love
+// No Hair Day 
+// No Hands on the Clock 
+// No Highway in the Sky 
+// No Holds Barred
+// No Home Movie 
+// No Hunting 
+// No Impact Man 
+// No Joke 
+// No Kidding 
+// No Lady 
+// No Land's Song 
+// No Leave, No Love 
+// No Letting Go 
+// No Lies 
+// No Limit Kids: Much Ado About Middle School 
+// No Limit
+// No Lonely Angels 
+// No Looking Back 
+// No Love for Johnnie 
+// No Man Is an Island 
+// No Man of Her Own
+// No Man's Gold 
+// No Man's Land
+// No Man's Law 
+// No Man's Range 
+// No Man's Woman 
+// No Manches Frida 
+// No Maps for These Territories 
+// No Marriage Ties 
+// No Me Digas Solterona 
+// No Men Beyond This Point 
+// No Mercy for the Rude 
+// No Mercy
+// No Minor Vices 
+// No Money Needed 
+// No Monkey Business 
+// No More Easy Life 
+// No More Hiroshima 
+// No More Ladies 
+// No More Love 
+// No More Love, No More Death 
+// No More Mr. Nice Guy 
+// No More Orchids 
+// No More Sunsets 
+// No More Tears Sister 
+// No More Women 
+// No Mother to Guide Her 
+// No My Darling Daughter 
+// No Name on the Bullet 
+// No Names on the Doors 
+// No Night Is Too Long 
+// No No Sleep 
+// No No: A Dockumentary 
+// No Noise 
+// No Nukes 
+// No One Killed Jessica 
+// No One Lives 
+// No One Would Tell 
+// No Regret 
+// No Regrets for Our Youth 
+// No Reservations 
+// No Retreat, No Surrender 
+// No Rules 
+// No Skin Off My Ass 
+// No Small Affair 
+// No Smoking
+// No Strings Attached 
+// No Such Thing 
+// No Surrender 
+// No Time for Nuts 
+// No Time for Sergeants 
+// No Way Out
+// No sos vos, soy yo 
+// No
+// Noah
+// Nobel Son 
+// Nobody Knows
+// Nobody Walks 
+// Nobody's Fool
+// Nobunaga Concerto 
+// Nocturnal Animals 
+// Noel 
+// Noi the Albino 
+// Noirs et blancs en couleur 
+// Noises Off 
+// Nomad 
+// Nomad: The Warrior 
+// Nomads
+// Nonchan Noriben 
+// None But the Lonely Heart 
+// Nongjungjo 
+// Noo Hin: The Movie 
+// Noor pensionär 
+// Noored kotkad 
+// Nora's Hair Salon 
+// Nora's Hair Salon 2: A Cut Above 
+// Norbit 
+// Norm of the North 
+// Norma Jean & Marilyn 
+// Norma Rae 
+// Normais, Os - O Filme 
+// Normal
+// North Country 
+// North Dallas Forty 
+// North East Past: Po Ma Zhang Fei 
+// North Star 
+// North West Mounted Police 
+// North by Northwest 
+// North to Alaska 
+// North
+// Northfork 
+// Northwest Passage 
+// Norwegian Wood 
+// Nosferatu, a Symphony of Horror 
+// Nosferatu: Phantom der Nacht 
+// Nostalghia 
+// Not Another Not Another Movie 
+// Not Another Teen Movie 
+// Not Easily Broken 
+// Not Forgotten 
+// Not One Less 
+// Not as a Stranger 
+// Not of This Earth
+// Notebook
+// Notes on a Scandal 
+// Nothing 
+// Nothing But Trouble
+// Nothing But the Best 
+// Nothing But the Truth
+// Nothing Lasts Forever 
+// Nothing Sacred 
+// Nothing in Common 
+// Nothing to Lose
+// Notorious
+// Notting Hill 
+// Nousukausi 
+// November
+// Noviembre 
+// Novocaine 
+// Now Hear This 
+// Now Is Good 
+// Now You Know 
+// Now You See Me 
+// Now and Then 
+// Now, Voyager 
+// Nowhere 
+// Nowhere Boy 
+// Nowhere in Africa 
+// Nowhere to Hide
+// Nowhere to Run
+// Nozoki Ana 
+// Noël Noël 
+// Nu går den på Dagmar 
+// Nu-Meri: Book of the New Spawn 
+// Nua Bou 
+// Nuan 
+// Nuba Conversations 
+// Nubes de humo 
+// Nucingen House 
+// Nuclear Tipping Point 
+// Nude Actress Murder Case: Five Criminals 
+// Nude Fear 
+// Nude Nuns with Big Guns 
+// Nude for Satan 
+// Nude in Charcoal 
+// Nude on the Moon 
+// Nude with Violin 
+// Nude
+// Nudist Colony of the Dead 
+// Nueba Yol 
+// Nueve reinas 
+// Nugam 
+// Nugget Nell 
+// Nuit d'ivresse 
+// Nuit de chien 
+// Nuits Rouges 
+// Nukie 
+// Nulli Novikkathe 
+// Numa Numa 
+// Numafung 
+// Numb
+// Numba Nadan Apita Pissu 
+// Number 1 Cheerleader Camp 
+// Number One Fan 
+// Number One Shakib Khan 
+// Number One with a Bullet 
+// Number One
+// Number Our Days 
+// Number Seventeen 
+// Number Ten Blues 
+// Number Two 
+// Number, Please 
+// Numbered Men 
+// Numbered Woman 
+// Numbri Aadmi 
+// Numm 
+// Nunca pasa nada 
+// Nungshi Feijei 
+// Nungshit Mapi 
+// Nunnunarvu 
+// Nuns on the Run 
+// Nunzio 
+// Nuovo Cinema Paradiso 
+// Nuovomondo 
+// Nur Kasih The Movie 
+// Nur eine Frau 
+// Nurayum Pathayum 
+// Nuregami kenpō 
+// Nuremberg 
+// Nuremberg Trials 
+// Nuremberg: The Nazis Facing their Crimes 
+// Nurit 
+// Nurmoo: Shout from the Plain 
+// Nurse 
+// Nurse 3D 
+// Nurse Betty 
+// Nurse Cavell 
+// Nurse Edith Cavell 
+// Nurse Marjorie 
+// Nurse on Wheels 
+// Nurse.Fighter.Boy 
+// Nursing a Viper 
+// Nutcase 
+// Nutcracker 
+// Nutcracker Fantasy 
+// Nutcracker: The Motion Picture 
+// Nuts & Bolts 
+// Nuts and Volts 
+// Nuts for Love 
+// Nuts in May
+// Nuts
+// Nutty News 
+// Nutty Professor II: The Klumps 
+// Nutty but Nice 
+// Nutty, Naughty Chateau 
+// Nuummioq 
+// Nuvva Nena 
+// Nuvvala Nenila 
+// Nuvvante Naakishtam 
+// Nuvve Kavali 
+// Nuvve Nuvve 
+// Nuvvekkadunte Nenakkadunta 
+// Nuvvila 
+// Nuvvostanante Nenoddantana 
+// Nuvvu Leka Nenu Lenu 
+// Nuvvu Naaku Nachav 
+// Nuvvu Nenu 
+// Nuvvu Vastavani 
+// Nya 
+// Nya hyss av Emil i Lönneberga 
+// Nyay Anyay 
+// Nyay Juddho 
+// Nyaya Ellide 
+// Nyaya Gedditu 
+// Nyaya Neethi Dharma 
+// Nyaya Tharasu 
+// Nyayam Kavali 
+// Nyayam Ketkirom 
+// Nyayam Meere Cheppali 
+// Nyayave Devaru 
+// Nyayavidhi 
+// Nyaydaata 
+// Nyfes 
+// Nymph
+// Nymphomaniac 
+// Nzambi Mpungu 
+// O 
+// O Amor Natural 
+// O Baby! Yentha Sakkagunnave 
+// O Bobo 
+// O Cangaceiro 
+// O Carteiro 
+// O Casamento de Romeu e Julieta 
+// O Chinadana 
+// O Circo das Qualidades Humanas 
+// O Concurso 
+// O Fantasma 
+// O Homem Que Copiava 
+// O' Horten 
+// O'Shaughnessy's Boy 
+// O, Brazen Age 
+// O, My Darling Clementine 
+// O, Vrba 
+// O-Bi, O-Ba: The End of Civilization 
+// O-Kay for Sound 
+// O-Solar Meow 
+// O-Town 
+// O... Çocuklari 
+// O.C. Confidential 
+// O.C. and Stiggs 
+// O.J.: Made in America 
+// O.K. Garage 
+// O.K. Nerone 
+// OHMS 
+// OK Baytong 
+// OK Connery 
+// OK, Good 
+// OOO, Den-O, All Riders: Let's Go Kamen Riders 
+// OSS 117 Is Not Dead 
+// OSS 117 Is Unleashed 
+// OSS 117 Mission for a Killer 
+// OSS 117 Takes a Vacation 
+// OSS 117 – Double Agent 
+// OSS 117: Cairo, Nest of Spies 
+// OSS 117: Lost in Rio 
+// OSS 77 – Operazione fior di loto 
+// OT: Our Town 
+// Oasis of Fear 
+// Oasis of the Zombies 
+// Oasis
+// Oath of Vengeance 
+// Oath-Bound 
+// Oba Koheda Priye 
+// Oba Nathuwa Oba Ekka 
+// Oba: The Last Samurai 
+// Oberst Redl 
+// Obey Giant 
+// Obey the Law
+// Obhishopto Nighty 
+// Obliging Young Lady 
+// Oblique 
+// Oblivion 2: Backlash 
+// Oblivion Island: Haruka and the Magic Mirror 
+// Oblivion
+// Oblivious 
+// Obon Brothers 
+// Oboreru Knife 
+// Observe and Report 
+// Obsessed
+// Obsession
+// Obsession: Radical Islam's War Against the West 
+// Obsessive Love
+// Obvious Child 
+// Ocaña, an Intermittent Portrait 
+// Occhio, malocchio, prezzemolo e finocchio 
+// Occident 
+// Occult 
+// Occupant 
+// Occupation 
+// Occupation in 26 Pictures 
+// Occupation: Dreamland 
+// Occupied Minds 
+// Ocean 
+// Ocean Breakers 
+// Ocean Heaven 
+// Ocean Waves 
+// Ocean of Fear
+// Ocean of Pearls 
+// Ocean of Tears 
+// Ocean's Deadliest 
+// Ocean's Eleven
+// Ocean's Thirteen 
+// Ocean's Twelve 
+// OceanWorld 3D 
+// Oceans 
+// Oceans of Fire
+// Oceanus: Act One 
+// Oconomowoc 
+// Octaman 
+// Octane 
+// Octavia 
+// October Moon 
+// October Sky 
+// October
+// October: Ten Days That Shook the World 
+// Octopus 2: River of Fear 
+// Octopussy 
+// Odd Couple 
+// Odd Girl Out
+// Odd Jobs 
+// Odd Man Out 
+// Odd Thomas 
+// Odds Against Tomorrow 
+// Of Freaks and Men 
+// Of Gods and Men 
+// Of Human Bondage
+// Of Human Hearts 
+// Of Mice and Men
+// Off Limits
+// Off Sides vs. Freaks
+// Off the Map 
+// Off-Balance 
+// OffOn 
+// Office Christmas Party 
+// Office Girls 
+// Office Killer 
+// Office Space 
+// Office
+// Officer Down 
+// Officer Downe 
+// Officer Duck 
+// Officer Thirteen 
+// Officer
+// Officers 
+// Official Secrets 
+// Offside
+// Oh Heavenly Dog 
+// Oh Mong-nyeo 
+// Oh My God
+// Oh! My God 
+// Oh! My Zombie Mermaid 
+// Oh! What a Lovely War 
+// Oh, God! You Devil 
+// Oh, My God 
+// Oh, What a Night
+// Ohm Krüger 
+// Ohtlikud mängud 
+// Oily Hare 
+// Ojarumaru the Movie: The Promised Summer - Ojaru and Semira 
+// Ojuju 
+// Ok-nyeo 
+// Okinawa Rendez-vous 
+// Okja 
+// Oklahoma 
+// Okraina
+// Old Acquaintance 
+// Old Boys 
+// Old Boys: The Way of the Dragon 
+// Old Dog 
+// Old Dogs 
+// Old English 
+// Old Enough 
+// Old Faithful 
+// Old Fashioned 
+// Old Glory 
+// Old Gringo 
+// Old Heidelberg
+// Old Home Week 
+// Old Ironsides 
+// Old Joy 
+// Old King Cole 
+// Old MacDonald Had a Farm 
+// Old Mother Riley 
+// Old Mother Riley Detective 
+// Old Mother Riley Headmistress 
+// Old Mother Riley Joins Up 
+// Old Mother Riley Overseas 
+// Old Mother Riley at Home 
+// Old Mother Riley in Business 
+// Old Mother Riley in Paris 
+// Old Mother Riley in Society 
+// Old Mother Riley's Circus 
+// Old Mother Riley's Ghosts 
+// Old Mother Riley's Jungle Treasure 
+// Old Mother Riley's New Venture 
+// Old Mother Riley, MP 
+// Old San Francisco 
+// Old School 
+// Old School New School 
+// Old Shatterhand 
+// Old Well 
+// Old Yeller 
+// Oldboy
+// Older Than America 
+// Oleanna 
+// Oliver & Company 
+// Oliver Twist
+// Oliver's Story 
+// Olivia 
+// Olly Olly Oxen Free 
+// Olympia
+// Olympus Has Fallen 
+// Om Jai Jagadish 
+// Om Shanthi Om 
+// Om Shanti Om 
+// Om
+// Omagh 
+// Omen III: The Final Conflict 
+// Omen IV: The Awakening
+// Omkara
+// Omphalos 
+// On - drakon 
+// On Any Sunday
+// On Borrowed Time
+// On Chesil Beach
+// On Dangerous Ground
+// On Deadly Ground 
+// On Golden Pond
+// On Her Majesty's Secret Service 
+// On Hostile Ground 
+// On Line
+// On Moonlight Bay 
+// On Top 
+// On a Clear Day 
+// On a Clear Day You Can See Forever 
+// On the 2nd Day of Christmas
+// On the Basis of Sex 
+// On the Beach
+// On the Beat
+// On the Double 
+// On the Edge of Innocence 
+// On the Green Carpet 
+// On the Job
+// On the Line
+// On the Nameless Height 
+// On the Occasion of Remembering the Turning Gate 
+// On the Riviera 
+// On the Road 
+// On the Top of the Cherry Tree 
+// On the Town 
+// On the Waterfront 
+// On the Wrong Trek 
+// On with the Dance 
+// Onaaigal Jakkiradhai 
+// Onaayum Aattukkuttiyum 
+// Onan 
+// Onappudava 
+// Onathumbikkoru Oonjaal 
+// Onbadhu Roobai Nottu 
+// Onbadhule Guru 
+// Once 
+// Once Aboard the Lugger 
+// Once Again 
+// Once Before I Die 
+// Once Bitten
+// Once Brothers 
+// Once Fallen 
+// Once I Loved a Girl in Vienna 
+// Once I Was a Beehive 
+// Once I Will Return 
+// Once Is Never 
+// Once More
+// Once Upon Another Time 
+// Once Upon a Brothers Grimm 
+// Once Upon a Christmas 
+// Once Upon a Crime 
+// Once Upon a Dog 
+// Once Upon a Dream 
+// Once Upon a Forest 
+// Once Upon a Girl 
+// Once Upon a Halloween 
+// Once Upon a Holiday 
+// Once Upon a Honeymoon
+// Once Upon a Line 
+// Once Upon a Mirage 
+// Once Upon a Mouse 
+// Once Upon a Scoundrel 
+// Once Upon a Texas Train 
+// Once Upon a Time Was I, Verônica 
+// Once Upon a Time in America 
+// Once Upon a Time in Amritsar 
+// Once Upon a Time in Anatolia 
+// Once Upon a Time in Bihar 
+// Once Upon a Time in Bolivia 
+// Once Upon a Time in Brooklyn 
+// Once Upon a Time in China 
+// Once Upon a Time in China and America 
+// Once Upon a Time in High School 
+// Once Upon a Time in Hollywood 
+// Once Upon a Time in Kolkata 
+// Once Upon a Time in Manila 
+// Once Upon a Time in Mexico 
+// Once Upon a Time in Mumbaai 
+// Once Upon a Time in Phuket 
+// Once Upon a Time in Queens 
+// Once Upon a Time in Rio 
+// Once Upon a Time in Seoul 
+// Once Upon a Time in Shanghai
+// Once Upon a Time in Staten Island 
+// Once Upon a Time in Tibet 
+// Once Upon a Time in Triad Society 
+// Once Upon a Time in Venice 
+// Once Upon a Time in Vietnam 
+// Once Upon a Time in a Battlefield 
+// Once Upon a Time in the East
+// Once Upon a Time in the Midlands 
+// Once Upon a Time in the Northeast 
+// Once Upon a Time in the Oued 
+// Once Upon a Time in the Provinces 
+// Once Upon a Time in the West 
+// Once Upon a Time in the Woods 
+// Once Upon a Time, Cinema 
+// Once Upon a Time...When We Were Colored 
+// Once Upon a Time
+// Once Upon a Wheel 
+// Once Upon ay Time in Mumbai Dobaara! 
+// Once Were Warriors 
+// Once a Cop 
+// Once a Thief
+// Once a Thief: Brother Against Brother  
+// Once a Thief: Family Business  
+// Once in a Lifetime: The Extraordinary Story of the New York Cosmos 
+// Once in the Life 
+// Ondine 
+// One Against All 
+// One Angry Man 
+// One Arabian Night 
+// One Armed Boxer 
+// One Armed Swordsman Against Nine Killers 
+// One Away 
+// One Bad Knight 
+// One Big Affair 
+// One Big Hapa Family 
+// One Big Holiday 
+// One Body Too Many 
+// One Breath 
+// One Brief Summer 
+// One Bright Shining Moment: The Forgotten Summer of George McGovern 
+// One Bullet Is Enough 
+// One Cab's Family 
+// One Can't Always Tell 
+// One Chance 
+// One Christmas 
+// One Clear Call 
+// One Colombo Night 
+// One Crazy Ride 
+// One Crazy Summer 
+// One Crowded Night 
+// One Cut of the Dead 
+// One Dark Night 
+// One Day in Europe 
+// One Day in September 
+// One Deadly Summer 
+// One Direction: This Is Us 
+// One Eight Seven 
+// One Fine Day 
+// One Fine Spring Day 
+// One Flew Over the Cuckoo's Nest 
+// One Foot in Heaven 
+// One Froggy Evening 
+// One Good Cop 
+// One Good Turn
+// One Heavenly Night 
+// One Hour Photo 
+// One Hour in Wonderland
+// One Hour with You 
+// One Hundred Men and a Girl 
+// One Hundred Years of Evil 
+// One Hundred and One Dalmatians 
+// One Last Dance 
+// One Leg Kicking 
+// One Little Indian 
+// One Magic Christmas 
+// One Man Band 
+// One Minute to Nine 
+// One Missed Call
+// One More Time 
+// One Night Husband 
+// One Night Only
+// One Night Stand
+// One Night Stud 
+// One Night at McCool's 
+// One Night in the Tropics 
+// One Night of Love 
+// One Perfect Day
+// One Piece Film Gold 
+// One Piece Film: Strong World 
+// One Piece Film: Z 
+// One Piece Movie: The Desert Princess and the Pirates: Adventures in Alabasta 
+// One Piece The Movie: Chopper's Kingdom on the Island of Strange Animals 
+// One Piece The Movie: Clockwork Island Adventure 
+// One Piece The Movie: Dead End no Bōken 
+// One Piece: Stampede 
+// One Piece: The Cursed Holy Sword 
+// One Piece: The Movie 
+// One Potato, Two Potato 
+// One Shot 
+// One Step Away 
+// One Touch of Venus 
+// One True Thing 
+// One Way 
+// One Way Street 
+// One Way Ticket
+// One Week Friends 
+// One Week
+// One Wonderful Sunday 
+// One and Eight 
+// One for the Money 
+// One from the Heart 
+// One of Our Aircraft Is Missing 
+// One of Our Dinosaurs Is Missing 
+// One, Two, Three 
+// One-Armed Swordsman 
+// One-Eyed Jacks 
+// One-Eyed Monster 
+// One-Trick Pony 
+// One-Way Ticket to Mombasa 
+// One
+// One: The Movie 
+// OneChanbara 
+// Onegin 
+// Ong-Bak: Muay Thai Warrior 
+// Onibaba 
+// Onion From the Boot of a Benz  
+// Only Angels Have Wings 
+// Only Clouds Move the Stars 
+// Only God Forgives 
+// Only God Knows 
+// Only Human
+// Only Lovers Left Alive 
+// Only One Night
+// Only People 
+// Only Saps Work 
+// Only Two Can Play 
+// Only When I Larf 
+// Only When I Laugh 
+// Only Yesterday
+// Only You
+// Only the Brave
+// Only the Lonely 
+// Only the Strong 
+// Onmyoji 
+// Onna Babo 
+// Onna Irukka Kathukanum 
+// Onna Tachiguishi-Retsuden 
+// Onna no Ana 
+// Onna no Hosomichi: Nureta Kaikyo 
+// Onna no Koyomi 
+// Onnaam Maanam Poomaanam 
+// Onnaam Muhurtham 
+// Onnaamvattam Kandappol 
+// Onnam Prathi Olivil 
+// Onnaman 
+// Onnanam Kunnil Oradi Kunnil 
+// Onnanu Nammal 
+// Onnara Vattu 
+// Onnelliset leikit 
+// Onningu Vannengil 
+// Onninu Purake Mattonnu 
+// Onnorokom Bhalobasha 
+// Onnu Chirikku 
+// Onnu Muthal Poojyam Vare 
+// Onnu Randu Moonnu 
+// Onnum Mindatha Bharya 
+// Onnum Mindathe 
+// Onnum Onnum Moonu 
+// Onnum Onnum Pathinonnu 
+// Onsdagsväninnan 
+// Ontari 
+// Ontari Poratam 
+// Onti 
+// Onti Salaga 
+// Ontmaskerd 
+// Ontrouw 
+// Onward 
+// Onward Christian Soldiers 
+// Onye Ozi 
+// Oo Na, Mahal Na Kung Mahal 
+// Oodi Oodi Uzhaikanum 
+// Ooh La La La 
+// Ooh... You Are Awful 
+// Ooh... diese Ferien 
+// Ooha 
+// Oohakachavadam 
+// Oohalu Gusagusalade 
+// Oolkatal 
+// Oollo Pelliki Kukkala Hadavidi 
+// Oomai Vizhigal 
+// Oomakkuyil 
+// Oomakkuyil Padumbol 
+// Oomana Thinkal 
+// Oomappenninu Uriyadappayyan 
+// Oonch Neech Beech 
+// Oonche Log
+// Oonga 
+// Oonjaal 
+// Ooparwala Jaane 
+// Oops! 
+// Oor Mariyadhai 
+// Oorantha Sankranthi 
+// Oorige Upakari 
+// Oorkavalan 
+// Oorlog en vrede 
+// Oormakale Vida Tharu 
+// Ooru Vittu Ooru Vanthu 
+// Ooruki Monagadu 
+// Oorukichchina Maata 
+// Oorukku Oru Pillai 
+// Oorukku Uzhaippavan 
+// Ooruku Nooruper 
+// Oorum Uravum 
+// Oorummadi Brathukulu 
+// Oos Raat Ke Baad 
+// Oosaravelli 
+// Oothikachiya Ponnu 
+// Oottyppattanam 
+// Ooty 
+// Ooty Varai Uravu 
+// Ooyala 
+// Oozham
+// Opasniye Povoroty 
+// Open 
+// Open All Night
+// Open City 
+// Open Grave 
+// Open Heart 
+// Open Hearts 
+// Open House
+// Open Range
+// Open Season 
+// Open Season: Scared Silly 
+// Open Water 
+// Open Water 2: Adrift 
+// Opening Nights
+// Opening of the Kiel Canal 
+// Opera 
+// Operation Agneepath 
+// Operation Alamelamma 
+// Operation Amsterdam 
+// Operation Antha 
+// Operation Arapaima 
+// Operation Atlantis 
+// Operation Autumn 
+// Operation Avalanche 
+// Operation Bikini 
+// Operation Bottleneck 
+// Operation Bullshine 
+
+// Operation Chromite 
+// Operation Concrete 
+// Operation Counterspy 
+// Operation Crossbow 
+// Operation Cupid 
+// Operation Dames 
+// Operation Daybreak 
+// Operation Delilah 
+// Operation Delta Force
+// Operation Delta Force 2: Mayday
+// Operation Delta Force 3: Clear Target 
+// Operation Delta Force 4: Deep Fault 
+// Operation Delta Force 5: Random Fire 
+// Operation Diamond Racket 
+// Operation Diplomat 
+// Operation Dumbo Drop 
+// Operation Duryodhana 
+// Operation E 
+// Operation Edelweiss 
+// Operation Eichmann 
+// Operation Finale 
+// Operation Gold Fish 
+// Operation Gold Ingot 
+// Operation Happy New Year 
+// Operation Haylift 
+// Operation Homecoming: Writing the Wartime Experience 
+// Operation Leopard 
+// Operation Mad Ball 
+// Operation Malaya 
+// Operation Manhunt 
+// Operation Mata Hari 
+// Operation Mekong 
+// Operation Mitra 
+// Operation Murder 
+// Operation Nam 
+// Operation Pacific 
+// Operation Petticoat 
+// Operation Poker 
+// Operation Red Sea 
+// Operation Secret 
+// Operation Shmenti Capelli 
+// Operation Snatch 
+// Operation St. Peter's 
+// Operation Stadium 
+// Operation Stogie 
+// Operation Swallow: The Battle for Heavy Water 
+// Operation Thunderbolt 
+// Operation Vittles 
+// Operation Warzone 
+// Operation Y and Shurik's Other Adventures 
+// Operation: Endgame 
+// Operation: Rabbit 
+// Operation: Smokescreen 
+// Operator 
+// Ophelia
+// Or easure 
+// Or Iravu 
+// Ora 
+// Ora Charjon 
+// Ora Egaro Jon 
+// Ora Thake Odhare 
+// Oraal 
+// Oraalppokkam 
+// Orage 
+// Oral Koodi Kallanayi 
+// Oral Mathram 
+// Oram Po 
+// Orange Blossom 
+// Orange County 
+// Orange Mittai 
+// Orange Revolution 
+// Orange Valley 
+// Orange Winter 
+// Orange
+// Orca 
+// Ordeal by Innocence 
+// Ordet 
+// Ordinary Decent Criminal 
+// Ordinary People
+// Orgazmo 
+// Orgy of the Dead 
+// Origin: Spirits of the Past 
+// Original 
+// Original Gangstas 
+// Original Sin
+// Orlando 
+// Orphan's Benefit 
+// Orphan
+// Orphans
+// Orphans of the Storm 
+// Orpheus 
+// Orphée 
+// Osama 
+// Oscar Wilde 
+// Oscar and Lucinda 
+// Oscar
+// Oslo, August 31st 
+// Osmosis Jones 
+// Ossessione 
+// Ossos 
+// Otesánek 
+// Othello
+// Other Men's Women 
+// Other People's Money 
+// Otherhood 
+// Ouija 3: The Charlie Charlie Challenge 
+// Ouija
+// Ouija: Origin of Evil 
+// Our Beloved Month of August 
+// Our Body 
+// Our Boy 
+// Our Brand Is Crisis
+// Our Children 
+// Our Country 
+// Our Curse 
+// Our Daily Bread
+// Our Dancing Daughters 
+// Our Daughter 
+// Our Day 
+// Our Day Out 
+// Our Day Will Come 
+// Our Diary 
+// Our Everyday Life 
+// Our Family 
+// Our Family Wedding 
+// Our Father
+// Our Fathers  
+// Our Feature Presentation 
+// Our Forbidden Places 
+// Our Fragrance 
+// Our Friend Tili 
+// Our Friend, Martin 
+// Our Gang 
+// Our Generation 
+// Our Grand Despair 
+// Our Hearts Were Growing Up 
+// Our Hearts Were Young and Gay 
+// Our Homeland 
+// Our Hospitality 
+// Our Huff and Puff Journey 
+// Our Huge Adventure
+// Our Idiot Brother 
+// Our Italian Husband 
+// Our Kind of Traitor 
+// Our Lady of Sorrows 
+// Our Lady of the Assassins 
+// Our Land 
+// Our Leading Citizen
+// Our Lips Are Sealed 
+// Our Love 
+// Our Man Flint 
+// Our Man in Havana 
+// Our Man in Tehran 
+// Our Men in Bagdad 
+// Our Miss Brooks 
+// Our Mother's House 
+// Our Relations 
+// Our School 
+// Our Shining Days 
+// Our Son, the Matchmaker  
+// Our Song 
+// Our Sons 
+// Our Souls at Night 
+// Our Story 
+// Our Time
+// Our Times 
+// Our Town
+// Our Twisted Hero 
+// Our Very Own
+// Our Wife
+// Ouran High School Host Club 
+// Ourselves Alone 
+// Out Cold
+// Out West
+// Out for Justice 
+// Out for a Kill 
+// Out of Africa 
+// Out of Control
+// Out of My Intention 
+// Out of Reach 
+// Out of Sight 
+// Out of Time
+// Out of the Blue
+// Out of the Blue: Live at Wembley 
+// Out of the Darkness
+// Out of the Furnace 
+// Out of the Past 
+// Out of the Wilderness 
+// Out to Sea 
+// Outbreak 
+// Outcast
+// Outfoxed: Rupert Murdoch's War on Journalism 
+// Outkast 
+// Outland 
+// Outlander 
+// Outlaw King 
+// Outlaw
+// Outlaws and Angels 
+// Outpost
+// Outpost: Black Sun 
+// Outpost: Rise of the Spetsnaz 
+// Outside 
+// Outside Providence 
+// Outside the Law
+// Outsider
+// Outsourced 
+// Over Her Dead Body 
+// Over Here 
+// Over My Dead Body
+// Over Run Over 
+// Over She Goes 
+// Over Your Cities Grass Will Grow 
+// Over Your Dead Body 
+// Over da Rainbow 
+// Over stork og stein 
+// Over the Border
+// Over the Brooklyn Bridge 
+// Over the Edge 
+// Over the Fence
+// Over the Garden Wall
+// Over the Goal 
+// Over the Hedge 
+// Over the Hill to the Poorhouse 
+// Over the Hill
+// Over the Moon 
+// Over the Odds 
+// Over the Rainbow 
+// Over the River...Life of Lydia Maria Child, Abolitionist for Freedom 
+// Over the Santa Fe Trail 
+// Over the Top 
+// Over the Wall 
+// Over the Waves 
+// Overboard
+// Overcomer 
+// Overdrawn at the Memory Bank
+// Overdrive 
+// Overexposed 
+// Overfed & Undernourished 
+// Overheard 
+// Overhill 
+// Overland Mail 
+// Overland Telegraph 
+// Overland with Kit Carson 
+// Overlord
+// Overman 
+// Overnight Delivery 
+// Overnight Sensation 
+// Overnight
+// Overpass 
+// Override 
+// Overture to The Merry Wives of Windsor 
+// Overture
+// Owd Bob
+// Owl 
+// Owl and the Sparrow 
+// Owning Mahowny 
+// Oxford Blues 
+// Oxhide 
+// Oye Hoye Pyar Ho Gaya 
+// Oye Kuch Kar Guzar 
+// Oyee 
+// Oyster Farmer 
+// Oyster Village 
+// Oysters at Nam Kee's 
+// Oz 
+// Oz the Great and Powerful 
+// OzLand 
+// Ozhivudivasathe Kali 
+// Ozhivukaalam 
+// Ozhukkinethire 
+// Ozone 
+// Ozzy 
+// P.S. I Love You 
+// P.S. Your Cat Is Dead 
+// PCU 
+// PR Girls 
+// Paan Singh Tomar 
+// Pacific Heights 
+// Pacific Rim 
+// Pacific Rim Uprising 
+// Pack Up Your Troubles 
+// Padre Padrone 
+// Pagal Nilavu 
+// Paheli 
+// Paid in Full
+// Pain & Gain 
+// Painful Indifference 
+// Painkiller Jane 
+// Paint Your Wagon 
+// Painted Angels 
+// Pajama Party 
+// Pale Flower 
+// Pale Moon 
+// Pale Rider 
+// Palindromes 
+// Palmetto 
+// Palo Alto 
+// Pan's Labyrinth 
+// Pan
+// Panama Hattie 
+// Pandaemonium 
+// Pandemonium 
+// Pandora and the Flying Dutchman 
+// Pandora's Box
+// Pandorum 
+// Panic High School 
+// Panic Room 
+// Panic in the Streets 
+// Panic
+// Panther 
+// Paparazzi
+// Paper Clips Project 
+// Paper Heart 
+// Paper Lion 
+// Paper Moon 
+// Paper Towns 
+// Paperboys 
+// Paperhouse 
+// Papillon
+// Pappa ante Portas 
+// Paprika
+// ParaNorman 
+// Parade
+// Paradise Canyon 
+// Paradise Lost 2: Revelations 
+// Paradise Lost 3: Purgatory 
+// Paradise Lost: The Child Murders at Robin Hood Hills 
+// Paradise Murdered 
+// Paradise Now 
+// Paradise Road
+// Paradise, Hawaiian Style 
+// Paradise
+// Paradox
+// Paranoia
+// Paranoid Park 
+// Paranoid
+// Paranormal Activity 
+// Paranormal Activity 2: Tokyo Night 
+// Paranormal Activity: The Ghost Dimension 
+// Paranormal Activity: The Marked Ones 
+// Paranormal Entity 
+// Parasite 
+// Pardes 
+// Pardners 
+// Pardon My Sarong 
+// Pardon Us 
+// Parent Trap: Hawaiian Honeymoon
+// Parental Guidance 
+// Parenthood 
+// Parents 
+// Paris Holiday 
+// Paris Is Burning 
+// Paris Qui Dort 
+// Paris, Texas 
+// Paris, When It Sizzles 
+// Paris, je t'aime 
+// Parker
+// Parthale Paravasam 
+// Partie de cartes 
+// Parting Glances 
+// Partner
+// Partners
+// Parts: The Clonus Horror 
+// Party Girl
+// Party Monster
+// Pass the Gravy 
+// Passage to Marseille 
+// Passages 
+// Passchendaele 
+// Passenger
+// Passengers
+// Passion Fish 
+// Passion Play 
+// Passion
+// Passionada 
+// Passions 
+// Passport to Paris 
+// Passport to Pimlico 
+// Pat Garrett and Billy the Kid 
+// Pat and Mike 
+// Patch Adams 
+// Paternity 
+// Path to War 
+// Pather Panchali 
+// Pathfinder
+// Pathology 
+// Paths of Glory 
+// Patlabor the Movie 
+// Patriot Games 
+// Patriotism 
+// Patriots Day 
+// Patti Smith: Dream of Life 
+// Patton 
+// Patty Hearst 
+// Paul 
+// Paul Blart: Mall Cop 
+// Paulie 
+// Pauline at the Beach 
+// Pauly Shore Is Dead 
+// Pauvre Pierrot 
+// Pay Day
+// Pay It Forward 
+// Payback
+// Paycheck 
+// Payday 
+// Payment on Demand 
+// Peace on Earth 
+// Peaceful Warrior 
+// Peacemaker 
+// Peacock
+// Pearl Harbor 
+// Peau d'Âne 
+// Pecker 
+// Pedicab Driver 
+// Pee-wee's Big Adventure 
+// Pee-wee's Big Holiday 
+// Peeping Tom 
+// Peepli Live 
+// Peggy Sue Got Married 
+// Peking Opera Blues 
+// Pelican Man 
+// Pelle the Conqueror 
+// Peluca 
+// Penelope
+// Penitentiary
+// Penn & Teller Get Killed 
+// Pennies from Heaven
+// Penny Dreadful 
+// Penny Points to Paradise 
+// Penny Serenade 
+// Penrod and Sam
+// People I Know 
+// People Like Us 
+// People Will Talk 
+// People on Sunday 
+// Pepe 
+// Peppa Pig 
+// Peppermint Candy 
+// Perazhagan 
+// Perceval le Gallois 
+// Percy Jackson & the Olympians: The Lightning Thief 
+// Percy Jackson: Sea of Monsters 
+// Percy
+// Perdita Durango 
+// Perfect 
+// Perfect Blue 
+// Perfect Blue: Yume Nara Samete 
+// Perfect Creature 
+// Perfect Day
+// Perfect Imperfection 
+// Perfect Sense 
+// Perfect Stranger 
+// Performance 
+// Perfume 
+// Perfume: The Story of a Murderer 
+// Perhaps Love
+// Permanent Midnight 
+// Permanent Record 
+// Permanent Vacation
+// Perpetual Motion 
+// Persepolis 
+// Persona 
+// Personal Best 
+// Personal Services 
+// Personal Velocity: Three Portraits 
+// Persuasion
+// Pet Sematary Two 
+// Pet Sematary
+// Petals on the Wind 
+// Pete's Dragon
+// Pete's Meteor 
+// Peter Pan
+// Peter and the Wolf
+// Pets or Meat: The Return to Flint  
+// Pettin' in the Park 
+// Petulia 
+// Peyton Place 
+// Phaedra 
+// Phantasm 
+// Phantasm III: Lord of the Dead 
+// Phantasm IV: Oblivion 
+// Phantasm: Ravager 
+// Phantom Lady 
+// Phantom of the Mall: Eric's Revenge 
+// Phantom of the Megaplex
+// Phantom of the Paradise 
+// Phantom
+// Phantoms 
+// Phat Girlz 
+// Phenomena 
+// Phenomenon 
+// Phil the Alien 
+// Philadelphia 
+// Phileine Says Sorry 
+// Philomena 
+// Philosophy of a Knife 
+// Phineas and Ferb the Movie: Across the 2nd Dimension
+// Phir Milenge 
+// Phoebe in Wonderland 
+// Phone 
+// Phone Booth 
+// Photographing Fairies 
+// Phurbu & Tenzin 
+// Pi 
+// Picasso at the Lapin Agile 
+// Piccadilly 
+// Picking Up the Pieces 
+// Pickpocket 
+// Pickup on South Street 
+// Picnic at Hanging Rock 
+// Picnic
+// Picture Bride 
+// Picture Perfect
+// Piece of Cake 
+// Pieces 
+// Pieces of April 
+// Pied Piper of Cleveland 
+// Pierrepoint 
+// Pierrot le fou 
+// Piglet's Big Movie 
+// Pigs and Battleships 
+// Pigs in a Polka 
+// Pigs is Pigs 
+// Pigskin Parade 
+// Pigsty 
+// Pilgrim 
+// Pillow Talk 
+// Pimpernel Smith 
+// Pin 
+// Pina 
+// Pineapple Express 
+// Ping Pong 
+// Pingu 
+// Pink
+// Pink Dream 
+// Pink Five 
+// Pink Five Strikes Back 
+// Pink Flamingos 
+// Pink Floyd The Wall 
+// Pink Floyd: Live at Pompeii 
+// Pink and Gray 
+// Pinky 
+// Pinocchio and the Emperor of the Night 
+// Pinocchio in Outer Space 
+// Pinocchio's Revenge 
+// Pinocchio
+// Pioneer Marshal 
+// Pippi Longstocking 
+// Piranha 3DD 
+// Piranha II: The Spawning 
+// Piranha
+// Pirates II: Stagnetti's Revenge 
+// Pirates of Silicon Valley  
+// Pirates of the Caribbean: At World's End 
+// Pirates of the Caribbean: Dead Man's Chest 
+// Pirates of the Caribbean: Dead Men Tell No Tales 
+// Pirates of the Caribbean: On Stranger Tides 
+// Pirates of the Caribbean: The Curse of the Black Pearl 
+// Pirates
+// Pisaj 
+// Pistachio – The Little Boy That Woodn't 
+// Pistol Opera 
+// Pitch Black 
+// Pitch Perfect 
+// Pitfall
+// Pithamagan 
+// Pixel Perfect  
+// Pixote: The Law of the Weakest 
+// Pizza Man
+// Piñero 
+// Place des Cordeliers à Lyon 
+// Places in the Heart 
+// Plague
+// Plan 9 from Outer Space 
+// Plane Crazy 
+// Planes 
+// Planes, Trains & Automobiles 
+// Planes: Fire & Rescue 
+// Planet Terror 
+// Planet of the Apes
+// Planet of the Vampires 
+// Plants Vs Zombies 
+// Platform
+// Platinum Blonde 
+// Platoon 
+// Play Dirty 
+// Play It Again, Sam 
+// Play It to the Bone 
+// Play Misty for Me 
+// Playing God 
+// Playing by Heart 
+// Playing for Keeps
+// Playtime 
+// Pleasant Goat and Big Big Wolf – Amazing Pleasant Goat 
+// Pleasantville 
+// Please Don't Eat the Daisies 
+// Please Give 
+// Pleasure Factory 
+// Plunder of Peach and Plum 
+// Plunkett & Macleane 
+// Pocahontas II: Journey to a New World 
+// Pocahontas
+// Pocahontas: The Legend 
+// Pocketful of Miracles 
+// Podium 
+// Point Blank
+// Point Break
+// Point of No Return
+// Poison 
+// Poison Ivy II: Lily 
+// Poison Ivy
+// Poison Ivy: The New Seduction 
+// Poison Ivy: The Secret Society 
+// Pokrovsky Gates 
+// Pokémon 3: The Movie 
+// Pokémon 4Ever 
+// Pokémon Heroes 
+// Pokémon Ranger and the Temple of the Sea 
+// Pokémon the Movie: Black - Victini and Reshiram 
+// Pokémon the Movie: Diancie and the Cocoon of Destruction 
+// Pokémon the Movie: Genesect and the Legend Awakened 
+// Pokémon the Movie: Hoopa and the Clash of Ages 
+// Pokémon the Movie: Kyurem vs. the Sword of Justice 
+// Pokémon the Movie: Volcanion and the Mechanical Marvel 
+// Pokémon the Movie: White - Victini and Zekrom 
+// Pokémon: Arceus and the Jewel of Life 
+// Pokémon: Destiny Deoxys 
+// Pokémon: Giratina and the Sky Warrior 
+// Pokémon: Jirachi Wishmaker 
+// Pokémon: Lucario and the Mystery of Mew 
+// Pokémon: Mewtwo Returns 
+// Pokémon: The First Movie 
+// Pokémon: The Mastermind of Mirage Pokémon
+// Pokémon: The Rise of Darkrai 
+// Pokémon: Zoroark: Master of Illusions 
+// Pola X 
+// Polar 
+// Polar Adventure 
+// Police Academy 
+// Police Academy 2: Their First Assignment 
+// Police Academy 3: Back in Training 
+// Police Academy 4: Citizens on Patrol 
+// Police Academy 5: Assignment Miami Beach 
+// Police Academy 6: City Under Siege 
+// Police Academy 7: Mission to Moscow 
+// Police Story 
+// Police Story 
+// Police Story 3: Super Cop 
+// Police Story 4: First Strike 
+// Polish Wedding 
+// Pollock 
+// Poltergeist II: The Other Side 
+// Poltergeist
+// Polyester 
+// Pom Poko 
+// Pompeii 
+// Ponette 
+// Pontypool 
+// Ponyo 
+// Pooh's Grand Adventure: The Search for Christopher Robin 
+// Pooh's Heffalump Halloween Movie 
+// Pooh's Heffalump Movie 
+// Pool Sharks 
+// Poolhall Junkies 
+// Pootie Tang 
+// Pop In Q 
+// Pop Skull 
+// Popeye 
+// Popeye the Sailor Meets Ali Baba's Forty Thieves 
+// Popeye the Sailor Meets Sindbad the Sailor 
+// Porco Rosso 
+// Porgy and Bess 
+// Pork Chop Hill 
+// Porklips Now 
+// Porky's 
+// Porky's Duck Hunt 
+// Porky's II: The Next Day 
+// Porky's Revenge 
+// Pornmaking for Dummies 
+// Pornostar 
+// Port of Shadows 
+// Portrait of a Beauty 
+// Poseidon 
+// Positive
+// Positive: A Journey Into AIDS 
+// Possessed
+// Possession
+// Post Grad 
+// Postal 
+// Postcards from the Edge 
+// Postman 
+// Postmen in the Mountains 
+// Poultrygeist: Night of the Chicken Dead 
+// Pound Puppies and the Legend of Big Paw 
+// Powaqqatsi 
+// Powder 
+// Powder Blue 
+// Power Rangers 
+// Power of the Press 
+// Powwow Highway 
+// Practical Magic 
+// Prahlada 
+// Prancer 
+// Prasanna 
+// Prayer of the Rollerboys 
+// Preaching to the Perverted 
+// Precious 
+// Predator 
+// Predators 
+// Prefontaine 
+// Prelude to a Kiss 
+// Premature Burial 
+// Premium Rush 
+// Premonition
+// Preservation 
+// President McKinley Inauguration Footage 
+// Presumed Innocent 
+// Pretty Baby 
+// Pretty Persuasion 
+// Pretty Poison 
+// Pretty Woman 
+// Pretty in Pink 
+// Prey for Rock & Roll 
+// Prey
+// PriPara Mi~nna no Akogare Let's Go PriPari 
+// Priceless
+// Prick Up Your Ears 
+// Pride Divide 
+// Pride and Glory 
+// Pride and Prejudice and Zombies 
+// Pride and Prejudice
+// Pride of the Bowery 
+// Priest
+// Primal Fear 
+// Primary Colors 
+// Prime 
+// Prime Cut 
+// Primer 
+// Prince Vladimir 
+// Prince of Central Park 
+// Prince of Darkness 
+// Prince of Persia: The Sands of Time 
+// Prince of Space 
+// Prince of the City 
+// Princesa 
+// Princesas 
+// Princess Caraboo 
+// Princess Iron Fan 
+// Princess Mononoke 
+// Prison 
+// Prisoner of Honor  
+// Prisoners 
+// Private 
+// Private Benjamin 
+// Private Lessons 
+// Private Parts
+// Private Resort 
+// Private School 
+// Private's Progress 
+// Priyamana Thozhi 
+// Prizzi's Honor 
+// Problem Child 
+// Procès de Jeanne d'Arc 
+// Professori Uuno D.G. Turhapuro 
+// Program 
+// Project A 
+// Project Grizzly 
+// Project Makeover 
+// Project X
+// Prom Night III: The Last Kiss 
+// Prom Night IV: Deliver Us from Evil 
+// Prom Night
+// Prom Queen: The Marc Hall Story  
+// Prometheus 
+// Promised Land
+// Proof of Life 
+// Proof
+// Prophecy 
+// Prospero's Books 
+// Protected 
+// Protection
+// Protector 
+// Protocol 
+// Providence 
+// Provoking Laughter 
+// Prozac Nation 
+// Psycho IV: The Beginning
+// Psycho-Pass: The Movie 
+// Psycho
+// Psychotropica 
+// Pubescence 
+// Public Access 
+// Public Enemies
+// Public Enemy 
+// Puddle Cruiser 
+// Puff, Puff, Pass 
+// Pulp Fiction 
+// Pulp
+// Pulse
+// Pump Up the Volume 
+// Pumping Iron 
+// Pumpkin 
+// Pumpkinhead 
+// Pumpkinhead II: Blood Wings 
+// Pumpkinhead: Ashes to Ashes
+// Pumpkinhead: Blood Feud
+// Punch Drunks 
+// Punch-Drunk Love 
+// Punchline 
+// Punguna 
+// Punisher: War Zone 
+// Punishment Park 
+// Puppet Master 
+// Puppet Master 5: The Final Chapter 
+// Puppet Master III: Toulon's Revenge 
+// Puppet Master X: Axis Rising 
+// Puppet Master vs Demonic Toys 
+// Puppet Master: Axis Termination 
+// Puppet Master: Axis of Evil 
+// Puppet Master: The Legacy 
+// Pure 
+// Pure Country 
+// Pure Country 2: The Gift 
+// Pure Country: Pure Heart 
+// Pure Luck 
+// Purple Butterfly 
+// Purple Noon 
+// Purple Rain 
+// Purple Sunset 
+// Pursued 
+// Pursuit to Algiers 
+// Push 
+// Pusher
+// Pushing Hands 
+// Pushing Tin 
+// Pushpaka Vimana 
+// Puss in Boots
+// Putney Swope 
+// Puttin' on the Ritz 
+// Puzzle
+// Pyaasa
+// Pygmalion
+// Pyongyang Nalpharam 
+// Pépé le Moko 
+// Püha Tõnu kiusamine 
+// Q Planes 
+// Q&A 
+// Q-Bec My Love 
+// Q
+// Qafqaz və Merkuri cəmiyyətinin paroxodunun limandan yola düşməsi 
+// Qahar 
+// Qaid 
+// Qaidi Band 
+// Qaidi
+// Qasam 
+// Qatil Aur Ashiq 
+// Qayamat 
+// Qayamat Se Qayamat Tak 
+// Qayamat – A Love Triangle In Afghanistan 
+// Qayamat: City Under Threat 
+// Qerq 
+// Qeysar 
+// Qila 
+// Qimmit, a Clash of Two Truths 
+// Qissa 
+// Qissa Panjab 
+// Qissa-e Parsi: The Parsi Story 
+// Qiu Jin 
+// Qortimet e vjeshtës 
+// Qu Yuan 
+// Quack Shot 
+// Quacker Tracker 
+// Quackodile Tears 
+// Quackser Fortune Has a Cousin in the Bronx 
+// Quad God 
+// Quadrille
+// Quadrophenia 
+// Quai des Orfèvres 
+// Quality Street
+// Quality Time 
+// Quality of Life 
+// Qualquer Gato Vira-Lata 
+// Qualunquemente 
+// Quand j'avais cinq ans je m'ai tué 
+// Quando Elas Querem 
+// Quando Eu Era Vivo 
+// Quando la coppia scoppia 
+// Quanto sei bella Roma 
+// Quanto è bello lu murire acciso 
+// Quantrill's Raiders 
+// Quantum Apocalypse 
+// Quantum Hoops 
+// Quantum Love 
+// Quantum Quest: A Cassini Space Odyssey 
+// Quantum of Solace 
+// Quarantine 2: Terminal 
+// Quarantine
+// Quarantined 
+// Quarta Divisão 
+// Quarterback Princess 
+// Quartet of Five 
+// Quartet
+// Quartiere 
+// Quasi at the Quackadero 
+// Quasimodo d'El Paris 
+// Quatermass and the Pit 
+// Quatre-vingt-treize 
+// Quattro bravi ragazzi 
+// Quattro rose rosse 
+// Quax in Africa 
+// Quax the Crash Pilot 
+// Quay 
+// Que Dios me perdone 
+// Que Sera 
+// Que la barque se brise, que la jonque s'entrouvre 
+// Que me toquen las golondrinas 
+// Que sera, sera 
+// Que viva la lucha 
+// Quebec 
+// Quebec – Path of Conquest 
+// Queberc
+// Quebracho 
+// Queen & Slim 
+// Queen Bee 
+// Queen Christina 
+// Queen Draga 
+// Queen High 
+// Queen Kelly 
+// Queen Kong 
+// Queen Louise
+// Queen Margot
+// Queen Mimi 
+// Queen Sacrifice 
+// Queen Sized 
+// Queen X 
+// Queen and Country 
+// Queen for a Day 
+// Queen o'Diamonds 
+// Queen of Babylon 
+// Queen of Blood
+// Queen of Broadway 
+// Queen of Burlesque 
+// Queen of Cactus Cove 
+// Queen of Carthage 
+// Queen of Clubs 
+// Queen of Earth 
+// Queen of Fashion 
+// Queen of Hearts
+// Queen of Housewives 
+// Queen of Katwe 
+// Queen of Media 
+// Queen of Montreuil 
+// Queen of Outer Space 
+// Queen of Reversals 
+// Queen of Sports 
+// Queen of Temple Street 
+// Queen of the Amazons 
+// Queen of the Arena 
+// Queen of the Boulevards 
+// Queen of the Chantecler 
+// Queen of the Damned 
+// Queen of the Desert 
+// Queen of the Gas Station 
+// Queen of the Mob 
+// Queen of the Mountain 
+// Queen of the Mountains 
+// Queen of the Night Clubs 
+// Queen of the Night
+// Queen of the Pirates 
+// Queen of the Road 
+// Queen of the Scala 
+// Queen of the Sea 
+// Queen of the Seas 
+// Queen of the Stardust Ballroom 
+// Queen of the Streets 
+// Queen of the Sun 
+// Queen of the Tabarin Club 
+// Queen of the Yukon 
+// Queen to Play 
+// Queen's Evidence 
+// Queen
+// Queenie of Hollywood 
+// Queens 
+// Queens Logic 
+// Queens of Langkasuka 
+// Queensland 
+// Queer Boys and Girls on the Shinkansen
+// Queer Cargo 
+// Queer China 
+// Queer Duck: The Movie 
+// Queer Hutterite 
+// Queercore: How to Punk a Revolution 
+// Quel fantasma di mio marito 
+// Quel movimento che mi piace tanto 
+// Quelli che soffrono per voi 
+// Quemar las Naves 
+// Querelle 
+// Quest for Camelot 
+// Quest for Fire 
+// Quest for Love
+// Quest for Zhu 
+// Quest for the Lost City 
+// Quest for the Mighty Sword 
+// Quest of the Delta Knights 
+// Quest
+// Questa volta parliamo di uomini 
+// Questi giorni 
+// Questi pazzi, pazzi italiani 
+// Question in Details 
+// Questions à la terre natale 
+// Questo amore ai confini del mondo 
+// Questo e Quello 
+// Questo pazzo, pazzo mondo della canzone 
+// Qui comincia l'avventura 
+// Quick Change
+// Quick Gun Murugun 
+// Quick Millions
+// Quick Money 
+// Quick Pick 
+// Quick Trigger Lee 
+// Quick Triggers 
+// Quick, Before It Melts 
+// Quick, Let's Get Married 
+// Quick
+// Quicker'n a Wink 
+// Quickie Express 
+// Quicksand
+// Quicksand: No Escape 
+// Quicksands
+// Quicksilver 
+// Quicksilver Highway 
+// Quid Pro Quo 
+// Quiero llenarme de ti 
+// Quiet Bliss 
+// Quiet Chaos 
+// Quiet City 
+// Quiet Comes the Dawn 
+// Quiet Cool 
+// Quiet Days in August 
+// Quiet Days in Clichy
+// Quiet Days in Hollywood 
+// Quiet Killer 
+// Quiet Killing 
+// Quiet Night In 
+// Quiet Nights of Blood and Pain 
+// Quiet Please, Murder 
+// Quiet Riot - Well Now You're Here 
+// Quiet Wedding 
+// Quiet Weekend 
+// Quiet Zone 
+// Quigley Down Under 
+// Quill 
+// Quills 
+// Quilombo 
+// Quinceañera 
+// Quincy 
+// Quincy Adams Sawyer 
+// Quincy's Quest 
+// Quinneys
+// Quintet 
+// Quints  
+// Quisiera Ser Hombre 
+// Quit Staring at My Plate 
+// Quitters 
+// Quitting 
+// Quiz Show 
+// Quiéreme porque me muero 
+// Quo Vadis
+// Quod Erat Demonstrandum 
+// Qurbani 
+// Qurbani Jatt Di 
+// Qurbani Rang Layegi 
+// Qurbaniyaan 
+// R-Point 
+// R... Rajkumar 
+// R2B: Return to Base 
+// REC 
+// REC 3: Genesis 
+// REC 4: Apocalypse 
+// RFK 
+// RFK Must Die 
+// RK Nagar
+// RPM 
+// RR 
+// RSVP 
+// RV 
+// RV: Resurrected Victims 
+// Ra.One 
+// Rab Ne Bana Di Jodi 
+// Rabbit Fire 
+// Rabbit Hero 
+// Rabbit Hole 
+// Rabbit Hood 
+// Rabbit Seasoning 
+// Rabbit Test 
+// Rabbit of Seville 
+// Rabbit, Run 
+// Rabbit-Proof Fence 
+// Rabid 
+// Race 
+// Race Riot 
+// Race for Your Life, Charlie Brown 
+// Race the Sun 
+// Race to Nowhere 
+// Race to Space 
+// Race to Witch Mountain 
+// Race with the Devil 
+// Race
+// Rachel Getting Married 
+// Rachel and the Stranger 
+// Rachel, Rachel 
+// Racing Stripes 
+// Racing with the Moon 
+// Racketeer Rabbit 
+// Radio Days 
+// Radio Flyer 
+// Radio
+// Radioland Murders 
+// Raggedy Ann & Andy: A Musical Adventure 
+// Raging Bull 
+// Ragtime 
+// Raiders of the Living Dead 
+// Raiders of the Lost Ark 
+// Railroad Tigers  
+// Rain Clouds over Wushan 
+// Rain Man 
+// Rain
+// Rainbow Bird and Monster Man 
+// Rainbow Brite and the Star Stealer 
+// Rainbow Song 
+// Rainbow
+// Raincoat 
+// Raintree County 
+// Raise Your Voice 
+// Raise the Red Lantern 
+// Raised from Dust 
+// Raising Arizona 
+// Raising Cain 
+// Raising Helen 
+// Raising Victor Vargas 
+// Raja Harishchandra 
+// Rajini Murugan 
+// Rakthabandham 
+// Ralph Breaks the Internet 
+// Rambo 
+// Ramona and Beezus 
+// Rampage
+// Rampart 
+// Ran 
+// Rancho Notorious 
+// Random Encounter 
+// Random Harvest 
+// Random Hearts 
+// Rang De Basanti 
+// Range War 
+// Rango 
+// Ransom 
+// Rapa Nui 
+// Rape Me 
+// Rapid Fire  
+// Rapunzel 
+// Rare Exports: A Christmas Tale 
+// Rasen 
+// Rasganço 
+// Rashōmon 
+// Rasputin: Dark Servant of Destiny 
+// Rat Race 
+// Ratatouille 
+// Ratcatcher 
+// Rated X 
+// Rattle and Hum 
+// Ravenous 
+// Raw Deal
+// Rawhead Rex 
+// Ray 
+// Razor Blade Smile 
+// Razorback 
+// Re-Animator 
+// Re-cycle 
+// ReLIFE 
+// Reach for the Sky 
+// Read It and Weep  
+// Ready to Rumble 
+// Real Genius 
+// Real Life
+// Real Steel 
+// Real Women Have Curves 
+// Reality Bites 
+// Reap the Wild Wind 
+// Rear Window 
+// Rebecca 
+// Rebecca of Sunnybrook Farm
+// Rebel Without a Cause 
+// Rebel
+// Rebels of the Neon God 
+// Rebound 
+// Recess: School's Out 
+// Red Amnesia 
+// Red Beard 
+// Red Cherry 
+// Red Cliff
+// Red Corner 
+// Red Dawn
+// Red Desert 
+// Red Dog 
+// Red Dragon 
+// Red Dust 
+// Red Eye 
+// Red Firecracker, Green Firecracker 
+// Red Heat 
+// Red Hill 
+// Red Hook Summer 
+// Red Hot Riding Hood 
+// Red Lights 
+// Red Planet 
+// Red Riding Hood
+// Red River
+// Red River Valley
+// Red Road 
+// Red Rock West 
+// Red Scorpion 
+// Red Sonja 
+// Red Sorghum 
+// Red State
+// Red Sun 
+// Red Tails 
+// Red-Headed Woman 
+// Red
+// Redacted 
+// Redbelt 
+// Redemption: The Stan Tookie Williams Story  
+// Redline 
+// Redneck Zombies 
+// Reds 
+// Redskin 
+// Reefer Madness
+// Reeker 
+// Reflections in a Golden Eye 
+// Reform School Girls 
+// Regarding Henry 
+// Regeneration 
+// Reign Over Me 
+// Reign of Fire 
+// Reign of the Supermen 
+// Reincarnation 
+// Reindeer Games 
+// Relationship Dilemma 
+// Relative Values 
+// Religulous 
+// Rembrandt
+// Remember Me 
+// Remember the Night 
+// Remember the Titans 
+// Remo Williams: The Adventure Begins 
+// Remorse at Death 
+// Ren and Stimpy 
+// Renaissance 
+// Renaissance Man 
+// Renaldo and Clara 
+// Rendition 
+// Renegade 
+// Reno 911!: Miami 
+// Rent 
+// Rent-a-Cop 
+// Repli-Kate 
+// Replicant 
+// Repo Chick 
+// Repo Man 
+// Repo Men 
+// Repo! The Genetic Opera 
+// Repossessed 
+// Reptilian 
+// Repulsion 
+// Requiem for a Dream 
+// Requiem for a Heavyweight 
+// Rescue Dawn 
+// Reservation Road 
+// Reservoir Dogs 
+// Resident Evil 
+// Resident Evil: Afterlife 
+// Resident Evil: Apocalypse 
+// Resident Evil: Damnation 
+// Resident Evil: Degeneration 
+// Resident Evil: Extinction 
+// Resident Evil: Retribution 
+// Resident Evil: The Final Chapter 
+// Resident Evil: Vendetta 
+// Respiro 
+// Ressha Sentai ToQger vs. Kyoryuger: The Movie 
+// Rest Stop 
+// Restoration 
+// Restrepo 
+// Resurrecting the Champ 
+// Resurrection 
+// Resurrection of the Little Match Girl 
+// Retro Puppet Master 
+// Retroactive 
+// Return from Witch Mountain 
+// Return of Sabata 
+// Return of the Blind Dead 
+// Return of the Fly 
+// Return of the Jedi 
+// Return of the Living Dead: Necropolis 
+// Return of the Living Dead: Rave to the Grave 
+// Return of the Magnificent Seven 
+// Return of the Secaucus Seven 
+// Return of the Seven 
+// Return to Halloweentown
+// Return to Halloweentown  
+// Return to Horror High 
+// Return to House on Haunted Hill 
+// Return to Innocence 
+// Return to Me 
+// Return to Never Land 
+// Return to Oz 
+// Return to Paradise 
+// Return to Sleepaway Camp 
+// Return to the Batcave: The Misadventures of Adam and Burt  
+// Return
+// Returner 
+// Reuben, Reuben 
+// Revanche 
+// Reveille with Beverly 
+// Revenge for Love 
+// Revenge of the Creature 
+// Revenge of the Nerds 
+// Revenge of the Nerds II: Nerds in Paradise 
+// Revenge of the Nerds III: The Next Generation 
+// Revenge of the Nerds IV: Nerds in Love 
+// Revenge of the Ninja 
+// Revenge of the Pink Panther 
+// Revenge
+// Revenge: A Love Story 
+// Reversal of Fortune
+// Revolt of the Zombies 
+// Revolution 
+// Revolution OS 
+// Revolution of Pigs 
+// Revolutionary Road 
+// Revolver
+// Rhapsody Rabbit 
+// Rhapsody in August 
+// Rhapsody of Happiness 
+// Rhinestone 
+// Rhubarb Rhubarb 
+// Rhubarb
+// Rice 
+// Rice Rhapsody 
+// Rich and Famous
+// Richard Pryor: Live in Concert 
+// Riddick 
+// Ride 'Em Cowboy 
+// Ride Lonesome 
+// Ride a Crooked Trail 
+// Ride in the Whirlwind 
+// Ride the High Country 
+// Ride the Pink Horse 
+// Ride with the Devil 
+// Riders 
+// Ridicule 
+// Riding Alone for Thousands of Miles 
+// Riding Giants 
+// Riding in Cars with Boys 
+// Riding in Vans with Boys 
+// Riding the Bullet 
+// Rififi 
+// Right at Your Door 
+// Righteous Kill 
+// Righteous Ties 
+// Riki-Oh: The Story of Ricky 
+// Ring 
+// Ring 0: Birthday 
+// Ring of Darkness 
+// Ringmaster 
+// Rings 
+// Rio Lobo 
+// Rio Rita
+// Rio
+// Ripley's Game 
+// Risas en Vacaciones 
+// Rise 
+// Rise of the Footsoldier 
+// Rise of the Guardians 
+// Rise of the Planet of the Apes 
+// Rise: Blood Hunter 
+// Rising Sun 
+// Risky Business 
+// Rita, Sue and Bob Too 
+// Ritual
+// Rituals 
+// River Without Buoys 
+// River of No Return 
+// River's Edge 
+// Rize 
+// Ri¢hie Ri¢h 
+// Road 
+// Road Agent
+// Road Demon 
+// Road Ends 
+// Road Games 
+// Road Gang 
+// Road Hard 
+// Road House
+// Road Kill
+// Road Movie 
+// Road North 
+// Road Rage 
+// Road Romeo 
+// Road Runner a Go-Go 
+// Road Show 
+// Road Trip 
+// Road Trip: Beer Pong 
+// Road of Hell
+// Road to Alcatraz 
+// Road to Andalay 
+// Road to Bali 
+// Road to Dawn 
+// Road to Fame 
+// Road to Happiness 
+// Road to Hell 
+// Road to Istanbul 
+// Road to Life
+// Road to Morocco 
+// Road to Nhill 
+// Road to Ninja: Naruto the Movie 
+// Road to Nowhere 
+// Road to Paloma 
+// Road to Paradise 
+// Road to Paris 
+// Road to Perdition 
+// Road to Redemption 
+// Road to Rio
+// Road to Rocío 
+// Road to Ruin 
+// Road to Salina 
+// Road to Sangam 
+// Road to Singapore 
+// Road to Utopia 
+// Road to Victory
+// Road to Yesterday 
+// Road to Zanzibar 
+// Road to the Big House 
+// Road to the Big Leagues 
+// Road to the Reich 
+// Road to the Stage 
+// Road to the Stars 
+// Road, Movie 
+// Roadblock 
+// Roadflower 
+// Roadgames 
+// Roadhouse Nights 
+// Roadie
+// Roadkill
+// Roadracers
+// Roads and Bridges 
+// Roads of Destiny 
+// Roads of Kiarostami 
+// Roads to Koktebel 
+// Roads to the South 
+// Roadside 
+// Roadside Ambanis 
+// Roadside Prophets 
+// Roadside Romeo 
+// Roald Dahl's Esio Trot 
+// Roam Sweet Home 
+// Roamin' Holiday 
+// Roamin' Wild 
+// Roaming 
+// Roaming Lady 
+// Roar of the Crowd 
+// Roar of the Dragon 
+// Roar of the People 
+// Roar of the Press 
+// Roar
+// Roar: Tigers of the Sundarbans 
+// Roarin' Dan 
+// Roarin' Guns 
+// Roarin' Lead 
+// Roaring City 
+// Roaring Fire 
+// Roaring Lions at Home 
+// Roaring Rails 
+// Roaring Ranch 
+// Roaring Roads 
+// Roaring Timber 
+// Roaring Wheels 
+// Roaring Years 
+// Roast Beef and Movies 
+// Rob Roy, the Highland Rogue 
+// Rob Roy
+// Rob the Mob 
+// Rob-B-Hood 
+// Roba da ricchi 
+// Robbery
+// Roberta 
+// Robin Hood Daffy 
+// Robin Hood
+// Robin Hood: Men in Tights 
+// Robin Hood: Prince of Thieves 
+// Robin and Marian 
+// Robin and the 7 Hoods 
+// Robin of Locksley  
+// Robinson Crusoe on Mars 
+// Robinson Crusoe
+// RoboCop
+// Robot & Frank 
+// Robot 
+// Robot Carnival 
+// Robot Stories 
+// Robots
+// Rocco 
+// Rock 'n' Roll High School 
+// Rock Dog 
+// Rock Star
+// Rock of Ages
+// Rock-A-Bye Baby 
+// Rock-a-Doodle 
+// Rocket Science 
+// RocketMan 
+// Rocketman 
+// Rocketship X-M 
+// Rockin' in the Rockies 
+// RocknRolla 
+// Rocky 
+// Rocky Balboa 
+// Roco Kingdom: The Desire of Dragon 
+// Rodan 
+// Rodora 
+// Roe v. Wade 
+// Roe vs. Wade 
+// Roger & Me 
+// Roger Dodger 
+// Rogue One 
+// Rogue Trader 
+// Rogue
+// Rohini 
+// Roilo Baki Char 
+// Roja 
+// Roja Kootam 
+// Roja Malare 
+// Rojavai Killathe 
+// Rojavanam 
+// Rojavin Raja 
+// Rojo Amanecer 
+// Rojulu Marayi 
+// Rok spokojnego slonca 
+// Rokk í Reykjavík 
+// Role Models 
+// Roll Bounce 
+// Roller Boogie 
+// Rollerball
+// Rollercoaster
+// Rolling Kansas 
+// Rolling Thunder 
+// Rollover 
+// Roma
+// Roman Candles 
+// Roman Holiday 
+// Roman Scandals 
+// Romance & Cigarettes 
+// Romance Out of the Blue 
+// Romance in Manhattan 
+// Romance of the Western Chamber 
+// Romance
+// Romancing the Stone 
+// Romanzo criminale 
+// Rome, Open City 
+// Romeo & Juliet: Sealed with a Kiss 
+// Romeo Is Bleeding 
+// Romeo Juliet 
+// Romeo Must Die 
+// Romeo and Juliet in Sarajevo 
+// Romeo and Juliet
+// Romeo.Juliet 
+// Romper Stomper 
+// Romy and Michele's High School Reunion 
+// Ronin 
+// Rookie of the Year 
+// Room Service
+// Room at the Top
+// Room in Rome 
+// Room
+// Rooster Cogburn 
+// Roots Search 
+// Rope 
+// Ropewalk 
+// Rory O'More 
+// Rory o' the Bogs 
+// Rosa 
+// Rosa Luxemberg 
+// Rosa Morena 
+// Rosa and Cornelia 
+// Rosa de América 
+// Rosa de las nieves 
+// Rosalba, la fanciulla di Pompei 
+// Rosalie 
+// Rosalinda 
+// Rosapoo 
+// Rosappu Ravikkaikari 
+// Rosario Tijeras 
+// Rosario
+// Rosaura at 10 O'Clock 
+// Rose Bernd
+// Rose Bowl 
+// Rose Hill
+// Rose Hobart 
+// Rose Kennedy: A Life to Remember 
+// Rose Marie
+// Rose Rose I Love You 
+// Rose o' the River 
+// Rose o' the Sea 
+// Rose o'Paradise 
+// Rose of Cimarron 
+// Rose of Tralee
+// Rose of Washington Square 
+// Rose of the Alley 
+// Rose of the Asphalt Streets 
+// Rose of the Golden West 
+// Rose of the Mountain 
+// Rose of the Rancho
+// Rose of the Rio Grande 
+// Rose of the Tenements 
+// Rose of the Wilderness 
+// Rose of the World
+// Rose of the Yukon 
+// Rose-Marie 
+// Rose
+// Roseanna
+// Rosebud
+// Roseland 
+// Roselyne and the Lions 
+// Rosemary 
+// Rosemary Climbs the Heights 
+// Rosemary's Baby 
+// Rosemary's Daughter 
+// Rosemary, That's for Remembrance 
+// Rosemont 
+// Rosencrantz & Guildenstern Are Dead 
+// Rosenmontag 
+// Rosenstrasse 
+// Rosenwald 
+// Roses Are Red 
+// Roses Bloom Twice
+// Roses Bloom on the Moorland
+// Roses for the Prosecutor 
+// Roses from the South
+// Roses in Tyrol 
+// Roses of Picardy 
+// Roses à crédit 
+// Rosetta 
+// Rosewater 
+// Rosewood 
+// Rosewood Lane 
+// Rosie Dixon – Night Nurse 
+// Rosie the Riveter 
+// Rosie
+// Rosies of the North 
+// Rosita 
+// Rosogolla 
+// Rossana 
+// Rossini 
+// Rossini's Ghost 
+// Roswell
+// Roswell: The Aliens Attack
+// Rosy 
+// Rosy Dreams 
+// Rotation 
+// Roti Kapda Aur Makaan 
+// Roti Ki Keemat 
+// Roti
+// Rotkäppchen 
+// Rotten to the Core 
+// Rottweiler 
+// Rouge 
+// Rouge and Riches 
+// Rough 
+// Rough Aunties 
+// Rough But Respectable 
+// Rough Cut
+// Rough Diamonds 
+// Rough Going 
+// Rough House Rosie 
+// Rough Justice 
+// Rough Magic 
+// Rough Night 
+// Rough Night in Jericho 
+// Rough Play 
+// Rough Rider 
+// Rough Riders 
+// Rough Riders of Cheyenne 
+// Rough Riders of Durango 
+// Rough Riding Ranger 
+// Rough Riding Romance 
+// Rough Romance 
+// Rough Sea at Dover 
+// Rough Shoot 
+// Rough Stuff 
+// Rough Waters 
+// Rough and Ready 
+// Rough, Tough and Ready 
+// Roughly Speaking 
+// Roughshod
+// Roujin Z 
+// Roulette 
+// Round Eyes in the Middle Kingdom 
+// Round Midnight 
+// Round Trip to Mars 
+// Round-Up Time in Texas 
+// Rounders 
+// Roundhay Garden Scene 
+// Rounding Up the Law 
+// Roundtrip 
+// Roustabout 
+// Rover Dangerfield: The Dog Who Gets No Respect 
+// Rover's Big Chance 
+// Rovin' Tumbleweeds 
+// Roving Mars 
+// Row Your Boat 
+// Rowdy & MLA 
+// Rowdy Aliya 
+// Rowdy Alludu 
+// Rowdy Fellow 
+// Rowdy Gaari Pellam 
+// Rowdy Inspector 
+// Rowdy Rajamma 
+// Rowdy Ramu 
+// Rowdy Ramudu Konte Krishnudu 
+// Rowdy Ranganna 
+// Rowdy Rathore 
+// Rowdy
+// Rowing with the Wind 
+// Roxanne 
+// Roxanne Roxanne 
+// Roxie Hart 
+// Roxy Hunter and the Horrific Halloween 
+// Roxy Hunter and the Mystery of the Moody Ghost 
+// Roxy Hunter and the Myth of the Mermaid 
+// Roxy Hunter and the Secret of the Shaman 
+// Roxy and the Wonderteam 
+// Roy 
+// Royal Bengal Rahashya 
+// Royal Blood 
+// Royal Cat Nap 
+// Royal Cavalcade 
+// Royal Children 
+// Royal Eagle 
+// Royal Family 
+// Royal Flash 
+// Royal Hearts 
+// Royal Journey 
+// Royal Kill 
+// Royal Paintbox 
+// Royal River 
+// Royal Space Force: The Wings of Honnêamise 
+// Royal Tramp 
+// Royal Treasure 
+// Royal Waltz 
+// Royal Wedding 
+// Royce 
+// Rozina, the Love Child 
+// Rubber's Lover 
+// Rubber
+// Ruby Sparks 
+// Ruby in Paradise 
+// Rudo y Cursi 
+// Rudolph and Ippaiattena 
+// Rudy 
+// Ruggles of Red Gap 
+// Rugrats Go Wild 
+// Rugrats in Paris: The Movie 
+// Rules of Dating 
+// Rules of Engagement 
+// Rumble Fish 
+// Rumble in the Bronx 
+// Rumor Has It 
+// Run Lola Run 
+// Run Ronnie Run 
+// Run Silent, Run Deep 
+// Run, Fatboy, Run 
+// Run
+// Runaway Bride 
+// Runaway Jury 
+// Runaway Train 
+// Runaway
+// Runner Runner 
+// Running Man
+// Running Out of Time
+// Running Scared
+// Running Wild
+// Running With Scissors 
+// Running on Empty
+// Running on Karma 
+// Rush Hour 
+// Rush in Rio 
+// Rush
+// Rushmore 
+// Russian Ark 
+// Rust and Bone 
+// Rustlers' Rhapsody 
+// Ruthless People 
+// Ryan's Daughter 
+// Ryuzo and The Seven Henchmen 
+// S Diary 
+// S.M.A.R.T. Chase 
+// S.S. Doomtrooper 
+// S.W.A.T.: Firefight 
+// S1m0ne 
+// SARS Wars 
+// SLiTHER 
+// SPL: Sha Po Lang 
+// SSSSSSS 
+// Sa Pusod ng Dagat 
+// Saagar 
+// Saamy 
+// Saathiya 
+// Saawariya 
+// Sabata 
+// Sabotage
+// Saboteur 
+// Sabretooth 
+// Sabrina Goes to Rome
+// Sabrina the Teenage Witch 
+// Sabrina, Down Under
+// Sabrina
+// Sabrina: Friends Forever 
+// Sade 
+// Sadie McKee 
+// Sadie Thompson 
+// Sadomania 
+// Safe Haven 
+// Safe House
+// Safe Men 
+// Safe
+// Safety Not Guaranteed 
+// Sagar 
+// Sahara
+// Sailor Beware 
+// Sailor Moon R: The Movie 
+// Sailor Moon S: The Movie 
+// Sailor Moon Super S: The Movie 
+// Sailor Suit and Machine Gun 
+// Sailor Suit and Machine Gun: Graduation 
+// Saimin 
+// Saint Ange 
+// Saint Joan 
+// Saint Ralph 
+// Saint-Ex 
+// Saints and Soldiers 
+// Saippuaprinssi 
+// Saki 
+// Salaam Bombay! 
+// Salaam Namaste 
+// Salakhain 
+// Salangeul chajaseo 
+// Salem's Lot  
+// Salesman 
+// Sally:  1929 & 2000)
+// Salmon Fishing in the Yemen 
+// Salome of the Tenements 
+// Salome's Last Dance 
+// Salomé:  1923 & 1953)
+// Salon Kitty 
+// Salt and Pepper 
+// Salt of the Earth 
+// Salt:  2006, 2009 & 2010)
+// Saludos Amigos 
+// Salvador Dalí 
+// Salvador: & 2006)
+// Salvatore Giuliano 
+// Salween 
+// Salò, or the 120 Days of Sodom 
+// Samaritan Girl 
+// Same Kind of Different as Me 
+// Same Time, Next Year 
+// Sampo 
+// Samsara: & 2011)
+// Samson and Delilah:  1949, 1984, 1996 TV & 2009)
+// Samson and His Mighty Challenge 
+// Samson:  1915, 1923, 1936, 1961 Polish, 1961 Italian & 2018)
+// Samurai Assassin 
+// Samurai Cop 
+// Samurai Fiction 
+// Samurai Hustle 
+// Samurai Hustle Returns 
+// Samurai I: Musashi Miyamoto 
+// Samurai II: Duel at Ichijoji Temple 
+// Samurai III: Duel at Ganryu Island 
+// Samurai Rebellion 
+// Samurai Spy 
+// San Andreas 
+// San Francisco: & 1968)
+// Sanada 10 Braves 
+// Sanctum 
+// Sanders of the River 
+// Sandor / Ida 
+// Sands of Iwo Jima 
+// Sangam: Hindi, 1964 Urdu & 1997)
+// Sango-sho Densetsu: Aoi Umi no Erufii 
+// Sanjuro 
+// Sankaku 
+// Sans Soleil 
+// Sanshiro Sugata 
+// Sanshiro Sugata Part II 
+// Sansho the Bailiff 
+// Santa Claus Conquers the Martians 
+// Santa Claus: & 1959)
+// Santa Claus: The Movie 
+// Santa Fe Trail 
+// Santa Sangre 
+// Santa Who? 
+// Santa with Muscles 
+// Santa's Little Helper 
+// Santa's Slay 
+// Santo Contra los Zombis 
+// Sapphire 
+// Saps at Sea 
+// Saraba Abunai Deka 
+// Saraba Kamen Rider Den-O: Final Countdown 
+// Saraband TV)
+// Sarah Silverman: Jesus Is Magic 
+// Sarah and Son 
+// Sarah's Key 
+// Saratoga Trunk 
+// Sardaar Ji 
+// Sarfarosh 
+// Sarkar 3 
+// Sarkar Raj 
+// Sarkar: & 2014)
+// Sarraounia 
+// Sasidharan 
+// Satan Met a Lady 
+// Sathya:  2010, 2017 Malayalam & 2017 Tamil)
+// Sathyam: & 2004)
+// Satomi Hakkenden 
+// Saturday Night Fever 
+// Saturday Night and Sunday Morning 
+// Saturday the 14th 
+// Saturn 3 
+// Satya: & 2017)
+// Satyam:  2003 & 2008)
+// Satyricon oro, 1969)
+// Sauerbruch – Das war mein Leben 
+// Sausage Party 
+// Sauve qui peut e) 
+// Savage Beach 
+// Savage Grace 
+// Savage Planet  / Savage Streets 
+// Savage! 
+// Savages:  1974 TV & 2012)
+// Save the Green Planet! 
+// Save the Last Dance 
+// Save the Tiger 
+// Saved from the Titanic 
+// Saved! 
+// Saving Face 
+// Saving Grace 
+// Saving Mr. Banks 
+// Saving My Hubby 
+// Saving Private Ryan 
+// Saving Silverman 
+// Saving Star Wars 
+// Savior 
+// Saw 
+// Saw 
+// Saw 3D 
+// Saw II 
+// Saw III 
+// Saw IV 
+// Saw V 
+// Saw VI 
+// Sawdust and Tinsel 
+// Sax Rohmer's The Castle of Fu Manchu 
+// Say Anything... 
+// Say It Isn't So 
+// Say Uncle 
+// Say Yes 
+// Sayew 
+// Sayonara 
+// Sayonara 
+// Sayonara Midori-chan 
+// Scandal Maker 
+// Scandal Makers 
+// Scandal Sheet:  1952 & 1985 TV)
+// Scandal Street 
+// Scandal at Scourie 
+// Scandal: & 1989)
+// Scanner Cop 
+// Scanners 
+// Scanners II: The New Order 
+// Scanners III: The Takeover 
+// Scanners: The Showdown 
+// Scaramouche 
+// Scarecrow Gone Wild 
+// Scarecrow:  2002 & 2013)
+// Scarecrows 
+// Scared Stiff:  1953 & 1987)
+// Scared to Death 
+// Scaredy Cat 
+// Scarface: & 1983)
+// Scarlet Diva 
+// Scarlet Sails Паруса) 
+// Scarlet Street 
+// Scars of Dracula 
+// Scary Godmother: The Revenge of Jimmy 
+// Scary Movie 
+// Scary Movie 2 
+// Scary Movie 3 
+// Scary Movie 4 
+// Scary Movie 5 
+// Scary Road Is Fun 
+// Scary Stories to Tell in the Dark 
+// Scavenger Hunt 
+// Scenes from a Mall 
+// Scenes from a Marriage  / Scenic Route 
+// Scent of Love 
+// Scent of Mystery 
+// Scent of a Woman: & 1992)
+// Schatten – Eine nächtliche Halluzination 
+// Schindler's List 
+// Schizopolis 
+// School Daze 
+// School Ties 
+// School for Scoundrels: & 2006)
+// School for Seduction 
+// School of Rock 
+// Schoolgirl Report Part 1: What Parents Don't Think Is Possible 
+// Schoolmates 1 
+// Schtonk! 
+// Schulmädchen-Report: Was Eltern nicht für möglich halten 
+// Schultze Gets the Blues 
+// Sci-Fi High: A Movie Musical 
+// Scooby-Doo 
+// Scooby-Doo 2: Monsters Unleashed 
+// Scooby-Doo Meets the Boo Brothers TV)
+// Scooby-Doo and the Alien Invaders 
+// Scooby-Doo and the Cyber Chase 
+// Scooby-Doo on Zombie Island 
+// Scooby-Doo! & Batman: The Brave and the Bold 
+// Scooby-Doo! Abracadabra-Doo 
+// Scooby-Doo! Adventures: The Mystery Map 
+// Scooby-Doo! Camp Scare 
+// Scooby-Doo! Curse of the Lake Monster TV)
+// Scooby-Doo! Frankencreepy 
+// Scooby-Doo! Legend of the Phantosaur 
+// Scooby-Doo! Mask of the Blue Falcon 
+// Scooby-Doo! Moon Monster Madness 
+// Scooby-Doo! Music of the Vampire 
+// Scooby-Doo! Pirates Ahoy! 
+// Scooby-Doo! Shaggy's Showdown 
+// Scooby-Doo! Stage Fright 
+// Scooby-Doo! The Mystery Begins TV)
+// Scooby-Doo! WrestleMania Mystery 
+// Scooby-Doo! and Kiss: Rock and Roll Mystery 
+// Scooby-Doo! and WWE: Curse of the Speed Demon 
+// Scooby-Doo! and the Goblin King 
+// Scooby-Doo! and the Legend of the Vampire 
+// Scooby-Doo! and the Loch Ness Monster 
+// Scooby-Doo! and the Monster of Mexico 
+// Scooby-Doo! and the Reluctant Werewolf TV)
+// Scooby-Doo! and the Witch's Ghost 
+// Scooby-Doo! in Arabian Nights  / Scooby-Doo! in Where's My Mummy? 
+// Scoop! 
+// Scoop: & 2006)
+// Scorched 
+// Score: & 2016)
+// Score: A Hockey Musical 
+// Scorpio 
+// Scorpio Rising 
+// Scotland, PA 
+// Scott Pilgrim vs. the World 
+// Scott of the Antarctic 
+// Scratch 
+// Scream 
+// Scream 2 
+// Scream 3 
+// Scream 4 
+// Scream Blacula Scream 
+// Scream Bloody Murder 
+// Scream and Scream Again 
+// Screamers 
+// Screamers: The Hunting 
+// Screaming Masterpiece 
+// Screwed 
+// Scrooge: & 1970)
+// Scrooged 
+// Scrub Me Mama with a Boogie Beat 
+// Scum 
+// Scum of the Earth 
+// Scum of the Earth! 
+// Se7en 
+// Sea of Love 
+// Seabiscuit 
+// Seafood 
+// Seal Team Six: The Raid on Osama Bin Laden 
+// Searching for Bobby Fischer 
+// Searching for Sugar Man 
+// Season of the Witch: & 2011)
+// Sebastiane 
+// Second Act 
+// Second Chorus 
+// Second Skin 
+// Second in Command 
+// Secondhand Lions 
+// Seconds 
+// Secret 
+// Secret Admirer 
+// Secret Agent: & 1947)
+// Secret Beyond the Door 
+// Secret Ceremony 
+// Secret Honor 
+// Secret People 
+// Secret Sunshine 
+// Secret Things 
+// Secret Treasure 
+// Secret Window 
+// Secret in Their Eyes 
+// Secret of the Wastelands 
+// Secretariat 
+// Secretary 
+// Secrets & Lies 
+// Secrets: & 1973 TV)
+// Seduced and Abandoned 
+// Seducing Doctor Lewis 
+// Seduction: The Cruel Woman 
+// See No Evil, Hear No Evil 
+// See No Evil: & 2006)
+// See Spot Run 
+// See You in Hell, My Darling 
+// Seed 
+// Seed of Chucky 
+// Seeds of Yesterday 
+// Seeing Other People 
+// Seeking Justice 
+// Seeking a Friend for the End of the World 
+// Seema: & 1971)
+// Seems Like Old Times 
+// Sehnsucht 
+// Seizure 
+// Seksmisja 
+// Selena 
+// Self Helpless 
+// Selma 
+// Semi-Pro 
+// Semi-Tough 
+// Send Me No Flowers 
+// Sengoku Jieitai 1549 
+// Senna 
+// Sennenbi 
+// Sensations of 1945 
+// Sense and Sensibility 
+// Senseless 
+// Senso 
+// Seopyeonje 
+// Seoul Train 
+// Separate Lies 
+// Separate Tables 
+// September 12th 
+// September Dawn 
+// September in the Rain 
+// September:  1987, 2003 & 2011)
+// Sequel to the Diamond from the Sky 
+// Seraphim Falls 
+// Serenade 
+// Serendipity 
+// Serene Velocity 
+// Serenity 
+// Sergeant Rutledge 
+// Sergeant York 
+// Serial 
+// Serial Lover 
+// Serial Mom 
+// Series 7: The Contenders 
+// Serpentinen Tanz 
+// Serpico 
+// Service de nuit 
+// Serving Sara 
+// Sesame Street Presents: Follow That Bird 
+// Session 9 
+// Set It Off 
+// Setoutsumi 
+// Settai 
+// Setup 
+// Seven Beauties 
+// Seven Blows of The Dragon 
+// Seven Brides for Seven Brothers 
+// Seven Chances 
+// Seven Days in May 
+// Seven Days to Noon 
+// Seven Hills of Rome 
+// Seven Minutes in Heaven 
+// Seven Psychopaths 
+// Seven Samurai 
+// Seven Times Seven 
+// Seven Up! 
+// Seven Years in Tibet 
+// Seventeen Again 
+// Seventeen Moments of Spring 
+// Seventeen Years 
+// Seventh Heaven:  1937 & 1993)
+// Seventh Son 
+// Severance 
+// Sex & Fury 
+// Sex Drive 
+// Sex Is Zero 
+// Sex Is Zero 2 
+// Sex Lives of the Potato Men 
+// Sex Madness 
+// Sex and Death 101 
+// Sex and Lucia 
+// Sex and Zen 
+// Sex and the City 
+// Sex and the City 2 
+// Sex and the Single Girl 
+// Sex in Chains 
+// Sex, Shame, and Tears 
+// Sex: The Annabel Chong Story 
+// Sexmission 
+// Sexo, pudor y lágrimas 
+// Sextette 
+// Sexual Meditation: Room with View 
+// Sexy Beast 
+// Sgt. Bilko 
+// Sgt. Kabukiman N.Y.P.D. 
+// Sgt. Pepper's Lonely Hearts Club Band 
+// Shaadi Se Pehle 
+// Shade 
+// Shadow 
+// Shadow Builder 
+// Shadow Conspiracy 
+// Shadow Man: & 2006)
+// Shadow of Evil 
+// Shadow of a Doubt 
+// Shadow of the Thin Man 
+// Shadow of the Vampire 
+// Shadowboxer 
+// Shadowlands 
+// Shadowless Sword 
+// Shadows 
+// Shadows and Fog 
+// Shadows of Forgotten Ancestors 
+// Shaft in Africa 
+// Shaft's Big Score 
+// Shaft: & 2000)
+// Shag 
+// Shake Hands With the Devil: & 2007)
+// Shake Hands with the Devil: The Journey of Roméo Dallaire 
+// Shake! Otis at Monterey 
+// Shakedown: Return of the Sontarans 
+// Shakes the Clown 
+// Shakespeare Wallah 
+// Shakespeare in Love 
+// Shalako 
+// Shall We Dance:  1996 & 2004)
+// Shallow Grave 
+// Shallow Ground 
+// Shallow Hal 
+// Shame: & 2011)
+// Shampoo 
+// Shane 
+// Shanghai Dreams 
+// Shanghai Express 
+// Shanghai Kiss 
+// Shanghai Knights 
+// Shanghai Noon 
+// Shanghai Story 
+// Shanghai Surprise 
+// Shanghai Triad 
+// Shaolin 
+// Shaolin Soccer 
+// Shaolin Temple: & 1982)
+// Shaolin Wooden Men 
+// Shaolin and Wu Tang 
+// Shape of the Moon 
+// Shararat 
+// Shark 
+// Shark Attack 
+// Shark Attack 2 
+// Shark Attack 3: Megalodon 
+// Shark Night 
+// Shark Tale 
+// Shark! 
+// Shark: Mind of a Demon 
+// Sharknado 
+// Sharknado 2: The Second One 
+// Sharknado 3: Oh Hell No! 
+// Sharknado 5: Global Swarming 
+// Sharknado: The 4th Awakens 
+// Sharky's Machine 
+// Shaso 
+// Shatter Dead 
+// Shattered 
+// Shattered rfly on a Wheel) 
+// Shattered Glass 
+// Shaukeen 
+// Shaun of the Dead 
+// Shaun the Sheep Movie 
+// She 
+// She Creature 
+// She Done Him Wrong 
+// She Gods of Shark Reef 
+// She Hate Me 
+// She Remembers, He Forgets 
+// She Shoulda Said 'No'! 
+// She Stoops to Conquer 
+// She Was an Acrobat's Daughter 
+// She Wore a Yellow Ribbon 
+// She's All That 
+// She's Gotta Have It 
+// She's Having a Baby 
+// She's Out of Control 
+// She's Out of My League 
+// She's So Lovely 
+// She's Too Young 
+// She's the Man 
+// She's the One 
+// She-Devil 
+// She-Wolf of London 
+// Sheena 
+// Sheitan 
+// Shelter Dogs 
+// Shelter: & 2010)
+// Shenandoah 
+// Sherlock Holmes 
+// Sherlock Holmes Faces Death 
+// Sherlock Holmes and the Secret Weapon 
+// Sherlock Holmes and the Voice of Terror 
+// Sherlock Holmes in Washington 
+// Sherlock Holmes: A Game of Shadows 
+// Sherlock, Jr. 
+// Sherman's March: A Meditation on the Possibility of Romantic Love In the South During an Era of Nuclear Weapons Proliferation 
+// Sherman's Way 
+// Sherrybaby 
+// Shi Er Sheng Xiao Cheng Shi Ying Xiong 
+// Shikake-nin Baian 
+// Shimajiro to Kujira no Uta 
+// Shimajirō to Fufu no Daibōken: Sukue! Nanairo no Hana 
+// Shimajirō to Ōkina Ki 
+// Shine 
+// Shine a Light 
+// Shining Through 
+// Shining Victory 
+// Shinjuku Incident 
+// Shinobi: Heart Under Blade 
+// Shinsukki Blues 
+// Ship Ahoy 
+// Ship of Fools 
+// Shiri 
+// Shirley Valentine 
+// Shiroi Kyotō 
+// Shivering Shakespeare 
+// Shivers 
+// Shiza 
+// Shoah 
+// Shock 
+// Shock Corridor 
+// Shock Treatment 
+// Shock Waves 
+// Shocker 
+// Shocking Asia 
+// Shocking Asia II: The Last Taboos 
+// Shoeshine 
+// Shogun Assassin 
+// Shokubutsu Zukan: Unmei no Koi, Hiroimashita 
+// Sholay 
+// Shoot 'Em Up 
+// Shoot the Moon 
+// Shoot the Piano Player 
+// Shoot to Kill 
+// Shooter 
+// Shooting Fish 
+// Shooting at the Moon 
+// Shootout at Wadala 
+// Shopgirl 
+// Shopping 
+// Short Circuit 
+// Short Circuit 2 
+// Short Term 12 
+// Shorts: & 2013)
+// Show Girl 
+// Showgirl in Hollywood 
+// Showgirls 
+// Showtime 
+// Shrek 
+// Shrek 2 
+// Shrek Forever After 
+// Shrek the Third 
+// Shriek If You Know What I Did Last Friday the Thirteenth 
+// Shrieker 
+// Shrink 
+// Shrooms 
+// Shut Up & Sing 
+// Shut Up and Play the Hits 
+// Shutter Island 
+// Shutter: & 2008)
+// Shuttle 
+// Si accettano miracoli 
+// SiREN 
+// Siberiade 
+// Siberian Lady Macbeth 
+// Sick: The Life and Death of Bob Flanagan, Supermasochist 
+// Sicko 
+// Sid and Nancy 
+// Side Effects 
+// Side Out 
+// Side Street 
+// Sidewalks of New York 
+// Sideways 
+// Siege 
+// Siegfried 
+// Sigade revolutsioon 
+// Signore & Signori 
+// Signs 
+// Siin me oleme! 
+// Sikandar: & 2009)
+// Silence of the North 
+// Silent Hill 
+// Silent Hill: Revelation 3D 
+// Silent House 
+// Silent Light 
+// Silent Movie 
+// Silent Night, Bloody Night 
+// Silent Night, Deadly Night 
+// Silent Night, Deadly Night 3: Better Watch Out! 
+// Silent Night, Deadly Night 4: Initiation 
+// Silent Night, Deadly Night 5: The Toy Maker 
+// Silent Night, Deadly Night Part 2 
+// Silent Rage 
+// Silent Running 
+// Silent Tongue 
+// Silent Warnings  / Silk 
+// Silk Stockings 
+// Silkwood 
+// Silmido 
+// Silver & Black 
+// Silver Bullet 
+// Silver City:  1984 & 2004)
+// Silver Linings Playbook 
+// Silver Lode 
+// Silver Streak: & 1976)
+// Silverado 
+// Simon Birch 
+// Simon Says 
+// Simon Sez 
+// Simon of the Desert 
+// Simon, Simon 
+// Simpatico 
+// Simply Irresistible 
+// Sin City 
+// Sin City: A Dame to Kill For 
+// Sin Nombre 
+// Sinbad 
+// Sinbad and The Minotaur 
+// Sinbad and the Eye of the Tiger 
+// Sinbad of the Seven Seas 
+// Sinbad the Sailor: & 1947)
+// Sinbad: Beyond the Veil of Mists 
+// Sinbad: Legend of the Seven Seas 
+// Sinbad: Sora Tobu Hime to Himitsu no Shima 
+// Since Otar Left 
+// Since You Went Away 
+// Since You've Been Gone  / Sing 
+// Sing As We Go 
+// Sing Boy Sing 
+// Singapore Dreaming 
+// Singapore Sling 
+// Singin' in the Rain 
+// Single White Female 
+// Singles: & 2003)
+// Sinister 
+// Sink the Bismarck! 
+// Sinkin' in the Bathtub 
+// Sione's Wedding 
+// Sirens: & 1999)
+// Sirocco 
+// Sisily 2km 
+// Sissi 
+// Sista Kontraktet 
+// Sister Act 
+// Sister Act 2: Back in the Habit 
+// Sister Kenny 
+// Sister Wife 
+// Sisters :  2001, 2006 & 2015)
+// Sisters, or the Balance of Happiness 
+// Sitcom 
+// Sith Apprentice 
+// Sitting Bull 
+// Sitting Pretty 
+// Sitting Target 
+// Six Days Seven Nights 
+// Six Degrees of Separation 
+// Six Ways To Sunday 
+// Six-String Samurai 
+// Sixteen Candles 
+// Skammen 
+// Ski Party 
+// Ski Patrol 
+// Ski School 
+// Skidoo 
+// Skin Deep 
+// Skin Game 
+// Skin: & 2008)
+// Skinned Deep 
+// Skinner 
+// Skins: & 2017)
+// Skinwalkers: & 2007)
+// Skipped Parts 
+// Skippy 
+// Skum Rocks! 
+// Sky Captain and the World of Tomorrow 
+// Sky High:  2003 & 2005)
+// Sky Lovers 
+// Sky Riders 
+// Sky on Fire 
+// Skyfall 
+// Skyline: & 2010)
+// Skyscraper:  1996, 2011 & 2018)
+// Skytturnar 
+// Slacker 
+// Slackers 
+// Slam 
+// Slam Dunk Ernest 
+// Slap Her... She's French 
+// Slap Shot 
+// Slapstick of Another Kind 
+// Slasher & 2007)
+// Slaughter Disc 
+// Slaughter High 
+// Slaughterhouse-Five 
+// Slaves of New York 
+// Sleep 
+// Sleepaway Camp 
+// Sleepaway Camp II: Unhappy Campers // Sleepaway Camp III: Teenage Wasteland 
+// Sleeper 
+// Sleepers 
+// Sleeping Beauties 
+// Sleeping Beauty:  1959, 1973, 1987, 1995 & 2011)
+// Sleeping Bride 
+// Sleeping Dogs 
+// Sleeping Dogs Lie: & 2006)
+// Sleeping with Other People 
+// Sleeping with the Enemy 
+// Sleepless Nights 
+// Sleepless in Seattle 
+// Sleepless:  2001 & 2017)
+// Sleepover 
+// Sleepstalker 
+// Sleepwalkers 
+// Sleepy Hollow 
+// Sleuth: & 2007)
+// Sliding Doors 
+// Slightly Scarlet 
+// Slim 
+// Sling Blade 
+// Slipping Wives 
+// Slipstream:  1973, 1989, 2005 & 2007)
+// Sliver 
+// Sloane 
+// Slow Burn:  2000 & 2005)
+// Slugs: The Movie 
+// Slugterra: Return of the Elementals 
+// Slumber Party Massacre II 
+// Slumdog Millionaire 
+// Slums of Beverly Hills 
+// Small Change 
+// Small Faces 
+// Small Sacrifices  / Small Soldiers 
+// Small Time Crooks 
+// Small Town Rivals 
+// Small Tragedy 
+// Smart Alec 
+// Smart House TV)
+// Smart Money 
+// Smart People 
+// Smash Palace 
+// Smash-Up, the Story of a Woman 
+// Smashed 
+// Smile: & 2005)
+// Smiles of a Summer Night 
+// Smiley 
+// Smiley Face 
+// Smilin' Through 
+// Smilla's Sense of Snow 
+// Smithy 
+// Smoke 
+// Smoke Signals 
+// Smokey and the Bandit 
+// Smokey and the Bandit II 
+// Smokey and the Bandit Part 3 
+// Smokin' Aces 
 // Smokin' Aces 2: Assassins' Ball
-// Smooth Talk (1985)
-// Smosh: The Movie (2015)
-// Smother (2008)
-// Smothered (2016)
-// Smurfs: The Lost Village (2017)
-// Snake & Crane Arts of Shaolin (1978)
-// Snake Eyes (1998)
-// Snake in the Eagle's Shadow (1978)
-// Snakeman (2005) (TV)
-// Snakes on a Plane (2006)
-// Snakes on a Train (2006)
-// Snatch (2000)
-// Sneakers (1992)
-// Sniper (1993)
-// Sniper 2 (2002) (TV)
-// Snitch (2013)
-// Snoop Dogg's Doggystyle (2001)
-// Snoop Dogg's Hood of Horror (2006)
-// Snoopy, Come Home (1972)
-// Snow Angels (2008)
-// Snow Blossom (2014)
-// Snow Cake (2006)
-// Snow Day (2000)
-// Snow Dogs (2002)
-// Snow Falling on Cedars (1999)
-// Snow White and the Huntsman (2012)
-// Snow White and the Seven Dwarfs (1937)
-// Snow White and the Three Stooges (1961)
-// Snow White: (1916 & 1933)
-// Snowboard Academy (1996)
-// Snowden (2016)
-// Snowmen (2010)
-// Snowtown (2011)
-// So Big! (1932)
-// So Close (2002)
-// So Close to Paradise (1998)
-// So Cute (2003)
-// So Dark the Night (1946)
-// So Dear to My Heart (1949)
-// So I Married an Axe Murderer (1993)
-// So Long, Stooge (1983)
-// So Proudly We Hail! (1943)
-// So Quiet on the Canine Front (1930)
-// So Undercover (2012)
-// So Young (2013)
-// Soapdish (1991)
-// Society (1989)
-// Society Murders (2006) (TV)
-// Sodom and Gomorrah: (1922 & 1963)
-// Soigne ta droite (1987)
-// Solace (2006)
-// Solarbabies (1986)
-// Solaris: (1972 & 2002)
-// Soldados de Salamina (2003)
-// Soldier Blue (1970)
-// Soldier in the Rain (1963)
-// Soldier of Fortune (1955)
-// Soldier of Orange (1977)
-// Soldier's Girl (2003)
-// Soldier: (1998 USA & 1998 India)
-// Sole Sisters (2003)
-// Solitary Man (2010)
-// Solo: (1977, 1996, 2006, 2008, 2011, 2013 & 2017)
-// Solo: A Star Wars Story (2018)
-// Solomon Kane (2009)
-// Solomon and Sheba (1959)
-// Solomon's Perjury (2015)
-// Some Came Running (1958)
-// Some Dudes Can Fight (1898) US silent film
-// Some Girls Do (1969)
-// Some Kind of Beautiful (2014)
-// Some Kind of Monster (2004)
-// Some Kind of Wonderful (1987)
-// Some Like It Hot: (1939, 1959 & 2016)
-// Somebody Up There Likes Me (1956)
-// Someone Like You (2001)
-// Someone Special (2004)
-// Someone to Watch Over Me (1987)
-// Somersault (2004)
-// Something Big (1971)
-// Something Borrowed (2011)
-// Something Like Happiness (2005)
-// Something Like a War (1991) documentary
-// Something New (2006)
-// Something Out of Nothing (1979)
-// Something Wicked This Way Comes (1983)
-// Something Wild: (1961 & 1986)
-// Something the Lord Made (2004) (TV)
-// Something to Talk About (1995)
-// Something's Got to Give (1996)
-// Something's Gotta Give (2003)
-// Sometimes They Come Back... Again (1996)
-// Sometimes a Great Notion (1971)
-// Somewhere (2010)
-// Somewhere in Time (1980)
-// Somewhere in the Night (1946)
-// Sommersby (1993)
-// Son in Law (1993)
-// Son of Dracula: (1943 & 1974)
-// Son of Flubber (1963)
-// Son of Frankenstein (1939)
-// Son of Godzilla (1967)
-// Son of Lassie (1945)
-// Son of Paleface (1952)
-// Son of Rambow (2008)
-// Son of the Bride (2001)
-// Son of the Mask (2005)
-// Son of the Pink Panther (1993)
-// Sonatine (1984 and 1993)
-// Song For a Raggy Boy (2003)
-// Song at Midnight (1937)
-// Song of China (1936)
-// Song of Freedom (1936)
-// Song of Love: (1929 & 1947)
-// Song of the Fishermen (1934)
-// Song of the Phoenix (2013)
-// Song of the South (1946)
-// Song of the Thin Man (1947)
-// Song of the West (1930)
-// Songcatcher (2000)
-// Songs from the Second Floor (2000)
-// Sonic the Hedgehog (2019)
-// Sonnenallee (1999)
-// Sonny (2003)
-// Sonny Boy (1928)
-// Sons (1996)
-// Sons and Daughters in a Time of Storm (1935)
-// Sons of Provo (2004)
-// Sons of the Desert (1933)
-// Sophie Scholl – The Final Days (2005)
-// Sophie's Choice (1982)
-// Sorcerer (1977)
-// Sordid Lives (2000)
-// Sorority Babes in the Slimeball Bowl-O-Rama (1988)
-// Sorority Boys (2002)
-// Sorority Row (2009)
-// Sorrell and Son (1927)
-// Sorry, I Love You (2014)
-// Sorry, Wrong Number (1948)
-// Sorum (2001)
-// Sotsgorod: Cities for Utopia (1996)
-// Soul Food (1997)
-// Soul Man (1986)
-// Soul Mate (2016)
-// Soul Plane (2004)
-// Soul Surfer (2011)
-// Soul Survivors (2001)
-// Souli (2004)
-// Soulkeeper (2001) (TV)
-// Souls Protest (2000)
-// Souls for Sale (1923)
-// Soumyam (2005)
-// Sound City (2013)
-// Sound of My Voice (2012)
-// Sounder (1972)
-// Soup For One (1982)
-// Soup to Nuts (1930)
-// Sour Grapes (1988)
-// Source Code (2011)
-// South Pacific (1958)
-// South Park: Bigger, Longer & Uncut (1999)
-// South of Wawa (1991)
-// South of the Clouds: (2004 & 2014)
-// Southern Belles (2005)
-// Southern Comfort: (1982 & 2001)
-// Southern Fried Rabbit (1953)
-// Southie (1998)
-// Southland Tales (2006)
-// Southlander (2003)
-// Southside 1-1000 (1950)
-// Soylent Green (1973)
-// Space Amoeba (1970)
-// Space Battleship Yamato: (1977 & 2010)
-// Space Battleship Yamato: Resurrection (2009)
-// Space Boy! Night, Neal and Ness (1973)
-// Space Chimps (2008)
-// Space Chimps 2: Zartog Strikes Back (2010)
-// Space Cowboys (2000)
-// Space Is the Place (1974)
-// Space Jam (1996)
-// Space Marines (1997)
-// Space Men (1960)
-// Space Mutiny (1988)
-// Space Raiders (1983)
-// Space Station 3D (2002)
-// Space Truckers (1996)
-// Space-Men (1960)
-// SpaceCamp (1986)
-// Spaceballs (1987)
-// Spacehunter: Adventures in the Forbidden Zone (1983)
-// Spaceman: (1997 & 2016)
-// Spaceways (1953)
-// Spanglish (2004)
-// Spanking the Monkey (1994)
-// Spark: (1998, 2014 & 2016)
-// Spark: A Burning Man Story (2013)
-// Sparkle: (1976, 2007 & 2012)
-// Sparks (2013)
-// Spartacus (1960)
-// Spartan (2004)
-// Spawn (1997)
-// Speak (2004)
-// Speak Up! It's So Dark (1993)
-// Speak to Me of Love (2002)
-// Speakeasy: (1929 & 2002)
-// Special (2006)
-// Special 26 (2013)
-// Special Effects: Anything Can Happen (1996)
-// Species (1995)
-// Species II (1998)
-// Species III (2004)
-// Spectre (2015)
-// Speechless (1994 & 2012)
-// Speed 2: Cruise Control (1997)
-// Speed Demon: (1932 & 2003)
-// Speed Racer (2008)
-// Speed Zone (1989)
-// Speed: (1936, 1984, 1994 & 2007)
-// Speeder (2005)
-// Speedway Junky (1999)
-// Speedway: (1929 & 1968)
-// Speedy (1928)
-// Spellbound: (1945 & 2002)
-// Spencer's Mountain (1963)
-// Spetters (1980)
-// Sphere: (1998 & 2013)
-// Spice World (1997)
-// Spicy Hot in Love (2016)
-// Spicy Love Soup (1997)
-// Spider Baby (1964)
-// Spider Lilies (2007)
-// Spider-Man 2 (2004)
-// Spider-Man 3 (2007)
-// Spider-Man: (1977, 1979 TV & 2002)
-// Spider-Man: Far From Home (2019)
-// Spider-Man: Homecoming (2017)
-// Spider-Man: Into the Spider-Verse (2018)
-// Spider: (2002 & 2007)
-// SpiderBabe (2003)
-// Spiders 3D (2013)
-// Spies Like Us (1985)
-// Spies in Disguise (2019)
-// Spike (2008)
-// Spiklenci slasti (1996)
-// Spinout (1966)
-// Spione (1928)
-// Spirit of Korean Celadon (2002)
-// Spirit: Stallion of the Cimarron (2002)
-// Spirited Away (2001)
-// Spirits’ Homecoming (2016)
-// Spiritual Kung Fu (1978)
-// Splash (1984)
-// Splendor in the Grass: (1961 & 1981 TV)
-// Splendor: (1935, 1989 & 1999)
-// Splice (2010)
-// Split Second: (1953 & 1992)
-// Split: (1989, 2016 American & 2016 South Korean)
-// Splitting Heirs (1993)
-// Spooked (2004)
-// Spookies (1986)
-// Spookley the Square Pumpkin (2004)
-// Spooks Run Wild (1941)
-// Spooks: (1930 & 1953)
-// Spooks: The Greater Good (2015)
-// Spooky Jack (2021)
-// Spotswood (1992)
-// Spread (2009)
-// Spring Breakdown (2007)
-// Spring Breakers (2013)
-// Spring Fever: (1919, 1927, 1982 & 2009)
-// Spring Silkworms (1933)
-// Spring Subway (2002)
-// Spring in a Small Town (1948)
-// Spring, Summer, Fall, Winter... and Spring (2003)
-// Spring: (1969 & 2014)
-// Springtime in a Small Town (2002)
-// Sprung (1997)
-// Spun (2002)
-// Spy Game (2001)
-// Spy Girl (2004)
-// Spy Hard (1996)
-// Spy Kids (2001)
-// Spy Kids 2: The Island of Lost Dreams (2002)
-// Spy Kids 3-D: Game Over (2003)
-// Spy Kids: All the Time in the World (2011)
-// Spy: (2012 South Korean, 2012 Russian & 2015)
-// Spymate (2003)
-// Square Dance (1987)
-// Squirm (1976)
-// Squizzy Taylor (1982)
-// Ssaki (1962)
-// St. Elmo's Fire (1985)
-// St. Ives (1998) (TV)
-// St. Louis Blues: (1929, 1939 & 1958)
-// St. Trinian's (2007)
-// Stacy: Attack of the Schoolgirl Zombies (2001)
-// StagKnight (2005)
-// Stage Beauty (2004)
-// Stage Door (1937)
-// Stage Fright: (1923, 1940, 1950, 1987, 1989, 1997 & 2014)
-// Stage Fright: (1987 & 2013)
-// Stagecoach: (1939, 1966 & 1986)
-// Stairway to Heaven (1946)
-// Stake Land (2011)
-// Stakeout (1987)
-// Stalag 17 (1953)
-// Stalingrad (1993)
-// Stalker: (1979, 2010, 2012 & 2016)
-// Stan Helsing (2009)
-// Stand Up Guys (2013)
-// Stand Up and Cheer! (1934)
-// Stand and Deliver (1988)
-// Stand by Me (1986)
-// Stander (2003)
-// Standing in the Shadows of Motown (2002)
-// Stanley & Iris (1990)
-// Star 80 (1983)
-// Star Theatre (1901)
-// Star Trek (2009)
-// Star Trek Beyond (2016)
-// Star Trek Generations (1994)
-// Star Trek II: The Wrath of Khan (1982)
-// Star Trek III: The Search for Spock (1984)
-// Star Trek IV: The Voyage Home (1986)
-// Star Trek Into Darkness (2013)
-// Star Trek V: The Final Frontier (1989)
-// Star Trek VI: The Undiscovered Country (1991)
-// Star Trek: Chains of Betrayal (2008) fan fiction film
-// Star Trek: First Contact (1996)
-// Star Trek: Insurrection (1998)
-// Star Trek: Nemesis (2002)
-// Star Trek: The Motion Picture (1979)
-// Star Wars Episode IV: A New Hope (1977)
-// Star Wars Episode V: The Empire Strikes Back (1980)
-// Star Wars Episode VI: Return of the Jedi (1983)
-// Star Wars Holiday Special (1978)
-// Star Wars Kid (2002)
-// Star Wars: Episode I – The Phantom Menace (1999)
-// Star Wars: Episode II – Attack of the Clones (2002)
-// Star Wars: Episode III – Revenge of the Sith (2005)
-// Star Wars: Revelations (2005)
-// Star Wars: The Clone Wars (2008)
-// Star Wars: The Force Awakens (2015)
-// Star Wars: The Last Jedi (2017)
-// Star Wars: The Rise of Skywalker (2019)
-// Star Wreck: In the Pirkinning (2005)
-// Star! (1968)
-// Star: (1982 & 2001)
-// Starchaser: The Legend of Orin (1985)
-// Starcrash (1979)
-// Stardom (2000)
-// Stardust Memories (1980)
-// Stardust: (1974 & 2007)
-// Stargate (1994)
-// Stargirl (TBA)
-// Starkweather (2004)
-// Starman (1984)
-// Starship Troopers (1997)
-// Starship Troopers 2: Hero of the Federation (2004)
-// Starship Troopers 3: Marauder (2008)
-// Starship Troopers: Invasion (2012)
-// Starship Troopers: Traitor of Mars (2017)
-// Starship: Apocalypse (2014)
-// Starship: Rising (2014)
-// Starsky & Hutch (2004)
-// Starstruck: (1982, 1998 & 2010 TV)
-// Start the Revolution Without Me (1970)
-// Starter for 10 (2006)
-// Starting Over: (1979 & 2007)
-// Startup.com (2001)
-// State Fair: (1933, 1945 & 1962)
-// State Property (2002)
-// State and Main (2000)
-// State of Grace (1990)
-// State of Play (2009)
-// State of the Union (1948)
-// Stavisky (1974)
-// Stay Alive (2006)
-// Stay Away, Joe (1968)
-// Stay Hungry (1976)
-// Stay Tuned (1992)
-// Stay the Night (1992) (TV)
-// Stay: (2005 & 2013)
-// Staya Erusa (2006-2007) seies of Dutch documentary films
-// Staying Alive: (1983 & 2012)
-// Steal This Movie! (2000)
-// Stealing Beauty (1996)
-// Stealing Harvard (2002)
-// Stealing Home (1988)
-// Stealth (2005)
-// Steamboat Bill, Jr. (1928)
-// Steamboat Willie (1928)
-// Steamboy (2004)
-// Steel (1997)
-// Steel Dawn (1987)
-// Steel Magnolias (1989)
-// Stella (1955)
-// Stella Dallas (1937)
-// Step Brothers (2008)
-// Step Into Liquid (2003)
-// Step Up (2006)
-// Step Up 2: The Streets (2008)
-// Step Up 3D (2010)
-// Step Up Revolution (2012)
-// Stephanie Daley (2006)
-// Stepmom (1998)
-// Stepsister from Planet Weird (2000) (TV)
-// Stereo (1969)
-// Stevie (2002)
-// Stewardess School (1986)
-// Stewie Griffin: The Untold Story (2005)
-// Stick It (2006)
-// Stigmata (1999)
-// Still Breathing (1997)
-// Still Crazy (1998)
-// Still Life: (1974 & 2006)
-// Still Smokin (1983)
-// Still Walking (2008)
-// Stingray Sam (2009)
-// Stir Crazy (1980)
-// Stir of Echoes (1999)
-// Stitch! The Movie (2003)
-// Stoker (2013)
-// Stolen Desire (1958)
-// Stolen Kisses (1968)
-// Stolen Moments (1920)
-// Stolen Summer (2002)
-// Stolen: (2009 documentary, 2009 drama & 2012)
-// Stomp the Yard (2007)
-// Stone (2010)
-// Stonewall Uprising (2010)
-// Stonewall: (1995 & 2015)
-// Stop Making Sense (1984)
-// Stop! Or My Mom Will Shoot (1992)
-// Stop-Loss (2008)
-// Storks (2016)
-// Storm (2005)
-// Storm Boy (1976)
-// Storm Rider (1972)
-// Storm Warning (2007)
-// Storm of the Century (1999) (TV)
-// Stormbreaker (2006)
-// Stormy Monday (1988)
-// Stormy Weather (1943)
-// Story of O (1975)
-// Story of Women (1988)
-// Story of a Prostitute (1965)
-// Storytelling (2001)
-// Straight Out of Brooklyn (1991)
-// Straight Outta Compton (2015)
-// Straight Shooter (1999)
-// Straight Talk (1992)
-// Straight Time (1978)
-// Straight to Hell (1987)
-// Straight, Place and Show (1938)
-// Straight-Jacket (2004)
-// Straightheads (2007)
-// Strait-Jacket (1964)
-// Strange Brew (1983)
-// Strange Days (1995)
-// Strange Invaders (1983)
-// Strange Parallel (1998)
-// Strange Wilderness (2008)
-// Strangeland (1998)
-// Stranger Inside (2001)
-// Stranger Than Fiction (2006)
-// Stranger Than Paradise (1984)
-// Stranger on the Third Floor (1940)
-// Strangers on a Train (1951)
-// Strangers with Candy (2006)
-// Strangers: (1992 & 2007)
-// Strangers: The Story of a Mother and Daughter (1979)
-// Strategic Air Command (1955)
-// Stratosphere Girl (2004)
-// Straw Dogs: (1971 & 2011)
-// Strawberry Fields (1997)
-// Strawberry Shortcake: The Sweet Dreams Movie (2006)
-// Stray Dog (1949)
-// StrayDog: Kerberos Panzer Cops (1991)
-// Streamers (1983)
-// Street Angel: (1928 & 1937)
-// Street Fighter (1994)
-// Street Fighter II: The Animated Movie (1994)
-// Street Fighter: The Legend of Chun-Li (2009)
-// Street Kings (2008)
-// Street Scenes (1970)
-// Street Trash (1987)
-// Street of Chance (1942)
-// Street of Shame (1959)
-// Streets of Fire (1984)
-// Stricken: (2009 & 2010)
-// Strictly Ballroom (1992)
-// Strictly Business (1991)
-// Strike It Rich (1990)
-// Strike! (1925)
-// Striking Distance (1993)
-// Strip Search (2004) (TV)
-// Stripes (1981)
-// Striptease (1996)
-// Stroker Ace (1983)
-// Stromboli (1950)
-// Stroszek (1977)
-// Struck by Lightning (2013)
-// Struggle (2013)
-// Stuart Little (1999)
-// Stuart Little 2 (2002)
-// Stuart Little 3: Call of the Wild (2005)
-// Stuart Saves His Family (1995)
-// Stubble Trouble (2001)
-// Stuck in Love (2013)
-// Stuck in the Suburbs (2004) (TV)
-// Stuck on You (2003)
-// Stuck: (2001 & 2007)
-// Student Bodies (1981)
-// SubUrbia (1996)
-// Subconscious Cruelty (2000)
-// Sublime (2007)
-// Submarine (2010)
-// Submerged: (2000 & 2005)
-// Subspecies (1991)
-// Subspecies 4: Bloodstorm (1998)
-// Substitute (2007)
-// Suburban Commando (1991)
-// Suburban Girl (2007)
-// Suburban Mayhem (2006)
-// Suburbia (1984)
-// Suburbicon (2017)
-// Subway (1985)
-// Such a Long Journey (1998)
-// Sucker Punch: (2008 & 2011)
-// Sudden Death (1995)
-// Sudden Fear (1952)
-// Sudden Impact (1983)
-// Suddenly (1954)
-// Suddenly Seventeen (2016)
-// Suddenly at Midnight (1981)
-// Suddenly, Last Summer (1959)
-// Sue, Mai & Sawa: Righting the Girl Ship (2012)
-// Suffering Man's Charity (2006)
-// Sugar & Spice (2001)
-// Sugar Daddies (1927)
-// Sugar Hill: (1974 & 1994)
-// Sugar Town (1999)
-// Sugar: (2004 & 2008)
-// Sugata Sanshirō (1943)
-// Suhruthu (1952)
-// Suicide Club (2002)
-// Suicide Kings (1997)
-// Suicide Manual (2003)
-// Suicide Squad (2016)
-// Suikoden Demon Century (1993)
-// Sujata (1959)
-// Suki ni Naru Sono Shunkan o: Kokuhaku Jikkō Iinkai (2016)
-// Sukimasuki (2015)
-// Sukiyaki Western Django (2007)
-// Sullivan's Travels (1941)
-// Sully: Miracle on the Hudson (2016)
-// Summer (1986)
-// Summer Catch (2001)
-// Summer Hours (2008)
-// Summer Interlude (1951)
-// Summer Love Love (2011)
-// Summer Lovers (1982)
-// Summer Magic (1963)
-// Summer Palace (2006)
-// Summer Rental (1985)
-// Summer School (1987)
-// Summer Snow (1995)
-// Summer Stock (1950)
-// Summer Storm: (1944 & 2004)
-// Summer of '42 (1971)
-// Summer of Sam (1999)
-// Summer with Monika (1953)
-// Summer's Desire (2016)
-// Summertime: (1955 & 2001)
-// Sumo Do, Sumo Don't (1992)
-// Sun Valley (1996)
-// Sun Valley Serenade (1941)
-// Sunday Bloody Sunday (1971)
-// Sunday Too Far Away (1975)
-// Sunday in New York (1963)
-// Sunday: (1997 & 2008)
-// Sundown: (1924 & 1941)
-// Sundown: The Vampire in Retreat (1991)
-// Sunflower: (2005 & 2006)
-// Sung horn (2003)
-// Sunless (1983)
-// Sunny: (1930, 1941 & 2008)
-// Sunnyside (1919)
-// Sunrise at Campobello (1960)
-// Sunrise: A Song of Two Humans (1927)
-// Sunset (1988)
-// Sunset Boulevard (1950)
-// Sunshine Cleaning (2009)
-// Sunshine State (2002)
-// Sunshine: (1999 & 2007)
-// Super (2010)
-// Super 8 (2011)
-// Super Bodyguard (2016)
-// Super Express (2016)
-// Super Fly (1972)
-// Super Hero Central (2004)
-// Super Hero Taisen GP: Kamen Rider 3 (2015)
-// Super Mario Bros. (1993)
-// Super Size Me (2004)
-// Super Speedway (1997)
-// Super Troopers (2002)
-// Super-Rabbit (1943)
-// Superbabies: Baby Geniuses 2 (2004)
-// Superbad (2007)
-// Supercop (1996)
-// Supercross (2005)
-// Supergirl (1984)
-// Superhero Movie (2008)
-// Superjews (2013)
-// Superman (1941)
-// Superman (1978)
-// Superman II (1980)
-// Superman II: The Richard Donner Cut (2006)
-// Superman III (1983)
-// Superman IV: The Quest for Peace (1987)
-// Superman Returns (2006)
-// Superman Unbound (2013)
-// Superman and the Mole Men (1951)
-// Superman vs. The Elite (2012)
-// Superman/Batman: Apocalypse (2010)
-// Superman/Batman: Public Enemies (2009)
-// Superman/Shazam!: The Return of Black Adam (2010)
-// Superman: Brainiac Attacks (2006)
-// Superman: Doomsday (2007)
-// Supernova (2000)
-// Superstar (1999)
-// Superstar in a Housedress (2004)
-// Supervixens (1976)
-// Support Your Local Gunfighter (1971)
-// Support Your Local Sheriff! (1969)
-// Sur mes lèvres (2001)
-// Surf Nazis Must Die (1987)
-// Surf Ninjas (1993)
-// Surf's Up (2007)
-// Surplus: Terrorized into Being Consumers (2003)
-// Surprise (2015)
-// Surrender (1987)
-// Surrender of General Toral (1898)
-// Surrogates (2009)
-// Surveillance (2008)
-// Survival of the Dead (2010)
-// Surviving Christmas (2004)
-// Surviving the Game (1994)
-// Susannah of the Mounties (1939)
-// Susie Q (1996) (TV)
-// Suspect Zero (2004)
-// Suspense (1946)
-// Suspicion (1941)
-// Suspiria (1977)
-// Suur Tõll (1980)
-// Suzanne's Career (1963)
-// Suzhou River (2000)
-// Suzie Gold (2004)
-// Svidd neger (2003)
-// Swades (2004)
-// Swamp Girl (1971)
-// Swamp Shark (2011)
-// Swamp Thing (1982)
-// Swamp Water (1941)
-// Swamp Woman (1941)
-// Swamp Women (1955)
-// Swan Lake (1981)
-// Swashbuckler (1976)
-// Sweeney Todd: The Demon Barber of Fleet Street: (1936 & 2007)
-// Sweet 20 (2015)
-// Sweet Angel (1929)
-// Sweet Bird of Youth (1962)
-// Sweet Bunch (1983)
-// Sweet Charity (1969)
-// Sweet Dreams: (1985 & 1996)
-// Sweet Home Alabama (2002)
-// Sweet Jam (2004)
-// Sweet Land (2008)
-// Sweet Movie (1974)
-// Sweet November: (1968 & 2001)
-// Sweet Sixteen: (1983, 2002 & 2016)
-// Sweet Smell of Success (1957)
-// Sweet Sweetback's Baadasssss Song (1971)
-// Sweet Toronto (1988)
-// Sweet and Lowdown (1999)
-// Sweet of the Song (2016)
-// Sweetie (1989)
-// Swept Away (2002)
-// Swept Away by an Unusual Destiny in the Blue Sea of August (1974)
-// Swept from the Sea (1998)
-// Swimming (2000)
-// Swimming Pool (2003)
-// Swimming Upstream (2003)
-// Swimming to Cambodia (1987)
-// Swimming with Sharks (1994)
-// Swing Girls (2004)
-// Swing Kids (1993)
-// Swing Parade of 1946 (1946)
-// Swing Shift (1984)
-// Swing Time (1936)
-// Swing Vote: (1999 & 2008)
-// Swingers: (1996 & 2002)
-// Swiss Army Man (2016)
-// Swiss Family Robinson: (1940 & 1960)
-// Switch (1991)
-// Switchback (1997)
-// Switching Channels (1988)
-// Swoon (1992)
-// Sword in the Moon (2003)
-// Sword of the Beast (1965)
-// Sword of the Valiant: The Legend of Sir Gawain and the Green Knight (1984)
-// Swordfish (2001)
-// Swordsmen in Double Flag Town (1991)
-// Sydney White (2007)
-// Sylvia (2003)
-// Sylvia Scarlett (1935)
-// Symbiopsychotaxiplasm (1968)
-// Sympathy for Lady Vengeance (2005)
-// Sympathy for Mr. Vengeance (2002)
-// Sympathy for the Devil (1968)
-// Syndromes and a Century (2006)
-// Synecdoche, New York (2009)
-// Syngenor (1990)
-// Syriana (2005)
-// Sátántangó (1994)
-// Séance on a Wet Afternoon (1964)
-// Sólo Con Tu Pareja (1991)
-// Sügisball (2007)
-// T-Men (1947)
-// T2 Trainspotting (2017)
-// THX 1138 (1971)
-// TMNT (2007)
-// TT3D: Closer to the Edge (2011)
-// Tabi no omosa (1972)
-// Table 19 (2017)
-// Table No. 21 (2013)
-// Tabu (2012)
-// Tabu, a Story of the South Seas (1931)
-// Tackle Happy (2000)
-// Tacones lejanos (1991)
-// Tadpole (2002)
-// Taegukgi: The Brotherhood of War (2004)
-// Tag (2015)
-// Tag der Freiheit: Unsere Wehrmacht (1935)
-// Taggart (1964)
-// Tai Chi Master (1993)
-// Tai-Pan (1986)
-// Tail Lights Fade (1999)
-// Tail Sting (2001)
-// Take Me Home Tonight (2011)
-// Take Me Home: (1928 & 2011)
-// Take Me Out to the Ball Game (1949)
-// Take Shelter (2011)
-// Take This Job and Shove It (1981)
-// Take This Waltz (2011)
-// Take the Lead (2006)
-// Take the Money and Run (1969)
-// Taken (2008)
-// Taken 2 (2012)
-// Taken 3 (2014)
-// Takers (2010)
-// Taking Care of Business (1990)
-// Taking Chances (2009)
-// Taking Father Home (2005)
-// Taking Five (2007)
-// Taking Lives (2004)
-// Taking Off (1971)
-// Taking Sides (2002)
-// Taking Tiger Mountain by Strategy (1970)
-// Taking Woodstock (2009)
-// Tale of Tales (1979)
-// Tale of the Mummy (1998)
-// Tale of the Rally (2014)
-// Tales From Earthsea (2006)
-// Tales From the Crypt (1972)
-// Tales From the Darkside: The Movie (1990)
-// Tales From the Hood (1995)
-// Tales from the Dark 1 (2013)
-// Tales from the Dark 2 (2013)
-// Tales from the Gimli Hospital (1988)
-// Tales of Cube World (1993)
-// Tales of Manhattan (1942)
-// Tales of Mystery (2015)
-// Tales of Ordinary Madness (1981)
-// Tales of Terror (1963)
-// Talk (1994)
-// Talk Radio (1988)
-// Talk to Her (2002)
-// Talk to Me (2007)
-// Talkin' Dirty After Dark (1991)
-// Tall Tale (1995)
-// Tall in the Saddle (1944)
-// Talladega Nights: The Ballad of Ricky Bobby (2006)
-// Tamala 2010: A Punk Cat in Space (2002)
-// Tamara (2005)
-// Tamara Drewe (2010)
-// Tammy (2014)
-// Tammy and the Bachelor (1957)
-// Tampopo (1985)
-// Tanga - Deu no New York Times? (1987)
-// Tangled: (2001 & 2010)
-// Tango & Cash (1989)
-// Tango, no me dejes nunca (1998)
-// Tanguy (2001)
-// Tank Girl (1995)
-// Tanner on Tanner (2004)
-// Tap (1989)
-// Tape (2001)
-// Tapeheads (1988)
-// Taps (1981)
-// Tara (2001)
-// Tarantula (1955)
-// Taras Bulba (1962)
-// Target (2014)
-// Targets (1968)
-// Taris, roi de l'eau (1931)
-// Tarnation (2003)
-// Tart (2001)
-// Tartarin de Tarascon (1908)
-// Tarzan (2013)
-// Tarzoon: Shame of the Jungle (1979)
-// Tashan (2008)
-// Task Force (1949)
-// Taste of Cherry (1997)
-// Taste of China (2015)
-// Taste the Blood of Dracula (1970)
-// Tatie Danielle (1990)
-// Taxi (1998)
-// Taxi (2004)
-// Taxi 2 (2000)
-// Taxi 3 (2003)
-// Taxi Driver (1976)
-// Taylor's Wall (2001)
-// Te doy mis ojos (2003)
-// Tea and Sympathy (1956)
-// Tea with Mussolini (1999)
-// Teacher's Pet: (1930, 1958 & 2004)
-// Teachers (1984)
-// Teaching Mrs. Tingle (1999)
-// Team America: World Police (2004)
-// Tears of the Black Tiger (2000)
-// Tears of the Sun (2003)
-// Ted (2012)
-// Ted Bundy (2002)
-// Teen Agent (1991)
-// Teen Kanya (1961)
-// Teen Titans Go! to the Movies (2018)
-// Teen Titans: The Judas Contract (2017)
-// Teen Titans: Trouble in Tokyo (2006 TV)
-// Teen Witch (1989)
-// Teen Wolf (1985)
-// Teen Wolf Too (1987)
-// Teenage Cave Man (1958)
-// Teenage Caveman (2002)
-// Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)
-// Teenage Mutant Ninja Turtles III (1993)
-// Teenage Mutant Ninja Turtles: (1990 & 2014)
-// Teenage Mutant Ninja Turtles: Out of the Shadows (2016)
-// Teenage Zombies (1959)
-// Teenagers from Outer Space (1959)
-// Tees Maar Khan (2010)
-// Teeth (2008)
-// Teheran 43 (1981)
-// Tekken 2: Kazuya's Revenge (2009)
-// Tekken: (1990 & 2009)
-// Tekken: Blood Vengeance (2011)
-// Telefon (1977)
-// Tell Me Something (1999)
-// Tell No One (2006)
-// Tell Them Willie Boy Is Here (1969)
-// Telokhranitel (1979)
-// Temmink: The Ultimate Fight (1998)
-// Tempest: (1928, 1958, 1982 & 2015)
-// Temporada de patos (2004)
-// Temporary Family (2014)
-// Temptation: Confessions of a Marriage Counselor (2013)
-// Tempting Heart (1999)
-// Temptress Moon (1996)
-// Ten 'til Noon (2007)
-// Ten Canoes (2006)
-// Ten Little Indians (1965)
-// Ten Little Indians (1989)
-// Ten Minutes Older (2002)
-// Ten Zan: The Ultimate Mission (1988)
-// Tenacious D in The Pick of Destiny (2006)
-// Tender (2012)
-// Tender Fictions (1996)
-// Tender Is the Night (1962)
-// Tender Mercies (1983)
-// Tenderness: (2009, 2016 & 2017)
-// Tenebrae (1982)
-// Tengoku no honya (2004)
-// Tennessee's Partner (1955)
-// Tenshi ni I'm Fine (2016)
-// Tension (1950)
-// Tentacles (1977)
-// Tenure (2009)
-// Tequila Sunrise (1988)
-// Tere Pyar Mein (2000)
-// Term Life (2016)
-// Terminal Station (1953)
-// Terminal Velocity (1994)
-// Terminator 2: Judgment Day (1991)
-// Terminator 3: Rise of the Machines (2003)
-// Terminator Genisys (2015)
-// Terminator Salvation (2009)
-// Terms of Endearment (1983)
-// Terrace House: Closing Door (2015)
-// Terror Firmer (1999)
-// Terror Tract (2000)
-// Terror Train (1980)
-// Terror by Night (1946)
-// Terror of Mechagodzilla (1975)
-// TerrorVision (1986)
-// Terrorama! (2001)
-// Terrorists, Killers and Middle-East Wackos (2005)
-// Tesis (1996)
-// Tess (1979)
-// Test Pilot (1938)
-// Testament (1983)
-// Testament of Orpheus (1959)
-// Tetsujin 28: The Movie (2005)
-// Tetsujin Nijūhachi-gō: Hakuchū no Zangetsu (2007)
-// Tetsuo II: Body Hammer (1992)
-// Tetsuo: The Bullet Man (2009)
-// Tetsuo: The Iron Man (1988)
-// Tevar (2015)
-// Tevya (1939)
-// Texas Chainsaw 3D (2013)
-// Texas Chainsaw Massacre: The Next Generation (1994)
-// Texas Killing Fields (2011)
-// Texas Rangers (2001)
-// Texasville (1990)
-// Thank God It's Friday (1978)
-// Thank You for Smoking (2006)
-// Thanks for Sharing (2012)
-// That Darn Cat: (1965 & 1997)
-// That Hamilton Woman (1941)
-// That Man from Rio (1964)
-// That Night in Varennes (1982)
-// That Obscure Object of Desire (1977)
-// That Old Feeling (1997)
-// That Thing You Do! (1996)
-// That Touch of Mink (1962)
-// That Uncertain Feeling (1941)
-// That's Dancing! (1985)
-// That's Entertainment! (1974)
-// That's Entertainment! III (1994)
-// That's Entertainment, Part II (1976)
-// That's My Boy: (1932, 1951 & 2012)
-// That's My Wife: (1929 & 1933)
-// The $1,000,000 Reward (1920)
-// The 'Burbs (1989)
-// The 1 Second Film (2007)
-// The 10th Kingdom (2000) (TV)
-// The 10th Victim (1965)
-// The 13th Warrior (1999)
-// The 300 Spartans (1962)
-// The 39 Steps: (1935, 1959 & 1978)
-// The 40-Year-Old Virgin (2005)
-// The 400 Blows (1959)
-// The 47 ronin: (1941, 1994)
-// The 5,000 Fingers of Dr. T (1953)
-// The 51st State (2001)
-// The 601st Phone Call (2006)
-// The 6th Day (2000)
-// The 6th Man (1997)
-// The 7th Voyage of Sinbad (1958)
-// The 9th Life of Louis Drax (2016)
-// The A-Team (2010)
-// The A.R.K. Report (2013)
-// The Abandoned: (1955 & 2006)
-// The Abandonment (1916)
-// The Abdication (1974)
-// The Abominable Dr. Phibes (1971)
-// The Abominable Snowman (1957)
-// The Absent-Minded Professor (1961)
-// The Abyss (1989)
-// The Accidental Husband (2008)
-// The Accidental Spy (2001)
-// The Accidental Tourist (1988)
-// The Accompanist (1992)
-// The Accountant: (2001 & 2016)
-// The Accused Uncle Shangang (1994)
-// The Accused: (1949, 1960 & 1988)
-// The Acid House (1998)
-// The Act in Question (1994)
-// The Addiction (1995)
-// The Adjuster (1991)
-// The Adjustment Bureau (2011)
-// The Adventure of Faustus Bidgood (1986)
-// The Adventure of Iron Pussy (2003)
-// The Adventure of Sherlock Holmes' Smarter Brother (1975)
-// The Adventure of Sudsakorn (1979)
-// The Adventurer: (1917 & 1928)
-// The Adventurer: The Curse of the Midas Box (2014)
-// The Adventurers: (1951 & 1970)
-// The Adventures of Baron Munchausen (1988)
-// The Adventures of Barry McKenzie (1972)
-// The Adventures of Brer Rabbit (2006)
-// The Adventures of Buckaroo Banzai Across the 8th Dimension (1984)
-// The Adventures of Elmo in Grouchland (1999)
-// The Adventures of Ford Fairlane (1990)
-// The Adventures of Huck Finn (1993)
-// The Adventures of Ichabod and Mr. Toad (1949)
-// The Adventures of Kathlyn (1913)
-// The Adventures of Mary-Kate & Ashley: The Case of Thorn Mansion (1994)
-// The Adventures of Mary-Kate & Ashley: The Case of the Christmas Caper (1995)
-// The Adventures of Mary-Kate & Ashley: The Case of the Fun House Mystery (1994)
-// The Adventures of Mary-Kate & Ashley: The Case of the Hotel Who-Done-It (1994)
-// The Adventures of Mary-Kate & Ashley: The Case of the Logical i Ranch (1994)
-// The Adventures of Mary-Kate & Ashley: The Case of the Mystery Cruise (1995)
-// The Adventures of Mary-Kate & Ashley: The Case of the SeaWorld Adventure (1995)
-// The Adventures of Mary-Kate & Ashley: The Case of the Shark Encounter (1995)
-// The Adventures of Mary-Kate & Ashley: The Case of the U.S. Space Camp Mission (1997)
-// The Adventures of Mary-Kate & Ashley: The Case of the United States Navy Adventure (1997)
-// The Adventures of Mary-Kate & Ashley: The Case of the Volcano Mystery (1997)
-// The Adventures of Milo and Otis (1989)
-// The Adventures of Pinocchio (1996)
-// The Adventures of Pluto Nash (2002)
-// The Adventures of Prince Achmed (1926)
-// The Adventures of Priscilla, Queen of the Desert (1994)
-// The Adventures of Rex and Rinty (1935)
-// The Adventures of Robin Hood (1938)
-// The Adventures of Robinson Crusoe (1954)
-// The Adventures of Rocky and Bullwinkle (2000)
-// The Adventures of Sharkboy and Lavagirl in 3-D (2005)
-// The Adventures of Sherlock Holmes (1939)
-// The Adventures of Sinbad 2 (2014)
-// The Adventures of Tintin: The Secret of the Unicorn (2012)
-// The Adventures of a Two-Minute Werewolf (1985)
-// The Aeronauts (2019)
-// The Affair of the Necklace (2001)
-// The Affairs of Cellini (1934)
-// The Afflicted (2011)
-// The African Queen (1951)
-// The Aftermath: (1982 & 2019)
-// The Age of Consent (1932)
-// The Age of Innocence: (1924, 1934 & 1993)
-// The Age of Insects (1990)
-// The Ages of Lulu (1990)
-// The Aggressives (2005)
-// The Agony and the Ecstasy (1965)
-// The Air I Breathe (2007)
-// The Air Up There (1994)
-// The Airzone Solution (1993)
-// The Alamo: (1936, 1960 & 2004)
-// The Alamo: Thirteen Days to Glory (1987)
-// The Alibi (2006)
-// The Alien Encounters (1979)
-// The Allnighter (1987)
-// The Alphabet Killer (2009)
-// The Alps (2007)
-// The Amazing Colossal Man (1957)
-// The Amazing Dr. Clitterhouse (1938)
-// The Amazing Grace (2006)
-// The Amazing Panda Adventure (1995)
-// The Amazing Spider-Man (2012)
-// The Amazing Spider-Man 2 (2014)
-// The Amazing Transparent Man (1960)
-// The Amazing Truth About Queen Raquela (2008)
-// The Ambulance (1990)
-// The Ambushers (1967)
-// The American Astronaut (2001)
-// The American Beauty (1916)
-// The American Friend (1977)
-// The American Gangster (1992)
-// The American President (1995)
-// The American: (1927 & 2010)
-// The Americanization of Emily (1964)
-// The Amityville Curse (1990)
-// The Amityville Horror: (1979 & 2005)
-// The Amphibian Man (1962)
-// The Amy Fisher Story (1993)
-// The Anarchist Cookbook (2002)
-// The Anderson Tapes (1971)
-// The Andromeda Nebula (1967)
-// The Andromeda Strain (1971)
-// The Angel's Egg (2006)
-// The Angel: (1982 & 2007 short)
-// The Angels Wash Their Faces (1939)
-// The Angry Birds Movie (2016)
-// The Angry Red Planet (1959)
-// The Animal (2001)
-// The Anniversary Party (2001)
-// The Anniversary: (1968, 2004 short & 2009)
-// The Answer Man (2009)
-// The Ant Bully (2006)
-// The Antichrist (1974)
-// The Apartment (1960)
-// The Apartment (1996)
-// The Ape Man (1943)
-// The Apostle (1997)
-// The Appaloosa (1966)
-// The Apparition (2012)
-// The Apple Dumpling Gang (1975)
-// The Apple Dumpling Gang Rides Again (1979)
-// The Apple: (1980 & 1998)
-// The Apprenticeship of Duddy Kravitz (1974)
-// The Aqua Teen Hunger Force Colon Movie Film for Theaters (2007)
-// The Archangel (1969)
-// The Archies in Jugman (2007 TV)
-// The Arena: (1974 & 2001 TV)
-// The Aristocats (1970)
-// The Aristocrats (2005)
-// The Arrangement (1969)
-// The Arrival (1996)
-// The Arrival of Averill (1992)
-// The Arsenal Stadium Mystery (1940)
-// The Arsonist (1995)
-// The Art of Getting By (2011)
-// The Art of Seduction (2005)
-// The Art of War (2000)
-// The Artist (2011)
-// The Aryan (1916)
-// The Ascent (1976)
-// The Asphalt Jungle (1950)
-// The Assassin of the Tsar (1991)
-// The Assassination Bureau (1969)
-// The Assassination of Jesse James by the Coward Robert Ford (2007)
-// The Assassination of Richard Nixon (2004)
-// The Assassination of Trotsky (1972)
-// The Assignment (1997)
-// The Astounding She-Monster (1957)
-// The Astro-Zombies (1968)
-// The Astronaut Farmer (2006)
-// The Astronaut's Wife (1999)
-// The Athlete (2009)
-// The Atlantis Interceptors (1983)
-// The Atomic Cafe (1982)
-// The Atomic Kid (1954)
-// The Atomic Submarine (1959)
-// The Attacks of 26/11 (2013)
-// The Audition: (2000 short & 2015 short)
-// The Avengers: (1998)
-// The Aviator: (1929, 1985 & 2004)
-// The Awakening (2011)
-// The Awful Truth (1937)
-// The Aztec Mummy Against the Humanoid Robot (1959)
-// The Baader Meinhof Complex (2008)
-// The Babe (1992)
-// The Baby-Sitters Club (1995)
-// The Babysitter: (1980, 1995 & 2017)
-// The Bachelor and the Bobby-Soxer (1947)
-// The Bachelor: (1955, 1990 & 1999)
-// The Back-up Plan (2010)
-// The Bad Lands (1925)
-// The Bad News Bears Go to Japan (1978)
-// The Bad Seed: (1956 & 1985)
-// The Bad Sleep Well (1960)
-// The Bad and the Beautiful (1952)
-// The Badge (2002)
-// The Badlanders (1958)
-// The Bait: (1973 TV & 1995)
-// The Baker's Wife (1938)
-// The Bakery Girl of Monceau (1963)
-// The Ball Game (1898)
-// The Ballad of Cable Hogue (1970)
-// The Ballad of Jack and Rose (2005)
-// The Ballad of Narayama (1983)
-// The Balloonatic (1923)
-// The Band Wagon (1953)
-// The Band's Visit (2007)
-// The Banger Sisters (2002)
-// The Bank Dick (1940)
-// The Bank Job (2008)
-// The Banquet: (1991 & 2006)
-// The Barbarian Invasions (2003)
-// The Barbaric Beast of Boggy Creek, Part II (1985)
-// The Barbie Diaries (2006)
-// The Barefoot Contessa (1954)
-// The Barkleys of Broadway (1949)
-// The Barnyard (1923)
-// The Barretts of Wimpole Street: (1934 & 1957)
-// The Basketball Diaries (1995)
-// The Bat Whispers (1930)
-// The Bat: (1926 & 1959)
-// The Batman vs. Dracula (2005)
-// The Battle of Algiers (1966)
-// The Battle of San Pietro (1945)
-// The Battle of the River Plate (1956)
-// The Battle of the Somme (1916)
-// The Battleship Potemkin (1925)
-// The Baxter (2005)
-// The Bay Boy (1984)
-// The Beach (2000)
-// The Beales of Grey Gardens (2006)
-// The Bear (1989)
-// The Beast Must Die (1974)
-// The Beast Within (1982)
-// The Beast and the Beauty (2005)
-// The Beast from 20,000 Fathoms (1953)
-// The Beast of Yucca Flats (1961)
-// The Beast with Five Fingers (1946)
-// The Beast: (1974, 1988 & 1996 TV)
-// The Beastmaster (1982)
-// The Beat That My Heart Skipped (2005)
-// The Beautician and the Beast (1997)
-// The Beautiful Country (2004)
-// The Beaver (2011)
-// The Bedevilled (1974)
-// The Bedford Incident (1966)
-// The Bedroom Window (1987)
-// The Beguiled: (1971 & 2017)
-// The Believer (2001)
-// The Believers (1987)
-// The Belko Experiment (2016)
-// The Bellboy (1960)
-// The Bellboy and the Playgirls (1962)
-// The Belles of St Trinian's (1954)
-// The Bells of St. Mary's (1945)
-// The Bells: (1926 & 1931)
-// The Belly of an Architect (1987)
-// The Beloved: (1970, 2011 & 2015)
-// The Benchwarmers (2006)
-// The Best Exotic Marigold Hotel (2012)
-// The Best Intentions (1992)
-// The Best Little Whorehouse in Texas (1982)
-// The Best Man: (1964 & 1999)
-// The Best Plan Is No Plan (2013)
-// The Best Years of Our Lives (1946)
-// The Best of Times (1986)
-// The Best of Youth (La Meglio gioventù) (2003)
-// The Bet: (1997 & 2006)
-// The Betrayed (1993) * (2008)
-// The Betsy (1978)
-// The Beverly Hillbillies (1993)
-// The Beyond (1981)
-// The Bible: In The Beginning (1966)
-// The Big Bee (2015)
-// The Big Blue (1988)
-// The Big Bounce (2004)
-// The Big Brawl (1980)
-// The Big Broadcast (1932)
-// The Big Bus' (1976)
-// The Big Chill (1983)
-// The Big Clock (1948)
-// The Big Combo (1955)
-// The Big Country (1958)
-// The Big Easy (1987)
+// Smooth Talk 
+// Smosh: The Movie 
+// Smother 
+// Smothered 
+// Smurfs: The Lost Village 
+// Snake & Crane Arts of Shaolin 
+// Snake Eyes 
+// Snake in the Eagle's Shadow 
+// Snakeman  / Snakes on a Plane 
+// Snakes on a Train 
+// Snatch 
+// Sneakers 
+// Sniper 
+// Sniper 2  / Snitch 
+// Snoop Dogg's Doggystyle 
+// Snoop Dogg's Hood of Horror 
+// Snoopy, Come Home 
+// Snow Angels 
+// Snow Blossom 
+// Snow Cake 
+// Snow Day 
+// Snow Dogs 
+// Snow Falling on Cedars 
+// Snow White and the Huntsman 
+// Snow White and the Seven Dwarfs 
+// Snow White and the Three Stooges 
+// Snow White: & 1933)
+// Snowboard Academy 
+// Snowden 
+// Snowmen 
+// Snowtown 
+// So Big! 
+// So Close 
+// So Close to Paradise 
+// So Cute 
+// So Dark the Night 
+// So Dear to My Heart 
+// So I Married an Axe Murderer 
+// So Long, Stooge 
+// So Proudly We Hail! 
+// So Quiet on the Canine Front 
+// So Undercover 
+// So Young 
+// Soapdish 
+// Society 
+// Society Murders  / Sodom and Gomorrah: & 1963)
+// Soigne ta droite 
+// Solace 
+// Solarbabies 
+// Solaris: & 2002)
+// Soldados de Salamina 
+// Soldier Blue 
+// Soldier in the Rain 
+// Soldier of Fortune 
+// Soldier of Orange 
+// Soldier's Girl 
+// Soldier: USA & 1998 India)
+// Sole Sisters 
+// Solitary Man 
+// Solo:  1996, 2006, 2008, 2011, 2013 & 2017)
+// Solo: A Star Wars Story 
+// Solomon Kane 
+// Solomon and Sheba 
+// Solomon's Perjury 
+// Some Came Running 
+// Some Dudes Can Fight  US silent film
+// Some Girls Do 
+// Some Kind of Beautiful 
+// Some Kind of Monster 
+// Some Kind of Wonderful 
+// Some Like It Hot:  1959 & 2016)
+// Somebody Up There Likes Me 
+// Someone Like You 
+// Someone Special 
+// Someone to Watch Over Me 
+// Somersault 
+// Something Big 
+// Something Borrowed 
+// Something Like Happiness 
+// Something Like a War  documentary
+// Something New 
+// Something Out of Nothing 
+// Something Wicked This Way Comes 
+// Something Wild: & 1986)
+// Something the Lord Made  / Something to Talk About 
+// Something's Got to Give 
+// Something's Gotta Give 
+// Sometimes They Come Back... Again 
+// Sometimes a Great Notion 
+// Somewhere 
+// Somewhere in Time 
+// Somewhere in the Night 
+// Sommersby 
+// Son in Law 
+// Son of Dracula: & 1974)
+// Son of Flubber 
+// Son of Frankenstein 
+// Son of Godzilla 
+// Son of Lassie 
+// Son of Paleface 
+// Son of Rambow 
+// Son of the Bride 
+// Son of the Mask 
+// Son of the Pink Panther 
+// Sonatine and 1993)
+// Song For a Raggy Boy 
+// Song at Midnight 
+// Song of China 
+// Song of Freedom 
+// Song of Love: & 1947)
+// Song of the Fishermen 
+// Song of the Phoenix 
+// Song of the South 
+// Song of the Thin Man 
+// Song of the West 
+// Songcatcher 
+// Songs from the Second Floor 
+// Sonic the Hedgehog 
+// Sonnenallee 
+// Sonny 
+// Sonny Boy 
+// Sons 
+// Sons and Daughters in a Time of Storm 
+// Sons of Provo 
+// Sons of the Desert 
+// Sophie Scholl – The Final Days 
+// Sophie's Choice 
+// Sorcerer 
+// Sordid Lives 
+// Sorority Babes in the Slimeball Bowl-O-Rama 
+// Sorority Boys 
+// Sorority Row 
+// Sorrell and Son 
+// Sorry, I Love You 
+// Sorry, Wrong Number 
+// Sorum 
+// Sotsgorod: Cities for Utopia 
+// Soul Food 
+// Soul Man 
+// Soul Mate 
+// Soul Plane 
+// Soul Surfer 
+// Soul Survivors 
+// Souli 
+// Soulkeeper  / Souls Protest 
+// Souls for Sale 
+// Soumyam 
+// Sound City 
+// Sound of My Voice 
+// Sounder 
+// Soup For One 
+// Soup to Nuts 
+// Sour Grapes 
+// Source Code 
+// South Pacific 
+// South Park: Bigger, Longer & Uncut 
+// South of Wawa 
+// South of the Clouds: & 2014)
+// Southern Belles 
+// Southern Comfort: & 2001)
+// Southern Fried Rabbit 
+// Southie 
+// Southland Tales 
+// Southlander 
+// Southside 1-1000 
+// Soylent Green 
+// Space Amoeba 
+// Space Battleship Yamato: & 2010)
+// Space Battleship Yamato: Resurrection 
+// Space Boy! Night, Neal and Ness 
+// Space Chimps 
+// Space Chimps 2: Zartog Strikes Back 
+// Space Cowboys 
+// Space Is the Place 
+// Space Jam 
+// Space Marines 
+// Space Men 
+// Space Mutiny 
+// Space Raiders 
+// Space Station 3D 
+// Space Truckers 
+// Space-Men 
+// SpaceCamp 
+// Spaceballs 
+// Spacehunter: Adventures in the Forbidden Zone 
+// Spaceman: & 2016)
+// Spaceways 
+// Spanglish 
+// Spanking the Monkey 
+// Spark:  2014 & 2016)
+// Spark: A Burning Man Story 
+// Sparkle:  2007 & 2012)
+// Sparks 
+// Spartacus 
+// Spartan 
+// Spawn 
+// Speak 
+// Speak Up! It's So Dark 
+// Speak to Me of Love 
+// Speakeasy: & 2002)
+// Special 
+// Special 26 
+// Special Effects: Anything Can Happen 
+// Species 
+// Species II 
+// Species III 
+// Spectre 
+// Speechless & 2012)
+// Speed 2: Cruise Control 
+// Speed Demon: & 2003)
+// Speed Racer 
+// Speed Zone 
+// Speed:  1984, 1994 & 2007)
+// Speeder 
+// Speedway Junky 
+// Speedway: & 1968)
+// Speedy 
+// Spellbound: & 2002)
+// Spencer's Mountain 
+// Spetters 
+// Sphere: & 2013)
+// Spice World 
+// Spicy Hot in Love 
+// Spicy Love Soup 
+// Spider Baby 
+// Spider Lilies 
+// Spider-Man 2 
+// Spider-Man 3 
+// Spider-Man:  1979 TV & 2002)
+// Spider-Man: Far From Home 
+// Spider-Man: Homecoming 
+// Spider-Man: Into the Spider-Verse 
+// Spider: & 2007)
+// SpiderBabe 
+// Spiders 3D 
+// Spies Like Us 
+// Spies in Disguise 
+// Spike 
+// Spiklenci slasti 
+// Spinout 
+// Spione 
+// Spirit of Korean Celadon 
+// Spirit: Stallion of the Cimarron 
+// Spirited Away 
+// Spirits’ Homecoming 
+// Spiritual Kung Fu 
+// Splash 
+// Splendor in the Grass: & 1981 TV)
+// Splendor:  1989 & 1999)
+// Splice 
+// Split Second: & 1992)
+// Split:  2016 American & 2016 South Korean)
+// Splitting Heirs 
+// Spooked 
+// Spookies 
+// Spookley the Square Pumpkin 
+// Spooks Run Wild 
+// Spooks: & 1953)
+// Spooks: The Greater Good 
+// Spooky Jack 
+// Spotswood 
+// Spread 
+// Spring Breakdown 
+// Spring Breakers 
+// Spring Fever:  1927, 1982 & 2009)
+// Spring Silkworms 
+// Spring Subway 
+// Spring in a Small Town 
+// Spring, Summer, Fall, Winter... and Spring 
+// Spring: & 2014)
+// Springtime in a Small Town 
+// Sprung 
+// Spun 
+// Spy Game 
+// Spy Girl 
+// Spy Hard 
+// Spy Kids 
+// Spy Kids 2: The Island of Lost Dreams 
+// Spy Kids 3-D: Game Over 
+// Spy Kids: All the Time in the World 
+// Spy: South Korean, 2012 Russian & 2015)
+// Spymate 
+// Square Dance 
+// Squirm 
+// Squizzy Taylor 
+// Ssaki 
+// St. Elmo's Fire 
+// St. Ives  / St. Louis Blues:  1939 & 1958)
+// St. Trinian's 
+// Stacy: Attack of the Schoolgirl Zombies 
+// StagKnight 
+// Stage Beauty 
+// Stage Door 
+// Stage Fright:  1940, 1950, 1987, 1989, 1997 & 2014)
+// Stage Fright: & 2013)
+// Stagecoach:  1966 & 1986)
+// Stairway to Heaven 
+// Stake Land 
+// Stakeout 
+// Stalag 17 
+// Stalingrad 
+// Stalker:  2010, 2012 & 2016)
+// Stan Helsing 
+// Stand Up Guys 
+// Stand Up and Cheer! 
+// Stand and Deliver 
+// Stand by Me 
+// Stander 
+// Standing in the Shadows of Motown 
+// Stanley & Iris 
+// Star 80 
+// Star Theatre 
+// Star Trek 
+// Star Trek Beyond 
+// Star Trek Generations 
+// Star Trek II: The Wrath of Khan 
+// Star Trek III: The Search for Spock 
+// Star Trek IV: The Voyage Home 
+// Star Trek Into Darkness 
+// Star Trek V: The Final Frontier 
+// Star Trek VI: The Undiscovered Country 
+// Star Trek: Chains of Betrayal  fan fiction film
+// Star Trek: First Contact 
+// Star Trek: Insurrection 
+// Star Trek: Nemesis 
+// Star Trek: The Motion Picture 
+// Star Wars Episode IV: A New Hope 
+// Star Wars Episode V: The Empire Strikes Back 
+// Star Wars Episode VI: Return of the Jedi 
+// Star Wars Holiday Special 
+// Star Wars Kid 
+// Star Wars: Episode I – The Phantom Menace 
+// Star Wars: Episode II – Attack of the Clones 
+// Star Wars: Episode III – Revenge of the Sith 
+// Star Wars: Revelations 
+// Star Wars: The Clone Wars 
+// Star Wars: The Force Awakens 
+// Star Wars: The Last Jedi 
+// Star Wars: The Rise of Skywalker 
+// Star Wreck: In the Pirkinning 
+// Star! 
+// Star: & 2001)
+// Starchaser: The Legend of Orin 
+// Starcrash 
+// Stardom 
+// Stardust Memories 
+// Stardust: & 2007)
+// Stargate 
+// Stargirl // Starkweather 
+// Starman 
+// Starship Troopers 
+// Starship Troopers 2: Hero of the Federation 
+// Starship Troopers 3: Marauder 
+// Starship Troopers: Invasion 
+// Starship Troopers: Traitor of Mars 
+// Starship: Apocalypse 
+// Starship: Rising 
+// Starsky & Hutch 
+// Starstruck:  1998 & 2010 TV)
+// Start the Revolution Without Me 
+// Starter for 10 
+// Starting Over: & 2007)
+// Startup.com 
+// State Fair:  1945 & 1962)
+// State Property 
+// State and Main 
+// State of Grace 
+// State of Play 
+// State of the Union 
+// Stavisky 
+// Stay Alive 
+// Stay Away, Joe 
+// Stay Hungry 
+// Stay Tuned 
+// Stay the Night  / Stay: & 2013)
+// Staya Erusa 2007) seies of Dutch documentary films
+// Staying Alive: & 2012)
+// Steal This Movie! 
+// Stealing Beauty 
+// Stealing Harvard 
+// Stealing Home 
+// Stealth 
+// Steamboat Bill, Jr. 
+// Steamboat Willie 
+// Steamboy 
+// Steel 
+// Steel Dawn 
+// Steel Magnolias 
+// Stella 
+// Stella Dallas 
+// Step Brothers 
+// Step Into Liquid 
+// Step Up 
+// Step Up 2: The Streets 
+// Step Up 3D 
+// Step Up Revolution 
+// Stephanie Daley 
+// Stepmom 
+// Stepsister from Planet Weird  / Stereo 
+// Stevie 
+// Stewardess School 
+// Stewie Griffin: The Untold Story 
+// Stick It 
+// Stigmata 
+// Still Breathing 
+// Still Crazy 
+// Still Life: & 2006)
+// Still Smokin 
+// Still Walking 
+// Stingray Sam 
+// Stir Crazy 
+// Stir of Echoes 
+// Stitch! The Movie 
+// Stoker 
+// Stolen Desire 
+// Stolen Kisses 
+// Stolen Moments 
+// Stolen Summer 
+// Stolen: documentary, 2009 drama & 2012)
+// Stomp the Yard 
+// Stone 
+// Stonewall Uprising 
+// Stonewall: & 2015)
+// Stop Making Sense 
+// Stop! Or My Mom Will Shoot 
+// Stop-Loss 
+// Storks 
+// Storm 
+// Storm Boy 
+// Storm Rider 
+// Storm Warning 
+// Storm of the Century  / Stormbreaker 
+// Stormy Monday 
+// Stormy Weather 
+// Story of O 
+// Story of Women 
+// Story of a Prostitute 
+// Storytelling 
+// Straight Out of Brooklyn 
+// Straight Outta Compton 
+// Straight Shooter 
+// Straight Talk 
+// Straight Time 
+// Straight to Hell 
+// Straight, Place and Show 
+// Straight-Jacket 
+// Straightheads 
+// Strait-Jacket 
+// Strange Brew 
+// Strange Days 
+// Strange Invaders 
+// Strange Parallel 
+// Strange Wilderness 
+// Strangeland 
+// Stranger Inside 
+// Stranger Than Fiction 
+// Stranger Than Paradise 
+// Stranger on the Third Floor 
+// Strangers on a Train 
+// Strangers with Candy 
+// Strangers: & 2007)
+// Strangers: The Story of a Mother and Daughter 
+// Strategic Air Command 
+// Stratosphere Girl 
+// Straw Dogs: & 2011)
+// Strawberry Fields 
+// Strawberry Shortcake: The Sweet Dreams Movie 
+// Stray Dog 
+// StrayDog: Kerberos Panzer Cops 
+// Streamers 
+// Street Angel: & 1937)
+// Street Fighter 
+// Street Fighter II: The Animated Movie 
+// Street Fighter: The Legend of Chun-Li 
+// Street Kings 
+// Street Scenes 
+// Street Trash 
+// Street of Chance 
+// Street of Shame 
+// Streets of Fire 
+// Stricken: & 2010)
+// Strictly Ballroom 
+// Strictly Business 
+// Strike It Rich 
+// Strike! 
+// Striking Distance 
+// Strip Search  / Stripes 
+// Striptease 
+// Stroker Ace 
+// Stromboli 
+// Stroszek 
+// Struck by Lightning 
+// Struggle 
+// Stuart Little 
+// Stuart Little 2 
+// Stuart Little 3: Call of the Wild 
+// Stuart Saves His Family 
+// Stubble Trouble 
+// Stuck in Love 
+// Stuck in the Suburbs  / Stuck on You 
+// Stuck: & 2007)
+// Student Bodies 
+// SubUrbia 
+// Subconscious Cruelty 
+// Sublime 
+// Submarine 
+// Submerged: & 2005)
+// Subspecies 
+// Subspecies 4: Bloodstorm 
+// Substitute 
+// Suburban Commando 
+// Suburban Girl 
+// Suburban Mayhem 
+// Suburbia 
+// Suburbicon 
+// Subway 
+// Such a Long Journey 
+// Sucker Punch: & 2011)
+// Sudden Death 
+// Sudden Fear 
+// Sudden Impact 
+// Suddenly 
+// Suddenly Seventeen 
+// Suddenly at Midnight 
+// Suddenly, Last Summer 
+// Sue, Mai & Sawa: Righting the Girl Ship 
+// Suffering Man's Charity 
+// Sugar & Spice 
+// Sugar Daddies 
+// Sugar Hill: & 1994)
+// Sugar Town 
+// Sugar: & 2008)
+// Sugata Sanshirō 
+// Suhruthu 
+// Suicide Club 
+// Suicide Kings 
+// Suicide Manual 
+// Suicide Squad 
+// Suikoden Demon Century 
+// Sujata 
+// Suki ni Naru Sono Shunkan o: Kokuhaku Jikkō Iinkai 
+// Sukimasuki 
+// Sukiyaki Western Django 
+// Sullivan's Travels 
+// Sully: Miracle on the Hudson 
+// Summer 
+// Summer Catch 
+// Summer Hours 
+// Summer Interlude 
+// Summer Love Love 
+// Summer Lovers 
+// Summer Magic 
+// Summer Palace 
+// Summer Rental 
+// Summer School 
+// Summer Snow 
+// Summer Stock 
+// Summer Storm: & 2004)
+// Summer of '42 
+// Summer of Sam 
+// Summer with Monika 
+// Summer's Desire 
+// Summertime: & 2001)
+// Sumo Do, Sumo Don't 
+// Sun Valley 
+// Sun Valley Serenade 
+// Sunday Bloody Sunday 
+// Sunday Too Far Away 
+// Sunday in New York 
+// Sunday: & 2008)
+// Sundown: & 1941)
+// Sundown: The Vampire in Retreat 
+// Sunflower: & 2006)
+// Sung horn 
+// Sunless 
+// Sunny:  1941 & 2008)
+// Sunnyside 
+// Sunrise at Campobello 
+// Sunrise: A Song of Two Humans 
+// Sunset 
+// Sunset Boulevard 
+// Sunshine Cleaning 
+// Sunshine State 
+// Sunshine: & 2007)
+// Super 
+// Super 8 
+// Super Bodyguard 
+// Super Express 
+// Super Fly 
+// Super Hero Central 
+// Super Hero Taisen GP: Kamen Rider 3 
+// Super Mario Bros. 
+// Super Size Me 
+// Super Speedway 
+// Super Troopers 
+// Super-Rabbit 
+// Superbabies: Baby Geniuses 2 
+// Superbad 
+// Supercop 
+// Supercross 
+// Supergirl 
+// Superhero Movie 
+// Superjews 
+// Superman 
+// Superman 
+// Superman II 
+// Superman II: The Richard Donner Cut 
+// Superman III 
+// Superman IV: The Quest for Peace 
+// Superman Returns 
+// Superman Unbound 
+// Superman and the Mole Men 
+// Superman vs. The Elite 
+// Superman/Batman: Apocalypse 
+// Superman/Batman: Public Enemies 
+// Superman/Shazam!: The Return of Black Adam 
+// Superman: Brainiac Attacks 
+// Superman: Doomsday 
+// Supernova 
+// Superstar 
+// Superstar in a Housedress 
+// Supervixens 
+// Support Your Local Gunfighter 
+// Support Your Local Sheriff! 
+// Sur mes lèvres 
+// Surf Nazis Must Die 
+// Surf Ninjas 
+// Surf's Up 
+// Surplus: Terrorized into Being Consumers 
+// Surprise 
+// Surrender 
+// Surrender of General Toral 
+// Surrogates 
+// Surveillance 
+// Survival of the Dead 
+// Surviving Christmas 
+// Surviving the Game 
+// Susannah of the Mounties 
+// Susie Q  / Suspect Zero 
+// Suspense 
+// Suspicion 
+// Suspiria 
+// Suur Tõll 
+// Suzanne's Career 
+// Suzhou River 
+// Suzie Gold 
+// Svidd neger 
+// Swades 
+// Swamp Girl 
+// Swamp Shark 
+// Swamp Thing 
+// Swamp Water 
+// Swamp Woman 
+// Swamp Women 
+// Swan Lake 
+// Swashbuckler 
+// Sweeney Todd: The Demon Barber of Fleet Street: & 2007)
+// Sweet 20 
+// Sweet Angel 
+// Sweet Bird of Youth 
+// Sweet Bunch 
+// Sweet Charity 
+// Sweet Dreams: & 1996)
+// Sweet Home Alabama 
+// Sweet Jam 
+// Sweet Land 
+// Sweet Movie 
+// Sweet November: & 2001)
+// Sweet Sixteen:  2002 & 2016)
+// Sweet Smell of Success 
+// Sweet Sweetback's Baadasssss Song 
+// Sweet Toronto 
+// Sweet and Lowdown 
+// Sweet of the Song 
+// Sweetie 
+// Swept Away 
+// Swept Away by an Unusual Destiny in the Blue Sea of August 
+// Swept from the Sea 
+// Swimming 
+// Swimming Pool 
+// Swimming Upstream 
+// Swimming to Cambodia 
+// Swimming with Sharks 
+// Swing Girls 
+// Swing Kids 
+// Swing Parade of 1946 
+// Swing Shift 
+// Swing Time 
+// Swing Vote: & 2008)
+// Swingers: & 2002)
+// Swiss Army Man 
+// Swiss Family Robinson: & 1960)
+// Switch 
+// Switchback 
+// Switching Channels 
+// Swoon 
+// Sword in the Moon 
+// Sword of the Beast 
+// Sword of the Valiant: The Legend of Sir Gawain and the Green Knight 
+// Swordfish 
+// Swordsmen in Double Flag Town 
+// Sydney White 
+// Sylvia 
+// Sylvia Scarlett 
+// Symbiopsychotaxiplasm 
+// Sympathy for Lady Vengeance 
+// Sympathy for Mr. Vengeance 
+// Sympathy for the Devil 
+// Syndromes and a Century 
+// Synecdoche, New York 
+// Syngenor 
+// Syriana 
+// Sátántangó 
+// Séance on a Wet Afternoon 
+// Sólo Con Tu Pareja 
+// Sügisball 
+// T-Men 
+// T2 Trainspotting 
+// THX 1138 
+// TMNT 
+// TT3D: Closer to the Edge 
+// Tabi no omosa 
+// Table 19 
+// Table No. 21 
+// Tabu 
+// Tabu, a Story of the South Seas 
+// Tackle Happy 
+// Tacones lejanos 
+// Tadpole 
+// Taegukgi: The Brotherhood of War 
+// Tag 
+// Tag der Freiheit: Unsere Wehrmacht 
+// Taggart 
+// Tai Chi Master 
+// Tai-Pan 
+// Tail Lights Fade 
+// Tail Sting 
+// Take Me Home Tonight 
+// Take Me Home: & 2011)
+// Take Me Out to the Ball Game 
+// Take Shelter 
+// Take This Job and Shove It 
+// Take This Waltz 
+// Take the Lead 
+// Take the Money and Run 
+// Taken 
+// Taken 2 
+// Taken 3 
+// Takers 
+// Taking Care of Business 
+// Taking Chances 
+// Taking Father Home 
+// Taking Five 
+// Taking Lives 
+// Taking Off 
+// Taking Sides 
+// Taking Tiger Mountain by Strategy 
+// Taking Woodstock 
+// Tale of Tales 
+// Tale of the Mummy 
+// Tale of the Rally 
+// Tales From Earthsea 
+// Tales From the Crypt 
+// Tales From the Darkside: The Movie 
+// Tales From the Hood 
+// Tales from the Dark 1 
+// Tales from the Dark 2 
+// Tales from the Gimli Hospital 
+// Tales of Cube World 
+// Tales of Manhattan 
+// Tales of Mystery 
+// Tales of Ordinary Madness 
+// Tales of Terror 
+// Talk 
+// Talk Radio 
+// Talk to Her 
+// Talk to Me 
+// Talkin' Dirty After Dark 
+// Tall Tale 
+// Tall in the Saddle 
+// Talladega Nights: The Ballad of Ricky Bobby 
+// Tamala 2010: A Punk Cat in Space 
+// Tamara 
+// Tamara Drewe 
+// Tammy 
+// Tammy and the Bachelor 
+// Tampopo 
+// Tanga - Deu no New York Times? 
+// Tangled: & 2010)
+// Tango & Cash 
+// Tango, no me dejes nunca 
+// Tanguy 
+// Tank Girl 
+// Tanner on Tanner 
+// Tap 
+// Tape 
+// Tapeheads 
+// Taps 
+// Tara 
+// Tarantula 
+// Taras Bulba 
+// Target 
+// Targets 
+// Taris, roi de l'eau 
+// Tarnation 
+// Tart 
+// Tartarin de Tarascon 
+// Tarzan 
+// Tarzoon: Shame of the Jungle 
+// Tashan 
+// Task Force 
+// Taste of Cherry 
+// Taste of China 
+// Taste the Blood of Dracula 
+// Tatie Danielle 
+// Taxi 
+// Taxi 
+// Taxi 2 
+// Taxi 3 
+// Taxi Driver 
+// Taylor's Wall 
+// Te doy mis ojos 
+// Tea and Sympathy 
+// Tea with Mussolini 
+// Teacher's Pet:  1958 & 2004)
+// Teachers 
+// Teaching Mrs. Tingle 
+// Team America: World Police 
+// Tears of the Black Tiger 
+// Tears of the Sun 
+// Ted 
+// Ted Bundy 
+// Teen Agent 
+// Teen Kanya 
+// Teen Titans Go! to the Movies 
+// Teen Titans: The Judas Contract 
+// Teen Titans: Trouble in Tokyo TV)
+// Teen Witch 
+// Teen Wolf 
+// Teen Wolf Too 
+// Teenage Cave Man 
+// Teenage Caveman 
+// Teenage Mutant Ninja Turtles II: The Secret of the Ooze 
+// Teenage Mutant Ninja Turtles III 
+// Teenage Mutant Ninja Turtles: & 2014)
+// Teenage Mutant Ninja Turtles: Out of the Shadows 
+// Teenage Zombies 
+// Teenagers from Outer Space 
+// Tees Maar Khan 
+// Teeth 
+// Teheran 43 
+// Tekken 2: Kazuya's Revenge 
+// Tekken: & 2009)
+// Tekken: Blood Vengeance 
+// Telefon 
+// Tell Me Something 
+// Tell No One 
+// Tell Them Willie Boy Is Here 
+// Telokhranitel 
+// Temmink: The Ultimate Fight 
+// Tempest:  1958, 1982 & 2015)
+// Temporada de patos 
+// Temporary Family 
+// Temptation: Confessions of a Marriage Counselor 
+// Tempting Heart 
+// Temptress Moon 
+// Ten 'til Noon 
+// Ten Canoes 
+// Ten Little Indians 
+// Ten Little Indians 
+// Ten Minutes Older 
+// Ten Zan: The Ultimate Mission 
+// Tenacious D in The Pick of Destiny 
+// Tender 
+// Tender Fictions 
+// Tender Is the Night 
+// Tender Mercies 
+// Tenderness:  2016 & 2017)
+// Tenebrae 
+// Tengoku no honya 
+// Tennessee's Partner 
+// Tenshi ni I'm Fine 
+// Tension 
+// Tentacles 
+// Tenure 
+// Tequila Sunrise 
+// Tere Pyar Mein 
+// Term Life 
+// Terminal Station 
+// Terminal Velocity 
+// Terminator 2: Judgment Day 
+// Terminator 3: Rise of the Machines 
+// Terminator Genisys 
+// Terminator Salvation 
+// Terms of Endearment 
+// Terrace House: Closing Door 
+// Terror Firmer 
+// Terror Tract 
+// Terror Train 
+// Terror by Night 
+// Terror of Mechagodzilla 
+// TerrorVision 
+// Terrorama! 
+// Terrorists, Killers and Middle-East Wackos 
+// Tesis 
+// Tess 
+// Test Pilot 
+// Testament 
+// Testament of Orpheus 
+// Tetsujin 28: The Movie 
+// Tetsujin Nijūhachi-gō: Hakuchū no Zangetsu 
+// Tetsuo II: Body Hammer 
+// Tetsuo: The Bullet Man 
+// Tetsuo: The Iron Man 
+// Tevar 
+// Tevya 
+// Texas Chainsaw 3D 
+// Texas Chainsaw Massacre: The Next Generation 
+// Texas Killing Fields 
+// Texas Rangers 
+// Texasville 
+// Thank God It's Friday 
+// Thank You for Smoking 
+// Thanks for Sharing 
+// That Darn Cat: & 1997)
+// That Hamilton Woman 
+// That Man from Rio 
+// That Night in Varennes 
+// That Obscure Object of Desire 
+// That Old Feeling 
+// That Thing You Do! 
+// That Touch of Mink 
+// That Uncertain Feeling 
+// That's Dancing! 
+// That's Entertainment! 
+// That's Entertainment! III 
+// That's Entertainment, Part II 
+// That's My Boy:  1951 & 2012)
+// That's My Wife: & 1933)
+// The $1,000,000 Reward 
+// The 'Burbs 
+// The 1 Second Film 
+// The 10th Kingdom  / The 10th Victim 
+// The 13th Warrior 
+// The 300 Spartans 
+// The 39 Steps:  1959 & 1978)
+// The 40-Year-Old Virgin 
+// The 400 Blows 
+// The 47 ronin:  1994)
+// The 5,000 Fingers of Dr. T 
+// The 51st State 
+// The 601st Phone Call 
+// The 6th Day 
+// The 6th Man 
+// The 7th Voyage of Sinbad 
+// The 9th Life of Louis Drax 
+// The A-Team 
+// The A.R.K. Report 
+// The Abandoned: & 2006)
+// The Abandonment 
+// The Abdication 
+// The Abominable Dr. Phibes 
+// The Abominable Snowman 
+// The Absent-Minded Professor 
+// The Abyss 
+// The Accidental Husband 
+// The Accidental Spy 
+// The Accidental Tourist 
+// The Accompanist 
+// The Accountant: & 2016)
+// The Accused Uncle Shangang 
+// The Accused:  1960 & 1988)
+// The Acid House 
+// The Act in Question 
+// The Addiction 
+// The Adjuster 
+// The Adjustment Bureau 
+// The Adventure of Faustus Bidgood 
+// The Adventure of Iron Pussy 
+// The Adventure of Sherlock Holmes' Smarter Brother 
+// The Adventure of Sudsakorn 
+// The Adventurer: & 1928)
+// The Adventurer: The Curse of the Midas Box 
+// The Adventurers: & 1970)
+// The Adventures of Baron Munchausen 
+// The Adventures of Barry McKenzie 
+// The Adventures of Brer Rabbit 
+// The Adventures of Buckaroo Banzai Across the 8th Dimension 
+// The Adventures of Elmo in Grouchland 
+// The Adventures of Ford Fairlane 
+// The Adventures of Huck Finn 
+// The Adventures of Ichabod and Mr. Toad 
+// The Adventures of Kathlyn 
+// The Adventures of Mary-Kate & Ashley: The Case of Thorn Mansion 
+// The Adventures of Mary-Kate & Ashley: The Case of the Christmas Caper 
+// The Adventures of Mary-Kate & Ashley: The Case of the Fun House Mystery 
+// The Adventures of Mary-Kate & Ashley: The Case of the Hotel Who-Done-It 
+// The Adventures of Mary-Kate & Ashley: The Case of the Logical i Ranch 
+// The Adventures of Mary-Kate & Ashley: The Case of the Mystery Cruise 
+// The Adventures of Mary-Kate & Ashley: The Case of the SeaWorld Adventure 
+// The Adventures of Mary-Kate & Ashley: The Case of the Shark Encounter 
+// The Adventures of Mary-Kate & Ashley: The Case of the U.S. Space Camp Mission 
+// The Adventures of Mary-Kate & Ashley: The Case of the United States Navy Adventure 
+// The Adventures of Mary-Kate & Ashley: The Case of the Volcano Mystery 
+// The Adventures of Milo and Otis 
+// The Adventures of Pinocchio 
+// The Adventures of Pluto Nash 
+// The Adventures of Prince Achmed 
+// The Adventures of Priscilla, Queen of the Desert 
+// The Adventures of Rex and Rinty 
+// The Adventures of Robin Hood 
+// The Adventures of Robinson Crusoe 
+// The Adventures of Rocky and Bullwinkle 
+// The Adventures of Sharkboy and Lavagirl in 3-D 
+// The Adventures of Sherlock Holmes 
+// The Adventures of Sinbad 2 
+// The Adventures of Tintin: The Secret of the Unicorn 
+// The Adventures of a Two-Minute Werewolf 
+// The Aeronauts 
+// The Affair of the Necklace 
+// The Affairs of Cellini 
+// The Afflicted 
+// The African Queen 
+// The Aftermath: & 2019)
+// The Age of Consent 
+// The Age of Innocence:  1934 & 1993)
+// The Age of Insects 
+// The Ages of Lulu 
+// The Aggressives 
+// The Agony and the Ecstasy 
+// The Air I Breathe 
+// The Air Up There 
+// The Airzone Solution 
+// The Alamo:  1960 & 2004)
+// The Alamo: Thirteen Days to Glory 
+// The Alibi 
+// The Alien Encounters 
+// The Allnighter 
+// The Alphabet Killer 
+// The Alps 
+// The Amazing Colossal Man 
+// The Amazing Dr. Clitterhouse 
+// The Amazing Grace 
+// The Amazing Panda Adventure 
+// The Amazing Spider-Man 
+// The Amazing Spider-Man 2 
+// The Amazing Transparent Man 
+// The Amazing Truth About Queen Raquela 
+// The Ambulance 
+// The Ambushers 
+// The American Astronaut 
+// The American Beauty 
+// The American Friend 
+// The American Gangster 
+// The American President 
+// The American: & 2010)
+// The Americanization of Emily 
+// The Amityville Curse 
+// The Amityville Horror: & 2005)
+// The Amphibian Man 
+// The Amy Fisher Story 
+// The Anarchist Cookbook 
+// The Anderson Tapes 
+// The Andromeda Nebula 
+// The Andromeda Strain 
+// The Angel's Egg 
+// The Angel: & 2007 short)
+// The Angels Wash Their Faces 
+// The Angry Birds Movie 
+// The Angry Red Planet 
+// The Animal 
+// The Anniversary Party 
+// The Anniversary:  2004 short & 2009)
+// The Answer Man 
+// The Ant Bully 
+// The Antichrist 
+// The Apartment 
+// The Apartment 
+// The Ape Man 
+// The Apostle 
+// The Appaloosa 
+// The Apparition 
+// The Apple Dumpling Gang 
+// The Apple Dumpling Gang Rides Again 
+// The Apple: & 1998)
+// The Apprenticeship of Duddy Kravitz 
+// The Aqua Teen Hunger Force Colon Movie Film for Theaters 
+// The Archangel 
+// The Archies in Jugman TV)
+// The Arena: & 2001 TV)
+// The Aristocats 
+// The Aristocrats 
+// The Arrangement 
+// The Arrival 
+// The Arrival of Averill 
+// The Arsenal Stadium Mystery 
+// The Arsonist 
+// The Art of Getting By 
+// The Art of Seduction 
+// The Art of War 
+// The Artist 
+// The Aryan 
+// The Ascent 
+// The Asphalt Jungle 
+// The Assassin of the Tsar 
+// The Assassination Bureau 
+// The Assassination of Jesse James by the Coward Robert Ford 
+// The Assassination of Richard Nixon 
+// The Assassination of Trotsky 
+// The Assignment 
+// The Astounding She-Monster 
+// The Astro-Zombies 
+// The Astronaut Farmer 
+// The Astronaut's Wife 
+// The Athlete 
+// The Atlantis Interceptors 
+// The Atomic Cafe 
+// The Atomic Kid 
+// The Atomic Submarine 
+// The Attacks of 26/11 
+// The Audition: short & 2015 short)
+// The Avengers: 
+// The Aviator:  1985 & 2004)
+// The Awakening 
+// The Awful Truth 
+// The Aztec Mummy Against the Humanoid Robot 
+// The Baader Meinhof Complex 
+// The Babe 
+// The Baby-Sitters Club 
+// The Babysitter:  1995 & 2017)
+// The Bachelor and the Bobby-Soxer 
+// The Bachelor:  1990 & 1999)
+// The Back-up Plan 
+// The Bad Lands 
+// The Bad News Bears Go to Japan 
+// The Bad Seed: & 1985)
+// The Bad Sleep Well 
+// The Bad and the Beautiful 
+// The Badge 
+// The Badlanders 
+// The Bait: TV & 1995)
+// The Baker's Wife 
+// The Bakery Girl of Monceau 
+// The Ball Game 
+// The Ballad of Cable Hogue 
+// The Ballad of Jack and Rose 
+// The Ballad of Narayama 
+// The Balloonatic 
+// The Band Wagon 
+// The Band's Visit 
+// The Banger Sisters 
+// The Bank Dick 
+// The Bank Job 
+// The Banquet: & 2006)
+// The Barbarian Invasions 
+// The Barbaric Beast of Boggy Creek, Part II 
+// The Barbie Diaries 
+// The Barefoot Contessa 
+// The Barkleys of Broadway 
+// The Barnyard 
+// The Barretts of Wimpole Street: & 1957)
+// The Basketball Diaries 
+// The Bat Whispers 
+// The Bat: & 1959)
+// The Batman vs. Dracula 
+// The Battle of Algiers 
+// The Battle of San Pietro 
+// The Battle of the River Plate 
+// The Battle of the Somme 
+// The Battleship Potemkin 
+// The Baxter 
+// The Bay Boy 
+// The Beach 
+// The Beales of Grey Gardens 
+// The Bear 
+// The Beast Must Die 
+// The Beast Within 
+// The Beast and the Beauty 
+// The Beast from 20,000 Fathoms 
+// The Beast of Yucca Flats 
+// The Beast with Five Fingers 
+// The Beast:  1988 & 1996 TV)
+// The Beastmaster 
+// The Beat That My Heart Skipped 
+// The Beautician and the Beast 
+// The Beautiful Country 
+// The Beaver 
+// The Bedevilled 
+// The Bedford Incident 
+// The Bedroom Window 
+// The Beguiled: & 2017)
+// The Believer 
+// The Believers 
+// The Belko Experiment 
+// The Bellboy 
+// The Bellboy and the Playgirls 
+// The Belles of St Trinian's 
+// The Bells of St. Mary's 
+// The Bells: & 1931)
+// The Belly of an Architect 
+// The Beloved:  2011 & 2015)
+// The Benchwarmers 
+// The Best Exotic Marigold Hotel 
+// The Best Intentions 
+// The Best Little Whorehouse in Texas 
+// The Best Man: & 1999)
+// The Best Plan Is No Plan 
+// The Best Years of Our Lives 
+// The Best of Times 
+// The Best of Youth glio gioventù) 
+// The Bet: & 2006)
+// The Betrayed  * 
+// The Betsy 
+// The Beverly Hillbillies 
+// The Beyond 
+// The Bible: In The Beginning 
+// The Big Bee 
+// The Big Blue 
+// The Big Bounce 
+// The Big Brawl 
+// The Big Broadcast 
+// The Big Bus' 
+// The Big Chill 
+// The Big Clock 
+// The Big Combo 
+// The Big Country 
+// The Big Easy 
 // The Big Empty: 2003 & 2005
-// The Big Feast (1973)
-// The Big Green (1995)
-// The Big Gundown (1966)
-// The Big Heat (1953)
-// The Big Hit (1998)
-// The Big House (1930)
-// The Big Kahuna (1999)
-// The Big Knife (1955)
-// The Big Lebowski (1998)
-// The Big Mouth (1967)
-// The Big One (1998)
-// The Big Parade: (1925 & 1986)
-// The Big Picture (1989)
-// The Big Red One (1980)
-// The Big Risk (1960)
-// The Big Road (1934)
-// The Big Sick (2017)
-// The Big Sky (1952)
-// The Big Sleep: (1946 & 1978)
-// The Big Steal (1949)
-// The Big Store (1941)
-// The Big Swindle (2004)
-// The Big Trail (1930)
-// The Big Wedding (2013)
-// The Big Wheel (1949)
-// The Big White (2005)
-// The Big Year (2011)
-// The Bingo Long Traveling All-Stars & Motor Kings (1976)
-// The Bird with the Crystal Plumage (1970)
-// The Birdcage (1996)
-// The Birds (1963)
-// The Birth of a Nation (1915)
-// The Biscuit Eater (1940 & 1972)
-// The Bishop's Wife (1947)
-// The Bitter Tea of General Yen (1933)
-// The Bitter Tears of Petra von Kant (1972)
-// The Black Cannon Incident (1985)
-// The Black Cat: (1934, 1941 & 1981)
-// The Black Cauldron (1985)
-// The Black Dahlia (2006)
-// The Black Hole (1979 & 2006 TV)
-// The Black Pirate (1926)
-// The Black Scorpion (1957)
-// The Black Stallion (1979)
-// The Black Swan (1942)
-// The Black Windmill (1974)
-// The Blackout (1997)
-// The Blacksmith (1922)
-// The Blade Master (1984)
-// The Blair Witch Project (1999)
-// The Blank Generation (1976)
-// The Blind Side (2009)
-// The Bling Ring (2013)
-// The Blob: (1958 & 1988)
-// The Blood Stained Route Map (2002)
-// The Blood of Jesus (1941)
-// The Blood of a Poet (1930)
-// The Blood on Satan's Claw (1971)
-// The Blue Bird : (1918, 1940 & 1976)
-// The Blue Dahlia (1946)
-// The Blue Eagle (1930)
-// The Blue Gardenia (1953)
-// The Blue Kite (1993)
-// The Blue Lagoon: (1923, 1949 & 1980)
-// The Blue Lamp (1950)
-// The Blue Light (1932)
-// The Blue Max (1966)
-// The Blue Veil: (1942 & 1951)
-// The Blues Brothers (1980)
-// The Boat (1921)
-// The Boatniks (1970)
-// The Body Snatcher (1946)
-// The Body: (1970, 1974, 2001, 2012 & 2018)
-// The Bodyguard 2 (2007)
-// The Bodyguard: (1992 & 2004)
-// The Bogie Man (1992 TV)
-// The Bohemian Girl: (1922 & 1936)
-// The Bone Collector (1997)
-// The Bonfire of the Vanities (1990)
-// The Boogens (1981)
-// The Boogie Man Will Get You (1942)
-// The Book Thief (2013)
-// The Book of Eli (2010)
-// The Book of Life: (1999, 2014 & 2017)
-// The Boondock Saints (1999)
-// The Boondock Saints II: All Saints Day (2009)
-// The Border: (1982, 1996, 2007 & 2009)
-// The Born Losers (1967)
-// The Borrower (1991)
-// The Borrowers: (1973, 1997 & 2011)
-// The Boston Strangler (1968)
-// The Bostonians (1984)
-// The Bothersome Man (2007)
-// The Boundary (2014)
-// The Bounty Hunter: (1954 & 2010)
-// The Bounty: (1984 & 2012)
-// The Bourne Identity (1988 TV)
-// The Bourne Identity (2002)
-// The Bourne Legacy (2012)
-// The Bourne Supremacy (2004)
-// The Bourne Ultimatum (2007)
-// The Bow (2005)
-// The Bowery (1933)
-// The Box: (2003, 2007 & 2009)
-// The Boxer: (1958, 1997 & 2012)
-// The Boxing Kangaroo (1896)
-// The Boxtrolls (2015)
-// The Boy Friend: (1926 & 1971)
-// The Boy Turns Man (1972)
-// The Boy Who Could Fly (1986)
-// The Boy Who Cried Werewolf (1973)
-// The Boy and the Beast (2015)
-// The Boy in the Plastic Bubble (1976)
-// The Boy in the Striped Pajamas (2008)
-// The Boy: (2015 & 2016)
-// The Boys from Brazil (1978)
-// The Boys in Company C (1978)
-// The Boys in the Band (1970)
-// The Boys: (1962 British, 1962 Finnish film), 1991 & 1998)
-// The Boys: The Sherman Brothers' Story (2009)
-// The Brady Bunch Movie (1995)
-// The Brain That Wouldn't Die (1962)
-// The Brass Teapot (2013)
-// The Bravados (1958)
-// The Brave (1997)
-// The Brave Little Toaster (1987)
-// The Brave Little Toaster Goes to Mars (1988)
-// The Brave Little Toaster to the Rescue (1989)
-// The Brave One: (1956 & 2007)
-// The Break-Up (2006)
-// The Break-up Season (2014)
-// The Breakfast Club (1985)
-// The Breed: (2001 & 2006)
-// The Bride Came C.O.D. (1941)
-// The Bride Wore Black (1968)
-// The Bride with White Hair (1993)
-// The Bride: (1973, 1985, 2015 & 2017)
-// The Brides of Dracula (1960)
-// The Bridge at Remagen (1969)
-// The Bridge of San Luis Rey]]: (1929, 1944 & 2004)
-// The Bridge on the River Kwai (1957)
-// The Bridge: (1992 & 2006)
-// The Bridges at Toko-Ri (1954)
-// The Bridges of Madison County (1995)
-// The Broadway Melody (1929)
-// The Broken (2008)
-// The Broken Hearts Club: A Romantic Comedy (2000)
-// The Brood (1979)
-// The Brother from Another Planet (1984)
-// The Brothers Bloom (2009)
-// The Brothers Grimm (2005)
-// The Brothers Lionheart (1977)
-// The Brothers McMullen (1995)
-// The Brothers Solomon (2007)
-// The Brothers: (1947, 1973, 1979 & 2001)
-// The Brown Bunny (2003)
-// The Brown Wallet (1936)
-// The Browning Version: (1951 & 1994)
-// The Buccaneer: (1938 & 1958)
-// The Buccaneers (1924)
-// The Bucket List (2007)
-// The Buddy Holly Story (1978)
-// The Buffalo Boy (2004)
-// The Bullfighters (1945)
-// The Bunker: (1981 TV & 2001)
-// The Bunny Game (2010)
-// The Burmese Harp: (1956 & 1985)
-// The Burning (1981)
-// The Burning Bed (1984)
-// The Burning Plain (2008)
-// The Bus Uncle (2006)
-// The Business (2005)
-// The Business of Strangers (2002)
-// The Butcher Boy: (1917 & 1997)
-// The Butcher's Wife (1991)
-// The Butcher: (1970 & 2009)
-// The Butler (2013)
-// The Butterfly Effect (2004)
-// The Butterfly Effect 2 (2006)
-// The Butterfly Effect 3: Revelations (2009)
-// The Bye Bye Man (2017)
-// The Cabin Crew (2014)
-// The Cabin in the Cotton (1932)
-// The Cabin in the Woods (2012)
-// The Cabinet of Caligari (1962)
-// The Cabinet of Dr. Caligari: (1920 & 2005)
-// The Cable Guy (1996)
-// The Caddy (1953)
-// The Caine Mutiny (1954)
-// The Cake Eaters (2009)
-// The Calcium Kid (2004)
-// The Call (2013)
-// The Call of the Wild: (1908, 1935, 1972 & 1976)
-// The Cameraman (1928)
-// The Campaign (2012)
-// The Candidate (1972)
-// The Cannibal Man (1972)
-// The Cannonball Run (1981)
-// The Canterbury Tales (1972)
-// The Canterville Ghost (1944)
-// The Canyons (2013)
-// The Captive Heart (1946)
-// The Car: (1977 & 1997)
-// The Card Player (2004)
-// The Cardinal (1963)
-// The Care Bears Adventure in Wonderland (1987)
-// The Care Bears Movie (1985)
-// The Care Bears' Big Wish Movie (2005)
-// The Carpetbaggers (1964)
-// The Case (2007)
-// The Case of Charles Peace (1949)
-// The Case of Hana & Alice (2015)
-// The Case of the Mukkinese Battle Horn (1956)
-// The Case of the Scorpion's Tail (1971)
-// The Cassandra Crossing (1977)
-// The Castle (1997)
-// The Castle of the Monsters (1958 & 1964)
-// The Cat Returns (2002)
-// The Cat and the Canary (1927)
-// The Cat from Outer Space (1978)
-// The Cat in the Hat (2003)
-// The Cat o' Nine Tails (1971)
-// The Cat's Meow (2002)
-// The Catered Affair (1956)
-// The Cave (2005)
-// The Caveman's Valentine (2002)
-// The Cell (2000)
-// The Cell 2 (2009)
-// The Center of the World (2001)
-// The Challenge... A Tribute to Modern Art (1974)
-// The Challenge: (1938, 1948, 1958, 1960, 1970, 1982, 2003 & 2011)
-// The Chamber (1996)
-// The Champ: (1931 & 1979)
-// The Chancellor Manuscript (2008)
-// The Change-Up (2011)
-// The Changeling (1980)
-// The Chaplin Revue (1959)
-// The Charge of the Light Brigade: (1936 & 1968)
-// The Chase: (1966 & 1994)
-// The Chaser (2008)
-// The Cheat (1915)
-// The Chess Players (1977)
-// The Cheyenne Social Club (1970)
-// The Children (2008)
-// The Children Are Watching Us (1944)
-// The Children's Hour (1961)
-// The China Syndrome (1979)
-// The Chipmunk Adventure (1987)
-// The Chocolate War (1988)
-// The Chorus (2004)
-// The Chronicles of Narnia: Prince Caspian (2008)
-// The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)
-// The Chronicles of Narnia: The Voyage of the Dawn Treader (2010)
-// The Chronicles of Riddick (2004)
-// The Chumscrubber (2005)
-// The Church (1989)
-// The Cider House Rules (1999)
-// The Cincinnati Kid (1965)
-// The Circle: (1925, 2000, 2014, 2015 & 2017)
-// The Circus (1928)
-// The Citadel (1938)
-// The City of Lost Children (1995)
-// The City of the Dead (1961)
-// The City: (1916, 1926, 1939, 1977, 1994 & 1998)
-// The Claim (2001)
-// The Clairvoyant (1935)
-// The Clan of the Cave Bear (1986)
-// The Clash of the Wolves (1925)
-// The Class (2007 & 2008)
-// The Class of Nuke 'Em High (1986)
-// The Cleaner (2012)
-// The Clearing (2004)
-// The Client: (1994 & 2011)
-// The Clique (2008)
-// The Clock: (1945 & 2010)
-// The Clockmaker (1974)
-// The Clockwork Girl (2014)
-// The Closet: (2001 & 2007)
-// The Clown Barber (1895)
-// The Clowns (1970)
-// The Coast Guard (2002)
-// The Cocoanuts (1929)
-// The Cold Light of Day (2012)
-// The Colditz Story (1955)
-// The Collection (2012)
-// The Collector: (1965 & 2009)
-// The Colonel: (1917 & 1974)
-// The Color Purple (1985)
-// The Color of Money (1986)
-// The Color of Paradise (2000)
-// The Color of Pomegranates (1969)
-// The Colossus of Rhodes (1961)
-// The Colour of Magic (2008)
-// The Comancheros (1961)
-// The Comebacks (2007)
-// The Comedy of Terrors (1964)
-// The Comfort of Strangers (1991)
-// The Commitments (1991)
-// The Company (2003)
-// The Company Men (2011)
-// The Company You Keep (2012)
-// The Company of Wolves (1984)
-// The Competition (1980)
-// The Computer Wore Tennis Shoes (1969)
-// The Concert (2009)
-// The Concorde ... Airport '79 (1979)
-// The Condemned 2 (2015)
-// The Condemned: (1975 & 2007)
-// The Conformist (1971)
-// The Conjuring (2013)
-// The Conjuring 2 (2016)
-// The Conqueror (1956)
-// The Conquest of Everest (1953)
-// The Conspirator (2010)
-// The Conspirators: (1924, (1944) & 1969)
-// The Constant Gardener (2005)
-// The Contender (2000)
-// The Contract (2006)
-// The Convent (2000)
-// The Conversation (1974)
-// The Cook (1918)
-// The Cook, the Thief, His Wife & Her Lover (1989)
-// The Cookout (2004)
-// The Cool World (1964)
-// The Cooler (2003)
-// The Core (2003)
-// The Corn Is Green (1945)
-// The Corporation (2003)
-// The Corpse Grinders (1971)
-// The Corpse Vanishes (1942)
-// The Corruptor (1999)
-// The Cottage (2008)
-// The Cotton Club (1984)
-// The Couch Trip (1987)
-// The Counselor (2013)
-// The Count of Monte Cristo: (1934 & 2002)
-// The Counterfeiters (2006)
-// The Country Bears (2002)
-// The Country Girl (1954)
-// The Court Jester (1956)
-// The Courtship of Eddie's Father (1963)
-// The Cove (2009)
-// The Covenant (2006)
-// The Covered Wagon (1923)
-// The Cow (1969)
-// The Cowboy Way (1994)
-// The Cowboys (1972)
-// The Craft (1996)
-// The Cranes Are Flying (1957)
-// The Crawling Eye (1958)
-// The Crazies: (1973 & 2010)
-// The Crazy Stranger (1998)
-// The Creature Walks Among Us (1956)
-// The Creeping Flesh (1973)
-// The Creeping Terror (1964)
-// The Cremator (1969)
-// The Crew (2000)
-// The Crime of Father Amaro (2002)
-// The Crime of Monsieur Lange (1936)
-// The Criminal Life of Archibaldo de la Cruz (1955)
-// The Crimson Permanent Assurance (1983)
-// The Crimson Pirate (1952)
-// The Crimson Rivers (2000)
-// The Crocodile Hunter: Collision Course (2002)
-// The Croods (2013)
-// The Crop (2004)
-// The Crossing (2000)
-// The Crossing Guard (1995)
-// The Crow (1994)
-// The Crow: City of Angels (1996)
-// The Crow: Salvation (2000)
-// The Crow: Wicked Prayer (2005)
-// The Crowd (1928)
-// The Crucible: (1914, 1957, 1996 & 2011)
-// The Cruel Sea (1953)
-// The Crusades (1935)
-// The Crush (1993)
-// The Crying Game (1992)
-// The Cuckoo (2002)
-// The Cup (1999)
-// The Cure: (1917, 1995, & 2014)
-// The Curiosity of Chance (2006)
-// The Curious Case of Benjamin Button (2008)
-// The Curse of Frankenstein (1957)
-// The Curse of the Cat People (1944)
-// The Curse of the Jade Scorpion (2001)
-// The Curse of the Werewolf (1961)
-// The Cut (2007)
-// The Cutting Edge (1992)
-// The Da Vinci Code (2006)
-// The Dallas Connection (1994)
-// The Dam Busters (1954)
-// The Damned (1969)
-// The Damned United (2009)
-// The Dancer Upstairs (2002)
-// The Dancing Masters (1943)
-// The Dangerous Affair (2015)
-// The Dangerous Lives of Altar Boys (2002)
-// The Darjeeling Limited (2007)
-// The Dark (2005)
-// The Dark Corner (1946)
-// The Dark Crystal (1982)
-// The Dark Half (1993)
-// The Dark Hours (2005)
-// The Dark Knight (2008)
-// The Dark Knight Rises (2012)
-// The Dark Mirror (1946)
-// The Dark Tower: (1943 & 2017)
-// The Darkest Hour (2011)
-// The Darwin Awards (2006)
-// The Dawn Patrol (1930 and 1938)
-// The Day After Tomorrow (2004)
-// The Day I Became a Woman (2000)
-// The Day of the Beast (1995)
-// The Day of the Dolphin (1974)
-// The Day of the Jackal (1973)
-// The Day of the Locust (1975)
-// The Day of the Triffids (1963)
-// The Day the Earth Caught Fire (1962)
-// The Day the Earth Froze (1959)
-// The Day the Earth Stood Still (1951 and 2008)
-// The Days (1993)
-// The Daytrippers (1997)
-// The Dead (1987)
-// The Dead Girl (2007)
-// The Dead Hate the Living! (2001)
-// The Dead One (1961) (2007)
-// The Dead Pool (1988)
-// The Dead Zone (1983)
-// The Deadly Bees (1966)
-// The Deadly Mantis (1957)
-// The Deadly Spawn (1983)
-// The Death Collector (1972)
-// The Death Note (2016)
-// The Death Wheelers (1974)
-// The Death of Mr. Lăzărescu (2006)
-// The Deathday Party (2014)
-// The Deaths of Ian Stone (2008)
-// The Debt (2007 and 2011)
-// The Decameron (1971)
-// The Deceivers (1988)
-// The Decline of the American Empire (1986)
-// The Deep (1977)
-// The Deep Blue Sea (1955 & 2011)
-// The Deep End (2001)
-// The Deep End of the Ocean (1999)
-// The Deer Hunter (1978)
-// The Defiant Ones (1958)
-// The Delicate Delinquent (1957)
-// The Delicious Little Devil (1919)
-// The Delinquents: (1957, 1960 & 1989)
-// The Delta Force (1986)
-// The Deluge (1974)
-// The Demi-Paradise (1943)
-// The Demon: (1978 & 1981)
-// The Dentist (1996)
-// The Dentist 2: Brace Yourself (1998)
-// The Departed (2006)
-// The Departure: (1967 & 2017)
-// The Derby (1895)
-// The Descendants (2011)
-// The Descent (2005)
-// The Descent: Part 2 (2009)
-// The Desert Fox: The Story of Rommel (1951)
-// The Desert Island (1936)
-// The Desert Rats (1953)
-// The Desperate Hours (1955)
-// The Desperate Mission (1969)
-// The Desperate Trail (1994 TV)
-// The Detective (1968)
-// The Devil Bat (1940)
-// The Devil Inside (2012)
-// The Devil Is a Woman: (1935, 1950 & 1974)
-// The Devil Rides Out (1968)
-// The Devil Wears Prada (2006)
-// The Devil and Daniel Johnston (2006)
-// The Devil and Daniel Webster (1941)
-// The Devil and Miss Jones (1941)
-// The Devil's Advocate (1997)
-// The Devil's Backbone (2001)
-// The Devil's Brigade (1968)
-// The Devil's Double (2011)
-// The Devil's Game (2008)
-// The Devil's Own (1997)
-// The Devil's Playground: (1928, 1937, 1946, 1976, 2002 & 2010)
-// The Devil's Rain (1975)
-// The Devil's Rejects (2005)
-// The Devil's Tomb (2009)
-// The Devil-Doll (1936)
-// The Devil: (1908, 1915, 1918 & 1972)
-// The Devils (1971)
-// The Diary of Anne Frank (1959)
-// The Diary of a Teenage Girl (2016)
-// The Dickson Experimental Sound Film (1894)
-// The Dictator (1935 & 2012)
-// The Dinner Game (1999)
-// The Dirty Dozen (1967)
-// The Dirty Picture (2011)
-// The Disappearance of Alice Creed (2010)
-// The Disappeared (2009 & 2012)
-// The Disappointments Room (2016)
-// The Disaster Artist (2017)
-// The Discreet Charm of the Bourgeoisie (1972)
-// The Dish (2000)
-// The Disorderly Orderly (1964)
-// The Distinguished Gentleman (1992)
-// The Divide (2012)
-// The Divided Heart (1954)
-// The Divine Weapon (2008)
-// The Diving Bell and the Butterfly (2007)
-// The Divorce of Lady X (1938)
-// The Divorcee (1930)
-// The Docks of New York (1928)
-// The Dogs of War (1981)
-// The Doll: (1919, 1968, 2008 & 2015)
-// The Doom Generation (1995)
-// The Door in the Floor (2004)
-// The Doors (1991)
-// The Double 0 Kid (1992)
-// The Double Life of Véronique (1991)
-// The Double: (1971, 2011 & 2013)
-// The Downfall (1961)
-// The Downhill (1961)
-// The Drag Net (1928)
-// The Dragon Knight (2011)
-// The Draughtsman's Contract (1983)
-// The Dream Team (1989)
-// The Dream of Garuda (1994)
-// The Dream: (1911, 1966, 1985, 1987, 1989)
-// The Dreamers (2003)
-// The Dreamlife of Angels (1998)
-// The Dresser: (1983 & 2015)
-// The Driller Killer (1979)
-// The Driver (1978)
-// The Drop (2014)
-// The Drowning Pool (1975)
-// The Drunkard: (1935, 1937, 1950 & 1953)
-// The Duchess (2008)
-// The Duellists (1977)
-// The Duke: (1998 and 1999)
-// The Dukes (2007)
-// The Dukes of Hazzard (2005)
-// The Dukes of Hazzard: Hazzard in Hollywood (2000)
-// The Dukes of Hazzard: Reunion! (1997)
-// The Dukes of Hazzard: The Beginning (2007)
-// The Dunwich Horror (1970)
-// The Eagle Has Landed (1976)
-// The Eagle of the Sea (1926)
-// The Eagle's Talons (1923)
-// The Eagle: (1925 & 2011)
-// The Earrings of Madame de... (1953)
-// The East (2013)
-// The East is Red (1965)
-// The Echo of Thunder (1998) (TV)
-// The Eclipse (2009)
-// The Eddy Duchin Story (1956)
-// The Edge (1997)
-// The Edge of Heaven (2007)
-// The Edge of Love (2008)
-// The Education of Charlie Banks (2007)
-// The Edukators (2004)
-// The Egg and I (1947)
-// The Egyptian (1954)
-// The Eiger Sanction (1975)
-// The Eighth Day (1997)
-// The Eighth House (2014)
-// The Electric Horseman (1979)
-// The Electric Kool-Aid Acid Test (2009)
-// The Element of Crime (1984)
-// The Elephant Man (1980)
-// The Elevator (1985)
-// The Emerald Forest (1985)
-// The Emigrants (1971)
-// The Emoji Movie (2017)
-// The Emperor Jones: (1933 & 1955)
-// The Emperor Waltz (1948)
-// The Emperor and the Assassin (1999)
-// The Emperor's Club (2002)
-// The Emperor's New Groove (2000)
-// The Emperor's Shadow (1996)
-// The Empire Strikes Back (1980)
-// The Enchanted Cottage (1945)
-// The End of Evangelion (1997)
-// The End of Summer (1962)
-// The End of Violence (1997)
-// The End of the Affair (1999)
-// The End of the World and the Cat's Disappearance (2015)
-// The End: (1978, 1998 & 2012)
-// The Endless Summer (1966)
-// The Enemy Below (1958)
-// The Enforcer: (1951 & 1976)
-// The English Patient (1996)
-// The English Teacher (2013)
-// The Englishman Who Went Up a Hill But Came Down a Mountain (1995)
-// The Enigma of Kaspar Hauser (1974)
-// The Entertainer (1960)
-// The Entity (1983)
-// The Equation of Love and Death (2008)
-// The Errand Boy (1961)
-// The Escapist (2008)
-// The Eternal Jew (1940)
-// The Eternal Waltz (1954)
-// The Evening Star (1996)
-// The Evil Cult (1993)
-// The Evil Dead (1981)
-// The Evil Eye: (1917 & 1920)
-// The Evil That Men Do (1984)
-// The Evil of Frankenstein (1964)
-// The Ex: (1997 & 2007)
-// The Exorcism of Emily Rose (2005)
-// The Exorcist (1973)
-// The Exorcist III (1990)
-// The Expendables 2 (2012)
-// The Expendables 3 (2014)
-// The Expendables: (1989, 2000 & 2010)
-// The Experiment (2010)
-// The Exploits of Elaine (1914)
-// The Express (2008)
-// The Expulsion (1923)
-// The Exterminating Angel (1962)
-// The Exterminator (1980)
-// The Extra (2005)
-// The Eye (2002)
-// The Eye (2008)
-// The Eye 10 (2005)
-// The Eye 2 (2004)
-// The FBI Story (1959)
-// The Fabulous Baker Boys (1989)
-// The Face (1996)
-// The Face of Another (1966)
-// The Faculty (1998)
-// The Fairylogue and Radio-Plays (1908)
-// The Falcon and the Snowman (1985)
-// The Fall of the House of Usher (1928)
-// The Fall of the Roman Empire (1964)
-// The Fall: (2006 & 2008)
-// The Fallen Idol (1948)
-// The Family Jewels (1965)
-// The Family Man (2000)
-// The Family Stone (2005)
-// The Family That Preys (2008)
-// The Family Way (1966)
-// The Fan (1996)
-// The Farmer Takes a Wife: (1935 & 1953)
-// The Farmer's Daughter (1947)
-// The Farmer's Wife (1928)
-// The Fast and the Furious (1955)
-// The Fast and the Furious (2001)
-// The Fast and the Furious: Tokyo Drift (2006)
-// The Fastest Guitar Alive (1967)
-// The Fate of the Furious (2017)
-// The Favor: (1994 & 2006)
-// The Fearless Hyena (1979)
-// The Fearless Vampire Killers (1967)
-// The Fencer (2015)
-// The Fifth Element (1997)
-// The Fifth Estate (2013)
-// The Fifth Missile (1986 TV)
-// The Fifth Wave (2016)
-// The Fighter: (1952 & 2010)
-// The Fighters (1974)
-// The Fighting 69th (1940)
-// The Fighting Kentuckian (1949)
-// The Fighting Seabees (1944)
-// The Fighting Sullivans (1944)
-// The Fighting Temptations (2003)
-// The Filth and the Fury (2000)
-// The Final Countdown (1980)
-// The Final Destination (2009)
-// The Fine Art of Love: Mine Ha-Ha (2005)
-// The Finishing Touch (1928)
-// The Fire Within (1963)
-// The Fire: (1916, 2003 & 2015)
-// The Fireman: (1916 & 1931)
-// The Firemen's Ball (1967)
-// The Firm: (1989 TV, 1993 & 2009)
-// The First $20 Million Is Always the Hardest (2002)
-// The First Born: (1921 & 1928)
-// The First Men in the Moon: (1919 & 1964)
-// The First Time: (1952, 1969, 2009 & 2012)
-// The First Wives Club (1996)
-// The First of May (1998)
-// The Fisher King (1991)
-// The Five Heartbeats (1991)
-// The Five Man Army (1969)
-// The Five Obstructions (2003)
-// The Five Pennies (1959)
-// The Five Year Engagement (2012)
-// The Flag: A Story Inspired by the Tradition of Betsy Ross (1927)
-// The Flame and the Arrow (1950)
-// The Flesh (1991)
-// The Flight of the Phoenix: (1965 & 2004)
-// The Flim-Flam Man (1967)
-// The Flintstones & WWE: Stone Age SmackDown! (2015)
-// The Flintstones (1994)
-// The Flintstones in Viva Rock Vegas (2000)
-// The Flintstones: On the Rocks (2001)
-// The Flock (2007)
-// The Floorwalker (1916)
-// The Florentine (1999)
-// The Flower Girl (1972)
-// The Flowers of St. Francis (1950)
-// The Flowers of War (2011)
-// The Fluffer (2002)
-// The Fly II (1989)
-// The Fly: (1958 & 1986)
-// The Flying Deuces (1939)
-// The Fog of War: Eleven Lessons from the Life of Robert S. McNamara (2004)
-// The Fog: (1980 & 2005)
-// The Food of the Gods (1976)
-// The Football Factory (2004)
-// The Forbidden Kingdom (2008)
-// The Force (2019)
-// The Foreigner: (2003 & 2017)
-// The Forest: (2002, 2005, 2009 & 2016)
-// The Forgiveness of Blood (2011)
-// The Forgotten Frontier (1931)
-// The Forgotten: (1973, 2003 & 2004)
-// The Formula: (1980 & 2002)
-// The Forsaken (2001)
-// The Fortress: (1979, 1994 & 2017)
-// The Fortune (1975)
-// The Fortune Cookie (1966)
-// The Foul King (2000)
-// The Founder (2016)
-// The Fountain (2006)
-// The Fountainhead (1949)
-// The Four Horsemen of the Apocalypse (1921)
-// The Four Musketeers (1974)
-// The Four Seasons (1981)
-// The Four Seasons: (1979 & 1981)
-// The Fourth Kind (2009)
-// The Fourth Man (1983)
-// The Fourth Man: (1983 & 2007)
-// The Fourth Protocol (1987)
-// The Fox Family (2006)
-// The Fox and the Hound (1981)
-// The Fox and the Hound 2 (2006)
-// The Fox with Nine Tails (1994)
-// The Frame (2014)
-// The French Connection (1971)
-// The French Lieutenant's Woman (1981)
-// The Freshman: (1925 & 1990)
-// The Friends of Eddie Coyle (1973)
-// The Frighteners (1996)
-// The Frisco Kid (1979)
-// The Frogville (2014)
-// The Front (1976)
-// The Front Page: (1931 & 1974)
-// The Fugitive Kind (1959)
-// The Fugitive: (1947 & 1993)
-// The Full Monteverdi (2007)
-// The Full Monty (1997)
-// The Funeral (1984 & 1996)
-// The Funhouse (1981)
-// The Furies: (1930 & 1950)
-// The Fury (1978)
-// The Fury of the Wolfman (1972)
-// The Future (2011)
-// The Galaxy on Earth (2014)
-// The Gambler: (1974 & 2014)
-// The Game Plan (2007)
-// The Game of Their Lives: (2002 & 2005)
-// The Game: (1984 & 1997)
-// The Gamers (2002)
-// The Gang That Couldn't Shoot Straight (1971)
-// The Garden of the Finzi-Continis (1971)
-// The Gate: (1987 & 2014)
-// The Gathering: (1977 TV & 2002)
-// The Gauntlet (1977)
-// The Gay Divorcee (1934)
-// The Geisha Boy (1958)
-// The Gene Generation (2006)
-// The General's Daughter (1999)
-// The General: (1927 & 1998)
-// The Gentle Art of Burglary (1916)
-// The Getaway: (1972 & 1994)
-// The Ghost Breakers (1940)
-// The Ghost Goes West (1935)
-// The Ghost Inside (2005)
-// The Ghost Ship (1944)
-// The Ghost Writer (2010)
-// The Ghost and Mr. Chicken (1966)
-// The Ghost and Mrs. Muir (1947)
-// The Ghost and the Darkness (1996)
-// The Ghost of Frankenstein (1942)
-// The Ghost: (1963, 1982, 2004, 2008 & 2010)
-// The Ghosts of Buxley Hall (1980) (TV)
-// The Giant Claw (1957)
-// The Giant Spider Invasion (1975)
-// The Gift (2000)
-// The Gingerbread Man (1998)
-// The Girl (2000 & 2014)
-// The Girl Can't Help It (1956)
-// The Girl Next Door: (2004 & 2007)
-// The Girl Who Kicked the Hornets' Nest (2009)
-// The Girl Who Knew Too Much (1969)
-// The Girl Who Leapt Through Time (2006)
-// The Girl Who Played with Fire (2009)
-// The Girl from Monday (2005)
-// The Girl in the Park (2007)
-// The Girl in the Spider's Web (2018)
-// The Girl in the Taxi (1937)
-// The Girl on the Train: (2013 & 2016)
-// The Girl with the Dragon Tattoo: (2009 & 2011)
-// The Girlfriend Experience (2009)
-// The Girls of Pleasure Island (1953)
-// The Gladiator: (1938 & 1986)
-// The Gladiators (1969)
-// The Glass Bottom Boat (1966)
-// The Glass Castle (2017)
-// The Glass House: (1972, 2001 & 2009)
-// The Glass Key (1935 & 1942)
-// The Glass Slipper (1955)
-// The Glenn Miller Story (1953)
-// The Glimmer Man (1996)
-// The Go-Between: (1971 & 2015 TV)
-// The Goalkeeper's Fear of the Penalty (1972)
-// The Goat: (1917, 1918 & 1921)
-// The Goddess of 1967 (2002)
-// The Goddess: (1934 & 1958)
-// The Godfather (1972)
-// The Godfather Part II (1974)
-// The Godfather Part III (1990)
-// The Gods Must Be Crazy (1980)
-// The Gods Must Be Crazy II (1989)
-// The Godson (1998)
-// The Gold Rush (1925)
-// The Golden Age (2007)
-// The Golden Bowl (2000)
-// The Golden Child (1986)
-// The Golden Coach (1953)
-// The Golden Compass (2007)
-// The Golden Doll (2016)
-// The Golden Voyage of Sinbad (1974)
-// The Goldfinch (2019)
-// The Golem: How He Came Into the World (1920)
-// The Good Earth (1937)
-// The Good German (2006)
-// The Good Girl (2002)
-// The Good Lie (2014)
-// The Good Life: (1996, 1997, 2007 & 2008)
-// The Good Shepherd (2006)
-// The Good Son (1993)
-// The Good Thief (2002)
-// The Good, the Bad and the Ugly (1966)
-// The Good, the Bad, the Weird (2008)
-// The Goodbye Girl (1977)
-// The Goods: Live Hard, Sell Hard (2009)
-// The Goonies (1985)
-// The Goose Steps Out (1942)
-// The Gore Gore Girls (1972)
-// The Gospel (2005)
-// The Gospel According to St. Matthew (1964)
-// The Gospel of John (2003)
-// The Governess (1998)
-// The Graduate (1967)
-// The Grand Budapest Hotel (2014)
-// The Grandmaster (2013)
-// The Grapes of Wrath (1940)
-// The Grass Is Greener (1960)
-// The Gravedancers (2008)
-// The Great Buck Howard (2009)
-// The Great Caruso (1951)
-// The Great Debaters (2007)
-// The Great Detective (2017)
-// The Great Dictator (1940)
-// The Great Escape (1963)
-// The Great Game: (1930, 1953 & 2015)
-// The Great Gatsby: (1926, 1949, 1974, 2000 TV & 2013)
-// The Great Lie (1941)
-// The Great Man (1956)
-// The Great McGinty (1940)
-// The Great Morgan (1946)
-// The Great Mouse Detective (1986)
-// The Great Muppet Caper (1981)
-// The Great New Wonderful (2006)
-// The Great Outdoors (1988)
-// The Great Pretender (2018)
-// The Great Race (1965)
-// The Great Raid (2005)
-// The Great Rupert (1950)
-// The Great Santini (1979)
-// The Great Silence (1968)
-// The Great St. Trinian's Train Robbery (1966)
-// The Great Train Robbery: (1903 & 1979)
-// The Great Waldo Pepper (1975)
-// The Great Wall (2017)
-// The Great White Hope (1970)
-// The Great White Hype (1996)
-// The Great Ziegfeld (1936)
-// The Greatest Game Ever Played (2005)
-// The Greatest Show on Earth (1952)
-// The Greatest Showman (2017)
-// The Greatest Story Ever Told (1965)
-// The Greatest: (1977 & 2009)
-// The Green Berets (1968)
-// The Green Hornet (1940, 1994, 2006 & 2011)
-// The Green Hornet Strikes Again! (1941)
-// The Green Mile (1999)
-// The Green Slime (1969)
-// The Green Years (1946)
-// The Grey (2012)
-// The Grey Zone (2001)
-// The Grifters (1991)
-// The Grim Game (1919)
-// The Grind: (1915 & 2009)
-// The Groomsmen (2006)
-// The Groove Tube (1974)
-// The Grow (2012)
-// The Grow 2 (2015)
-// The Grudge (2004)
-// The Grudge 2 (2006)
-// The Grudge 3 (2008)
+// The Big Feast 
+// The Big Green 
+// The Big Gundown 
+// The Big Heat 
+// The Big Hit 
+// The Big House 
+// The Big Kahuna 
+// The Big Knife 
+// The Big Lebowski 
+// The Big Mouth 
+// The Big One 
+// The Big Parade: & 1986)
+// The Big Picture 
+// The Big Red One 
+// The Big Risk 
+// The Big Road 
+// The Big Sick 
+// The Big Sky 
+// The Big Sleep: & 1978)
+// The Big Steal 
+// The Big Store 
+// The Big Swindle 
+// The Big Trail 
+// The Big Wedding 
+// The Big Wheel 
+// The Big White 
+// The Big Year 
+// The Bingo Long Traveling All-Stars & Motor Kings 
+// The Bird with the Crystal Plumage 
+// The Birdcage 
+// The Birds 
+// The Birth of a Nation 
+// The Biscuit Eater & 1972)
+// The Bishop's Wife 
+// The Bitter Tea of General Yen 
+// The Bitter Tears of Petra von Kant 
+// The Black Cannon Incident 
+// The Black Cat:  1941 & 1981)
+// The Black Cauldron 
+// The Black Dahlia 
+// The Black Hole & 2006 TV)
+// The Black Pirate 
+// The Black Scorpion 
+// The Black Stallion 
+// The Black Swan 
+// The Black Windmill 
+// The Blackout 
+// The Blacksmith 
+// The Blade Master 
+// The Blair Witch Project 
+// The Blank Generation 
+// The Blind Side 
+// The Bling Ring 
+// The Blob: & 1988)
+// The Blood Stained Route Map 
+// The Blood of Jesus 
+// The Blood of a Poet 
+// The Blood on Satan's Claw 
+// The Blue Bird :  1940 & 1976)
+// The Blue Dahlia 
+// The Blue Eagle 
+// The Blue Gardenia 
+// The Blue Kite 
+// The Blue Lagoon:  1949 & 1980)
+// The Blue Lamp 
+// The Blue Light 
+// The Blue Max 
+// The Blue Veil: & 1951)
+// The Blues Brothers 
+// The Boat 
+// The Boatniks 
+// The Body Snatcher 
+// The Body:  1974, 2001, 2012 & 2018)
+// The Bodyguard 2 
+// The Bodyguard: & 2004)
+// The Bogie Man TV)
+// The Bohemian Girl: & 1936)
+// The Bone Collector 
+// The Bonfire of the Vanities 
+// The Boogens 
+// The Boogie Man Will Get You 
+// The Book Thief 
+// The Book of Eli 
+// The Book of Life:  2014 & 2017)
+// The Boondock Saints 
+// The Boondock Saints II: All Saints Day 
+// The Border:  1996, 2007 & 2009)
+// The Born Losers 
+// The Borrower 
+// The Borrowers:  1997 & 2011)
+// The Boston Strangler 
+// The Bostonians 
+// The Bothersome Man 
+// The Boundary 
+// The Bounty Hunter: & 2010)
+// The Bounty: & 2012)
+// The Bourne Identity TV)
+// The Bourne Identity 
+// The Bourne Legacy 
+// The Bourne Supremacy 
+// The Bourne Ultimatum 
+// The Bow 
+// The Bowery 
+// The Box:  2007 & 2009)
+// The Boxer:  1997 & 2012)
+// The Boxing Kangaroo 
+// The Boxtrolls 
+// The Boy Friend: & 1971)
+// The Boy Turns Man 
+// The Boy Who Could Fly 
+// The Boy Who Cried Werewolf 
+// The Boy and the Beast 
+// The Boy in the Plastic Bubble 
+// The Boy in the Striped Pajamas 
+// The Boy: & 2016)
+// The Boys from Brazil 
+// The Boys in Company C 
+// The Boys in the Band 
+// The Boys: British, 1962 Finnish film), 1991 & 1998)
+// The Boys: The Sherman Brothers' Story 
+// The Brady Bunch Movie 
+// The Brain That Wouldn't Die 
+// The Brass Teapot 
+// The Bravados 
+// The Brave 
+// The Brave Little Toaster 
+// The Brave Little Toaster Goes to Mars 
+// The Brave Little Toaster to the Rescue 
+// The Brave One: & 2007)
+// The Break-Up 
+// The Break-up Season 
+// The Breakfast Club 
+// The Breed: & 2006)
+// The Bride Came C.O.D. 
+// The Bride Wore Black 
+// The Bride with White Hair 
+// The Bride:  1985, 2015 & 2017)
+// The Brides of Dracula 
+// The Bridge at Remagen 
+// The Bridge of San Luis Rey]]:  1944 & 2004)
+// The Bridge on the River Kwai 
+// The Bridge: & 2006)
+// The Bridges at Toko-Ri 
+// The Bridges of Madison County 
+// The Broadway Melody 
+// The Broken 
+// The Broken Hearts Club: A Romantic Comedy 
+// The Brood 
+// The Brother from Another Planet 
+// The Brothers Bloom 
+// The Brothers Grimm 
+// The Brothers Lionheart 
+// The Brothers McMullen 
+// The Brothers Solomon 
+// The Brothers:  1973, 1979 & 2001)
+// The Brown Bunny 
+// The Brown Wallet 
+// The Browning Version: & 1994)
+// The Buccaneer: & 1958)
+// The Buccaneers 
+// The Bucket List 
+// The Buddy Holly Story 
+// The Buffalo Boy 
+// The Bullfighters 
+// The Bunker: TV & 2001)
+// The Bunny Game 
+// The Burmese Harp: & 1985)
+// The Burning 
+// The Burning Bed 
+// The Burning Plain 
+// The Bus Uncle 
+// The Business 
+// The Business of Strangers 
+// The Butcher Boy: & 1997)
+// The Butcher's Wife 
+// The Butcher: & 2009)
+// The Butler 
+// The Butterfly Effect 
+// The Butterfly Effect 2 
+// The Butterfly Effect 3: Revelations 
+// The Bye Bye Man 
+// The Cabin Crew 
+// The Cabin in the Cotton 
+// The Cabin in the Woods 
+// The Cabinet of Caligari 
+// The Cabinet of Dr. Caligari: & 2005)
+// The Cable Guy 
+// The Caddy 
+// The Caine Mutiny 
+// The Cake Eaters 
+// The Calcium Kid 
+// The Call 
+// The Call of the Wild:  1935, 1972 & 1976)
+// The Cameraman 
+// The Campaign 
+// The Candidate 
+// The Cannibal Man 
+// The Cannonball Run 
+// The Canterbury Tales 
+// The Canterville Ghost 
+// The Canyons 
+// The Captive Heart 
+// The Car: & 1997)
+// The Card Player 
+// The Cardinal 
+// The Care Bears Adventure in Wonderland 
+// The Care Bears Movie 
+// The Care Bears' Big Wish Movie 
+// The Carpetbaggers 
+// The Case 
+// The Case of Charles Peace 
+// The Case of Hana & Alice 
+// The Case of the Mukkinese Battle Horn 
+// The Case of the Scorpion's Tail 
+// The Cassandra Crossing 
+// The Castle 
+// The Castle of the Monsters & 1964)
+// The Cat Returns 
+// The Cat and the Canary 
+// The Cat from Outer Space 
+// The Cat in the Hat 
+// The Cat o' Nine Tails 
+// The Cat's Meow 
+// The Catered Affair 
+// The Cave 
+// The Caveman's Valentine 
+// The Cell 
+// The Cell 2 
+// The Center of the World 
+// The Challenge... A Tribute to Modern Art 
+// The Challenge:  1948, 1958, 1960, 1970, 1982, 2003 & 2011)
+// The Chamber 
+// The Champ: & 1979)
+// The Chancellor Manuscript 
+// The Change-Up 
+// The Changeling 
+// The Chaplin Revue 
+// The Charge of the Light Brigade: & 1968)
+// The Chase: & 1994)
+// The Chaser 
+// The Cheat 
+// The Chess Players 
+// The Cheyenne Social Club 
+// The Children 
+// The Children Are Watching Us 
+// The Children's Hour 
+// The China Syndrome 
+// The Chipmunk Adventure 
+// The Chocolate War 
+// The Chorus 
+// The Chronicles of Narnia: Prince Caspian 
+// The Chronicles of Narnia: The Lion, the Witch and the Wardrobe 
+// The Chronicles of Narnia: The Voyage of the Dawn Treader 
+// The Chronicles of Riddick 
+// The Chumscrubber 
+// The Church 
+// The Cider House Rules 
+// The Cincinnati Kid 
+// The Circle:  2000, 2014, 2015 & 2017)
+// The Circus 
+// The Citadel 
+// The City of Lost Children 
+// The City of the Dead 
+// The City:  1926, 1939, 1977, 1994 & 1998)
+// The Claim 
+// The Clairvoyant 
+// The Clan of the Cave Bear 
+// The Clash of the Wolves 
+// The Class & 2008)
+// The Class of Nuke 'Em High 
+// The Cleaner 
+// The Clearing 
+// The Client: & 2011)
+// The Clique 
+// The Clock: & 2010)
+// The Clockmaker 
+// The Clockwork Girl 
+// The Closet: & 2007)
+// The Clown Barber 
+// The Clowns 
+// The Coast Guard 
+// The Cocoanuts 
+// The Cold Light of Day 
+// The Colditz Story 
+// The Collection 
+// The Collector: & 2009)
+// The Colonel: & 1974)
+// The Color Purple 
+// The Color of Money 
+// The Color of Paradise 
+// The Color of Pomegranates 
+// The Colossus of Rhodes 
+// The Colour of Magic 
+// The Comancheros 
+// The Comebacks 
+// The Comedy of Terrors 
+// The Comfort of Strangers 
+// The Commitments 
+// The Company 
+// The Company Men 
+// The Company You Keep 
+// The Company of Wolves 
+// The Competition 
+// The Computer Wore Tennis Shoes 
+// The Concert 
+// The Concorde ... Airport '79 
+// The Condemned 2 
+// The Condemned: & 2007)
+// The Conformist 
+// The Conjuring 
+// The Conjuring 2 
+// The Conqueror 
+// The Conquest of Everest 
+// The Conspirator 
+// The Conspirators:   & 1969)
+// The Constant Gardener 
+// The Contender 
+// The Contract 
+// The Convent 
+// The Conversation 
+// The Cook 
+// The Cook, the Thief, His Wife & Her Lover 
+// The Cookout 
+// The Cool World 
+// The Cooler 
+// The Core 
+// The Corn Is Green 
+// The Corporation 
+// The Corpse Grinders 
+// The Corpse Vanishes 
+// The Corruptor 
+// The Cottage 
+// The Cotton Club 
+// The Couch Trip 
+// The Counselor 
+// The Count of Monte Cristo: & 2002)
+// The Counterfeiters 
+// The Country Bears 
+// The Country Girl 
+// The Court Jester 
+// The Courtship of Eddie's Father 
+// The Cove 
+// The Covenant 
+// The Covered Wagon 
+// The Cow 
+// The Cowboy Way 
+// The Cowboys 
+// The Craft 
+// The Cranes Are Flying 
+// The Crawling Eye 
+// The Crazies: & 2010)
+// The Crazy Stranger 
+// The Creature Walks Among Us 
+// The Creeping Flesh 
+// The Creeping Terror 
+// The Cremator 
+// The Crew 
+// The Crime of Father Amaro 
+// The Crime of Monsieur Lange 
+// The Criminal Life of Archibaldo de la Cruz 
+// The Crimson Permanent Assurance 
+// The Crimson Pirate 
+// The Crimson Rivers 
+// The Crocodile Hunter: Collision Course 
+// The Croods 
+// The Crop 
+// The Crossing 
+// The Crossing Guard 
+// The Crow 
+// The Crow: City of Angels 
+// The Crow: Salvation 
+// The Crow: Wicked Prayer 
+// The Crowd 
+// The Crucible:  1957, 1996 & 2011)
+// The Cruel Sea 
+// The Crusades 
+// The Crush 
+// The Crying Game 
+// The Cuckoo 
+// The Cup 
+// The Cure:  1995, & 2014)
+// The Curiosity of Chance 
+// The Curious Case of Benjamin Button 
+// The Curse of Frankenstein 
+// The Curse of the Cat People 
+// The Curse of the Jade Scorpion 
+// The Curse of the Werewolf 
+// The Cut 
+// The Cutting Edge 
+// The Da Vinci Code 
+// The Dallas Connection 
+// The Dam Busters 
+// The Damned 
+// The Damned United 
+// The Dancer Upstairs 
+// The Dancing Masters 
+// The Dangerous Affair 
+// The Dangerous Lives of Altar Boys 
+// The Darjeeling Limited 
+// The Dark 
+// The Dark Corner 
+// The Dark Crystal 
+// The Dark Half 
+// The Dark Hours 
+// The Dark Knight 
+// The Dark Knight Rises 
+// The Dark Mirror 
+// The Dark Tower: & 2017)
+// The Darkest Hour 
+// The Darwin Awards 
+// The Dawn Patrol and 1938)
+// The Day After Tomorrow 
+// The Day I Became a Woman 
+// The Day of the Beast 
+// The Day of the Dolphin 
+// The Day of the Jackal 
+// The Day of the Locust 
+// The Day of the Triffids 
+// The Day the Earth Caught Fire 
+// The Day the Earth Froze 
+// The Day the Earth Stood Still and 2008)
+// The Days 
+// The Daytrippers 
+// The Dead 
+// The Dead Girl 
+// The Dead Hate the Living! 
+// The Dead One  
+// The Dead Pool 
+// The Dead Zone 
+// The Deadly Bees 
+// The Deadly Mantis 
+// The Deadly Spawn 
+// The Death Collector 
+// The Death Note 
+// The Death Wheelers 
+// The Death of Mr. Lăzărescu 
+// The Deathday Party 
+// The Deaths of Ian Stone 
+// The Debt and 2011)
+// The Decameron 
+// The Deceivers 
+// The Decline of the American Empire 
+// The Deep 
+// The Deep Blue Sea & 2011)
+// The Deep End 
+// The Deep End of the Ocean 
+// The Deer Hunter 
+// The Defiant Ones 
+// The Delicate Delinquent 
+// The Delicious Little Devil 
+// The Delinquents:  1960 & 1989)
+// The Delta Force 
+// The Deluge 
+// The Demi-Paradise 
+// The Demon: & 1981)
+// The Dentist 
+// The Dentist 2: Brace Yourself 
+// The Departed 
+// The Departure: & 2017)
+// The Derby 
+// The Descendants 
+// The Descent 
+// The Descent: Part 2 
+// The Desert Fox: The Story of Rommel 
+// The Desert Island 
+// The Desert Rats 
+// The Desperate Hours 
+// The Desperate Mission 
+// The Desperate Trail TV)
+// The Detective 
+// The Devil Bat 
+// The Devil Inside 
+// The Devil Is a Woman:  1950 & 1974)
+// The Devil Rides Out 
+// The Devil Wears Prada 
+// The Devil and Daniel Johnston 
+// The Devil and Daniel Webster 
+// The Devil and Miss Jones 
+// The Devil's Advocate 
+// The Devil's Backbone 
+// The Devil's Brigade 
+// The Devil's Double 
+// The Devil's Game 
+// The Devil's Own 
+// The Devil's Playground:  1937, 1946, 1976, 2002 & 2010)
+// The Devil's Rain 
+// The Devil's Rejects 
+// The Devil's Tomb 
+// The Devil-Doll 
+// The Devil:  1915, 1918 & 1972)
+// The Devils 
+// The Diary of Anne Frank 
+// The Diary of a Teenage Girl 
+// The Dickson Experimental Sound Film 
+// The Dictator & 2012)
+// The Dinner Game 
+// The Dirty Dozen 
+// The Dirty Picture 
+// The Disappearance of Alice Creed 
+// The Disappeared & 2012)
+// The Disappointments Room 
+// The Disaster Artist 
+// The Discreet Charm of the Bourgeoisie 
+// The Dish 
+// The Disorderly Orderly 
+// The Distinguished Gentleman 
+// The Divide 
+// The Divided Heart 
+// The Divine Weapon 
+// The Diving Bell and the Butterfly 
+// The Divorce of Lady X 
+// The Divorcee 
+// The Docks of New York 
+// The Dogs of War 
+// The Doll:  1968, 2008 & 2015)
+// The Doom Generation 
+// The Door in the Floor 
+// The Doors 
+// The Double 0 Kid 
+// The Double Life of Véronique 
+// The Double:  2011 & 2013)
+// The Downfall 
+// The Downhill 
+// The Drag Net 
+// The Dragon Knight 
+// The Draughtsman's Contract 
+// The Dream Team 
+// The Dream of Garuda 
+// The Dream:  1966, 1985, 1987, 1989)
+// The Dreamers 
+// The Dreamlife of Angels 
+// The Dresser: & 2015)
+// The Driller Killer 
+// The Driver 
+// The Drop 
+// The Drowning Pool 
+// The Drunkard:  1937, 1950 & 1953)
+// The Duchess 
+// The Duellists 
+// The Duke: and 1999)
+// The Dukes 
+// The Dukes of Hazzard 
+// The Dukes of Hazzard: Hazzard in Hollywood 
+// The Dukes of Hazzard: Reunion! 
+// The Dukes of Hazzard: The Beginning 
+// The Dunwich Horror 
+// The Eagle Has Landed 
+// The Eagle of the Sea 
+// The Eagle's Talons 
+// The Eagle: & 2011)
+// The Earrings of Madame de... 
+// The East 
+// The East is Red 
+// The Echo of Thunder  / The Eclipse 
+// The Eddy Duchin Story 
+// The Edge 
+// The Edge of Heaven 
+// The Edge of Love 
+// The Education of Charlie Banks 
+// The Edukators 
+// The Egg and I 
+// The Egyptian 
+// The Eiger Sanction 
+// The Eighth Day 
+// The Eighth House 
+// The Electric Horseman 
+// The Electric Kool-Aid Acid Test 
+// The Element of Crime 
+// The Elephant Man 
+// The Elevator 
+// The Emerald Forest 
+// The Emigrants 
+// The Emoji Movie 
+// The Emperor Jones: & 1955)
+// The Emperor Waltz 
+// The Emperor and the Assassin 
+// The Emperor's Club 
+// The Emperor's New Groove 
+// The Emperor's Shadow 
+// The Empire Strikes Back 
+// The Enchanted Cottage 
+// The End of Evangelion 
+// The End of Summer 
+// The End of Violence 
+// The End of the Affair 
+// The End of the World and the Cat's Disappearance 
+// The End:  1998 & 2012)
+// The Endless Summer 
+// The Enemy Below 
+// The Enforcer: & 1976)
+// The English Patient 
+// The English Teacher 
+// The Englishman Who Went Up a Hill But Came Down a Mountain 
+// The Enigma of Kaspar Hauser 
+// The Entertainer 
+// The Entity 
+// The Equation of Love and Death 
+// The Errand Boy 
+// The Escapist 
+// The Eternal Jew 
+// The Eternal Waltz 
+// The Evening Star 
+// The Evil Cult 
+// The Evil Dead 
+// The Evil Eye: & 1920)
+// The Evil That Men Do 
+// The Evil of Frankenstein 
+// The Ex: & 2007)
+// The Exorcism of Emily Rose 
+// The Exorcist 
+// The Exorcist III 
+// The Expendables 2 
+// The Expendables 3 
+// The Expendables:  2000 & 2010)
+// The Experiment 
+// The Exploits of Elaine 
+// The Express 
+// The Expulsion 
+// The Exterminating Angel 
+// The Exterminator 
+// The Extra 
+// The Eye 
+// The Eye 
+// The Eye 10 
+// The Eye 2 
+// The FBI Story 
+// The Fabulous Baker Boys 
+// The Face 
+// The Face of Another 
+// The Faculty 
+// The Fairylogue and Radio-Plays 
+// The Falcon and the Snowman 
+// The Fall of the House of Usher 
+// The Fall of the Roman Empire 
+// The Fall: & 2008)
+// The Fallen Idol 
+// The Family Jewels 
+// The Family Man 
+// The Family Stone 
+// The Family That Preys 
+// The Family Way 
+// The Fan 
+// The Farmer Takes a Wife: & 1953)
+// The Farmer's Daughter 
+// The Farmer's Wife 
+// The Fast and the Furious 
+// The Fast and the Furious 
+// The Fast and the Furious: Tokyo Drift 
+// The Fastest Guitar Alive 
+// The Fate of the Furious 
+// The Favor: & 2006)
+// The Fearless Hyena 
+// The Fearless Vampire Killers 
+// The Fencer 
+// The Fifth Element 
+// The Fifth Estate 
+// The Fifth Missile TV)
+// The Fifth Wave 
+// The Fighter: & 2010)
+// The Fighters 
+// The Fighting 69th 
+// The Fighting Kentuckian 
+// The Fighting Seabees 
+// The Fighting Sullivans 
+// The Fighting Temptations 
+// The Filth and the Fury 
+// The Final Countdown 
+// The Final Destination 
+// The Fine Art of Love: Mine Ha-Ha 
+// The Finishing Touch 
+// The Fire Within 
+// The Fire:  2003 & 2015)
+// The Fireman: & 1931)
+// The Firemen's Ball 
+// The Firm: TV, 1993 & 2009)
+// The First $20 Million Is Always the Hardest 
+// The First Born: & 1928)
+// The First Men in the Moon: & 1964)
+// The First Time:  1969, 2009 & 2012)
+// The First Wives Club 
+// The First of May 
+// The Fisher King 
+// The Five Heartbeats 
+// The Five Man Army 
+// The Five Obstructions 
+// The Five Pennies 
+// The Five Year Engagement 
+// The Flag: A Story Inspired by the Tradition of Betsy Ross 
+// The Flame and the Arrow 
+// The Flesh 
+// The Flight of the Phoenix: & 2004)
+// The Flim-Flam Man 
+// The Flintstones & WWE: Stone Age SmackDown! 
+// The Flintstones 
+// The Flintstones in Viva Rock Vegas 
+// The Flintstones: On the Rocks 
+// The Flock 
+// The Floorwalker 
+// The Florentine 
+// The Flower Girl 
+// The Flowers of St. Francis 
+// The Flowers of War 
+// The Fluffer 
+// The Fly II 
+// The Fly: & 1986)
+// The Flying Deuces 
+// The Fog of War: Eleven Lessons from the Life of Robert S. McNamara 
+// The Fog: & 2005)
+// The Food of the Gods 
+// The Football Factory 
+// The Forbidden Kingdom 
+// The Force 
+// The Foreigner: & 2017)
+// The Forest:  2005, 2009 & 2016)
+// The Forgiveness of Blood 
+// The Forgotten Frontier 
+// The Forgotten:  2003 & 2004)
+// The Formula: & 2002)
+// The Forsaken 
+// The Fortress:  1994 & 2017)
+// The Fortune 
+// The Fortune Cookie 
+// The Foul King 
+// The Founder 
+// The Fountain 
+// The Fountainhead 
+// The Four Horsemen of the Apocalypse 
+// The Four Musketeers 
+// The Four Seasons 
+// The Four Seasons: & 1981)
+// The Fourth Kind 
+// The Fourth Man 
+// The Fourth Man: & 2007)
+// The Fourth Protocol 
+// The Fox Family 
+// The Fox and the Hound 
+// The Fox and the Hound 2 
+// The Fox with Nine Tails 
+// The Frame 
+// The French Connection 
+// The French Lieutenant's Woman 
+// The Freshman: & 1990)
+// The Friends of Eddie Coyle 
+// The Frighteners 
+// The Frisco Kid 
+// The Frogville 
+// The Front 
+// The Front Page: & 1974)
+// The Fugitive Kind 
+// The Fugitive: & 1993)
+// The Full Monteverdi 
+// The Full Monty 
+// The Funeral & 1996)
+// The Funhouse 
+// The Furies: & 1950)
+// The Fury 
+// The Fury of the Wolfman 
+// The Future 
+// The Galaxy on Earth 
+// The Gambler: & 2014)
+// The Game Plan 
+// The Game of Their Lives: & 2005)
+// The Game: & 1997)
+// The Gamers 
+// The Gang That Couldn't Shoot Straight 
+// The Garden of the Finzi-Continis 
+// The Gate: & 2014)
+// The Gathering: TV & 2002)
+// The Gauntlet 
+// The Gay Divorcee 
+// The Geisha Boy 
+// The Gene Generation 
+// The General's Daughter 
+// The General: & 1998)
+// The Gentle Art of Burglary 
+// The Getaway: & 1994)
+// The Ghost Breakers 
+// The Ghost Goes West 
+// The Ghost Inside 
+// The Ghost Ship 
+// The Ghost Writer 
+// The Ghost and Mr. Chicken 
+// The Ghost and Mrs. Muir 
+// The Ghost and the Darkness 
+// The Ghost of Frankenstein 
+// The Ghost:  1982, 2004, 2008 & 2010)
+// The Ghosts of Buxley Hall  / The Giant Claw 
+// The Giant Spider Invasion 
+// The Gift 
+// The Gingerbread Man 
+// The Girl & 2014)
+// The Girl Can't Help It 
+// The Girl Next Door: & 2007)
+// The Girl Who Kicked the Hornets' Nest 
+// The Girl Who Knew Too Much 
+// The Girl Who Leapt Through Time 
+// The Girl Who Played with Fire 
+// The Girl from Monday 
+// The Girl in the Park 
+// The Girl in the Spider's Web 
+// The Girl in the Taxi 
+// The Girl on the Train: & 2016)
+// The Girl with the Dragon Tattoo: & 2011)
+// The Girlfriend Experience 
+// The Girls of Pleasure Island 
+// The Gladiator: & 1986)
+// The Gladiators 
+// The Glass Bottom Boat 
+// The Glass Castle 
+// The Glass House:  2001 & 2009)
+// The Glass Key & 1942)
+// The Glass Slipper 
+// The Glenn Miller Story 
+// The Glimmer Man 
+// The Go-Between: & 2015 TV)
+// The Goalkeeper's Fear of the Penalty 
+// The Goat:  1918 & 1921)
+// The Goddess of 1967 
+// The Goddess: & 1958)
+// The Godfather 
+// The Godfather Part II 
+// The Godfather Part III 
+// The Gods Must Be Crazy 
+// The Gods Must Be Crazy II 
+// The Godson 
+// The Gold Rush 
+// The Golden Age 
+// The Golden Bowl 
+// The Golden Child 
+// The Golden Coach 
+// The Golden Compass 
+// The Golden Doll 
+// The Golden Voyage of Sinbad 
+// The Goldfinch 
+// The Golem: How He Came Into the World 
+// The Good Earth 
+// The Good German 
+// The Good Girl 
+// The Good Lie 
+// The Good Life:  1997, 2007 & 2008)
+// The Good Shepherd 
+// The Good Son 
+// The Good Thief 
+// The Good, the Bad and the Ugly 
+// The Good, the Bad, the Weird 
+// The Goodbye Girl 
+// The Goods: Live Hard, Sell Hard 
+// The Goonies 
+// The Goose Steps Out 
+// The Gore Gore Girls 
+// The Gospel 
+// The Gospel According to St. Matthew 
+// The Gospel of John 
+// The Governess 
+// The Graduate 
+// The Grand Budapest Hotel 
+// The Grandmaster 
+// The Grapes of Wrath 
+// The Grass Is Greener 
+// The Gravedancers 
+// The Great Buck Howard 
+// The Great Caruso 
+// The Great Debaters 
+// The Great Detective 
+// The Great Dictator 
+// The Great Escape 
+// The Great Game:  1953 & 2015)
+// The Great Gatsby:  1949, 1974, 2000 TV & 2013)
+// The Great Lie 
+// The Great Man 
+// The Great McGinty 
+// The Great Morgan 
+// The Great Mouse Detective 
+// The Great Muppet Caper 
+// The Great New Wonderful 
+// The Great Outdoors 
+// The Great Pretender 
+// The Great Race 
+// The Great Raid 
+// The Great Rupert 
+// The Great Santini 
+// The Great Silence 
+// The Great St. Trinian's Train Robbery 
+// The Great Train Robbery: & 1979)
+// The Great Waldo Pepper 
+// The Great Wall 
+// The Great White Hope 
+// The Great White Hype 
+// The Great Ziegfeld 
+// The Greatest Game Ever Played 
+// The Greatest Show on Earth 
+// The Greatest Showman 
+// The Greatest Story Ever Told 
+// The Greatest: & 2009)
+// The Green Berets 
+// The Green Hornet  1994, 2006 & 2011)
+// The Green Hornet Strikes Again! 
+// The Green Mile 
+// The Green Slime 
+// The Green Years 
+// The Grey 
+// The Grey Zone 
+// The Grifters 
+// The Grim Game 
+// The Grind: & 2009)
+// The Groomsmen 
+// The Groove Tube 
+// The Grow 
+// The Grow 2 
+// The Grudge 
+// The Grudge 2 
+// The Grudge 3 
 // The Gruffalo's Child
-// The Guard from Underground (1992)
-// The Guard: (1990, 2001 & 2011)
-// The Guardian: (1990 & 2006)
-// The Guatemalan Handshake (2006)
-// The Guerrilla: (1983 & 1973)
-// The Guilt Trip (2012)
-// The Guilty: (1947 & 2000)
-// The Guinea Pig (1948)
-// The Gulf Between (1917)
-// The Gumball Rally (1976)
-// The Gunfighter (1950)
-// The Gunman (2015)
-// The Guns of Navarone (1961)
-// The Guru (1969 & 2002)
-// The Guyver (1991)
-// The Gwaii (2009)
-// The H-Man (1958)
-// The Hairdresser's Husband (1990)
-// The Hairy Bird (1998)
-// The Hallelujah Trail (1965)
-// The Hand That Rocks the Cradle (1992)
-// The Hand: (1960, 1965 & 1981)
-// The Handmaid's Tale (1990)
-// The Handmaiden (2016)
-// The Hanging Tree (1959)
-// The Hangover (2009)
-// The Hangover Part II (2011)
-// The Hangover Part III (2013)
-// The Happening: (1967 & 2008)
-// The Happiest Days of Your Life (1950)
-// The Happiest Millionaire (1967)
-// The Happiness of the Katakuris (2002)
-// The Hard Way: (1943 & 1991)
-// The Harder They Come (1972)
-// The Harder They Fall (1956)
-// The Hare Census (1973)
-// The Harmonium in My Memory (1999)
-// The Harvey Girls (1946)
-// The Haunted (1991)
-// The Haunted Cinema (2014)
-// The Haunted House: (1913, 1921, 1928, 1929 1982 & 2005)
-// The Haunted Mansion (2003)
-// The Haunted Palace (1963)
-// The Haunted Strangler (1958)
-// The Haunted World of El Superbeasto (2009)
-// The Haunting in Connecticut (2009)
-// The Haunting in Connecticut 2: Ghosts of Georgia (2013)
-// The Haunting of Molly Hartley (2008)
-// The Haunting: (1963 & 1999)
-// The Hawks and the Sparrows (1966)
-// The Headsman (2005)
-// The Heart Breaker (1925)
-// The Heart Is Deceitful Above All Things (2004)
-// The Heart Is a Lonely Hunter (1968)
-// The Heart of the Bear (2001)
-// The Heart of the Game (2006)
-// The Heart's Cry (1994)
-// The Heartbreak Kid: (1972, 1993 & 2007)
-// The Hearts of Age (1934)
-// The Heat (2013)
-// The Hebrew Hammer (2004)
-// The Heiress (1949)
-// The Heist: (1970, 1976, 1989 TV, 2001 & 2008)
-// The Hellcats (1968)
-// The Help (2011)
-// The Herdsman (1982)
-// The Hero (2017)
-// The Heroes of Telemark (1966)
-// The Heroic Trio (1993)
-// The Hi-Lo Country (1999)
-// The Hidden (1987)
-// The Hidden Fortress (1958)
-// The High and the Mighty (1954)
-// The Hill (1965)
-// The Hills Have Eyes 2 (2007)
-// The Hills Have Eyes Part II (1985)
-// The Hills Have Eyes: (1977 & 2006)
-// The Hills Run Red (2009)
-// The Hindenburg (1975)
-// The Hired Hand (1971)
-// The Hireling (1973)
-// The History Boys (2006)
-// The Hit (1984)
-// The Hitch-Hiker (1953)
-// The Hitcher II: I've Been Waiting (2003)
-// The Hitcher: (1986 & 2007)
-// The Hitchhiker's Guide to the Galaxy (2005)
-// The Hoax (2007)
-// The Hobbit: (1977 & The Hobbit (1985 film))
-// The Hobbit: An Unexpected Journey (2012)
-// The Hobbit: The Battle of the Five Armies (2014)
-// The Hobbit: The Desolation of Smaug (2013)
-// The Hole: (1957, 1960, 1962, 1997, 1998, 2001 & 2009)
-// The Holiday (2006)
-// The Hollywood Knights (1980)
-// The Hollywood Revue of 1929 (1929)
-// The Holy Mountain (1926 & 1973)
-// The Homecoming (1973)
-// The Homeless (1974)
-// The Homeless Student (2008)
-// The Homesman (2014)
-// The Honeymoon Killers (1970)
-// The Honeymooners (2005)
-// The Honeytrap (2002)
-// The Horde (2010)
-// The Horn Blows at Midnight (1945)
-// The Horror of Party Beach (1964)
-// The Horse Soldiers (1959)
-// The Horse Whisperer (1998)
-// The Horse's Mouth (1958)
-// The Hospital (1971)
-// The Host (2006 & 2013)
-// The Hostage (1967)
-// The Hot Chick (2002)
-// The Hot Rock (1972)
-// The Hot Spot (1990)
-// The Hotel New Hampshire (1984)
-// The Hottie and the Nottie (2008)
-// The Hound of the Baskervilles (1939)
-// The Hours (2002)
-// The Hours and Times (1991)
-// The House (1999)
-// The House Bunny (2008)
-// The House That Dripped Blood (1971)
-// The House by the Cemetery (1984)
-// The House in the Middle (1954)
-// The House of Fear (1945)
-// The House of Mirth (2000)
-// The House of Rothschild (1934)
-// The House of Sand (2006)
-// The House of Yes (1997)
-// The House of the Devil (2012)
-// The House of the Spirits (1993)
-// The House on 92nd Street (1945)
-// The House on Sorority Row (1983)
-// The House with Laughing Windows (1976)
-// The Howards of Virginia (1940)
-// The Howling (1981)
-// The Howling: New Moon Rising (1995)
-// The Howling: Reborn (2011)
-// The Hudsucker Proxy (1994)
-// The Hugga Bunch (1985)
-// The Human Centipede (First Sequence) (2010)
-// The Human Centipede 2 (Full Sequence) (2011)
-// The Human Condition I: No Greater Love (1959)
-// The Human Condition II: Road to Eternity (1959)
-// The Human Condition III: A Soldier's Prayer (1961)
-// The Human Stain (2003)
-// The Hunchback (1997 TV)
-// The Hunchback of Notre Dame II (2002)
-// The Hunchback of Notre Dame: (1923, 1939, 1956, 1982 & 1996)
-// The Hunger Games (2012)
-// The Hunger Games: Catching Fire (2013)
-// The Hunger Games: Mockingjay – Part 1 (2014)
-// The Hunger Games: Mockingjay – Part 2 (2015)
-// The Hunger: (1983 & 1986)
-// The Hunt for Red October (1990)
-// The Hunt: (2006 & 2012)
-// The Hunted: (1995 & 2003)
-// The Hunter: (1980, 2010, 2011 Russian & 2011 Australian)
-// The Hunting Party: (1971 & 2007)
-// The Hunting of the President (2004)
-// The Huntsman: Winter's War (2016)
-// The Hurricane: (1937 & 1999)
-// The Hurt Locker (2009)
-// The Husband (2013)
-// The Hustle (2018)
-// The Hustler (1961)
-// The I Inside (2004)
-// The IPCRESS File (1965)
-// The Ice Harvest (2005)
-// The Ice Pirates (1984)
-// The Ice Storm (1997)
-// The Iceman (2012)
-// The Ides of March (2011)
-// The Idiot (1946, 1951, 1958 & 2011)
-// The Idiots (1998)
-// The Idle Class (1921)
-// The Idol of Bonanza Camp (1913)
-// The Idolmaster Movie: Kagayaki no Mukogawa e! (2014)
-// The Illusionist: (2006 & 2010)
-// The Illustrated Man (1969)
-// The Imaginarium of Doctor Parnassus (2009)
-// The Imitation Game (2014)
-// The Immigrant: (1915, 1917 & 2013)
-// The Importance of Being Earnest: (1952 & 2002)
-// The Impossible Voyage (1904)
-// The Impossible: (1966 & 2012)
-// The Imposter: (2008 & 2012)
-// The Impostors (1998)
-// The In Crowd (2000)
-// The In-Laws: (1979 & 2003)
-// The Inbetweeners Movie (2012)
-// The Incredible Burt Wonderstone (2013)
-// The Incredible Hulk (2008)
-// The Incredible Melting Man (1977)
-// The Incredible Mr. Limpet (1964)
-// The Incredible Shrinking Man (1957)
-// The Incredible Shrinking Woman (1981)
-// The Incredibles (2004)
-// The Incredibly True Adventures of Two Girls in Love (1995)
-// The Incubus (1981)
-// The Independent (2000)
-// The Indian Runner (1991)
-// The Indian in the Cupboard (1995)
-// The Inerasable (2015)
-// The Informant! (2009)
-// The Informer (1935)
-// The Informers (2009)
-// The Inkwell (1994)
-// The Inn of the Sixth Happiness (1958)
-// The Innkeepers (2012)
-// The Innocents (1961)
-// The Insect Woman (1963)
-// The Insider (1999)
-// The Inspector General (1949)
-// The Intern (2015)
-// The International (2009)
-// The Internship (2013)
-// The Interpreter (2005)
-// The Interview: (1998 & 2014)
-// The Intouchables (2011)
-// The Intruder (1962)
-// The Invasion (2007)
-// The Invention of Lying (2009)
-// The Invincible Iron Man (2007)
-// The Invincible Piglet (2015)
-// The Invisible (2007)
-// The Invisible Circus (2001)
-// The Invisible Informer (1946)
-// The Invisible Man (1933)
-// The Invisible Man Returns (1940)
-// The Invisible War (2012)
-// The Invisible Woman: (1940 & 2013)
-// The Invitation: (1973 & 2015)
-// The Irishman: (1978 & 2019)
-// The Iron Giant (1999)
-// The Iron Lady (2012)
-// The Island at the Top of the World (1974)
-// The Island of Dr. Moreau: (1977 & 1996)
-// The Island: (1980 & 2005)
-// The Isle (2000)
-// The Isle of the Dead (1945)
-// The Italian (1915)
-// The Italian Job: (1969 & 2003)
-// The Jackal: (1997 & 2010)
-// The Jackals: (1917 & 1968)
-// The Jacket (2005)
-// The Jackpot (1950)
-// The Jammed (2007)
-// The Jane Austen Book Club (2007)
-// The January Man (1989)
-// The Japanese Wife (2010)
-// The Japanese Woman (1919)
-// The Jar (1984)
-// The Jar: A Tale From the East (2001)
-// The Jay Bird (1920)
-// The Jayhawkers! (1959)
-// The Jayne Mansfield Story (1980 TV)
-// The Jazz Cinderella (1930)
-// The Jazz Girl (1926)
-// The Jazz Singer: (1927, 1952 & 1980)
-// The Jerk (1979)
-// The Jerk, Too (1984 TV)
-// The Jerky Boys: The Movie (1995)
-// The Jesse Owens Story (1984) (TV)
-// The Jetsons & WWE: Robo-WrestleMania! (2017)
-// The Jetsons Meet the Flintstones (1987)
-// The Jewel of the Nile (1985)
-// The Jezebels (1975)
-// The Joker: (1928 & 1960)
-// The Jokers (1967)
-// The Jolson Story (1946)
-// The Joneses (2010)
-// The Joy Luck Club (1993)
-// The Judge and the Assassin (1976)
-// The Judge: (1960, 1984, 2014, & 2017)
-// The Jungle Book 2 (2003)
-// The Jungle Book: (1967, 1994 & 2016)
-// The Jungle Book: Mowgli's Story (1998)
-// The Jungle: (1914, 1952, & 1967)
-// The Junkman (1982)
-// The Junky's Christmas (1993)
-// The Juror (1996)
-// The Kaiser's Shadow (1918)
-// The Kaiser, the Beast of Berlin (1918)
-// The Kalemites Visit Gibraltar (1912)
-// The Kangaroo Kid (1950)
-// The Kansan (1943)
-// The Kansas City Massacre (1975 TV)
-// The Kansas Terrors (1939)
-// The Karamazovs (2008)
-// The Karaoke King (2007)
-// The Karate Dog (2004 TV)
-// The Karate Guard (2005)
-// The Karate Kid Part II (1986)
-// The Karate Kid Part III (1989)
-// The Karate Kid: (1984 & 2010)
-// The Karate Killers (1967)
-// The Karen Carpenter Story (1989 TV)
-// The Karnival Kid (1929)
-// The Karthauzer (1916)
-// The Kate Logan Affair (2010)
-// The Katnips of 1940 (1934)
-// The Kautokeino Rebellion (2008)
-// The Keep (1983)
-// The Kennel Murder Case (1933)
-// The Kentuckian (1955)
-// The Kentucky Fried Movie (1977)
-// The Keys of the Kingdom (1944)
-// The Kibitzer (1930)
-// The Kick (2011)
-// The Kickback (1922)
-// The Kid & I (2005)
-// The Kid Brother (1927)
-// The Kid Comes Back (1938)
-// The Kid Rides Again (1943)
-// The Kid Sister (1945)
-// The Kid Stakes (1927)
-// The Kid Stays in the Picture (2002)
-// The Kid Who Couldn't Miss (1983)
-// The Kid Who Would Be King (2019)
-// The Kid and the Cowboy (1919)
-// The Kid from Borneo (1933)
-// The Kid from Broken Gun (1952)
-// The Kid from Brooklyn (1946)
-// The Kid from Cleveland (1949)
-// The Kid from Kansas (1941)
-// The Kid from Kokomo (1939)
-// The Kid from Left Field: (1953 & 1979)
-// The Kid from Spain (1932)
-// The Kid from Texas: (1939 & 1950)
-// The Kid from the Big Apple (2016)
-// The Kid with a Bike (2011)
-// The Kid with the 200 I.Q. (1983)
-// The Kid with the Broken Halo (1982)
-// The Kid's Clever (1929)
-// The Kid: (1910, 1921, 1950, 1999, 2000, 2010 & 2019)
-// The Kiddies in the Ruins (1918)
-// The Kidnapped Bride (1914)
-// The Kidnapper (1958)
-// The Kidnappers (1953)
-// The Kidnapping of Lola (1986)
-// The Kidnapping of Michel Houellebecq (2014)
-// The Kidnapping of the President (1980)
-// The Kids (1957)
-// The Kids Are All Right (2010)
-// The Kids Are Alright (1979)
-// The Kids Grow Up (1942)
-// The Kids Menu (2016)
-// The Kids from the Marx and Engels Street (2014)
-// The Kids from the Port (2013)
-// The Kids in the Shoe (1935)
-// The Killer Elite (1975)
-// The Killer Inside Me: (1976 & 2010)
-// The Killer Shrews (1959)
-// The Killer: (1953, 1972, 1989, 2006 & 2017)
-// The Killers: (1946, 1956 & 1964)
-// The Killing (1956)
-// The Killing Fields (1984)
-// The Killing Gene (2008)
-// The Killing Room (2009)
-// The Killing of Sister George (1968)
-// The Killing of a Chinese Bookie (1976)
-// The Killing of a Sacred Deer (2017)
-// The King and I: (1956 & 1999)
-// The King and the Clown (2005)
-// The King of Comedy (1983)
-// The King of Kings: (1927 & 1963)
-// The King of Kong: A Fistful of Quarters (2008)
-// The King of Marvin Gardens (1972)
-// The King of Masks (1996)
-// The King – Jari Litmanen (2012)
-// The King's Speech (2010)
-// The King: (1995, 2002, 2005, 2007, 2017 Korean, 2017 American, & 2019)
-// The Kingdom (2007)
-// The Kings of Summer (2013)
-// The Kirishima Thing (2012)
-// The Kiss of Evil (2011)
-// The Kiss of the Vampire (1963)
-// The Kiss: (1896 & 2003)
-// The Kitchen: (1961, 2012 & 2019)
-// The Kite Runner (2007)
-// The Kites Flying in the Sky (2008)
-// The Klansman (1974)
-// The Knack ...and How to Get It (1965)
-// The Knot: (1921 & 2006)
-// The Komediant (2000)
-// The Kon Ichikawa Story (2006)
-// The Kook (2011)
-// The Kopanoi (1987)
-// The Korean Connection (1974)
-// The Korean Wedding Chest (2009)
-// The Kovak Box (2006)
-// The Krays (1990)
-// The Kremlin Letter (1970)
-// The Kreutzer Sonata: (1911, 1915, 1920, 1922, 1927, 1937, 1987 & 2008)
-// The Kung Fu Instructor (1979)
-// The Kung Fu Scholar (1993)
-// The Kunoichi: Ninja Girl (2011)
-// The Kurnell Story (1957)
-// The Kwannon of Okadera (1920)
-// The Ladies Man: (1961 & 2000)
-// The Lady Eve (1941)
-// The Lady Vanishes: (1938, 1979 & 2013)
-// The Lady from Shanghai (1948)
-// The Lady in the Van (2015)
-// The Lady: (1925 & 2011)
-// The Ladykillers: (1955 & 2004)
-// The Lair of the White Worm (1988)
-// The Lake House (2006)
-// The Lamb: (1915 & 1918)
-// The Lame Devil (1948, French: Le Diable boiteux)
-// The Land Before Time (1988)
-// The Land Before Time II: The Great Valley Adventure (1994)
-// The Land Before Time III: The Time of the Great Giving (1995)
-// The Land Before Time IV: Journey Through the Mists (1996)
-// The Land Before Time IX: Journey to Big Water (2002)
-// The Land Before Time V: The Mysterious Island (1997)
-// The Land Before Time VI: The Secret of Saurus Rock (1998)
-// The Land Before Time VII: The Stone of Cold Fire (2000)
-// The Land Before Time VIII: The Big Freeze (2001)
-// The Land Before Time X: The Great Longneck Migration (2003)
-// The Land Before Time XI: Invasion of the Tinysauruses (2005)
-// The Land Before Time XII: The Great Day of the Flyers (2006)
-// The Land Before Time XIII: The Wisdom of Friends (2007)
-// The Land Before Time XIV: Journey of the Brave (2016)
-// The Land That Time Forgot: (1975 & 2009)
-// The Laramie Project (2002)
-// The Last Airbender (2010)
-// The Last American Hero (1973)
-// The Last American Virgin (1982)
-// The Last Boy Scout (1991)
-// The Last Broadcast (1998)
-// The Last Castle (2001)
-// The Last Command: (1928 & 1955)
-// The Last Days of Disco (1998)
-// The Last Detail (1973)
-// The Last Dragon (1985)
-// The Last Emperor (1987)
-// The Last Exorcism (2010)
-// The Last Exorcism Part II (2013)
-// The Last Five Years (2015)
-// The Last Horror Movie (2005)
-// The Last House on the Left: (1972 & 2009)
-// The Last Hunt (1956)
-// The Last King of Scotland (2006)
-// The Last Kiss: (2001 & 2006)
-// The Last Laugh (1924)
-// The Last Legion (2007)
-// The Last Man on Earth: (1924 & 1964)
-// The Last Metro (1980)
-// The Last Mimzy (2007)
-// The Last Movie (1971)
-// The Last Picture Show (1971)
-// The Last Polka (1984)
-// The Last Quarter (2004)
-// The Last Remake of Beau Geste (1977)
-// The Last Samurai (2003)
-// The Last Seduction (1994)
-// The Last Sharknado: It's About Time (2018)
-// The Last Song (2010)
-// The Last Stage (1947)
-// The Last Stand (2013)
-// The Last Starfighter (1984)
-// The Last Station (2009)
-// The Last Sunset (1961)
-// The Last Supper: (1994, 1995, 2003 & 2006)
-// The Last Survivors (2014)
-// The Last Temptation of Christ (1988)
-// The Last Time I Saw Paris (1955)
-// The Last Tycoon (1976)
-// The Last Unicorn (1982)
-// The Last Valley (1971)
-// The Last Waltz (1976)
-// The Last Wave (1977)
-// The Last Winter (2006)
-// The Last Women Standing (2015)
-// The Last of Sheila (1973)
-// The Last of the Mohicans: (1920 American, 1920 German, 1936 & 1992)
-// The Last: Naruto the Movie (2014)
-// The Late, Great Planet Earth (1978)
-// The Laughing Policeman (1974)
-// The Lavender Hill Mob (1951)
-// The Lawnmower Man (1992)
-// The Lead Singer and Dancer and His Woman (2015)
-// The League of Extraordinary Gentlemen (2003)
-// The League of Gentlemen (1960)
-// The League of Gentlemen's Apocalypse (2005)
-// The Learning Tree (1969)
-// The Ledge (2011)
-// The Left Hand of God (1955)
-// The Left Handed Gun (1958)
-// The Legend (1993)
-// The Legend of 1900 (1998)
-// The Legend of Bagger Vance (2000)
-// The Legend of Billie Jean (1985)
-// The Legend of Boggy Creek (1973)
-// The Legend of Hell House (1973)
-// The Legend of Hercules (2014)
-// The Legend of Sleepy Hollow (1949)
-// The Legend of Suriyothai (2001)
-// The Legend of Zorro (2005)
-// The Legend of the 7 Golden Vampires (1979)
-// The Legend of the Lone Ranger (1981)
-// The Lego Batman Movie (2017)
-// The Lego Movie (2013)
-// The Lego Movie 2: The Second Part (2019)
-// The Lego Ninjago Movie (2017)
-// The Leopard (1963)
-// The Leopard Man (1943)
-// The Letter: (1929 & 1940)
-// The Libertine: (2000 & 2005)
-// The Life Aquatic with Steve Zissou (2004)
-// The Life Before Her Eyes (2008)
-// The Life and Death of 9413: a Hollywood Extra (1928)
-// The Life and Death of Colonel Blimp (1943)
-// The Life and Death of Peter Sellers (2004)
-// The Life and Times of Rosie the Riveter (1980)
-// The Life of David Gale (2003)
-// The Life of Emile Zola (1937)
-// The Life of Oharu (1952)
-// The Life of Wu Xun (1950)
-// The Lifeguard (2013)
-// The Light Between Oceans (2016)
-// The Limey (1999)
-// The Limits of Control (2009)
-// The Lincoln Lawyer (2011)
-// The Lion King (1994)
-// The Lion King 1½ (2004)
-// The Lion King II: Simba's Pride (1998)
-// The Lion in Winter: (1968 & 2003 TV)
-// The List of Adrian Messenger (1963)
-// The Little Foxes (1941)
-// The Little Girl Who Lives Down the Lane (1976)
-// The Little Hut (1957)
-// The Little Mermaid (1989)
-// The Little Mermaid II: Return to the Sea (2000)
-// The Little Mermaid: Ariel's Beginning (2008)
-// The Little Prince:(1974 & 2015)
-// The Little Shop of Horrors (1960)
-// The Little Theatre of Jean Renoir (1970)
-// The Little Vampire (2000)
-// The Littlest Victims (1989)
-// The Lives of Others (2006)
-// The Lives of a Bengal Lancer (1935)
-// The Living Daylights (1987)
-// The Living Desert (1953)
-// The Lizzie McGuire Movie (2003)
-// The Lobo Paramilitary Christmas Special (2002)
-// The Lodger: (1932, 1944 & 2009)
-// The Lodger: A Story of the London Fog (1927)
-// The Lollipop Generation (2008)
-// The Lone Ranger: (2003 TV & 2013)
-// The Loneliness of the Long Distance Runner (1962)
-// The Lonely Guy (1984)
-// The Long Absence (1961)
-// The Long Good Friday (1980)
-// The Long Goodbye (1973)
-// The Long Gray Line (1955)
-// The Long Kiss Goodnight (1996)
-// The Long Riders (1980)
-// The Long Ships (1964)
-// The Long Voyage Home (1940)
-// The Long, Hot Summer (1958)
-// The Long, Long Trailer (1954)
-// The Longest Day (1962)
-// The Longest Night in Shanghai (2007)
-// The Longest Yard: (1974 & 2005)
-// The Look of Love (2013)
-// The Lookout (2007)
-// The Lord of the Rings (1978)
-// The Lord of the Rings: The Fellowship of the Ring (2001)
-// The Lord of the Rings: The Return of the King (2003)
-// The Lord of the Rings: The Two Towers (2002)
-// The Lords of Flatbush (1974)
-// The Lords of Salem (2013)
-// The Loser Takes It All (2002)
-// The Losers (2010)
-// The Loss of Sexual Innocence (1999)
-// The Lost 15 Boys: The Big Adventure on Pirates' Island (2014)
-// The Lost Battalion (1919)
-// The Lost Boys (1987)
-// The Lost City (2005)
-// The Lost Generation (1983)
-// The Lost Honour of Katharina Blum (1975)
-// The Lost Patrol (1934)
-// The Lost Skeleton of Cadavra (2001)
-// The Lost Weekend (1945)
-// The Lost World: (1925 & 1960)
-// The Lost World: Jurassic Park (1994)
-// The Love Boat (1976)
-// The Love Bug (1969)
-// The Love Guru (2008)
-// The Love Letter: (1998 & 1999)
-// The Love Parade (1929)
-// The Loved One (1965)
-// The Loved Ones (2010)
-// The Lovely Bones (2009)
-// The Lover (1992)
-// The Lovers of Montparnasse (1958)
-// The Lovers on the Bridge (1999)
-// The Lovers: (1946, 1958 & 1994)
-// The Lower Depths: (1936 & 1957)
-// The Lucky One (2012)
-// The Lucky Ones (2008)
-// The Lucky Texan (1934)
-// The Lure: (1914, 1933 & 2015)
-// The Luzhin Defence (2000)
-// The Machine Girl (2008)
-// The Machinist (2004)
-// The Mack (1973)
-// The Mackintosh Man (1973)
-// The Macomber Affair (1946)
-// The Mad Adventures of Rabbi Jacob (1973)
-// The Mad Ghoul (1943)
-// The Mad Monster (1942)
-// The Mad Racer (1926)
-// The Maddening (1995)
-// The Madness of King George (1994)
-// The Magdalene Sisters (2002)
-// The Maggie (1954)
-// The Magic 7 (2005) (TV)
-// The Magic Box (1951)
-// The Magic Christian (1969)
-// The Magic Flute: (1975 & 2006)
-// The Magic Roundabout (2005)
-// The Magic Sword: (1901, 1950 & 1962)
-// The Magic of Lassie (1978)
-// The Magical Legend of the Leprechauns (1999) (TV)
-// The Magician: (1898, 1926, 1958 & 2005)
-// The Magnificent Ambersons (1942)
-// The Magnificent Seven (1960 & 2016)
-// The Magnificent Seven Deadly Sins (1971)
-// The Maid (1991, 2005 & 2009)
-// The Maids (1975)
-// The Main Event (1979)
-// The Majestic (2001)
-// The Major and the Minor (1942)
-// The Making of Fanny and Alexander (1986)
-// The Makioka Sisters (1983)
-// The Maltese Falcon: (1931 & 1941)
-// The Man Behind the Mask (1936)
-// The Man Who Came to Dinner (1942)
-// The Man Who Captured Eichmann (1996)
-// The Man Who Could Work Miracles (1936)
-// The Man Who Cried (2000)
-// The Man Who Fell to Earth (1976)
-// The Man Who Knew Too Little (1997)
-// The Man Who Knew Too Much: (1934 & 1956)
-// The Man Who Loved Cat Dancing (1973)
-// The Man Who Loves Women (1983)
-// The Man Who Never Was (1956)
-// The Man Who Shot Liberty Valance (1962)
-// The Man Who Sued God (2001)
-// The Man Who Wasn't There (2001)
-// The Man Who Would Be King (1975)
-// The Man Without a Face (1993)
-// The Man Without a Past (2002)
-// The Man from Earth (2007)
-// The Man from Elysian Fields (2002)
-// The Man from Laramie (1955)
-// The Man from Nowhere (2010)
-// The Man from O.R.G.Y. (1970)
-// The Man from Snowy River (1982)
-// The Man from Snowy River II (1988)
-// The Man from Toronto (1933)
-// The Man from U.N.C.L.E. (2015)
-// The Man from the Deep River (1972)
-// The Man in Grey (1943)
-// The Man in the Gray Flannel Suit (1956)
-// The Man in the Iron Mask (1998)
-// The Man in the Moon (1991)
-// The Man in the White Suit (1951)
-// The Man on the Roof (1976)
-// The Man with One Red Shoe (1985)
-// The Man with Two Brains (1983)
-// The Man with the Golden Arm (1955)
-// The Man with the Golden Gun (1974)
-// The Man with the Iron Fists (2012)
-// The Man with the Iron Fists 2 (2015)
-// The Man: (1972 & 2005)
-// The Manchurian Candidate: (1962 & 2004)
-// The Mangler (1995)
-// The Mangler Reborn (2005)
-// The Manitou (1979)
-// The Manson Family (2004)
-// The Manxman (1929)
-// The Many Adventures of Winnie the Pooh (1977)
-// The Marathon Family (1982)
-// The Marine (2006)
-// The Marine 2 (2009)
-// The Marine 3: Homefront (2013)
-// The Marine 4: Moving Target (2015)
-// The Marine 5: Battleground (2017)
-// The Mark (1961)
-// The Mark of Zorro: (1920, 1940 & 1974 TV)
-// The Marriage of Maria Braun (1979)
-// The Martian (2015)
-// The Mask (1994)
-// The Mask of Dimitrios (1944)
-// The Mask of Fu Manchu (1932)
-// The Mask of Zorro (1998)
-// The Masked Saint (2015)
-// The Masque of the Red Death: (1964 & 1989)
-// The Master Mind (1914)
-// The Master: (1980, 1989, 2005, 2009, 2012 & 2015)
-// The Matador (2006)
-// The Match Factory Girl (1990)
-// The MatchMaker (1997)
-// The Matchmaker (1958)
-// The Mating Habits of the Earthbound Human (1999)
-// The Matrix (1999)
-// The Matrix Reloaded (2003)
-// The Matrix Revolutions (2003)
-// The Mattei Affair (1972)
-// The Mayor of Hell (1933)
-// The McKenzie Break (1970)
-// The Mechanic: (1972 & 2011)
-// The Medallion (2003)
-// The Medusa Touch (1978)
-// The Memory of Justice (1976)
-// The Memory of a Killer (2005)
-// The Memphis Belle: A Story of a Flying Fortress (1944)
-// The Men (1950)
-// The Men Who Stare at Goats (2009)
-// The Men Who Tread on the Tiger's Tail (1960)
-// The Mephisto Waltz (1971)
-// The Merchant of Four Seasons (1971)
-// The Merchant of Venice: (1916, 1923, 1953 & 2004)
-// The Mermaid: (1910, 1965 & 2016)
-// The Merry Gentleman (2009)
-// The Merry Widow (1925 & 1934)
-// The Message: (1976 & 2009)
-// The Messenger (2009)
-// The Messenger: The Story of Joan of Arc (1999)
-// The Messengers (2007)
-// The Meteor Man (1993)
-// The Metro (2011)
-// The Mexican (2001)
-// The Meyerowitz Stories (2017)
-// The Michelle Apartments (1995)
-// The Midnight Meat Train (2008)
-// The Mighty (1998)
-// The Mighty Ducks (1992)
-// The Mikado: (1939 & 1967)
-// The Milker's Mishap (1897)
-// The Milky Way: (1936, 1940 & 1969)
-// The Miller and the Sweep (1898)
-// The Million Dollar Duck (1971)
-// The Million Dollar Hotel (2000)
-// The Miniver Story (1950)
-// The Minus Man (1999)
-// The Miracle Man: (1919 & 1932)
-// The Miracle Match (2005)
-// The Miracle Worker: (1962, 1979 & 2000)
-// The Miracle of Joe Petrel (1984)
-// The Miracle of Morgan's Creek (1944)
-// The Miracle: (1912 German, 1912 UK, 1913, 1959, 1987, 1991, 2009, 2013 & 2015)
-// The Mirage: (1920 & 2015)
-// The Mirror Crack'd (1980)
-// The Mirror Has Two Faces (1996)
-// The Mirror: (1913, 1967, 1975, 1999 & 2015)
-// The Misfits (1961)
-// The Missing Person (2009)
-// The Missing: (1999, 2003 & 2017)
-// The Mission: (1983, 1986 & 1999)
-// The Missionary (1982)
-// The Missouri Breaks (1976)
-// The Mist (2007)
-// The Mistress of Spices (2006)
-// The Mod Squad (1999)
-// The Moguls (2005)
-// The Mole People (1956)
-// The Molly Maguires (1970)
-// The Moment of Truth (1965 film)
-// The Moment: (1979 & 2013)
-// The Money Pit (1986)
-// The Monkey King (2014)
-// The Monkey King 2 (2016)
-// The Monkey King 3 (2018)
-// The Monolith Monsters (1957)
-// The Monster Club (1981)
-// The Monster Squad (1987)
-// The Monster That Challenged the World (1957)
-// The Monster: (1925 & 1994)
-// The Monuments Men (2013)
-// The Moon Is Blue (1953)
-// The Moon-Spinners (1964)
-// The More the Merrier (1943)
-// The Morning After (1986)
-// The Mortal Instruments: City of Bones (2013)
-// The Mortal Storm (1940)
-// The Mosquito Coast (1986)
-// The Most Dangerous Game (1932)
-// The Most Hated Woman in America (2017)
-// The Mother (2003)
-// The Mother and the Whore (1973)
-// The Mothman Prophecies (2002)
-// The Motorcycle Diaries (2004)
-// The Mountain Between Us (2017)
-// The Mountain Road (1960)
-// The Mountain of the Cannibal God (1979)
-// The Mouse That Roared (1959)
-// The Mouth of the Wolf: (1988 & 2009)
-// The Mouthpiece (1932)
-// The Mummy Returns (2001)
-// The Mummy's Curse (1944)
-// The Mummy's Ghost (1944)
-// The Mummy's Hand (1940)
-// The Mummy's Tomb (1942)
-// The Mummy: (1932, 1999 & 2017)
-// The Mummy: Tomb of the Dragon Emperor (2008)
-// The Muppet Christmas Carol (1992)
-// The Muppet Movie (1979)
-// The Muppets (2011)
-// The Muppets Take Manhattan (1984)
-// The Muppets' Wizard of Oz (2005 TV)
-// The Muse (1999)
-// The Music Box (1932)
-// The Music Lovers (1971)
-// The Music Man: (1962 & 2003 TV)
-// The Musketeer (2001)
-// The Musketeers of Pig Alley (1912)
-// The Mysterious Island (1929)
-// The Mystery of Death (2015)
-// The Myth (2005)
-// The Myth of Fingerprints (1997)
-// The Naked City (1948)
-// The Naked Edge (1961)
-// The Naked Feminist (2004)
-// The Naked Gun 2½: The Smell of Fear (1991)
-// The Naked Gun: From the Files of Police Squad! (1988)
-// The Naked Island (1962)
-// The Naked Jungle (1954)
-// The Naked Kiss (1964)
-// The Naked Maja (1958)
-// The Naked Prey (1965)
-// The Naked Proof (2003)
-// The Naked Runner (1967)
-// The Naked Spur (1957)
-// The Naked Truth: (1957 & 1992)
-// The Name of the Rose (1986)
-// The Nameless (1999)
-// The Namesake (2007)
-// The Nanny Diaries (2007)
-// The Nanny: (1965 & 1999)
-// The Narrow Margin (1952)
-// The Narrow Path: (1918 & 2006)
-// The Nasty Girl (1990)
-// The National Anthem (1999)
-// The National Health (1973)
-// The Nativity (1978)
-// The Nativity Story (2006)
-// The Natural (1984)
-// The Nature of the Beast: (1919 & 1995)
-// The Naughty Duchess (1928)
-// The Naughty Flirt (1931)
-// The Naughty List (2016)
-// The Naughty Nineties (1945)
-// The Naughty Otter (1916)
-// The Navajo's Bride (1910)
-// The Naval Commandos (1977)
-// The Navigator (1924)
-// The Navigator: A Medieval Odyssey (1988)
-// The Navigators (2002)
-// The Navy (1930)
-// The Navy Aviator (1914)
-// The Navy Comes Through (1942)
-// The Navy Lark (1959)
-// The Navy Way (1944)
-// The Navy vs. the Night Monsters (1966)
-// The Naxalites (1980)
-// The Nazi Plan (1945)
-// The Nazis Strike (1943)
-// The Neanderthal Man (1953)
-// The Nearsighted School Teacher (1898)
-// The Negotiator (1998)
-// The Neon Bible (1995)
-// The Neon Demon (2016)
-// The Nest: (1927, 1980, 1988 & 2002)
-// The Nesting (1981)
-// The Net 2.0 (2006)
-// The Net: (1953, 1975 & 1995)
-// The Nevadan (1950)
-// The NeverEnding Story II: The Next Chapter (1990)
-// The NeverEnding Story III (1994)
-// The Neverending Story (1984)
-// The New Adventures of Pippi Longstocking (1988)
-// The New Age (1994)
-// The New Daughter (2010)
-// The New Guy (2002)
-// The New Janitor (1914)
-// The New Mutants (2019)
-// The New World (2005 & 2011)
-// The New Year (2010)
-// The New York Ripper (1982)
-// The Newton Boys (1998)
-// The Next Best Thing (2000)
-// The Next Karate Kid (1994)
-// The Next Three Days (2010)
-// The Next of Kin (1942)
-// The Nice Guys (2016)
-// The Nickel Ride (1974)
-// The Nickel-Hopper (1926)
-// The Nifty Nineties (1941)
-// The Night (1992)
-// The Night Angel (1931)
-// The Night Before Christmas: (1905, 1913, 1933, 1941 & 1951)
-// The Night Before the Divorce (1942)
-// The Night Before the Night Before Christmas (2010 TV)
-// The Night Before the Premiere (1959)
-// The Night Before: (1988 & 2015)
-// The Night Belongs to Us (1929)
-// The Night Bird (1928)
-// The Night Brings Charlie (1990)
-// The Night Bus (2007)
-// The Night Caller (1998)
-// The Night Clerk (TBD)
-// The Night Club (1925)
-// The Night Club Lady (1932)
-// The Night Club Queen (1934)
-// The Night Coachman (1928)
-// The Night Comes for Us (2018)
-// The Night Crew (2015)
-// The Night Cry (1926)
-// The Night Digger (1971)
-// The Night Eats the World (2018)
-// The Night Evelyn Came Out of the Grave (1971)
-// The Night Falls (1952)
-// The Night Flier (1997)
-// The Night Flier (1998)
-// The Night Flyer (1928)
-// The Night God Screamed (1971)
-// The Night Has Eyes (1942)
-// The Night Listener (2006)
-// The Night Porter (1974)
-// The Night That Panicked America (1975) (TV)
-// The Night Watch: (1926 & 2011)
-// The Night Watchman: (1938 & 2008)
-// The Night of the Following Day (1968)
-// The Night of the Generals (1967)
-// The Night of the Iguana (1964)
-// The Night of the Shooting Stars (1982)
-// The Night of the White Pants (2006)
-// The Nightingale (2018)
-// The Nightmare Before Christmas (1993)
-// The Nine Lives of Fritz the Cat (1974)
-// The Nines (2007)
-// The Ninth Configuration (1980)
-// The Ninth Day (2004)
-// The Ninth Gate (1999)
-// The Noah (1975)
-// The Noose (1928)
-// The Normal Heart (2014)
-// The North Star (1943)
-// The Notebook: (2004 & 2013)
-// The Notorious Bettie Page (2006)
-// The November Man (2014)
-// The Nude Bomb (1980)
-// The Nugget (2002)
-// The Number (2017)
-// The Number 23 (2007)
-// The Nun's Story (1959)
-// The Nun: (1966, 2005, 2013, & 2018)
-// The Nut (1921)
-// The Nut Job (2014)
-// The Nut Job 2: Nutty by Nature (2017)
-// The Nutcracker (1973)
-// The Nutcracker and the Four Realms (2018)
-// The Nutcracker in 3D (2009)
-// The Nutty Professor: (1963 & 1996)
-// The Nymph (1996)
-// The OH in Ohio (2006)
-// The Oasis (2008)
-// The Object of My Affection (1998)
-// The Objective (2008)
-// The Oblong Box (1969)
-// The Ocean (2006)
-// The Octagon (1980)
-// The Odd Angry Shot (1979)
-// The Odd Couple (1968)
-// The Odd Couple II (1998)
-// The Odd Job (1978)
-// The Odd Life of Timothy Green (2012)
-// The Odessa File (1974)
-// The Off Season (2004)
-// The Offence (1973)
-// The Offenders (1921)
-// The Office (1966)
-// The Office Wife: (1930 & 1934)
-// The Official Story (1985)
-// The Oil, the Baby and the Transylvanians (1981)
-// The Oklahoma Kid (1939)
-// The Oklahoma Woman (1956)
-// The Old Dark House (1932)
-// The Old Grey Hare (1944)
-// The Old Guard: (1934 & 1960)
-// The Old Homestead: (1915, 1922, 1935, & 1942)
-// The Old Lady (1932)
-// The Old Maid: (1939 & 1972)
-// The Old Man & the Gun (2018)
-// The Old Man and the Sea: (1958 & 1999)
-// The Old Man: (1931 & 2012)
-// The Old Mill (1937)
-// The Old Mill Pond (1936)
-// The Omega Code (1999)
-// The Omega Man (1971)
-// The Omen: (1976 & 2006)
-// The One and Only (1978, 1999 & 2002)
-// The One and Only, Genuine, Original Family Band (1968)
-// The One: (2001 & 2003)
-// The Onion Field (1980)
-// The Onion Movie (2008)
-// The Only Son: (1941 & 1936)
-// The Oogieloves in the Big Balloon Adventure (2012)
-// The Opening of Misty Beethoven (1965)
-// The Operator (2000)
-// The Opium War (1997)
-// The Opposite of Sex (1998)
-// The Optimists of Nine Elms (1974)
-// The Orange Sky (2006)
-// The Oranges (2011)
-// The Ordeal (2005)
-// The Order: (2001 & 2003)
-// The Organizer (1963)
-// The Original Kings of Comedy (2000)
-// The Original Sin (1948)
-// The Originals (2017)
-// The Orphan (1960)
-// The Orphan of Anyang (2001)
-// The Orphanage (2008)
-// The Oscar (1966)
-// The Osterman Weekend (1983)
-// The Other Boleyn Girl: (2003 TV & 2008)
-// The Other Final (2003)
-// The Other Guys (2010)
-// The Other Half: (1919 & 2006)
-// The Other Man: (1916 & 2008)
-// The Other Side of Heaven (2001)
-// The Other Side of Midnight (1977)
-// The Other Side of the Bed (2002)
-// The Other Side of the Wind (1972)
-// The Other Side: (1931, 2006, 2011, 2012 & 2015)
-// The Other Sister (1999)
-// The Other Woman: (1954, 1983, 1995, 2009, & 2014)
-// The Other: (1913, 1930, 1972 & 1999)
-// The Others: (1974 & 2001)
-// The Ottoman Lieutenant (2017)
-// The Out-of-Towners: (1970 & 1999)
-// The Outcast: (1934 & 1954)
-// The Outcasts: (1982, 2007 & 2017)
-// The Outfield (2015)
-// The Outfit (1973)
-// The Outlaw Josey Wales (1976)
-// The Outlaw: (1939, 1943 & 2010)
-// The Outlaws Is Coming (1965)
-// The Outpost (1995)
-// The Outrage (1964)
-// The Outsider: (1926, 1931, 1939, 1948, 1961, 1980, 1998 TV, 2002, 2014 & 2018)
-// The Outsiders (1983)
-// The Over the Hill Band (2009)
-// The Over-the-Hill Gang (1969 TV)
-// The Over-the-Hill Gang Rides Again (1970 TV)
-// The Overbrook Brothers (2009)
-// The Overcoat: (1926, 1952, 1959 & unfinished)
-// The Overeater (2003)
-// The Overland Limited (1925)
-// The Overland Stage (1927)
-// The Overland Telegraph (1929)
-// The Overlanders (1946)
-// The Overnight (2015)
-// The Overnighters (2014)
-// The Overtaxed (1959)
-// The Overture (2004)
-// The Owl Who Married a Goose: An Eskimo Legend (1974)
-// The Owl and the Pussycat (1970)
-// The Owl vs Bombo (1984)
-// The Owl: (1927 & 1991)
-// The Owner (2012)
-// The Owners (2014)
-// The Ox (1991)
-// The Ox-Bow Incident (1943)
-// The Oxbow Cure (2013)
-// The Oxford Murders (2008)
-// The Oxford and Cambridge University Boat Race (1895)
-// The Oyster Dredger (1915)
-// The Oyster Princess (1919)
-// The Pacifier (2005)
-// The Pack: (1977, 2010 & 2015)
-// The Package: (1989 & 2013)
-// The Pact: (2002 TV, 2003, 2006 & 2012)
-// The Page Turner (2006)
-// The Pagemaster (1994)
-// The Painted Desert (1930)
-// The Painted Veil: (1934 & 2006)
-// The Pajama Game (1957)
-// The Paleface: (1922 & 1948)
-// The Pallbearer (1996)
-// The Palm Beach Story (1942)
-// The Panic in Needle Park (1971)
-// The Paper (1994)
-// The Paper Chase (1973)
-// The Paperboy: (1994 & 2012)
-// The Parade (2011)
-// The Paradine Case (1947)
-// The Parallax View (1974)
-// The Parent Trap II (1986 TV)
-// The Parent Trap: (1961 & 1998)
-// The Park (2003 & 2007)
-// The Parole Officer (2001)
-// The Party at Kitty and Stud's (1970)
-// The Party: (1968 & 2017)
-// The Passenger – Welcome to Germany (1988)
-// The Passenger: (1975, 2005 Éric Caravaca & 2005 François Rotger)
-// The Passengers: (1977 & 1999)
-// The Passion of Anna (1969)
-// The Passion of Joan of Arc (1928)
-// The Passion of the Christ (2004)
-// The Password is Courage (1962)
-// The Past-Master (1970)
-// The Patchwork Girl of Oz (1914)
-// The Patent Leather Kid (1927)
-// The Path to Power (1996)
-// The Path to Ultimate Strength (1996)
-// The Pathfinder: (1952 & 1996 TV)
-// The Patriot: (1928, 1998 & 2000)
-// The Patsy: (1928 & 1964)
-// The Pawnbroker (1964)
-// The Pawnshop (1916)
-// The Peacemaker: (1922, 1956 & 1997)
-// The Peach Girl (1931)
-// The Peanut Butter Solution (1985)
-// The Peanuts Movie (2015)
-// The Pearl of Death (1944)
-// The Pearls of the Stone Man (2015)
-// The Pebble and the Penguin (1996)
-// The Pelican Brief (1993)
-// The Penalty (1920)
-// The Pentagon Wars (1998 TV)
-// The People That Time Forgot (1977)
-// The People Under the Stairs (1991)
-// The People vs. George Lucas (2010)
-// The People vs. Larry Flynt (1996)
-// The Perfect Couple (2007)
-// The Perfect Guy (2015)
-// The Perfect Host (2011)
-// The Perfect Man (2005)
-// The Perfect Score (2004)
-// The Perfect Son (2000)
-// The Perfect Storm (2000)
-// The Perils of Gwendoline in the Land of the Yik-Yak (1984)
-// The Perils of Pauline: (1914, 1933, 1947 & 1967)
-// The Perks of Being a Wallflower (2012)
-// The Persecution and Assassination of Jean-Paul Marat as Performed by the Inmates of the Asylum at Charenton Under the Direction of the Marquis de Sade (1967)
-// The Pest: (1917, 1922 & 1997)
-// The Petrified Forest (1936)
-// The Phantom Carriage: (1921 & 1958)
-// The Phantom Lady (1945)
-// The Phantom Planet (1961)
-// The Phantom Tollbooth (1970)
-// The Phantom from 10,000 Leagues (1955)
-// The Phantom of Hollywood (1974 TV)
-// The Phantom of Liberty (1974)
-// The Phantom of the Opera: (1925, 1943, 1962, 1989, 1998 & 2004)
-// The Phantom: (1931 & 1996)
-// The Philadelphia Experiment (1984)
-// The Philadelphia Story (1940)
-// The Phone (2015)
-// The Photographical Congress Arrives in Lyon (1895)
-// The Phynx (1970)
-// The Pianist: (1991, 1998 & 2002)
-// The Piano (1993)
-// The Piano Teacher (2001)
-// The Pick-up Artist (1987)
-// The Picture of Dorian Gray: (1913, 1915, 1916, 1917, 1918, 1945, 1976 TV & 2004)
-// The Pigeon Egg Strategy (1998)
-// The Pilgrim: (1923 & 2014)
-// The Pillow Book (1996)
-// The Pink Panther 2 (2009)
-// The Pink Panther Deux (2009)
-// The Pink Panther Strikes Again (1976)
-// The Pink Panther: (1963 & 2006)
-// The Pirate Movie (1982)
-// The Pirate: (1947, 1973, 1978 & 1984)
-// The Pirates (2014)
-// The Pirates Who Don't Do Anything: A VeggieTales Movie (2008)
-// The Pirates! In an Adventure with Scientists! (2012)
-// The Pit and the Pendulum: (1961 & 1990)
-// The Place Beyond the Pines (2013)
-// The Place Promised in Our Early Days (2004)
-// The Plague Dogs (1982)
-// The Plague of the Zombies (1966)
-// The Plague: (1992 & 2006)
-// The Plan: (2014 & 2015)
-// The Plank: (1967 & 1979)
-// The Plastic Age (1925)
-// The Player (1992)
-// The Players Club (1998)
-// The Playhouse (1921)
-// The Pleasure Garden: (1925 & 1952)
-// The Pledge (2001)
-// The Plow That Broke the Plains (1936)
-// The Pod People (1983)
-// The Point! (1971)
-// The Polar Express (2004)
-// The Pool: (2007 & 2009)
-// The Poor Little Rich Girl (1917)
-// The Pope Must Die (1991)
-// The Pope of Greenwich Village (1984)
-// The Pornographers (1966)
-// The Portrait of a Lady (1996)
-// The Poseidon Adventure: (1972 & 2005 TV)
-// The Possession (2012)
-// The Post (2017)
-// The Postcard Bandit (2003)
-// The Postman (1997)
-// The Postman Always Rings Twice: (1946 & 1981)
-// The Poughkeepsie Tapes (2007)
-// The Power (1968)
-// The Power and the Glory: (1933 & 1941)
-// The Power of Myth (1988) (TV)
-// The Power of One (1992)
-// The Power of the Press (1928)
-// The Preacher's Wife (1996)
-// The Predator (2018)
-// The President's Analyst (1967)
-// The President's Barber (2004)
-// The President's Lady (1953)
-// The President's Last Bang (2005)
-// The Presidio (1988)
-// The Prestige (2006)
-// The Price of Milk (2000)
-// The Price of Power (1969)
-// The Price: (1924 & 2017)
-// The Pride and the Passion (1957)
-// The Pride of the Yankees (1942)
-// The Priests (2015)
-// The Prime of Miss Jean Brodie (1969)
-// The Primrose Ring (1917)
-// The Prince & Me (2004)
-// The Prince & Me 2: The Royal Wedding (2006)
-// The Prince & Me: A Royal Honeymoon (2008)
-// The Prince & Me: The Elephant Adventure (2010)
-// The Prince and the Pauper (1937)
-// The Prince and the Showgirl (1957)
-// The Prince of Egypt (1998)
-// The Prince of Tides (1991)
-// The Princess Bride (1987)
-// The Princess Comes Across (1936)
-// The Princess Diaries (2001)
-// The Princess Diaries 2: Royal Engagement (2004)
-// The Princess and the Frog (2009)
-// The Princess and the Warrior (2000)
-// The Principal (1987)
-// The Prisoner of Second Avenue (1975)
-// The Prisoner of Zenda: (1937 & 1952)
-// The Private Eyes (1980)
-// The Private Life of Helen of Troy (1927)
-// The Private Life of Henry VIII (1933)
-// The Private Life of Sherlock Holmes (1970)
-// The Private Lives of Elizabeth and Essex (1939)
-// The Private Lives of Pippa Lee (2009)
-// The Prize Winner of Defiance, Ohio (2005)
-// The Prize: (1950, 1963 & 2011)
-// The Prizefighter and the Lady (1933)
-// The Producers: (1968 & 2005)
-// The Professionals (1966)
-// The Profit (2001)
-// The Profound Desire of the Gods (1968)
-// The Program (1993)
-// The Projected Man (1967)
-// The Promise: (1979, 1995, 1996, 2005, 2007 & 2016)
-// The Promised Land: (1925, 1973, 1975, 1986 & 2015)
-// The Proof of the Man (1913)
-// The Prophecy (1995)
-// The Prophecy 3: The Ascent (2000)
-// The Prophecy II (1998)
-// The Prophecy: Forsaken (2005)
-// The Prophecy: Uprising (2005)
-// The Proposal: (1957 & 2009)
-// The Proposition: (1998 & 2005)
-// The Protector: (1985 & 2005)
-// The Proud Valley (1940)
-// The Prowler: (1951 & 1981)
-// The Public Enemy (1931)
-// The Puffy Chair (2007)
-// The Punch Bowl (1944)
-// The Punch and Judy Man (1962)
-// The Punisher: (1989 & 2004)
-// The Punisher: Dirty Laundry (2012)
-// The Punk Rock Movie (1977)
-// The Puppet Masters (1994)
-// The Puppetmaster (1993)
-// The Pure Hell of St Trinian's (1960)
-// The Purge (2013)
-// The Purge: Anarchy (2014)
-// The Purge: Election Year (2016)
-// The Purge: The Island (2018)
-// The Purple Rose of Cairo (1985)
-// The Pursuit of D. B. Cooper (1981)
-// The Pursuit of Happyness (2006)
-// The Puzzling Challenge Letter of the Mysterious Thief Dorapan (1997)
-// The Quack (1982)
-// The Quail Hunt (1935)
-// The Quake (2018)
-// The Quakeress (1913)
-// The Qualified Adventurer (1925)
-// The Quality of Mercy (1994)
-// The Quarrel (1991)
-// The Quarry (1998)
-// The Quatermass Experiment (2005 TV)
-// The Quatermass Xperiment (1955)
-// The Queen Is in the Factory (2008)
-// The Queen and I (2008)
-// The Queen of Hearts (2009)
-// The Queen of Sheba's Pearls (2004)
-// The Queen of Sheba: (1921 & 1952)
-// The Queen of Spades: (1916, 1960 & 1982)
-// The Queen of Versailles (2012)
-// The Queen of the Night (1994)
-// The Queen's Affair (1934)
-// The Queen's Corgi (2019)
-// The Queen's Flower (1946)
-// The Queen: (1968, 2006 & 2012)
-// The Queens of Comedy (2001)
-// The Quest (1996)
-// The Questor Tapes (1974)
-// The Quick and the Dead (1995)
-// The Quick and the Undead (2006)
-// The Quiet (2005)
-// The Quiet American: (1958 & 2002)
-// The Quiet Duel (1949)
-// The Quiet Earth (1985)
-// The Quiet Family (1998)
-// The Quiet Man (1952)
-// The Quiet Ones: (2010 & 2014)
-// The Quiet Room (1996)
-// The Quiet Storm (2007)
-// The Quiller Memorandum (1966)
-// The R.M. (2003)
-// The Race: (1916 & 2002)
-// The Racket: (1928 & 1951)
-// The Rage in Placid Lake (2002)
-// The Rage: Carrie 2 (1999)
-// The Raid 2 (2014)
-// The Raid: Redemption (2011)
-// The Railroad (2007)
-// The Railway Children (1970)
-// The Railway Man (2013)
-// The Rain People (1969)
-// The Rainbow (1989)
-// The Rainmaker: (1956 & 1997)
-// The Rains Came (1939)
-// The Rapture (1991)
-// The Rare Breed (1966)
-// The Raspberry Reich (2004)
-// The Rat Pack (1998) (TV)
-// The Raven: (1915, 1935, 1963, 2006 & 2012)
-// The Razor's Edge: (1946 & 1984)
-// The Reader (2008)
-// The Real Blonde (1997)
-// The Real Cancun (2003)
-// The Real McCoy (1993)
-// The Reaping (2007)
-// The Rebel Rousers (1970)
-// The Rebel: (1915, 1931, 1932, 1961, 1980 French, 1980 Italian, 1993 & 2007)
-// The Rebels (1979)
-// The Rebound (2009)
-// The Reckless Moment (1949)
-// The Reckoning (2003)
-// The Record (2000)
-// The Record of a Tenement Gentleman (1947)
-// The Recruit (2003)
-// The Red Awn (2007)
-// The Red Badge of Courage (1951)
-// The Red Balloon (1956)
-// The Red Baron (2007)
-// The Red House (1947)
-// The Red Pony (1949)
-// The Red Shoes (1948)
-// The Red Violin (1999)
-// The Red and the White (1968)
-// The Redhead from Wyoming (1953)
-// The Reef (2010)
-// The Ref (1994)
-// The Reflecting Skin (1990)
-// The Rehearsal (1974 and 2016)
-// The Reivers (1969)
-// The Relic (1997)
-// The Reluctant Astronaut (1967)
-// The Reluctant Dragon (1941)
-// The Reluctant Fundamentalist (2013)
-// The Remains of the Day (1993)
-// The Replacement Killers (1998)
-// The Replacements (2000)
-// The Reptile (1966)
-// The Rescuers (1977)
-// The Rescuers Down Under (1990)
-// The Resident (2011)
-// The Restless (2006)
-// The Return (2006)
-// The Return of Captain Invincible (1983)
-// The Return of Captain Nemo (1978) (TV)
-// The Return of Frank James (1940)
-// The Return of Godzilla (1984)
-// The Return of Jafar (1994)
-// The Return of Martin Guerre (1982)
-// The Return of Swamp Thing (1989)
-// The Return of a Man Called Horse (1976)
-// The Return of the King (1980)
-// The Return of the Living Dead (1985)
-// The Return of the Musketeers (1989)
-// The Return of the Pink Panther (1975)
-// The Return of the Vampire (1943)
-// The Revenant: (2009 & 2015)
-// The Revenge (2002)
-// The Revenge of Frankenstein (1958)
-// The Revolution Will Not Be Televised (2002)
-// The Rhythm Section (2019)
-// The Right Mistake (2015)
-// The Right Stuff (1983)
-// The Right Way (2004)
-// The Ring Two (2005)
-// The Ring Virus (1999)
-// The Ring: (1927, 2002, & 2017)
-// The Ringer: (1928, 1931, 1952, 2005 & 2013)
-// The Rise of a Tomboy (2016)
-// The Rite: (1969 & 2011)
-// The Ritual: (2009 & 2017)
-// The Ritz (1976)
-// The River Fuefuki (1960)
-// The River Wild (1994)
-// The River: (1938, 1951 & 1984)
-// The Road Back (1937)
-// The Road Home: (1999 & 2003)
-// The Road to El Dorado (2000)
-// The Road to Guantánamo (2006)
-// The Road to Hong Kong (1962)
-// The Road to Ruin: (1913, 1928 & 1934)
-// The Road to Wellville (1994)
-// The Road: (1964, 2001, 2009, 2011 & 2015)
-// The Roaring Twenties (1939)
-// The Robber (2010)
-// The Robber Bride (1916)
-// The Robber Kitten (1935)
-// The Robber Symphony (1936)
-// The Robbers (1962)
-// The Robbery (1953)
-// The Robbery of the Third Reich (2004)
-// The Robe (1953)
-// The Roberts Case (1933)
-// The Robot vs. The Aztec Mummy (1958)
-// The Rochdale Pioneers (2012)
-// The Rock 'n' Roll Dreams of Duncan Christopher (2010)
-// The Rock (1996)
-// The Rock Star and the Mullahs (2003)
-// The Rock n' Roll Cops (2003)
-// The Rock of Souls (1942)
-// The Rocker (2008)
-// The Rocket Man (1957)
-// The Rocket Post (2004)
-// The Rocket from Calabuch (1956)
-// The Rocket: (2005 & 2013)
-// The Rocketeer (1991)
-// The Rocking Horse Winner (1949)
-// The Rocks of Valpre: (1919 & 1935)
-// The Rocky Horror Picture Show (1975)
-// The Rocky Horror Picture Show: Let's Do the Time Warp Again (2016)
-// The Rocky Road (1910)
-// The Rogue (1918)
-// The Rogue Song (1930)
-// The Rogues (1987)
-// The Role of Her Life (2004)
-// The Roller Blade Seven (1991)
-// The Rolling Stones Rock and Roll Circus (1996)
-// The Roman Spring of Mrs. Stone (1961)
-// The Romantic Englishwoman (1975)
-// The Romantic President (2002)
-// The Rookie: (1990 & 2002)
-// The Room (2003)
-// The Roommate (2011)
-// The Roost (2006)
-// The Roots of Heaven (1958)
-// The Rose (1979)
-// The Rose Tattoo (1955)
-// The Rough House (1917)
-// The Rounders: (1914 & 1965)
-// The Rowdyman (1972)
-// The Royal Family of Broadway (1930)
-// The Royal Scandal (2001)
-// The Royal Tenenbaums (2001)
-// The Rugrats Movie (1998)
-// The Ruins (2008)
-// The Rules of Attraction (2002)
-// The Rules of the Game (1939)
-// The Ruling Class (1972)
-// The Rum Diary (2011)
-// The Runaways (2010)
-// The Rundown (2003)
-// The Running Jumping & Standing Still Film (1960)
-// The Running Man: (1963 & 1987)
-// The Russian Dolls (2005)
-// The Russian House (1990)
-// The Russians Are Coming, the Russians Are Coming (1966)
-// The Ryan White Story (1989)
-// The Sacrifice: (1979, 1986 & 2005)
-// The Sad Sack (1957)
-// The Saddest Music in the World (2003)
-// The Safety of Objects (2001)
-// The Saga of the Viking Women and Their Voyage to the Waters of the Great Sea Serpent (1957)
-// The Saint Meets the Tiger (1943)
-// The Saint Strikes Back (1939)
-// The Saint Takes Over (1940)
-// The Saint in London (1939)
-// The Saint in New York (1938)
-// The Saint in Palm Springs (1941)
-// The Saint's Double Trouble (1940)
-// The Saint's Return (1953)
-// The Saint's Vacation (1941)
-// The Saint: (1941, 1997 & 2017)
-// The Salesman: (2011 & 2016)
-// The Salt of the Earth (2014)
-// The Salton Sea: (2002 & 2016)
-// The Samaritan (2012)
-// The Sand Pebbles (1966)
-// The Sandlot (1993)
-// The Sandlot 2 (2005)
-// The Sandman: (1991 short, 2000 & 2011)
-// The Sandpiper (1965)
-// The Santa Clause (1994)
-// The Santa Clause 2 (2002)
-// The Santa Clause 3: The Escape Clause (2006)
-// The Saragossa Manuscript (1965)
-// The Satan Bug (1965)
-// The Satanic Rites of Dracula (1974)
-// The Savage Innocents (1959)
-// The Savage: (1917, 1926 & 1952)
-// The Savages (2008)
-// The Saved (1998)
-// The Scalphunters (1968)
-// The Scapegoat (1959)
-// The Scar of Shame (1927)
-// The Scarecrow of Romney Marsh (1963)
-// The Scarecrow: (1920, 1982, 2000 & 2013 short)
-// The Scarlet Claw (1944)
-// The Scarlet Empress (1934)
-// The Scarlet Letter: (1908, 1911, 1913, 1922, 1926, 1934, 1973, 1995 & 2004)
-// The Scarlet Pimpernel: (1934 & 1982)
-// The Scarlet Pumpernickel (1950)
-// The Scarlet Runner (1916)
-// The Scarlet and the Black (1983) (TV)
-// The Scent of Green Papaya (1994)
-// The Science of Sleep (2006)
-// The Score: (1978, 2001 & 2005)
-// The Scorpion King (1992)
-// The Scorpion King (2002)
-// The Scorpion King 2: Rise of a Warrior (2008)
-// The Scorpion King 3: Battle for Redemption (2012)
-// The Scorpion King 4: Quest for Power (2015)
-// The Scoundrel (1935)
-// The Scout (1994)
-// The Screaming Skull (1958)
-// The Scribbler (2014)
-// The Sea (2000)
-// The Sea Chase (1955)
-// The Sea Hawk (1940)
-// The Sea Inside (2004)
-// The Sea Wolf (1941)
-// The Sea Wolves (1980)
-// The Seafarers (1953)
-// The Searchers (1956)
-// The Second Hundred Years (1927)
-// The Second Jungle Book: Mowgli & Baloo (1998)
-// The Second Renaissance (2003)
-// The Second Woman (1951)
-// The Secret Diaries of Miss Anne Lister (2010)
-// The Secret Fury (1950)
-// The Secret Garden (1993)
-// The Secret Life of Bees (2008)
-// The Secret Life of Pets (2016)
-// The Secret Life of Walter Mitty: (1947 & 2013)
-// The Secret Life of Words (2005)
-// The Secret Lives of Dentists (2004)
-// The Secret War of Harry Frigg (1968)
-// The Secret World of Arrietty (2010)
-// The Secret in Their Eyes (2009)
-// The Secret of Kells (2009)
-// The Secret of My Success (1987)
-// The Secret of NIMH (1982)
-// The Secret of NIMH 2: Timmy to the Rescue (1997)
-// The Secret of Roan Inish (1994)
-// The Secret of the Grain (2007)
-// The Secret of the Submarine (1915)
-// The Secret: (2006 & 2016)
-// The Seduction of Mimi (1972)
-// The Seeker: The Dark Is Rising (2007)
-// The Sender (1982)
-// The Sensation of Sight (2006)
-// The Sentimental Bloke (1919)
-// The Sentinel: (1977 & 2006)
-// The Serpent and the Rainbow (1988)
-// The Serpent's Egg (1977)
-// The Serpent's Kiss (1997)
-// The Servant (1963)
-// The Sessions (2012)
-// The Set-Up (1949)
-// The Seven Pearls (1917)
-// The Seven Red Berets (1969)
-// The Seven Samurai (1954)
-// The Seven Year Itch (1955)
-// The Seven-Per-Cent Solution (1977)
-// The Seven-Ups (1973)
-// The Seventh Bullet (1972)
-// The Seventh Continent: (1966 & 1989)
-// The Seventh Cross (1944)
-// The Seventh Seal (1957)
-// The Seventh Sign (1988)
-// The Seventh Victim (1943)
-// The Sex Monster (1999)
-// The Sex of the Stars (1993)
-// The Shack (2017)
-// The Shadow (1994)
-// The Shaggy Dog: (1959 & 2006)
-// The Shanghai Gesture (1941)
-// The Shape of Things (2003)
-// The Shape of Water (2017)
-// The Shark (1929)
-// The Shawshank Redemption (1994)
-// The Sheepman (1958)
-// The Sheik (1921)
-// The Sheltering Sky (1990)
-// The Shepherd: Border Patrol (2008)
-// The Sheriff of Fractured Jaw (1958)
-// The Shielding Shadow (1916)
-// The Shining (1980)
-// The Shipment (2001)
-// The Shipping News (2001)
-// The Shiralee (1957)
-// The Shock (1923)
-// The Shoes of the Fisherman (1968)
-// The Shooting (1968)
-// The Shootist (1976)
-// The Shop Around the Corner (1940)
-// The Shop on Main Street (1965)
-// The Sicilian Clan (1969)
-// The Siege: (1956 & 1998)
-// The Signal (2008)
-// The Silence (1963)
-// The Silence of the Lambs (1991)
-// The Silencers (1966)
-// The Silent Historian (2011)
-// The Silent Partner (1978)
-// The Silent World (1956)
-// The Silver Chalice (1954)
-// The Silver Lining: (1915, 1919, 1921, 1927 & 1932)
-// The Simian Line (2000)
-// The Simple Things (1953)
-// The Simpsons Movie (2007)
-// The Sims (TBA)
-// The Sin of Madelon Claudet (1931)
-// The Singing Detective (2003)
-// The Singing Fool (1928)
-// The Singing Revolution (2006)
-// The Singles Ward (2002)
-// The Sino-Dutch War 1661 (2000)
-// The Siren (1917)
-// The Sisterhood of the Traveling Pants (2005)
-// The Sisterhood of the Traveling Pants 2 (2008)
-// The Sitter (2011)
-// The Sixth (1981)
-// The Sixth Sense (1999)
-// The Skeleton Dance (1929)
-// The Skeleton Key (2005)
-// The Skeleton Twins (2014)
-// The Skin (1981)
-// The Skin Game (1931)
-// The Skin I Live In (2012)
-// The Skulls (2000)
-// The Sky's the Limit (1943)
-// The Skydivers (1963)
-// The Slaughter Rule (2002)
-// The Sleeping City (1950)
-// The Sleeping Dictionary (2003)
-// The Sleeping Princess in Devil's Castle (1987)
-// The Slipper and the Rose (1976)
-// The Slugger's Wife (1985)
-// The Slumber Party Massacre (1982)
-// The Small Back Room (1949)
-// The Small One (1978)
-// The Smallest Show on Earth (1957)
-// The Smiling Lieutenant (1931)
-// The Smokers (2000)
-// The Smurfs (2011)
-// The Smurfs 2 (2013)
-// The Smurfs and the Magic Flute (1976)
-// The Snake King (2005) (TV)
-// The Snake King's Child (2001)
-// The Snake Pit (1948)
-// The Snapper (1993)
-// The Sniper (1952)
-// The Snow Creature (1954)
-// The Snowman: (1982 TV & 2017)
-// The Snows of Kilimanjaro (1952)
-// The Social Network (2010)
-// The Soft Skin (1964)
-// The Solitaire Man (1933)
-// The Soloist (2009)
-// The Son of Kong (1933)
-// The Son of the Sheik (1926)
-// The Son's Room (2001)
-// The Song Remains the Same (1976)
-// The Song of Bernadette (1943)
-// The Sons of Great Bear (1966)
-// The Sons of Katie Elder (1965)
-// The Sorcerer's Apprentice (2010)
-// The Sorcerers (1967)
-// The Sorrow and the Pity (1969)
-// The Sound Barrier (1952)
-// The Sound of Fury (1950)
-// The Sound of Music (1965)
-// The Source (2002)
-// The Southerner (1945)
-// The Space Between Us (2016)
-// The Spanish Apartment (2002)
-// The Spanish Main (1945)
-// The Spanish Prisoner (1997)
-// The Specialist (1994)
-// The Specials (2000)
-// The Spectacular Now (2013)
-// The Sperm (2007)
-// The Spider Woman (1944)
-// The Spider and the Fly: (1931 & 1949)
-// The Spider: (1940 & 1945)
-// The Spiders (1919)
-// The Spiderwick Chronicles (2008)
-// The Spiral Staircase: (1946, 1975 & 2000 TV)
-// The Spirit (2008)
-// The Spirit of St. Louis (1957)
-// The Spirit of the Beehive (1973)
-// The Spitfire Grill (1996)
-// The Split: (1959 & 1968)
-// The Spoilers: (1914, 1923, 1930, 1942 & 1955)
-// The SpongeBob Movie (2020)
-// The SpongeBob Movie: Sponge Out of Water (2015)
-// The SpongeBob SquarePants Movie (2004)
-// The Spook Who Sat by the Door (1973)
-// The Spring River Flows East (1947)
-// The Spy Next Door (2010)
-// The Spy Who Came in from the Cold (1965)
-// The Spy Who Dumped Me (2018)
-// The Spy Who Loved Me (1977)
-// The Spy in Black (1939)
-// The Spy: Undercover Operation (2013)
-// The Square: (1994, 2008, 2013 & 2017)
-// The Squaw Man: (1914, 1918 & 1931)
-// The Squawkin' Hawk (1942)
-// The Squid and the Whale (2005)
-// The St. Valentine's Day Massacre (1967)
-// The Stalking of Laurie Show (2000) (TV)
-// The Stand (1994)
-// The Stanford Prison Experiment (2015)
-// The Star Chamber (1983)
-// The Star Packer (1934)
-// The Star: (1952, 2002 & 2017)
-// The Starfighters (1964)
-// The Stars Look Down (1940)
-// The Statement (2003)
-// The Station Agent (2003)
-// The Steamroller and the Violin (1960)
-// The Steel Helmet (1951)
-// The Stendhal Syndrome (1996)
-// The Stepfather II (1989)
-// The Stepfather: (1987 & 2009)
-// The Stepford Wives: (1975 & 2004)
-// The Sterling Chase (1999)
-// The Sting (1973)
-// The Stoned Age (1994)
-// The Stoneman Murders (2009)
-// The Stoning of Soraya M. (2009)
-// The Stooge (1953)
-// The Stork Pays Off (1941)
-// The Storm Riders (1998)
-// The Stormy Night (2015)
-// The Story of Adele H. (1975)
-// The Story of G.I. Joe (1945)
-// The Story of Louis Pasteur (1936)
-// The Story of Mankind (1957)
-// The Story of Qiu Ju (1992)
-// The Story of Three Loves (1953)
-// The Story of Us (1999)
-// The Story of Vernon and Irene Castle (1939)
-// The Story of a Three-Day Pass (1968)
-// The Story of the Kelly Gang (1906)
-// The Story of the Last Chrysanthemum (1939)
-// The Story of the Weeping Camel (2003)
-// The Straight Story (1999)
-// The Strange Case of Dr. Jekyll and Mr. Hyde (2006)
-// The Strange House (2015)
-// The Strange Love of Martha Ivers (1946)
-// The Stranger: (1946 & 1967)
-// The Strangers (2008)
-// The Stratton Story (1949)
-// The Strawberry Blonde (1941)
-// The Strawberry Shortcake Movie: Sky's the Limit (2009)
-// The Strawberry Statement (1970)
-// The Street Fighter (1974)
-// The Street With No Name (1948)
-// The Strong Man (1926)
-// The Strongest Man in the World (1975)
-// The Student Prince in Old Heidelberg (1927)
-// The Stuff (1985)
-// The Stunt Man (1980)
-// The Stupids (1996)
-// The Subject Was Roses (1968)
-// The Substitute 2: School's Out (1998)
-// The Substitute 3: Winner Takes All (1999)
-// The Substitute 4: Failure Is Not an Option (2001)
-// The Substitute: (1993 TV, 1996, 2007 & 2015)
-// The Suburbans (1999)
-// The Sugarland Express (1974)
-// The Sum of All Fears (2002)
-// The Sum of Us (1995)
-// The Sun (2005)
-// The Sun Also Rises: (1957 & 2007)
-// The Sundowners (1960)
-// The Sunshine Boys (1975)
-// The Super (1991)
-// The Super Cops (1974)
-// The Super Dimension Fortress Macross: Do You Remember Love? (1984)
-// The Super Fight (1970)
-// The Supernatural Events on Campus (2013)
-// The Sure Thing (1985)
-// The Survivor (1981)
-// The Survivors (1983)
-// The Swan Princess (1994)
-// The Swan Princess Christmas (2012)
-// The Swan Princess: A Royal Family Tale (2014)
-// The Swan Princess: Escape from Castle Mountain (1997)
-// The Swan Princess: Princess Tomorrow, Pirate Today (2016)
-// The Swan Princess: Royally Undercover (2017)
-// The Swan Princess: The Mystery of the Enchanted Kingdom (1998)
-// The Swan: (1925 & 1956)
-// The Swarm (1978)
-// The Swedish Kings (1968)
-// The Sweet Hereafter (1997)
-// The Sweetest Thing (2002)
-// The Swimmer (1968)
-// The Swimming Pool (1970)
-// The Switch: (1963 & 2010)
-// The Sword and the Rose (1953)
-// The Sword and the Sorcerer (1982)
-// The Sword in the Stone (1963)
-// The Sword of Doom (1966)
-// The Syrian Bride (2004)
-// The TV Set (2006)
-// The Table (1973)
-// The Tailor of Panama (2001)
-// The Take: (2004 & 2008)
-// The Taking of Pelham 123 (2009)
-// The Taking of Pelham One Two Three: (1974 & 1998 TV)
-// The Taking of Power by Louis XIV (1966 TV)
-// The Taking of Tiger Mountain (2014)
-// The Tale of Despereaux (2008)
-// The Tale of Zatoichi (1962)
-// The Tale of the Fox (1937)
-// The Tale of the Priest and of His Workman Balda (1933-1936)
-// The Talented Mr. Ripley (1999)
-// The Tales of Hoffmann (1951)
-// The Talk of the Town (1942)
-// The Tall Blond Man with One Black Shoe (1973)
-// The Tall Guy (1989)
-// The Tall Man: (2011 & 2012)
-// The Tall Men (1955)
-// The Tall T (1957)
-// The Taming of the Shrew (1967)
-// The Tango Lesson (1997)
-// The Tao of Steve (2000)
-// The Taste of Others (2000)
-// The Teahouse of the August Moon (1956)
-// The Tell-Tale Heart (1953)
-// The Tempest: (1911, 1979 & 2010)
-// The Temptation of St. Tony (2009)
-// The Temptations (1998)
-// The Temptress (1926)
-// The Ten (2007)
-// The Ten (2008)
-// The Ten Commandments: (1923 & 1956)
-// The Ten Commandments: (1923, 1956, 2007)
-// The Ten Commandments: The Movie (2016)
-// The Tenant (1976)
-// The Terminal (2004)
-// The Terminator (1984)
-// The Terror (1963)
-// The Terrorist (1998)
-// The Testament of Dr. Mabuse (1933)
-// The Texas Chainsaw Massacre 2 (1986)
-// The Texas Chainsaw Massacre: (1974 & 2003)
-// The Texas Chainsaw Massacre: The Beginning (2006)
-// The Thaw (2010)
-// The Theory of Everything: (2006 TV & 2014)
-// The Theory of Flight (1998)
-// The Thief Lord (2006)
-// The Thief and the Cobbler (1995)
-// The Thief of Baghdad: (1924, 1940 & 1961)
-// The Thief: (1952 & 1997)
-// The Thin Blue Line (1988)
-// The Thin Man (1934)
-// The Thin Man Goes Home (1945)
-// The Thin Red Line: (1964 & 1998)
-// The Thing About My Folks (2005)
-// The Thing from Another World (1951)
-// The Thing with Two Heads (1972)
-// The Thing: (1982 & 2011)
-// The Thinning (2016)
-// The Third Generation (1979)
-// The Third Man (1949)
-// The Third Miracle (2000)
-// The Third Wheel (2002)
-// The Thirteen Chairs (1969)
-// The Thirteenth Floor (1999)
-// The Thirteenth Warrior (1999)
-// The Thirteenth Year (1999) (TV)
-// The Thirty Nine Steps (1978)
-// The Thomas Crown Affair: (1968 & 1999)
-// The Thorn (1974)
-// The Thousand Eyes of Dr. Mabuse (1960)
-// The Three Burials of Melquiades Estrada (2005)
-// The Three Caballeros (1945)
-// The Three Faces of Eve (1957)
-// The Three Godfathers (1916)
-// The Three Lives of Thomasina (1964)
-// The Three Marias (2002)
-// The Three Musketeers: (1921, 1933 serial, 1973, 1992 & 1993)
-// The Three Musketeers: (1921, 1933, 1973, 1992 & 1993)
-// The Three Stooges (2000)
-// The Three Stooges (2012)
-// The Three Stooges Go Around the World in a Daze (1963)
-// The Three Stooges Meet Hercules (1962)
-// The Three Stooges in Orbit (1962)
-// The Threepenny Opera (1931)
-// The Thrill of It All (1963)
-// The Tied Up Balloon (1967)
-// The Tiger Brigades (2006)
-// The Tiger and the Snow (2005)
-// The Tigger Movie (2000)
-// The Time Machine: (1960 & 2002)
-// The Time Traveler's Wife (2009)
-// The Time Travelers (1964)
-// The Time of Their Lives (1946)
-// The Times of Harvey Milk (1984)
-// The Tin Drum (1979)
-// The Tin Mine (2005)
-// The Tin Star (1957)
-// The Tingler (1959)
-// The Titfield Thunderbolt (1952)
-// The To Do List (2013)
-// The Toast of New Orleans (1950)
-// The Tokyo Trial (2006)
-// The Toll of the Sea (1922)
-// The Tomb of Ligeia (1965)
-// The Toolbox Murders (1978)
-// The Tortoise and the Hare: (1934 & 2008)
-// The Touch (1971)
-// The Tourist (2010)
-// The Tournament (2009)
-// The Towering Inferno (1974)
-// The Town (2010)
-// The Town That Dreaded Sundown: (1976 & 2014)
-// The Toxic Avenger (1984)
-// The Toxic Avenger Part II (1989)
-// The Toxic Avenger Part III: The Last Temptation of Toxie (1989)
-// The Toy (1982)
-// The Traffickers (2012)
-// The Train (1964)
-// The Train Robbers (1973)
-// The Tramp (1915)
-// The Transformers: The Movie (1986)
-// The Transporter (2002)
-// The Transporter Refueled (2015)
-// The Treasure of the Sierra Madre (1948)
-// The Treatment (2001)
-// The Tree of Life (2011)
-// The Tree of Might (1990)
-// The Tree of Wooden Clogs (1978)
-// The Trespasser (1929)
-// The Trial: (1962 & 1993)
-// The Tricky Master (1999)
-// The Trigger Effect (1996)
-// The Trip (1967)
-// The Trip to Bountiful (1985)
-// The Triplets of Belleville (2003)
-// The Triumph of the Nerds: The Rise of Accidental Empires (1996) (TV)
-// The Triumph of the Weak (1918)
-// The Troll Hunter (2010)
-// The Trollenberg Terror (1958)
-// The Trouble with Angels (1966)
-// The Trouble with Girls (1969)
-// The Trouble with Harry (1955)
-// The Trouble with Men and Women (2003)
-// The Truce (1997)
-// The True Story of Ah Q (1981)
-// The Truman Show (1998)
-// The Trumpet of the Swan (2001)
-// The Truth About Cats & Dogs (1996)
-// The Truth About Charlie (2002)
-// The Truth About Love (2004)
-// The Tune (1992)
-// The Turning Point: (1952 & 1977)
-// The Tuxedo (2002)
-// The Twelve Chairs (1962 film) (1962)
-// The Twelve Chairs: (1970, 1971 & 1976)
-// The Twelve Months: (1956 & 1972)
-// The Twelve Tasks of Asterix (1976)
-// The Twilight Saga: Breaking Dawn – Part 1 (2011)
-// The Twilight Saga: Breaking Dawn – Part 2 (2012)
-// The Twilight Saga: Eclipse (2010)
-// The Twilight Saga: New Moon (2009)
-// The Twilight Samurai (2002)
-// The Twins Effect (2003)
-// The Twins Effect II (2004)
-// The Twins: (1923 & 2005)
-// The Twist (1976)
-// The Two Brothers (1910)
-// The Two Faces of Dr. Jekyll (1960)
-// The Two Jakes (1974)
-// The Two Jakes (1990)
-// The Two Mrs. Carrolls (1947)
-// The Two of Us (1967)
-// The Twonky (1953)
-// The Typhoon (1914)
-// The U (2009)
-// The U Movie (2010)
-// The U.P. Trail (1920)
-// The U.S. vs. John Lennon (2006)
-// The UFO Incident (1975 TV)
-// The Ugly (1998)
-// The Ugly American (1963)
-// The Ugly Boy (1918)
-// The Ugly Dachshund (1966)
-// The Ugly Duckling and Me! (2006)
-// The Ugly Duckling: (1920, 1931, 1939 & 1959)
-// The Ugly Ones (1966)
-// The Ugly Swans (2006)
-// The Ugly Truth (2009)
-// The Ultimate Accessory (2013)
-// The Ultimate Christmas Present (200 TV)
-// The Ultimate Gift (2007)
-// The Ultimate Life (2013)
-// The Ultimate Task (2013)
-// The Ultimate Thrill (1974)
-// The Ultimate Truth (2004)
-// The Ultimate Vampire (1991)
-// The Ultimate Warrior (1975)
-// The Umbrella (1933)
-// The Umbrella Coup (1980)
-// The Umbrella Woman (1987)
-// The Umbrellas of Cherbourg (1964)
-// The Unafraid (1915)
-// The Unamenables (1959)
-// The Unauthorized Beverly Hills, 90210 Story (2015 TV)
-// The Unauthorized Full House Story (2015 TV)
-// The Unauthorized Melrose Place Story (2015 TV)
-// The Unauthorized Saved by the Bell Story (2014 TV)
-// The Unbearable Lightness of Being (1988)
-// The Unbearable Lightness of Inspector Fan (2015)
-// The Unbearable Salesman (1957)
-// The Unbelievable Truth (1989)
-// The Unbeliever (1918)
-// The Unbelievers (2013)
-// The Unborn 2 (1994)
-// The Unborn: (1991 & 2009)
-// The Unburied Man (2004)
-// The Uncanny (1977)
-// The Uncanny House (1916)
-// The Uncertainty Has Settled (2017)
-// The Uncertainty Principle (2002)
-// The Unchanging Sea (1910)
-// The Unchastened Woman: (1918 & 1925)
-// The Uncle (1965)
-// The Uncle from America (1953)
-// The Uncle from Peking (1934)
-// The Uncle from Sumatra (1930)
-// The Uncle from the Provinces (1926)
-// The Uncles (2000)
-// The Uncondemned (2015)
-// The Unconquered (1956)
-// The Undead (1957)
-// The Undefeated: (1969, 2000 & 2011)
-// The Underground Comedy Movie (1999)
-// The Underneath (1995)
-// The Undertaker: (1932 & 1988)
-// The Undertow: (1915 & 1916)
-// The Underworld Story (1950)
-// The Undying Monster (1942)
-// The Unearthly (1957)
-// The Unfaithful (1947)
-// The Unfaithful Wife (1969)
-// The Unforgiven: (1960 & 2005)
-// The Unholy Garden (1931)
-// The Unholy Three: (1925 & 1930)
-// The Unicorn: (1978 & 2018)
-// The Uninvited: (1944 & 2008)
-// The United States of Leland (2004)
-// The Universal Language (2011)
-// The Unknown Soldier: (1926, 1955, 1985 & 2017)
-// The Unknown: (1915 comedy, 1915 drama, 1927, 1936, & 1946)
-// The Unlawful Trade (1914)
-// The Unloved (2009)
-// The Unloved Woman: (1914, 1940 & 1949)
-// The Unmarried Wife (2016)
-// The Unmarried Woman (1917)
-// The Unmasking (1914)
-// The Unmentionables (1963)
-// The Unnamable (1988)
-// The Unnamable II: The Statement of Randolph Carter (1993)
-// The Unnamed (2016)
-// The Unnamed Zone (2006)
-// The Unnaturals (1969)
-// The Unnecessary Sex (1915)
-// The Unpainted Woman (1919)
-// The Unpardonable Sin (1919)
-// The Unprecedented Defence of the Fortress Deutschkreuz (1966)
-// The Unreturned (2010)
-// The Unruly Hare (1945)
-// The Unsaid (2001)
-// The Unsaved (2013)
-// The Unscarred (2000)
-// The Unscrupulous Ones (1962)
-// The Unseeable (2006)
-// The Unseen Vengeance (1914)
-// The Unseen World (2010)
-// The Unseen: (1945, 1980 & 2016)
-// The Unshrinkable Jerry Mouse (1964)
-// The Unsinkable Molly Brown (1964)
-// The Unspeakable (1924)
-// The Unspeakable Act (2012)
-// The Unstoppable Man (1960)
-// The Unsuspected (1947)
-// The Unsuspecting Angel (1936)
-// The Untamed Breed (1948)
-// The Untamed Lady (1926)
-// The Untamed: (1920 & 2016)
-// The Unthinkable (1926)
-// The Untimely Gift (2017)
-// The Untitled Kartik Krishnan Project (2010)
-// The Untold (2003)
-// The Untold Story (1993)
-// The Untold Story 2 (1998)
-// The Untouchables (1987)
-// The Untouched Woman (1925)
-// The Unusual Past of Thea Carter (1929)
-// The Unusual Youth (2005)
-// The Unvanquished (1964)
-// The Unveiling Hand (1919)
-// The Unwanted Girl (1953)
-// The Unwanted: (1924, 1951 & 2014)
-// The Unwelcome Guest (1913)
-// The Unwelcome Mrs. Hatch (1914)
-// The Unwelcome Stranger (1935)
-// The Unwritten Law: (1907, 1922, 1925, 1929, 1932 & 1985)
-// The Ups and Downs (1914)
-// The Upside (2019)
-// The Upside of Anger (2005)
-// The Ural Front (1944)
-// The Uranium Conspiracy (1978)
-// The Urethra Chronicles (1999)
-// The Urethra Chronicles II: Harder Faster Faster Harder (2002)
-// The Usual Suspects (1995)
-// The V.I.P.s (1963)
-// The Vagabond King: (1930 & 1956)
-// The Vagabond Lover (1929)
-// The Vagabond Queen (1929)
-// The Vagabond Trail (1924)
-// The Vagabond: (1916 & 1953)
-// The Vagabonds: (1912, 1916, 1937 & 1939)
-// The Vagrant (1992)
-// The Valachi Papers (1972)
-// The Valentine Girl (1917)
-// The Valet (2006)
-// The Valet's Wife (1908)
-// The Valiant Hombre (1948)
-// The Valiant Navigator (1935)
-// The Valiant: (1929 & 1962)
-// The Valley Below (2014)
-// The Valley Resounds (1950)
-// The Valley of Death (1968)
-// The Valley of Decision (1945)
-// The Valley of Fear (1916)
-// The Valley of Ghosts (1928)
-// The Valley of Gwangi (1969)
-// The Valley of Hell (1927)
-// The Valley of Silent Men (1922)
-// The Valley of Water (1962)
-// The Valley of the Bees (1967)
-// The Valley of the Giants: (1919 & 1927)
-// The Valley: (1972, 1976, 2014, & 2017)
-// The Vamp (1918)
-// The Vampire Bat (1933)
-// The Vampire Doll (1970)
-// The Vampire Happening (1971)
-// The Vampire Lovers (1970)
-// The Vampire Who Admires Me (2008)
-// The Vampire and the Ballerina (1960)
-// The Vampire of Düsseldorf (1965)
-// The Vampire of the Opera (1964)
-// The Vampire's Ghost (1945)
-// The Vampire: (1913, 1915 & 1957)
-// The Vampires Night Orgy (1972)
-// The Vampires of Bloody Island (2009)
-// The Van Nostrand Tiara (1913)
-// The Van: (1977 & 1996)
-// The Vancouver Asahi (2014)
-// The Vandergilt Diamond Mystery (1936)
-// The Vanished Elephant (2014)
-// The Vanished Murderer (2015)
-// The Vanished: (2005 & 2018)
-// The Vanishing Act (TBD)
-// The Vanishing American: (1925 & 1955)
-// The Vanishing Dagger (1920)
-// The Vanishing Duck (1958)
-// The Vanishing Frontier (1932)
-// The Vanishing Lady (1896)
-// The Vanishing Outpost (1951)
-// The Vanishing Pioneer (1928)
-// The Vanishing Prairie (1954)
-// The Vanishing Private (1942)
-// The Vanishing Riders (1935)
-// The Vanishing Shadow (1934)
-// The Vanishing Virginian (1942)
-// The Vanishing Westerner (1950)
-// The Vanishing of Sidney Hall (2017)
-// The Vanishing: (1988, 1993 & 2019)
-// The Vanity Pool (1918)
-// The Vanity Serum (2004)
-// The Vanquished (1953)
-// The Vaquero's Vow (1908)
-// The Variegateds Case (1958)
-// The Varmint (1917)
-// The Vatican Affair (1968)
-// The Vatican Tapes (2015)
-// The Vault (2017)
-// The Vault of Horror (1973)
-// The Vegas Strip War (1984)
-// The Veil Dancer (1929)
-// The Veil of Twilight (2014)
-// The Veil: (2016 & 2017)
-// The Veiled Adventure (1919)
-// The Veiled Woman (1929)
-// The Veils of Bagdad (1953)
-// The Vein (1928)
-// The Veldt (1987)
-// The Velocity of Gary (1999)
-// The Velvet Paw (1916)
-// The Velvet Touch (1948)
-// The Velvet Underground and Nico: A Symphony of Sound (1966)
-// The Velvet Vampire (1971)
-// The Vendor (2018)
-// The Venerable Ones (1962)
-// The Venetian (1958)
-// The Venetian Affair (1967)
-// The Venetian Woman (1986)
-// The Vengeance of Fu Manchu (1967)
-// The Vengeance of Galora (1913)
-// The Vengeance of Jago (1912)
-// The Vengeance of Pancho Villa (1967)
-// The Vengeance of She (1968)
-// The Vengeance of Ursus (1961)
-// The Vengeance of the Winged Serpent (1984)
-// The Venice Project (1999)
-// The Venus Model (1918)
-// The Venus of Montmartre (1925)
-// The Verdict of Lake Balaton (1933)
-// The Verdict of the Heart (1915)
-// The Verdict: (1946, 1959, 1982 & 2013)
-// The Vermilion Pencil (1922)
-// The Verona Trial (1963)
-// The Versace Murder (1998)
-// The Verse of Us (2015)
-// The Very Best Day (2015)
-// The Very Edge (1963)
-// The Very Friendly Neighbors (1969)
-// The Very Idea (1929)
-// The Very Late Afternoon of a Faun (1983)
-// The Very Merry Widows (2003)
-// The Very Private Life of Mister Sim (2015)
-// The Very Same Munchhausen (1979)
-// The Very Thought of You: (1944 & 1998)
-// The Vessel (2016)
-// The Vesuvians (1997)
-// The Veteran of Waterloo (1933)
-// The Veteran: (2006 & 2011)
-// The Veterinarian's Adopted Children (1968)
-// The Vice Squad (1931)
-// The Victim: (1916, 1980, 2006, 2011, & 2012)
-// The Vigilante (1947)
-// The Viking: (1928 & 1931)
-// The Vikings (1958)
-// The Village Barbershop (2008)
-// The Village of No Return (2017)
-// The Village: (1953, 2004 & 2015)
-// The Villain: (1917 & 1979)
-// The Vineyard (1989)
-// The Virgin Queen: (1923 & 1955)
-// The Virgin Soldiers (1969)
-// The Virgin Spring (1960)
-// The Virgin Suicides (1999)
-// The Virginian: (1914, 1923, 1929 & 1946)
-// The Visit: (1964, 2000, 2015 America, & 2015 Nigeria)
-// The Visitation (2009)
-// The Visitor: (1979, 2002, 2007 short, 2007 drama & 2015)
-// The Visitors II: The Corridors of Time (1998)
-// The Visitors: (1972 & 1993)
-// The Visitors: Bastille Day (2016)
-// The Vivero Letter (1998)
-// The Vixen (1916)
-// The Voice Within (1946)
-// The Voice from the Minaret (1923)
-// The Voice from the Sky (1930)
-// The Voice in the Fog (1916)
-// The Voice in the Wilderness (1991)
-// The Voice of Action (1942)
-// The Voice of Bugle Ann (1936)
-// The Voice of Conscience: (1912, 1927 & 1920)
-// The Voice of Happiness (1931)
-// The Voice of Love (1934)
-// The Voice of Merrill (1952)
-// The Voice of My City (1953)
-// The Voice of Passion (1913)
-// The Voice of Warning (1912)
-// The Voice of the Child (1911)
-// The Voice of the Heart: (1924 & 1937)
-// The Voice of the Moon (1990)
-// The Voice of the Turtle (1947)
-// The Voice of the Violin (1909)
-// The Voice of the Voiceless (2013)
-// The Voice: (1920, 1982, 1992 & 2010)
-// The Voices (2014)
-// The Void: (2001 & 2016)
-// The Volcano Disaster (2005)
-// The Volga Boatman (1926)
-// The Volunteer: (1917 & 1943)
-// The Voorman Problem (2013)
-// The Vortex (1928)
-// The Vote That Counted (1911)
-// The Vow: (1946 & 2012)
-// The Vows (1973)
-// The Voyage of Doctor Dolittle (2020)
-// The Voyage of the Bourrichon Family (1912)
-// The Voyage that Shook the World (2009)
-// The Voyage: (1921 & 1974)
-// The Voyager (1991)
-// The Voyeur: (1970 & 1994)
-// The Vulgar Hours (2011)
-// The Vulture Wally: (1921, 1940 & 1956)
-// The Vulture's Eye (2004)
-// The Vulture: (1937, 1967, 1981 & 1982)
-// The Vultures (1975)
-// The Vyborg Side (1939)
-// The Wabbit Who Came to Supper (1942)
-// The Wackness (2008)
-// The Wager: (1998 & 2007)
-// The Wages of Fear (1953)
-// The Walk: (1953, 2001, & 2015)
-// The Walker (2007)
-// The Wanderer in Bulgar (1989)
-// The Wanderer: (1913, 1925, & 1967)
-// The Wanderers (1979)
-// The Wannabes (2003)
-// The War Game (1965) (TV)
-// The War Lord (1965)
-// The War Lover (1962)
-// The War Room (1993)
-// The War Wagon (1967)
-// The War Zone (1999)
-// The War in Space (1977)
-// The War of the Roses (1989)
-// The War of the Worlds (1953)
-// The War: (1994 & 2007)
-// The Ward (2011)
-// The Warlord: Battle for the Galaxy (1988) (TV)
-// The Warlords (2007)
-// The Warrior (2015)
-// The Warrior and the Wolf (2009)
-// The Warrior's Gate (2016)
-// The Warrior's Way (2010)
-// The Warriors (1979)
-// The Warriors Gate (2016)
-// The Wash: (1988 & 2001)
-// The Wasp Woman (1959)
-// The Wasted Times (2016)
-// The Watch: (2008 & 2012)
-// The Watcher (2000)
-// The Watcher in the Woods (1980)
-// The Water Babies (1978)
-// The Water Horse: Legend of the Deep (2007)
-// The Waterboy (1998)
-// The Waterdance (1992)
-// The Wave: (2008 & 2015)
-// The Way (2010 & 2017)
-// The Way Ahead (1944)
-// The Way Back (2010)
-// The Way Home: (1930 & 1937)
-// The Way Home: (2002, 2010 American, & 2010 Indian)
-// The Way Way Back (2013)
-// The Way We Were (1973)
-// The Way West (1967)
-// The Way of All Flesh (1927)
-// The Way of the Gun (2000)
-// The Way to the Stars (1945)
-// The Wayward Cloud (2005)
-// The Weather Man (2005)
-// The Weather Underground (2002)
-// The Web (1947)
-// The Wedding Banquet (1993)
-// The Wedding Date (2005)
-// The Wedding March: (1915, 1928, 1929 & 2016)
-// The Wedding Planner (2001)
-// The Wedding Singer (1998)
-// The Weight of Water (2000)
-// The Weird Doll (2016)
-// The Well-Digger's Daughter: (1940 & 2011)
-// The Wendell Baker Story (2005)
-// The Werewolf of Washington (1973)
-// The Werewolf of Woodstock (1975)
-// The Werewolf: (1913 & 1956)
-// The Wesley's Mysterious File (2002)
-// The West Point Story (1950)
-// The West: (1938 & 1996)
-// The Westerner (1940)
-// The Wet Parade (1932)
-// The Whales of August (1987)
-// The Whip and the Body (1965)
-// The Whisperers (1966)
-// The Whispering Star (2015)
-// The Whistleblower (2010)
-// The Whistler (1944)
-// The White Buffalo (1977)
-// The White Cliffs of Dover (1944)
-// The White Countess (2006)
-// The White Horse Inn: (1926, 1935, 1952 & 1960)
-// The White Parade (1934)
-// The White Ribbon (2009)
-// The White Sheik (1952)
-// The Whole Nine Yards (2000)
-// The Whole Ten Yards (2004)
-// The Whole Truth: (1923 & 1958)
-// The Whole Wide World (1996)
-// The Whoopee Boys (1986)
-// The Wicked City (1992)
-// The Wicked Lady: (1945 & 1983)
-// The Wicked: (1991 & 2013)
-// The Wicker Man: (1973 & 2006)
-// The Wicker Tree (2011)
-// The Widow (1939 & 1955)
-// The Widow of Saint-Pierre (2000)
-// The Wife (2018)
-// The Wiggles Movie (1997)
-// The Wilby Conspiracy (1975)
-// The Wild (2006)
-// The Wild Angels (1966)
-// The Wild Blue Yonder (2005)
-// The Wild Bunch (1969)
-// The Wild Cat (1921)
-// The Wild Child (1970)
-// The Wild Geese (1978)
-// The Wild Life (1984)
-// The Wild One (1953)
-// The Wild Ones (2012)
-// The Wild Parrots of Telegraph Hill (2005)
-// The Wild Party: (1923, 1929, 1956 & 1975)
-// The Wild Ride (1960)
-// The Wild Thornberrys Movie (2002)
-// The Wild and Wycked World of Brian Jones (2005)
-// The Wildcat: (1917 & 1936)
-// The Will: (1921 & 1939)
-// The Wind Rises (2013)
-// The Wind That Shakes the Barley (2006)
-// The Wind Will Carry Us (1999)
-// The Wind and the Lion (1975)
-// The Wind in the Willows: (1983, 1987, 1995, 1996 & 2006 TV)
-// The Wind: (1928, 1982 & 1986)
-// The Winding Road (1920)
-// The Winding Stair (1925)
-// The Windmill (1937)
-// The Windmill Massacre (2016)
-// The Window (1949)
-// The Window Cleaner (1968)
-// The Wings (1916)
-// The Wings of Eagles (1957)
-// The Wings of the Dove: (1981 & 1997)
-// The Winslow Boy: (1948 & 1999)
-// The Winter (2016)
-// The Winter Guest (1997)
-// The Winter War (1989)
-// The Wisdom of Crocodiles (2000)
-// The Wise Little Hen (1934)
-// The Witch (2015)
-// The Witches Cave (1989)
-// The Witches of Eastwick (1987)
-// The Witches: (1966, 1967 & 1990)
-// The Witness - A Change of Heart (1969)
-// The Witness: (1969 French, 1969 Hungarian, 1992 short, 2000, 2012, 2015 American & 2015 Chinese)
-// The Wiz (1978)
-// The Wizard (1989)
-// The Wizard of Gore (1970 & 2007)
-// The Wizard of Lies (2017 TV)
-// The Wizard of Oz: (1925, 1939 & 1982)
-// The Wizard of Speed and Time (1989)
-// The Woes of Roller Skaters (1908)
-// The Wog Boy (2000)
-// The Wold Shadow (1972)
-// The Wolf Dog (1933)
-// The Wolf Hunters (1949)
-// The Wolf Man: (1924 short, 1941)
-// The Wolf Men (1969)
-// The Wolf Woman (1916)
-// The Wolf at the Door (1986)
-// The Wolf of Debt (1915)
-// The Wolf of Wall Street: (1929 & 2013)
-// The Wolf of the Sila (1949)
-// The Wolf's Call (2019)
-// The Wolf: (1916, 1949 & 2004)
-// The Wolfman (2010)
-// The Wolfpack (2015)
-// The Wolverine (2013)
-// The Wolves of Willoughby Chase (1989)
-// The Wolves: (1956 & 1971)
-// The Woman Accused (1933)
-// The Woman Beneath (1917)
-// The Woman Between: (1931 American & 1931 British)
-// The Woman Chaser (1999)
-// The Woman Condemned (1934)
-// The Woman Conquers (1922)
-// The Woman Cop (1980)
-// The Woman Disputed (1928)
-// The Woman Dressed As a Man (1932)
-// The Woman Eater (1957)
-// The Woman Everyone Loves Is You (1929)
-// The Woman Gives (1920)
-// The Woman God Changed (1921)
-// The Woman God Forgot (1917)
-// The Woman Hater: (1910 Powers film, 1910 Thanhouser film & 1925)
-// The Woman Haters (1913)
-// The Woman He Loved (1988)
-// The Woman He Married (1922)
-// The Woman Hunt (1972)
-// The Woman Hunter (1972)
-// The Woman I Love (1937)
-// The Woman I Stole (1933)
-// The Woman Inside (1981)
-// The Woman Juror (1926)
-// The Woman Knight of Mirror Lake (2011)
-// The Woman Michael Married (1919)
-// The Woman Next Door: (1915, 1919 & 1981)
-// The Woman One Longs For (1929)
-// The Woman Racket (1930)
-// The Woman Suffers (1918)
-// The Woman Tempted (1926)
-// The Woman That Dreamed About a Man (2010)
-// The Woman They Talk About (1931)
-// The Woman Thief (1938)
-// The Woman Thou Gavest Me (1919)
-// The Woman Under Cover (1919)
-// The Woman Under Oath (1919)
-// The Woman Upstairs (1921)
-// The Woman Who Believed (1922)
-// The Woman Who Brushed Off Her Tears (2012)
-// The Woman Who Came Back (1945)
-// The Woman Who Couldn't Say No (1927)
-// The Woman Who Dared: (1933 & 1944)
-// The Woman Who Desires Sin (1929)
-// The Woman Who Did: (1915 & 1925)
-// The Woman Who Drinks (2001)
-// The Woman Who Gave (1918)
-// The Woman Who Invented Love (1952)
-// The Woman Who Left (2016)
-// The Woman Who Loved Elvis (1993)
-// The Woman Who Obeyed (1923)
-// The Woman Who Sinned (1991)
-// The Woman Who Walked Alone (1922)
-// The Woman Who Was Nothing (1917)
-// The Woman Wins (1918)
-// The Woman With Four Faces (1923)
-// The Woman Without Nerves (1930)
-// The Woman Without a Soul (1920)
-// The Woman Worth Millions (1923)
-// The Woman and the Puppet: (1920 & 1929)
-// The Woman and the Stranger (1985)
-// The Woman at Midnight (1925)
-// The Woman at the Crossroads: (1919 & 1938)
-// The Woman by the Dark Window (1960)
-// The Woman for Joe (1955)
-// The Woman from Berlin (1925)
-// The Woman from China (1931)
-// The Woman from Hell (1929)
-// The Woman from Last Night (1950)
-// The Woman from Mellon's (1910)
-// The Woman from Monte Carlo (1932)
-// The Woman from Moscow (1928)
-// The Woman from Tangier (1948)
-// The Woman from Till 12 (1928)
-// The Woman from Warren's (1915)
-// The Woman from the Folies Bergères (1927)
-// The Woman from the Orient (1923)
-// The Woman in 47 (1916)
-// The Woman in Black: (1989 & 2012)
-// The Woman in Black: Angel of Death (2015)
-// The Woman in Blue (1973)
-// The Woman in Doctor's Garb (1920)
-// The Woman in Flames (1924)
-// The Woman in Gold (1926)
-// The Woman in Green (1945)
-// The Woman in Heaven (1920)
-// The Woman in His House (1920)
-// The Woman in Question (1950)
-// The Woman in Red: (1935, 1947 & 1984)
-// The Woman in Room 13: (1920 & 1932)
-// The Woman in the Fifth (2011)
-// The Woman in the Window (1945)
-// The Woman's Angle (1952)
-// The Woman's Crusade (1926)
-// The Woman's Law (1916)
-// The Woman: (1915 & 2011)
-// The Women: (1939 & 2008)
-// The Wonderful Horrible Life of Leni Riefenstahl (1993)
-// The Wonderful Ice Cream Suit (1998)
-// The Wonderful Land of Oz (1969)
-// The Wonderful Wizard of Oz: (1910 & 1975)
-// The Wood (1999)
-// The Wooden Man's Bride (1994)
-// The Woods: (2006 & 2011)
-// The Woodsman: (2004 & 2016)
-// The Words (2012)
-// The Work and the Glory (2004)
-// The Working Class Goes to Heaven (1971)
-// The World (2004)
-// The World According to Garp (1982)
-// The World Gone Mad (1933)
-// The World Is Not Enough (1999)
-// The World in His Arms (1952)
-// The World of Henry Orient (1964)
-// The World of Suzie Wong (1960)
-// The World's End (2013)
-// The World's Fastest Indian (2005)
-// The World's Greatest Athlete (1973)
-// The World's Greatest Lover (1978)
-// The World's Strongest (1990)
-// The World, the Flesh and the Devil: (1914 & 1959)
-// The World, the Flesh, the Devil (1932)
-// The Worst of Faces of Death (1987)
-// The Wraith (1986)
-// The Wraith of Haddon Towers (1916)
-// The Wrath (2018)
-// The Wrath of God (1972)
-// The Wrath of Silence (1994)
-// The Wrath of Vajra (2013)
-// The Wrath of the Gods (1914)
-// The Wreck in the North Sea (1915)
-// The Wreck of the Dunbar or The Yeoman's Wedding (1912)
-// The Wreck of the Hesperus: (1927 & 1948)
-// The Wreck of the Mary Deare (1959)
-// The Wreck of the Singapore (1928)
-// The Wreck: (1913 & 1927)
-// The Wrecker: (1929 & 1933)
-// The Wrecking Crew: (1969, 2000 & 2008)
-// The Wrestler and the Clown (1957)
-// The Wrestler: (1974 & 2008)
-// The Wretches Are Still Singing (1979)
-// The Wright Brothers (1971)
-// The Writer with No Hands (2017)
-// The Writing on the Wall (1910)
-// The Written Law (1931)
-// The Wrong Arm of the Law (1963)
-// The Wrong Birds (1914)
-// The Wrong Bottle (1913)
-// The Wrong Box (1966)
-// The Wrong Couples (1987)
-// The Wrong Ferarri (2011)
-// The Wrong Girl (1999)
-// The Wrong Guy (1997)
-// The Wrong Guys (1988)
-// The Wrong Husband (1931)
-// The Wrong Man: (1917, 1956 & 1993)
-// The Wrong Move (1975)
-// The Wrong Mr. Perkins (1931)
-// The Wrong Mr. Wright (1927)
-// The Wrong Road (1937)
-// The Wrong Roommate (2016)
-// The Wrong Woman (1995)
-// The Wyoming Bandit (1949)
-// The Wyvern Mystery (2000)
-// The X from Outer Space (1967)
-// The X-Files (1998)
-// The X-Files: I Want to Believe (2008)
-// The Xi'an Incident (1981)
-// The Xposé (2014)
-// The Yacht Isabel Arrived This Afternoon (1949)
-// The Yacoubian Building (2006)
-// The Yakuza (1975)
-// The Yank (2014)
-// The Yankee Clipper (1927)
-// The Yankee Consul (1924)
-// The Yankee Doodle Mouse (1943)
-// The Yankee Girl (1915)
-// The Yankee Señor (1926)
-// The Yankles (2009)
-// The Yanks Are Coming: (1942 & 1963)
-// The Yaqui Cur (1913)
-// The Yaqui Girl (1910)
-// The Yards (2000)
-// The Year My Parents Went on Vacation (2006)
-// The Year My Voice Broke (1987)
-// The Year of Living Dangerously (1982)
-// The Year of the Dog (1994)
-// The Year of the Rabbit (1987)
-// The Year of the Yao (2004)
-// The Yearling: (1946 & 1994)
-// The Yellow Birds (2018)
-// The Yellow Canary (1963)
-// The Yellow Claw (1921)
-// The Yellow Handkerchief: (1977 & 2008)
-// The Yellow Rolls-Royce (1964)
-// The Yellow Ticket (1918)
-// The Yes Men (2003)
-// The Yin and the Yang of Mr. Go (1970)
-// The Yo-Yo Gang (1992)
-// The Yogi (1916)
-// The Yoke's on Me (1944)
-// The Yolk's on You (1980)
-// The Young Ahmed (2019)
-// The Young Americans (1993)
-// The Young Animals (1968)
-// The Young Baron Neuhaus (1934)
-// The Young Black Stallion (2003)
-// The Young Blood Chronicles (2014)
-// The Young Girls of Rochefort (1968)
-// The Young Master (1980)
-// The Young One: (1960 & 2016)
-// The Young Philadelphians (1959)
-// The Young Poisoner's Handbook (1995)
-// The Young Victoria (2009)
-// The Young, the Evil and the Savage (1968)
-// The Yuppie Fantasia (1989)
-// The Yuppie Fantasia 3 (2017)
-// The Za-Bum Circus (1944)
-// The Zany Adventures of Robin Hood (1984 TV)
-// The Zen Diaries of Garry Shandling (2018)
-// The Zen of Bennett (2012)
-// The Zero Boys (1986)
-// The Zero Hour: (1939 & 2010)
-// The Zero Theorem (2013)
-// The Zero Years (2005)
-// The Zhang Family's Daughter-in-Law (1985)
-// The Zigzag Kid (2012)
-// The Zodiac (2006)
-// The Zodiac Killer (1971)
-// The Zombie Diaries (2008)
-// The Zombie Farm (2011)
-// The Zombie King (2013)
-// The Zombinator (2012)
-// The Zone of Death (1917)
-// The Zone: (2003, 2011, & 2017)
-// The Zoo Gang (1985)
-// The Zookeeper (2001)
-// The Zookeeper's Wife (2017)
-// The Zoot Cat (1944)
-// The Zoya Factor (2019)
-// Theatre of Blood (1973)
-// Theekkadal (1980)
-// Their Own Desire (1930)
-// Their Purple Moment (1928)
-// Theirs is the Glory (1946)
-// Thelma & Louise (1991)
-// Them (2006)
-// Them Thar Hills (1934)
-// Them! (1954)
-// Themroc (1942)
-// Then She Found Me (2008)
-// Theodora Goes Wild (1936)
-// Theodore Case Sound Test: Gus Visser and His Singing Duck (1925)
-// Theodore Rex (1995)
-// Theorem (1968)
-// There Be Dragons (2011)
-// There Was a Crooked Man... (1970)
-// There Was a Father (1942)
-// There Will Be Blood (2007)
-// There Will Be No Leave Today (1959)
-// There is a Secret in my Soup (2001)
-// There's Always Vanilla (1971)
-// There's No Business Like Show Business (1954)
-// There's Something About Mary (1998)
-// There's a Girl in My Soup (1970)
-// These Are the Damned (1963)
-// These Three (1936)
-// They (2002)
-// They All Laughed (1981)
-// They Call Me Bruce? (1982)
-// They Call Me MISTER Tibbs! (1970)
-// They Call Me Trinity (1971)
-// They Came Back (2004)
-// They Died with Their Boots On (1941)
-// They Drive by Night (1940)
-// They Go Boom (1929)
-// They Knew What They Wanted (1940)
-// They Live (1988)
-// They Live by Night (1949)
-// They Might Be Giants (1972)
-// They Saved Hitler's Brain (1966)
-// They Shoot Horses, Don't They? (1969)
-// They Still Call Me Bruce (1987)
-// They Were Expendable (1945)
-// They're a Weird Mob (1966)
-// Thick as Thieves (2009)
-// Thicker than Water: (1935, 1999, 2000, 2005 & 2006)
-// Thief (1981)
-// Thieves Like Us (1974)
-// Thieves' Highway (1949)
-// Thin Ice (1937)
-// Things Are Tough All Over (1982)
-// Things Behind the Sun (2001)
-// Things We Lost in the Fire (2007)
-// Things You Can Tell Just by Looking at Her (2000)
-// Things to Come (1936)
-// Things to Do in Denver When You're Dead (1995)
-// Think like a Man (2012)
-// Thinner (1996)
-// Thirst (2009)
-// Thirteen (2003)
-// Thirteen Conversations About One Thing (2001)
-// Thirteen Days (2000)
-// Thirteen Ghosts (2001)
-// Thirteen Ghosts: (1960 & 2001)
-// Thirteen Princess Trees (2006)
-// Thirteen Women (1932)
-// Thirty Seconds Over Tokyo (1944)
-// This Boy's Life (1993)
-// This Christmas (2007)
-// This Film Is Not Yet Rated (2006)
-// This Girl's Life (2003)
-// This Gun for Hire (1942)
-// This Happy Breed (1944)
-// This Is 40 (2012)
-// This Is Cinerama (1952)
-// This Is England (2007)
-// This Is Martin Bonner (2013)
-// This Is Me (2015)
-// This Is My Father (1999)
-// This Is Not a Film (2011)
-// This Is Spinal Tap (1984)
-// This Is Where I Leave You (2014)
-// This Is the Army (1943)
-// This Is the End (2013)
-// This Is the Night (1932)
-// This Island Earth (1955)
-// This Land Is Mine (1943)
-// This Man Must Die (1969)
-// This Means War (2012)
-// This Must Be the Place (2011)
-// This Property Is Condemned (1966)
-// This Sporting Life (1963)
-// This is Not a Love Song (2003)
-// Thomas and the Magic Railroad (2000)
-// Thor (2011)
-// Thor: Ragnarok (2017)
-// Thor: Tales of Asgard (2011)
-// Thor: The Dark World (2013)
-// Thoroughly Modern Millie (1967)
-// Those Magnificent Men in Their Flying Machines (1965)
-// Those Were Wonderful Days (1934)
-// Those Were the Days: (1996, 1997, & 2000)
-// Thou Shalt Honor Thy Wife (1925)
-// Thoughtcrimes (2003)
-// Thousands Cheer (1943)
-// Three (2002)
-// Three Ages (1923)
-// Three Amigos (1986)
-// Three Billboards Outside Ebbing, Missouri (2017)
-// Three Body (2016)
-// Three Businessmen (1998)
-// Three Coins in the Fountain (1954)
-// Three Colors: Blue (1993)
-// Three Colors: Red (1994)
-// Three Colors: White (1994)
-// Three Comrades (1938)
-// Three Daughters (1961)
-// Three Days of the Condor (1975)
-// Three Dollars (2005)
-// Three Fugitives (1989)
-// Three Godfathers (1936)
-// Three Kings (1999)
-// Three Little Words (1950)
-// Three Men and a Baby (1987)
-// Three Men and a Little Lady (1990)
-// Three Modern Women (1932)
-// Three O'Clock High (1987)
-// Three Outlaw Samurai (1964)
-// Three Reservists (1971)
-// Three Seasons (1999)
-// Three Sisters: (1966, 1970, 1970 Olivier & 1994)
-// Three Sisters: (1970 Olivier & 1994)
-// Three Smart Girls (1936)
-// Three Stories of Love (2015)
-// Three Times (2005)
-// Three Women: (1924, 1949 & 1952)
-// Three Young Texans (1953)
-// Three Young Texans (1954)
-// Three for the Road (1987)
-// Three from Buttermilk Village (1978)
-// Three on a Couch (1966)
-// Three on a Match (1932)
-// Three the Hard Way (1974)
-// Three to Tango (1999)
-// Three... Extremes (2004)
-// Threesome (1994)
-// Thriller: A Cruel Picture (1974)
-// Throne of Blood (1957)
-// Throne of Elves (2016)
-// Through a Glass Darkly (1961)
-// Throw Momma from the Train (1987)
-// Thru the Mirror (1936)
-// Thumbelina: (1992 & 1994)
-// Thumbsucker (2005)
-// Thunder Bay (1953)
-// Thunder Road (1958)
-// Thunderball (1965)
-// Thunderbird 6 (1968)
-// Thunderbirds (2004)
-// Thunderbirds Are Go (1966)
-// Thunderbolt and Lightfoot (1974)
-// Thunderbolt: (1910, 1929, & 1995)
-// Thunderheart (1992)
-// Thunderpants (2002)
-// Thunderstruck (2004)
-// Thursday (1998)
-// TiMER (2009)
-// Ticker (2001)
-// Tickle Me (1965)
-// Ticks (1994)
-// Tideland (2005)
-// Tie Me Up! Tie Me Down! (1990)
-// Tieta do Agreste (1996)
-// Tiger Bay (1959)
-// Tiger Cruise (2004) (TV)
-// Tiger Eyes (2013)
-// Tiger on Beat (1988)
-// Tigerland (2000)
-// Tightrope (1984)
-// Tik Tok (2016)
-// Til Death (2007)
-// Tilaï (1990)
-// Till Human Voices Wake Us (2002)
-// Till There Was You: (1990 & 2003)
-// Till the Clouds Roll By (1946)
-// Tillamook Treasure (2006)
-// Tillie's Punctured Romance (1914)
-// Tim (1979)
-// Tim Tyler's Luck (1937)
-// Tim and Eric's Billion Dollar Movie (2012)
-// Timber Falls (2008)
-// Time (2006)
-// Time After Time (1979)
-// Time Bandits (1981)
-// Time Changer (2002)
-// Time Out (2001)
-// Time Raiders (2016)
-// Time Regained (1999)
-// Time Stands Still (1982)
-// Time Travelers (1976)
-// Time of Favor (2000)
-// Time of the Gypsies (1988)
-// Time of the Wolf (2003)
-// Time to Leave (2006)
-// Timecode (2000)
-// Timecop (1994)
-// Timecop 2: The Berlin Decision (2003)
-// Timecrimes (2008)
-// Timeline (2003)
-// Timequest (2002)
-// Times Square (1980)
-// Timing (2014)
-// Tin Cup (1996)
-// Tin Men (1987)
-// Tin Toy (1988)
-// Tinker Bell (2007)
-// Tinker Tailor Soldier Spy (2011)
-// Tintin and I (2003)
-// Tintin and the Blue Oranges (1964)
-// Tintin and the Golden Fleece (1961)
-// Tintin and the Lake of Sharks (1972)
-// Tintin and the Temple of the Sun (1969)
-// Tiny Furniture (2010)
-// Tiny Times (2013)
-// Tiny Times 2 (2013)
-// Tiny Times 3 (2014)
-// Tiny Times 4 (2015)
-// Tiny Toon Adventures: How I Spent My Vacation (1992)
-// Tiovivo c. 1950 (2004)
-// Tiptoes (2003)
-// Tirana Year Zero (2002)
-// Tirant lo Blanc (2006)
-// Tit for Tat (1935)
-// Titan A.E. (2000)
-// Titanic II (2010)
-// Titanic Town (1998)
-// Titanic: (1943, 1953, & 1997)
-// Titicut Follies (1967)
-// Title to Murder (2001)
-// Tito and Me (1992)
-// Titus (2000)
-// Tko pjeva zlo ne misli (1970)
-// To Be and to Have (2002)
-// To Be or Not to Be: (1942 & 1983)
-// To Beat the Band (1935)
-// To Beep or Not to Beep (1963)
-// To Catch a Thief (1955)
-// To Die For: (1989, 1994 & 1995)
-// To Each His Own (1946)
-// To End All Wars (2001)
-// To Fly! (1976)
-// To Have and Have Not (1944)
-// To Have and to Hold (1916)
-// To Have or Not to Have (2001)
-// To Hell and Back (1955)
-// To Joy (1950)
-// To Kill a King (2003)
-// To Kill a Mockingbird (1962)
-// To Live (1994)
-// To Live and Die in L.A. (1985)
-// To Live in Peace (1947)
-// To Paint or Make Love (2005)
-// To Rome with Love (2012)
-// To Save a Life (2010)
-// To Shoot an Elephant (2009)
-// To Sir, with Love: (1967 & 2006)
-// To Wong Foo, Thanks for Everything! Julie Newmar (1995)
-// To the Devil a Daughter (1976)
-// To the Last Man (1923)
-// To the Wonder (2013)
-// Tobacco Road (1941)
-// Tobruk (1967)
-// Today You Die (2005)
-// Together Alone (1991)
-// Together: (2000 & 2002)
-// Tokyo Drifter (1966)
-// Tokyo Fist (1955)
-// Tokyo Ghoul (2017)
-// Tokyo Godfathers (2003)
-// Tokyo Gore Police (2008)
-// Tokyo Joe (1949)
-// Tokyo Olympiad (1965)
-// Tokyo Raiders (2000)
-// Tokyo Story (1953)
-// Tokyo Tower: Mom and Me, and Sometimes Dad (2007)
-// TokyoPlastic (2004)
-// Tol'able David (1921)
-// Tom & Huck (1995)
-// Tom Horn (1980)
-// Tom Jones (1963)
-// Tom Sawyer: (1973 & 2000)
-// Tom Thumb (1958)
-// Tom White (2004)
-// Tom and Jerry Meet Sherlock Holmes (2010)
-// Tom and Jerry and the Wizard of Oz (2011)
-// Tom and Jerry's Giant Adventure (2013)
-// Tom and Jerry: A Nutcracker Tale (2007)
-// Tom and Jerry: Back to Oz (2016)
-// Tom and Jerry: Blast Off to Mars (2005)
-// Tom and Jerry: Robin Hood and His Merry Mouse (2012)
-// Tom and Jerry: Shiver Me Whiskers (2006)
-// Tom and Jerry: Spy Quest (2015)
-// Tom and Jerry: The Fast and the Furry (2005)
-// Tom and Jerry: The Lost Dragon (2014)
-// Tom and Jerry: The Magic Ring (2002)
-// Tom and Jerry: The Movie (1992)
-// Tom and Jerry: Willy Wonka and the Chocolate Factory (2017)
-// Tom-Yum-Goong (2005)
-// Tomb Raider: The Cradle of Life (2003)
-// Tomb Robber (2014)
-// Tomb of the Werewolf (2004)
-// Tomboy (1985)
-// Tombs of the Blind Dead (1971)
-// Tombstone (1993)
-// Tombstone, the Town Too Tough to Die (1942)
-// Tomcats: (1977 & 2001)
-// Tommy (1975)
-// Tommy Boy (1995)
-// Tomorrow I Will Date With Yesterday's You (2016)
-// Tomorrow Is Forever (1946)
-// Tomorrow Never Dies (1997)
-// Tomorrow, When the War Began (2012)
-// Tomorrow: (1972, 1988 & 2001)
-// Tomorrowland (2015)
-// Tongpan (1977)
-// Toni (1935)
-// Tonight for Sure (1962)
-// Tonite Let's All Make Love in London (1967)
-// Tony Rome (1967)
-// Tony Takitani (2004)
-// Too Late for Tears (1979)
-// Too Late the Hero (1970)
-// Too Much Johnson (1938)
-// Toolbox Murders (2004)
-// Toomelah (2011)
-// Tooth Fairy (2011)
-// Tootsie (1982)
-// Top Banana (1954)
-// Top Five (2014)
-// Top Gun (1986)
-// Top Gun: Maverick (2020)
-// Top Hat (1935)
-// Top Secret! (1984)
-// Top of the World (1997)
-// Topaz: (1945 & 1969)
-// Topkapi (1964)
-// Topper (1937)
-// Topper Returns (1941)
-// Topsy-Turvy (1999)
-// Tora! Tora! Tora! (1970)
-// Torch Song (1953)
-// Torment (1944)
-// Tormented: (1960, 2009 British, 2009 short, 2011)
-// Torn Curtain (1966)
-// Torque (2004)
-// Torremolinos 73 (2003)
-// Torrente 2: Misión en Marbella (2001)
-// Torrente, el brazo tonto de la ley (1998)
-// Torso (1973)
-// Tortilla Flaps (1958)
-// Tortilla Soup (2002)
-// Torture Garden (1967)
-// Tosun Pasa (1976)
-// Total Balalaika Show (1994)
-// Total Eclipse (1995)
-// Total Recall: (1990 & 2012)
-// Touch (1997)
-// Touch of Evil (1958)
-// Touch of Pink (2004)
-// Touchez pas au grisbi (1954)
-// Touching the Void (2003)
-// Tough Guys (1986)
-// Tourist Trap (1979)
-// Tout va bien (1972)
-// Tovarich (1937)
-// Towards the Sun (1955)
-// Towelhead (2008)
-// Tower Heist (2011)
-// Tower of London (1939)
-// Tower of Terror: (1941 & 1997)
-// Town & Country (2001)
-// Town of the Dragon (2014)
-// Toxic Zombies (1980)
-// Toy Soldiers (1991)
-// Toy Spoiler (2004)
-// Toy Story (1995)
-// Toy Story 2 (1999)
-// Toy Story 3 (2010)
-// Toy Story 4 (2019)
-// Toys (1992)
-// Traces of Death (1993)
-// Trailer Park Boys: The Movie (2006)
-// Trailer Park of Terror (2008)
-// Train (2009)
-// Train Ride (2005)
-// Train of Life (1998)
-// Training Day (2001)
-// Trainspotting (1996)
-// Traitor (2008)
-// Traitor or Patriot (2000)
-// Trance (2013)
-// Trance and Dance in Bali (1952)
-// Trancers (1985)
-// Transamerica (2005)
-// Transcendence (2014)
-// Transfer (1966)
-// Transformers (2007)
-// Transformers: Age of Extinction (2014)
-// Transformers: Dark of the Moon (2011)
-// Transformers: Revenge of the Fallen (2009)
-// Transformers: The Last Knight (2017)
-// Transit (2012)
-// Transmorphers (2007)
-// Transmorphers: Fall of Man (2009)
-// Transparent Man (1954)
-// Transporter 2 (2005)
-// Transporter 3 (2008)
-// Transsiberian (2008)
-// Transylvania 6-5000: (1963 & 1985)
-// Trapped in Paradise (1994)
-// Trapped: (1949 & 2002)
-// Tras el cristal (1986)
-// Trash (1970)
-// Trauma: (1993 & 2004)
-// Traumschiff Surprise - Periode 1 (2004)
-// Travellers and Magicians (2003)
-// Travels with My Aunt (1972)
-// Treasure Island: (1934, 1950, 1972 animated, 1972 live-action, 1982, 1985, 1987, 1988, 1990 TV, & 1999)
-// Treasure Planet (2002)
-// Trees Lounge (1996)
-// Trekkies (1997)
-// Tremors (1990)
-// Tremors 2: Aftershocks (1996)
-// Tremors 3: Back to Perfection (2001)
-// Tremors 4: The Legend Begins (2004)
-// Tremors 5: Bloodlines (2015)
-// Tremors: A Cold Day in Hell (2018)
-// Trespass: (1992 & 2011)
-// Trial and Error (1997)
-// Triangle (2009)
-// Tribute: (1980 & 2009)
-// Trick (1999)
-// Trick or Treat: (1986 & 2006)
-// Tricky Brains (1990)
-// Trigun: Badlands Rumble (2010)
-// Trilogy of Terror (1975) (TV)
-// Trilogy of Terror II (1996) (TV)
-// Trinity (2001)
-// Trinity Is STILL My Name! (1972)
-// Tripfall (2000)
-// Triple Trouble (1918)
-// Triplex (1991)
-// Trishna: (1978, 2009 & 2011)
-// Tristan & Isolde (2006)
-// Tristana (1970)
-// Tristram Shandy: A Cock and Bull Story (2006)
-// Triumph of the Will (1935)
-// Triumphs of a Man Called Horse (1983)
-// Trixie (2000)
-// Trog (1970)
-// Trois hommes et un couffin (1985)
-// Trojan War (1997)
-// Trojan Warrior (2002)
-// Troll (1986)
-// Troll 2 (1990)
-// Troll 3 (1990)
-// Trolley Troubles (1927)
-// Trolls (2016)
-// Tromeo and Juliet (1996)
-// Tron (1982)
-// Tron: Legacy (2010)
-// Troop Beverly Hills (1989)
-// Troops (1997)
-// Trop belle pour toi (1989)
-// Tropic Thunder (2008)
-// Tropic of Ice (1987)
-// Tropical Malady (2004)
-// Trouble Every Day (2001)
-// Trouble Makers: (1948 & 2006)
-// Trouble Man (1972)
-// Trouble in Paradise (1932)
-// Trouble with the Curve (2012)
-// Troubled Laughter (1979)
-// Troy (2004)
-// Tru Confessions (2002) (TV)
-// Truck Turner (1974)
-// Trudell (2005)
-// True Believer (1989)
-// True Confessions (1981)
-// True Crime (1999)
-// True Grit: (1969 & 2010)
-// True Lies (1994)
-// True Love (1989)
-// True Romance (1993)
-// True Stories (1986)
-// Truly, Madly, Deeply (1990)
-// Trunk to Cairo (1966)
-// Trust the Man (2006)
-// Trust: (1990 & 2010)
-// Truth or Consequences, N.M. (1997)
-// Truth or Dare (1991)
-// Tsotsi (2005)
-// Tsugaru Folk Song (1973)
-// Tsukue no Nakami (2007)
-// Tsukuroi Tatsu Hito (2015)
-// Tsure ga Utsu ni Narimashite (2011)
-// Tube Tales (1999)
-// Tuck Everlasting: (1981 & 2002)
-// Tucker & Dale vs. Evil (2010)
-// Tucker: The Man and His Dream (1988)
-// Tuff Turf (1985)
-// Tulips Shall Grow (1942)
-// Tulivesi (1994)
-// Tully (2018)
-// Tulsa (1949)
-// Tumbleweeds: (1925 & 1999)
-// Tumko Na Bhool Paayenge (2002)
-// Tunes of Glory (1960)
-// Tunnel Vision: (1976 & 1995)
-// Tupac: Resurrection (2003)
-// Turbo (2013)
-// Turbo Kid (2015)
-// Turbo: A Power Rangers Movie (1997)
-// Turbulence (1997)
-// Turbulence 2: Fear of Flying (1999)
-// Turbulence 3: Heavy Metal (2001)
-// Turbulence: (2000 & 2011)
-// Turistas (2006)
-// Turkish Delight: (1927 & 1973)
-// Turn It Up (2000)
-// Turn Left, Turn Right (2003)
-// Turner & Hooch (1989)
-// Turok: Son of Stone (2008)
-// Turtles Can Fly (2004)
-// Turtles Forever (2009, TV)
-// Tuvalu (1999)
-// Tweetie Pie (1947)
-// Tweety and the Beanstalk (1957)
-// Tweety's High-Flying Adventure (2000)
-// Twelfth Night: (1933, 1955, 1980 & 1986
-// Twelfth Night: Or What You Will (1996)
-// Twelve (2010)
-// Twelve Months (1980)
-// Twelve O'Clock High (1949)
-// Twentieth Century (1934)
-// Twenty Bucks (1993)
-// Twenty Minutes of Love (1914)
-// Twenty-Four Eyes (1954)
-// Twenty-One (1991)
-// Twentynine Palms (2003)
-// Twice Upon a Time: (1953 & 1983)
-// Twice Upon a Yesterday (1999)
-// Twilight (1998)
-// Twilight (2008)
-// Twilight Online (2014)
-// Twilight Syndrome: Dead Go Round (2008)
-// Twilight Zone: The Movie (1983)
-// Twilight of Honor (1963)
-// Twilight of the Ice Nymphs (1997)
-// Twilight's Last Gleaming (1977)
-// Twin Dragons (1992)
-// Twin Falls Idaho (1999)
-// Twin Peaks: Fire Walk with Me (1992)
-// Twin Sisters: (1934 & 2002)
-// Twin Town (1997)
-// Twinkle, Twinkle Lucky Stars (1995)
-// Twins of Evil (1971)
-// Twins: (1925 & 1988)
-// Twist (2003)
-// Twisted Desire (1996) (TV)
-// Twisted Justice (2016)
-// Twisted Nerve (1968)
-// Twisted Obsession (1990)
-// Twisted: (1986, 1996 & 2004)
-// Twister: (1989 & 1996)
-// Twitch of the Death Nerve (1971)
-// Twixt (2011)
-// Two Arabian Knights (1927)
-// Two Brothers: (1929 & 2004)
-// Two Can Play That Game (2001)
-// Two Cops (1993)
-// Two Daughters (1961)
-// Two English Girls (1971)
-// Two Evil Eyes (1991)
-// Two Girls and a Guy (1997)
-// Two Great Sheep (2004)
-// Two Hands (1999)
-// Two Hands: The Leon Fleisher Story (2006)
-// Two If by Sea (1996)
-// Two Men and a Wardrobe (1958)
-// Two Moon Junction (1988)
-// Two Much (1995)
-// Two Mules for Sister Sara (1970)
-// Two Plus Fours (1930)
-// Two Rode Together (1961)
-// Two Solitudes (1978)
-// Two Stage Sisters (1964)
-// Two Tars (1928)
-// Two Thousand Maniacs! (1964)
-// Two Weeks Notice (2002)
-// Two Weeks: (1920 & 2006)
-// Two Women (1960)
-// Two Women: (1960, 1947 & 1999)
-// Two for the Money (2005)
-// Two for the Road (1967)
-// Two for the Seesaw (1962)
-// Two of Us: (1987 TV & 2000)
-// Two of a Kind: (1951 & 1983)
-// Two or Three Things I Know About Her (1967)
-// Two-Fisted Tales (1992, TV)
-// Two-Lane Blacktop (1971)
-// Two-Minute Warning (1976)
-// Two-Way Stretch (1960)
-// Tyler Perry Presents Peeples (2013)
-// Typhoon Noruda (2015)
-// Typhoon: (1933, 1940 & 2005)
-// Tyrannosaur (2011)
-// Tyson: (1995 & 2008)
-// Tōkyō Mukokuseki Shōjo (2015)
-// U Turn (1997)
-// U, Bomsi n Me (2005)
+// The Guard from Underground 
+// The Guard:  2001 & 2011)
+// The Guardian: & 2006)
+// The Guatemalan Handshake 
+// The Guerrilla: & 1973)
+// The Guilt Trip 
+// The Guilty: & 2000)
+// The Guinea Pig 
+// The Gulf Between 
+// The Gumball Rally 
+// The Gunfighter 
+// The Gunman 
+// The Guns of Navarone 
+// The Guru & 2002)
+// The Guyver 
+// The Gwaii 
+// The H-Man 
+// The Hairdresser's Husband 
+// The Hairy Bird 
+// The Hallelujah Trail 
+// The Hand That Rocks the Cradle 
+// The Hand:  1965 & 1981)
+// The Handmaid's Tale 
+// The Handmaiden 
+// The Hanging Tree 
+// The Hangover 
+// The Hangover Part II 
+// The Hangover Part III 
+// The Happening: & 2008)
+// The Happiest Days of Your Life 
+// The Happiest Millionaire 
+// The Happiness of the Katakuris 
+// The Hard Way: & 1991)
+// The Harder They Come 
+// The Harder They Fall 
+// The Hare Census 
+// The Harmonium in My Memory 
+// The Harvey Girls 
+// The Haunted 
+// The Haunted Cinema 
+// The Haunted House:  1921, 1928, 1929 1982 & 2005)
+// The Haunted Mansion 
+// The Haunted Palace 
+// The Haunted Strangler 
+// The Haunted World of El Superbeasto 
+// The Haunting in Connecticut 
+// The Haunting in Connecticut 2: Ghosts of Georgia 
+// The Haunting of Molly Hartley 
+// The Haunting: & 1999)
+// The Hawks and the Sparrows 
+// The Headsman 
+// The Heart Breaker 
+// The Heart Is Deceitful Above All Things 
+// The Heart Is a Lonely Hunter 
+// The Heart of the Bear 
+// The Heart of the Game 
+// The Heart's Cry 
+// The Heartbreak Kid:  1993 & 2007)
+// The Hearts of Age 
+// The Heat 
+// The Hebrew Hammer 
+// The Heiress 
+// The Heist:  1976, 1989 TV, 2001 & 2008)
+// The Hellcats 
+// The Help 
+// The Herdsman 
+// The Hero 
+// The Heroes of Telemark 
+// The Heroic Trio 
+// The Hi-Lo Country 
+// The Hidden 
+// The Hidden Fortress 
+// The High and the Mighty 
+// The Hill 
+// The Hills Have Eyes 2 
+// The Hills Have Eyes Part II 
+// The Hills Have Eyes: & 2006)
+// The Hills Run Red 
+// The Hindenburg 
+// The Hired Hand 
+// The Hireling 
+// The History Boys 
+// The Hit 
+// The Hitch-Hiker 
+// The Hitcher II: I've Been Waiting 
+// The Hitcher: & 2007)
+// The Hitchhiker's Guide to the Galaxy 
+// The Hoax 
+// The Hobbit: & The Hobbit film))
+// The Hobbit: An Unexpected Journey 
+// The Hobbit: The Battle of the Five Armies 
+// The Hobbit: The Desolation of Smaug 
+// The Hole:  1960, 1962, 1997, 1998, 2001 & 2009)
+// The Holiday 
+// The Hollywood Knights 
+// The Hollywood Revue of 1929 
+// The Holy Mountain & 1973)
+// The Homecoming 
+// The Homeless 
+// The Homeless Student 
+// The Homesman 
+// The Honeymoon Killers 
+// The Honeymooners 
+// The Honeytrap 
+// The Horde 
+// The Horn Blows at Midnight 
+// The Horror of Party Beach 
+// The Horse Soldiers 
+// The Horse Whisperer 
+// The Horse's Mouth 
+// The Hospital 
+// The Host & 2013)
+// The Hostage 
+// The Hot Chick 
+// The Hot Rock 
+// The Hot Spot 
+// The Hotel New Hampshire 
+// The Hottie and the Nottie 
+// The Hound of the Baskervilles 
+// The Hours 
+// The Hours and Times 
+// The House 
+// The House Bunny 
+// The House That Dripped Blood 
+// The House by the Cemetery 
+// The House in the Middle 
+// The House of Fear 
+// The House of Mirth 
+// The House of Rothschild 
+// The House of Sand 
+// The House of Yes 
+// The House of the Devil 
+// The House of the Spirits 
+// The House on 92nd Street 
+// The House on Sorority Row 
+// The House with Laughing Windows 
+// The Howards of Virginia 
+// The Howling 
+// The Howling: New Moon Rising 
+// The Howling: Reborn 
+// The Hudsucker Proxy 
+// The Hugga Bunch 
+// The Human Centipede  Sequence) 
+// The Human Centipede 2 Sequence) 
+// The Human Condition I: No Greater Love 
+// The Human Condition II: Road to Eternity 
+// The Human Condition III: A Soldier's Prayer 
+// The Human Stain 
+// The Hunchback TV)
+// The Hunchback of Notre Dame II 
+// The Hunchback of Notre Dame:  1939, 1956, 1982 & 1996)
+// The Hunger Games 
+// The Hunger Games: Catching Fire 
+// The Hunger Games: Mockingjay – Part 1 
+// The Hunger Games: Mockingjay – Part 2 
+// The Hunger: & 1986)
+// The Hunt for Red October 
+// The Hunt: & 2012)
+// The Hunted: & 2003)
+// The Hunter:  2010, 2011 Russian & 2011 Australian)
+// The Hunting Party: & 2007)
+// The Hunting of the President 
+// The Huntsman: Winter's War 
+// The Hurricane: & 1999)
+// The Hurt Locker 
+// The Husband 
+// The Hustle 
+// The Hustler 
+// The I Inside 
+// The IPCRESS File 
+// The Ice Harvest 
+// The Ice Pirates 
+// The Ice Storm 
+// The Iceman 
+// The Ides of March 
+// The Idiot  1951, 1958 & 2011)
+// The Idiots 
+// The Idle Class 
+// The Idol of Bonanza Camp 
+// The Idolmaster Movie: Kagayaki no Mukogawa e! 
+// The Illusionist: & 2010)
+// The Illustrated Man 
+// The Imaginarium of Doctor Parnassus 
+// The Imitation Game 
+// The Immigrant:  1917 & 2013)
+// The Importance of Being Earnest: & 2002)
+// The Impossible Voyage 
+// The Impossible: & 2012)
+// The Imposter: & 2012)
+// The Impostors 
+// The In Crowd 
+// The In-Laws: & 2003)
+// The Inbetweeners Movie 
+// The Incredible Burt Wonderstone 
+// The Incredible Hulk 
+// The Incredible Melting Man 
+// The Incredible Mr. Limpet 
+// The Incredible Shrinking Man 
+// The Incredible Shrinking Woman 
+// The Incredibles 
+// The Incredibly True Adventures of Two Girls in Love 
+// The Incubus 
+// The Independent 
+// The Indian Runner 
+// The Indian in the Cupboard 
+// The Inerasable 
+// The Informant! 
+// The Informer 
+// The Informers 
+// The Inkwell 
+// The Inn of the Sixth Happiness 
+// The Innkeepers 
+// The Innocents 
+// The Insect Woman 
+// The Insider 
+// The Inspector General 
+// The Intern 
+// The International 
+// The Internship 
+// The Interpreter 
+// The Interview: & 2014)
+// The Intouchables 
+// The Intruder 
+// The Invasion 
+// The Invention of Lying 
+// The Invincible Iron Man 
+// The Invincible Piglet 
+// The Invisible 
+// The Invisible Circus 
+// The Invisible Informer 
+// The Invisible Man 
+// The Invisible Man Returns 
+// The Invisible War 
+// The Invisible Woman: & 2013)
+// The Invitation: & 2015)
+// The Irishman: & 2019)
+// The Iron Giant 
+// The Iron Lady 
+// The Island at the Top of the World 
+// The Island of Dr. Moreau: & 1996)
+// The Island: & 2005)
+// The Isle 
+// The Isle of the Dead 
+// The Italian 
+// The Italian Job: & 2003)
+// The Jackal: & 2010)
+// The Jackals: & 1968)
+// The Jacket 
+// The Jackpot 
+// The Jammed 
+// The Jane Austen Book Club 
+// The January Man 
+// The Japanese Wife 
+// The Japanese Woman 
+// The Jar 
+// The Jar: A Tale From the East 
+// The Jay Bird 
+// The Jayhawkers! 
+// The Jayne Mansfield Story TV)
+// The Jazz Cinderella 
+// The Jazz Girl 
+// The Jazz Singer:  1952 & 1980)
+// The Jerk 
+// The Jerk, Too TV)
+// The Jerky Boys: The Movie 
+// The Jesse Owens Story  / The Jetsons & WWE: Robo-WrestleMania! 
+// The Jetsons Meet the Flintstones 
+// The Jewel of the Nile 
+// The Jezebels 
+// The Joker: & 1960)
+// The Jokers 
+// The Jolson Story 
+// The Joneses 
+// The Joy Luck Club 
+// The Judge and the Assassin 
+// The Judge:  1984, 2014, & 2017)
+// The Jungle Book 2 
+// The Jungle Book:  1994 & 2016)
+// The Jungle Book: Mowgli's Story 
+// The Jungle:  1952, & 1967)
+// The Junkman 
+// The Junky's Christmas 
+// The Juror 
+// The Kaiser's Shadow 
+// The Kaiser, the Beast of Berlin 
+// The Kalemites Visit Gibraltar 
+// The Kangaroo Kid 
+// The Kansan 
+// The Kansas City Massacre TV)
+// The Kansas Terrors 
+// The Karamazovs 
+// The Karaoke King 
+// The Karate Dog TV)
+// The Karate Guard 
+// The Karate Kid Part II 
+// The Karate Kid Part III 
+// The Karate Kid: & 2010)
+// The Karate Killers 
+// The Karen Carpenter Story TV)
+// The Karnival Kid 
+// The Karthauzer 
+// The Kate Logan Affair 
+// The Katnips of 1940 
+// The Kautokeino Rebellion 
+// The Keep 
+// The Kennel Murder Case 
+// The Kentuckian 
+// The Kentucky Fried Movie 
+// The Keys of the Kingdom 
+// The Kibitzer 
+// The Kick 
+// The Kickback 
+// The Kid & I 
+// The Kid Brother 
+// The Kid Comes Back 
+// The Kid Rides Again 
+// The Kid Sister 
+// The Kid Stakes 
+// The Kid Stays in the Picture 
+// The Kid Who Couldn't Miss 
+// The Kid Who Would Be King 
+// The Kid and the Cowboy 
+// The Kid from Borneo 
+// The Kid from Broken Gun 
+// The Kid from Brooklyn 
+// The Kid from Cleveland 
+// The Kid from Kansas 
+// The Kid from Kokomo 
+// The Kid from Left Field: & 1979)
+// The Kid from Spain 
+// The Kid from Texas: & 1950)
+// The Kid from the Big Apple 
+// The Kid with a Bike 
+// The Kid with the 200 I.Q. 
+// The Kid with the Broken Halo 
+// The Kid's Clever 
+// The Kid:  1921, 1950, 1999, 2000, 2010 & 2019)
+// The Kiddies in the Ruins 
+// The Kidnapped Bride 
+// The Kidnapper 
+// The Kidnappers 
+// The Kidnapping of Lola 
+// The Kidnapping of Michel Houellebecq 
+// The Kidnapping of the President 
+// The Kids 
+// The Kids Are All Right 
+// The Kids Are Alright 
+// The Kids Grow Up 
+// The Kids Menu 
+// The Kids from the Marx and Engels Street 
+// The Kids from the Port 
+// The Kids in the Shoe 
+// The Killer Elite 
+// The Killer Inside Me: & 2010)
+// The Killer Shrews 
+// The Killer:  1972, 1989, 2006 & 2017)
+// The Killers:  1956 & 1964)
+// The Killing 
+// The Killing Fields 
+// The Killing Gene 
+// The Killing Room 
+// The Killing of Sister George 
+// The Killing of a Chinese Bookie 
+// The Killing of a Sacred Deer 
+// The King and I: & 1999)
+// The King and the Clown 
+// The King of Comedy 
+// The King of Kings: & 1963)
+// The King of Kong: A Fistful of Quarters 
+// The King of Marvin Gardens 
+// The King of Masks 
+// The King – Jari Litmanen 
+// The King's Speech 
+// The King:  2002, 2005, 2007, 2017 Korean, 2017 American, & 2019)
+// The Kingdom 
+// The Kings of Summer 
+// The Kirishima Thing 
+// The Kiss of Evil 
+// The Kiss of the Vampire 
+// The Kiss: & 2003)
+// The Kitchen:  2012 & 2019)
+// The Kite Runner 
+// The Kites Flying in the Sky 
+// The Klansman 
+// The Knack ...and How to Get It 
+// The Knot: & 2006)
+// The Komediant 
+// The Kon Ichikawa Story 
+// The Kook 
+// The Kopanoi 
+// The Korean Connection 
+// The Korean Wedding Chest 
+// The Kovak Box 
+// The Krays 
+// The Kremlin Letter 
+// The Kreutzer Sonata:  1915, 1920, 1922, 1927, 1937, 1987 & 2008)
+// The Kung Fu Instructor 
+// The Kung Fu Scholar 
+// The Kunoichi: Ninja Girl 
+// The Kurnell Story 
+// The Kwannon of Okadera 
+// The Ladies Man: & 2000)
+// The Lady Eve 
+// The Lady Vanishes:  1979 & 2013)
+// The Lady from Shanghai 
+// The Lady in the Van 
+// The Lady: & 2011)
+// The Ladykillers: & 2004)
+// The Lair of the White Worm 
+// The Lake House 
+// The Lamb: & 1918)
+// The Lame Devil  French: Le Diable boiteux)
+// The Land Before Time 
+// The Land Before Time II: The Great Valley Adventure 
+// The Land Before Time III: The Time of the Great Giving 
+// The Land Before Time IV: Journey Through the Mists 
+// The Land Before Time IX: Journey to Big Water 
+// The Land Before Time V: The Mysterious Island 
+// The Land Before Time VI: The Secret of Saurus Rock 
+// The Land Before Time VII: The Stone of Cold Fire 
+// The Land Before Time VIII: The Big Freeze 
+// The Land Before Time X: The Great Longneck Migration 
+// The Land Before Time XI: Invasion of the Tinysauruses 
+// The Land Before Time XII: The Great Day of the Flyers 
+// The Land Before Time XIII: The Wisdom of Friends 
+// The Land Before Time XIV: Journey of the Brave 
+// The Land That Time Forgot: & 2009)
+// The Laramie Project 
+// The Last Airbender 
+// The Last American Hero 
+// The Last American Virgin 
+// The Last Boy Scout 
+// The Last Broadcast 
+// The Last Castle 
+// The Last Command: & 1955)
+// The Last Days of Disco 
+// The Last Detail 
+// The Last Dragon 
+// The Last Emperor 
+// The Last Exorcism 
+// The Last Exorcism Part II 
+// The Last Five Years 
+// The Last Horror Movie 
+// The Last House on the Left: & 2009)
+// The Last Hunt 
+// The Last King of Scotland 
+// The Last Kiss: & 2006)
+// The Last Laugh 
+// The Last Legion 
+// The Last Man on Earth: & 1964)
+// The Last Metro 
+// The Last Mimzy 
+// The Last Movie 
+// The Last Picture Show 
+// The Last Polka 
+// The Last Quarter 
+// The Last Remake of Beau Geste 
+// The Last Samurai 
+// The Last Seduction 
+// The Last Sharknado: It's About Time 
+// The Last Song 
+// The Last Stage 
+// The Last Stand 
+// The Last Starfighter 
+// The Last Station 
+// The Last Sunset 
+// The Last Supper:  1995, 2003 & 2006)
+// The Last Survivors 
+// The Last Temptation of Christ 
+// The Last Time I Saw Paris 
+// The Last Tycoon 
+// The Last Unicorn 
+// The Last Valley 
+// The Last Waltz 
+// The Last Wave 
+// The Last Winter 
+// The Last Women Standing 
+// The Last of Sheila 
+// The Last of the Mohicans: American, 1920 German, 1936 & 1992)
+// The Last: Naruto the Movie 
+// The Late, Great Planet Earth 
+// The Laughing Policeman 
+// The Lavender Hill Mob 
+// The Lawnmower Man 
+// The Lead Singer and Dancer and His Woman 
+// The League of Extraordinary Gentlemen 
+// The League of Gentlemen 
+// The League of Gentlemen's Apocalypse 
+// The Learning Tree 
+// The Ledge 
+// The Left Hand of God 
+// The Left Handed Gun 
+// The Legend 
+// The Legend of 1900 
+// The Legend of Bagger Vance 
+// The Legend of Billie Jean 
+// The Legend of Boggy Creek 
+// The Legend of Hell House 
+// The Legend of Hercules 
+// The Legend of Sleepy Hollow 
+// The Legend of Suriyothai 
+// The Legend of Zorro 
+// The Legend of the 7 Golden Vampires 
+// The Legend of the Lone Ranger 
+// The Lego Batman Movie 
+// The Lego Movie 
+// The Lego Movie 2: The Second Part 
+// The Lego Ninjago Movie 
+// The Leopard 
+// The Leopard Man 
+// The Letter: & 1940)
+// The Libertine: & 2005)
+// The Life Aquatic with Steve Zissou 
+// The Life Before Her Eyes 
+// The Life and Death of 9413: a Hollywood Extra 
+// The Life and Death of Colonel Blimp 
+// The Life and Death of Peter Sellers 
+// The Life and Times of Rosie the Riveter 
+// The Life of David Gale 
+// The Life of Emile Zola 
+// The Life of Oharu 
+// The Life of Wu Xun 
+// The Lifeguard 
+// The Light Between Oceans 
+// The Limey 
+// The Limits of Control 
+// The Lincoln Lawyer 
+// The Lion King 
+// The Lion King 1½ 
+// The Lion King II: Simba's Pride 
+// The Lion in Winter: & 2003 TV)
+// The List of Adrian Messenger 
+// The Little Foxes 
+// The Little Girl Who Lives Down the Lane 
+// The Little Hut 
+// The Little Mermaid 
+// The Little Mermaid II: Return to the Sea 
+// The Little Mermaid: Ariel's Beginning 
+// The Little Prince:& 2015)
+// The Little Shop of Horrors 
+// The Little Theatre of Jean Renoir 
+// The Little Vampire 
+// The Littlest Victims 
+// The Lives of Others 
+// The Lives of a Bengal Lancer 
+// The Living Daylights 
+// The Living Desert 
+// The Lizzie McGuire Movie 
+// The Lobo Paramilitary Christmas Special 
+// The Lodger:  1944 & 2009)
+// The Lodger: A Story of the London Fog 
+// The Lollipop Generation 
+// The Lone Ranger: TV & 2013)
+// The Loneliness of the Long Distance Runner 
+// The Lonely Guy 
+// The Long Absence 
+// The Long Good Friday 
+// The Long Goodbye 
+// The Long Gray Line 
+// The Long Kiss Goodnight 
+// The Long Riders 
+// The Long Ships 
+// The Long Voyage Home 
+// The Long, Hot Summer 
+// The Long, Long Trailer 
+// The Longest Day 
+// The Longest Night in Shanghai 
+// The Longest Yard: & 2005)
+// The Look of Love 
+// The Lookout 
+// The Lord of the Rings 
+// The Lord of the Rings: The Fellowship of the Ring 
+// The Lord of the Rings: The Return of the King 
+// The Lord of the Rings: The Two Towers 
+// The Lords of Flatbush 
+// The Lords of Salem 
+// The Loser Takes It All 
+// The Losers 
+// The Loss of Sexual Innocence 
+// The Lost 15 Boys: The Big Adventure on Pirates' Island 
+// The Lost Battalion 
+// The Lost Boys 
+// The Lost City 
+// The Lost Generation 
+// The Lost Honour of Katharina Blum 
+// The Lost Patrol 
+// The Lost Skeleton of Cadavra 
+// The Lost Weekend 
+// The Lost World: & 1960)
+// The Lost World: Jurassic Park 
+// The Love Boat 
+// The Love Bug 
+// The Love Guru 
+// The Love Letter: & 1999)
+// The Love Parade 
+// The Loved One 
+// The Loved Ones 
+// The Lovely Bones 
+// The Lover 
+// The Lovers of Montparnasse 
+// The Lovers on the Bridge 
+// The Lovers:  1958 & 1994)
+// The Lower Depths: & 1957)
+// The Lucky One 
+// The Lucky Ones 
+// The Lucky Texan 
+// The Lure:  1933 & 2015)
+// The Luzhin Defence 
+// The Machine Girl 
+// The Machinist 
+// The Mack 
+// The Mackintosh Man 
+// The Macomber Affair 
+// The Mad Adventures of Rabbi Jacob 
+// The Mad Ghoul 
+// The Mad Monster 
+// The Mad Racer 
+// The Maddening 
+// The Madness of King George 
+// The Magdalene Sisters 
+// The Maggie 
+// The Magic 7  / The Magic Box 
+// The Magic Christian 
+// The Magic Flute: & 2006)
+// The Magic Roundabout 
+// The Magic Sword:  1950 & 1962)
+// The Magic of Lassie 
+// The Magical Legend of the Leprechauns  / The Magician:  1926, 1958 & 2005)
+// The Magnificent Ambersons 
+// The Magnificent Seven & 2016)
+// The Magnificent Seven Deadly Sins 
+// The Maid  2005 & 2009)
+// The Maids 
+// The Main Event 
+// The Majestic 
+// The Major and the Minor 
+// The Making of Fanny and Alexander 
+// The Makioka Sisters 
+// The Maltese Falcon: & 1941)
+// The Man Behind the Mask 
+// The Man Who Came to Dinner 
+// The Man Who Captured Eichmann 
+// The Man Who Could Work Miracles 
+// The Man Who Cried 
+// The Man Who Fell to Earth 
+// The Man Who Knew Too Little 
+// The Man Who Knew Too Much: & 1956)
+// The Man Who Loved Cat Dancing 
+// The Man Who Loves Women 
+// The Man Who Never Was 
+// The Man Who Shot Liberty Valance 
+// The Man Who Sued God 
+// The Man Who Wasn't There 
+// The Man Who Would Be King 
+// The Man Without a Face 
+// The Man Without a Past 
+// The Man from Earth 
+// The Man from Elysian Fields 
+// The Man from Laramie 
+// The Man from Nowhere 
+// The Man from O.R.G.Y. 
+// The Man from Snowy River 
+// The Man from Snowy River II 
+// The Man from Toronto 
+// The Man from U.N.C.L.E. 
+// The Man from the Deep River 
+// The Man in Grey 
+// The Man in the Gray Flannel Suit 
+// The Man in the Iron Mask 
+// The Man in the Moon 
+// The Man in the White Suit 
+// The Man on the Roof 
+// The Man with One Red Shoe 
+// The Man with Two Brains 
+// The Man with the Golden Arm 
+// The Man with the Golden Gun 
+// The Man with the Iron Fists 
+// The Man with the Iron Fists 2 
+// The Man: & 2005)
+// The Manchurian Candidate: & 2004)
+// The Mangler 
+// The Mangler Reborn 
+// The Manitou 
+// The Manson Family 
+// The Manxman 
+// The Many Adventures of Winnie the Pooh 
+// The Marathon Family 
+// The Marine 
+// The Marine 2 
+// The Marine 3: Homefront 
+// The Marine 4: Moving Target 
+// The Marine 5: Battleground 
+// The Mark 
+// The Mark of Zorro:  1940 & 1974 TV)
+// The Marriage of Maria Braun 
+// The Martian 
+// The Mask 
+// The Mask of Dimitrios 
+// The Mask of Fu Manchu 
+// The Mask of Zorro 
+// The Masked Saint 
+// The Masque of the Red Death: & 1989)
+// The Master Mind 
+// The Master:  1989, 2005, 2009, 2012 & 2015)
+// The Matador 
+// The Match Factory Girl 
+// The MatchMaker 
+// The Matchmaker 
+// The Mating Habits of the Earthbound Human 
+// The Matrix 
+// The Matrix Reloaded 
+// The Matrix Revolutions 
+// The Mattei Affair 
+// The Mayor of Hell 
+// The McKenzie Break 
+// The Mechanic: & 2011)
+// The Medallion 
+// The Medusa Touch 
+// The Memory of Justice 
+// The Memory of a Killer 
+// The Memphis Belle: A Story of a Flying Fortress 
+// The Men 
+// The Men Who Stare at Goats 
+// The Men Who Tread on the Tiger's Tail 
+// The Mephisto Waltz 
+// The Merchant of Four Seasons 
+// The Merchant of Venice:  1923, 1953 & 2004)
+// The Mermaid:  1965 & 2016)
+// The Merry Gentleman 
+// The Merry Widow & 1934)
+// The Message: & 2009)
+// The Messenger 
+// The Messenger: The Story of Joan of Arc 
+// The Messengers 
+// The Meteor Man 
+// The Metro 
+// The Mexican 
+// The Meyerowitz Stories 
+// The Michelle Apartments 
+// The Midnight Meat Train 
+// The Mighty 
+// The Mighty Ducks 
+// The Mikado: & 1967)
+// The Milker's Mishap 
+// The Milky Way:  1940 & 1969)
+// The Miller and the Sweep 
+// The Million Dollar Duck 
+// The Million Dollar Hotel 
+// The Miniver Story 
+// The Minus Man 
+// The Miracle Man: & 1932)
+// The Miracle Match 
+// The Miracle Worker:  1979 & 2000)
+// The Miracle of Joe Petrel 
+// The Miracle of Morgan's Creek 
+// The Miracle: German, 1912 UK, 1913, 1959, 1987, 1991, 2009, 2013 & 2015)
+// The Mirage: & 2015)
+// The Mirror Crack'd 
+// The Mirror Has Two Faces 
+// The Mirror:  1967, 1975, 1999 & 2015)
+// The Misfits 
+// The Missing Person 
+// The Missing:  2003 & 2017)
+// The Mission:  1986 & 1999)
+// The Missionary 
+// The Missouri Breaks 
+// The Mist 
+// The Mistress of Spices 
+// The Mod Squad 
+// The Moguls 
+// The Mole People 
+// The Molly Maguires 
+// The Moment of Truth film)
+// The Moment: & 2013)
+// The Money Pit 
+// The Monkey King 
+// The Monkey King 2 
+// The Monkey King 3 
+// The Monolith Monsters 
+// The Monster Club 
+// The Monster Squad 
+// The Monster That Challenged the World 
+// The Monster: & 1994)
+// The Monuments Men 
+// The Moon Is Blue 
+// The Moon-Spinners 
+// The More the Merrier 
+// The Morning After 
+// The Mortal Instruments: City of Bones 
+// The Mortal Storm 
+// The Mosquito Coast 
+// The Most Dangerous Game 
+// The Most Hated Woman in America 
+// The Mother 
+// The Mother and the Whore 
+// The Mothman Prophecies 
+// The Motorcycle Diaries 
+// The Mountain Between Us 
+// The Mountain Road 
+// The Mountain of the Cannibal God 
+// The Mouse That Roared 
+// The Mouth of the Wolf: & 2009)
+// The Mouthpiece 
+// The Mummy Returns 
+// The Mummy's Curse 
+// The Mummy's Ghost 
+// The Mummy's Hand 
+// The Mummy's Tomb 
+// The Mummy:  1999 & 2017)
+// The Mummy: Tomb of the Dragon Emperor 
+// The Muppet Christmas Carol 
+// The Muppet Movie 
+// The Muppets 
+// The Muppets Take Manhattan 
+// The Muppets' Wizard of Oz TV)
+// The Muse 
+// The Music Box 
+// The Music Lovers 
+// The Music Man: & 2003 TV)
+// The Musketeer 
+// The Musketeers of Pig Alley 
+// The Mysterious Island 
+// The Mystery of Death 
+// The Myth 
+// The Myth of Fingerprints 
+// The Naked City 
+// The Naked Edge 
+// The Naked Feminist 
+// The Naked Gun 2½: The Smell of Fear 
+// The Naked Gun: From the Files of Police Squad! 
+// The Naked Island 
+// The Naked Jungle 
+// The Naked Kiss 
+// The Naked Maja 
+// The Naked Prey 
+// The Naked Proof 
+// The Naked Runner 
+// The Naked Spur 
+// The Naked Truth: & 1992)
+// The Name of the Rose 
+// The Nameless 
+// The Namesake 
+// The Nanny Diaries 
+// The Nanny: & 1999)
+// The Narrow Margin 
+// The Narrow Path: & 2006)
+// The Nasty Girl 
+// The National Anthem 
+// The National Health 
+// The Nativity 
+// The Nativity Story 
+// The Natural 
+// The Nature of the Beast: & 1995)
+// The Naughty Duchess 
+// The Naughty Flirt 
+// The Naughty List 
+// The Naughty Nineties 
+// The Naughty Otter 
+// The Navajo's Bride 
+// The Naval Commandos 
+// The Navigator 
+// The Navigator: A Medieval Odyssey 
+// The Navigators 
+// The Navy 
+// The Navy Aviator 
+// The Navy Comes Through 
+// The Navy Lark 
+// The Navy Way 
+// The Navy vs. the Night Monsters 
+// The Naxalites 
+// The Nazi Plan 
+// The Nazis Strike 
+// The Neanderthal Man 
+// The Nearsighted School Teacher 
+// The Negotiator 
+// The Neon Bible 
+// The Neon Demon 
+// The Nest:  1980, 1988 & 2002)
+// The Nesting 
+// The Net 2.0 
+// The Net:  1975 & 1995)
+// The Nevadan 
+// The NeverEnding Story II: The Next Chapter 
+// The NeverEnding Story III 
+// The Neverending Story 
+// The New Adventures of Pippi Longstocking 
+// The New Age 
+// The New Daughter 
+// The New Guy 
+// The New Janitor 
+// The New Mutants 
+// The New World & 2011)
+// The New Year 
+// The New York Ripper 
+// The Newton Boys 
+// The Next Best Thing 
+// The Next Karate Kid 
+// The Next Three Days 
+// The Next of Kin 
+// The Nice Guys 
+// The Nickel Ride 
+// The Nickel-Hopper 
+// The Nifty Nineties 
+// The Night 
+// The Night Angel 
+// The Night Before Christmas:  1913, 1933, 1941 & 1951)
+// The Night Before the Divorce 
+// The Night Before the Night Before Christmas TV)
+// The Night Before the Premiere 
+// The Night Before: & 2015)
+// The Night Belongs to Us 
+// The Night Bird 
+// The Night Brings Charlie 
+// The Night Bus 
+// The Night Caller 
+// The Night Clerk // The Night Club 
+// The Night Club Lady 
+// The Night Club Queen 
+// The Night Coachman 
+// The Night Comes for Us 
+// The Night Crew 
+// The Night Cry 
+// The Night Digger 
+// The Night Eats the World 
+// The Night Evelyn Came Out of the Grave 
+// The Night Falls 
+// The Night Flier 
+// The Night Flier 
+// The Night Flyer 
+// The Night God Screamed 
+// The Night Has Eyes 
+// The Night Listener 
+// The Night Porter 
+// The Night That Panicked America  / The Night Watch: & 2011)
+// The Night Watchman: & 2008)
+// The Night of the Following Day 
+// The Night of the Generals 
+// The Night of the Iguana 
+// The Night of the Shooting Stars 
+// The Night of the White Pants 
+// The Nightingale 
+// The Nightmare Before Christmas 
+// The Nine Lives of Fritz the Cat 
+// The Nines 
+// The Ninth Configuration 
+// The Ninth Day 
+// The Ninth Gate 
+// The Noah 
+// The Noose 
+// The Normal Heart 
+// The North Star 
+// The Notebook: & 2013)
+// The Notorious Bettie Page 
+// The November Man 
+// The Nude Bomb 
+// The Nugget 
+// The Number 
+// The Number 23 
+// The Nun's Story 
+// The Nun:  2005, 2013, & 2018)
+// The Nut 
+// The Nut Job 
+// The Nut Job 2: Nutty by Nature 
+// The Nutcracker 
+// The Nutcracker and the Four Realms 
+// The Nutcracker in 3D 
+// The Nutty Professor: & 1996)
+// The Nymph 
+// The OH in Ohio 
+// The Oasis 
+// The Object of My Affection 
+// The Objective 
+// The Oblong Box 
+// The Ocean 
+// The Octagon 
+// The Odd Angry Shot 
+// The Odd Couple 
+// The Odd Couple II 
+// The Odd Job 
+// The Odd Life of Timothy Green 
+// The Odessa File 
+// The Off Season 
+// The Offence 
+// The Offenders 
+// The Office 
+// The Office Wife: & 1934)
+// The Official Story 
+// The Oil, the Baby and the Transylvanians 
+// The Oklahoma Kid 
+// The Oklahoma Woman 
+// The Old Dark House 
+// The Old Grey Hare 
+// The Old Guard: & 1960)
+// The Old Homestead:  1922, 1935, & 1942)
+// The Old Lady 
+// The Old Maid: & 1972)
+// The Old Man & the Gun 
+// The Old Man and the Sea: & 1999)
+// The Old Man: & 2012)
+// The Old Mill 
+// The Old Mill Pond 
+// The Omega Code 
+// The Omega Man 
+// The Omen: & 2006)
+// The One and Only  1999 & 2002)
+// The One and Only, Genuine, Original Family Band 
+// The One: & 2003)
+// The Onion Field 
+// The Onion Movie 
+// The Only Son: & 1936)
+// The Oogieloves in the Big Balloon Adventure 
+// The Opening of Misty Beethoven 
+// The Operator 
+// The Opium War 
+// The Opposite of Sex 
+// The Optimists of Nine Elms 
+// The Orange Sky 
+// The Oranges 
+// The Ordeal 
+// The Order: & 2003)
+// The Organizer 
+// The Original Kings of Comedy 
+// The Original Sin 
+// The Originals 
+// The Orphan 
+// The Orphan of Anyang 
+// The Orphanage 
+// The Oscar 
+// The Osterman Weekend 
+// The Other Boleyn Girl: TV & 2008)
+// The Other Final 
+// The Other Guys 
+// The Other Half: & 2006)
+// The Other Man: & 2008)
+// The Other Side of Heaven 
+// The Other Side of Midnight 
+// The Other Side of the Bed 
+// The Other Side of the Wind 
+// The Other Side:  2006, 2011, 2012 & 2015)
+// The Other Sister 
+// The Other Woman:  1983, 1995, 2009, & 2014)
+// The Other:  1930, 1972 & 1999)
+// The Others: & 2001)
+// The Ottoman Lieutenant 
+// The Out-of-Towners: & 1999)
+// The Outcast: & 1954)
+// The Outcasts:  2007 & 2017)
+// The Outfield 
+// The Outfit 
+// The Outlaw Josey Wales 
+// The Outlaw:  1943 & 2010)
+// The Outlaws Is Coming 
+// The Outpost 
+// The Outrage 
+// The Outsider:  1931, 1939, 1948, 1961, 1980, 1998 TV, 2002, 2014 & 2018)
+// The Outsiders 
+// The Over the Hill Band 
+// The Over-the-Hill Gang TV)
+// The Over-the-Hill Gang Rides Again TV)
+// The Overbrook Brothers 
+// The Overcoat:  1952, 1959 & unfinished)
+// The Overeater 
+// The Overland Limited 
+// The Overland Stage 
+// The Overland Telegraph 
+// The Overlanders 
+// The Overnight 
+// The Overnighters 
+// The Overtaxed 
+// The Overture 
+// The Owl Who Married a Goose: An Eskimo Legend 
+// The Owl and the Pussycat 
+// The Owl vs Bombo 
+// The Owl: & 1991)
+// The Owner 
+// The Owners 
+// The Ox 
+// The Ox-Bow Incident 
+// The Oxbow Cure 
+// The Oxford Murders 
+// The Oxford and Cambridge University Boat Race 
+// The Oyster Dredger 
+// The Oyster Princess 
+// The Pacifier 
+// The Pack:  2010 & 2015)
+// The Package: & 2013)
+// The Pact: TV, 2003, 2006 & 2012)
+// The Page Turner 
+// The Pagemaster 
+// The Painted Desert 
+// The Painted Veil: & 2006)
+// The Pajama Game 
+// The Paleface: & 1948)
+// The Pallbearer 
+// The Palm Beach Story 
+// The Panic in Needle Park 
+// The Paper 
+// The Paper Chase 
+// The Paperboy: & 2012)
+// The Parade 
+// The Paradine Case 
+// The Parallax View 
+// The Parent Trap II TV)
+// The Parent Trap: & 1998)
+// The Park & 2007)
+// The Parole Officer 
+// The Party at Kitty and Stud's 
+// The Party: & 2017)
+// The Passenger – Welcome to Germany 
+// The Passenger:  2005 Éric Caravaca & 2005 François Rotger)
+// The Passengers: & 1999)
+// The Passion of Anna 
+// The Passion of Joan of Arc 
+// The Passion of the Christ 
+// The Password is Courage 
+// The Past-Master 
+// The Patchwork Girl of Oz 
+// The Patent Leather Kid 
+// The Path to Power 
+// The Path to Ultimate Strength 
+// The Pathfinder: & 1996 TV)
+// The Patriot:  1998 & 2000)
+// The Patsy: & 1964)
+// The Pawnbroker 
+// The Pawnshop 
+// The Peacemaker:  1956 & 1997)
+// The Peach Girl 
+// The Peanut Butter Solution 
+// The Peanuts Movie 
+// The Pearl of Death 
+// The Pearls of the Stone Man 
+// The Pebble and the Penguin 
+// The Pelican Brief 
+// The Penalty 
+// The Pentagon Wars TV)
+// The People That Time Forgot 
+// The People Under the Stairs 
+// The People vs. George Lucas 
+// The People vs. Larry Flynt 
+// The Perfect Couple 
+// The Perfect Guy 
+// The Perfect Host 
+// The Perfect Man 
+// The Perfect Score 
+// The Perfect Son 
+// The Perfect Storm 
+// The Perils of Gwendoline in the Land of the Yik-Yak 
+// The Perils of Pauline:  1933, 1947 & 1967)
+// The Perks of Being a Wallflower 
+// The Persecution and Assassination of Jean-Paul Marat as Performed by the Inmates of the Asylum at Charenton Under the Direction of the Marquis de Sade 
+// The Pest:  1922 & 1997)
+// The Petrified Forest 
+// The Phantom Carriage: & 1958)
+// The Phantom Lady 
+// The Phantom Planet 
+// The Phantom Tollbooth 
+// The Phantom from 10,000 Leagues 
+// The Phantom of Hollywood TV)
+// The Phantom of Liberty 
+// The Phantom of the Opera:  1943, 1962, 1989, 1998 & 2004)
+// The Phantom: & 1996)
+// The Philadelphia Experiment 
+// The Philadelphia Story 
+// The Phone 
+// The Photographical Congress Arrives in Lyon 
+// The Phynx 
+// The Pianist:  1998 & 2002)
+// The Piano 
+// The Piano Teacher 
+// The Pick-up Artist 
+// The Picture of Dorian Gray:  1915, 1916, 1917, 1918, 1945, 1976 TV & 2004)
+// The Pigeon Egg Strategy 
+// The Pilgrim: & 2014)
+// The Pillow Book 
+// The Pink Panther 2 
+// The Pink Panther Deux 
+// The Pink Panther Strikes Again 
+// The Pink Panther: & 2006)
+// The Pirate Movie 
+// The Pirate:  1973, 1978 & 1984)
+// The Pirates 
+// The Pirates Who Don't Do Anything: A VeggieTales Movie 
+// The Pirates! In an Adventure with Scientists! 
+// The Pit and the Pendulum: & 1990)
+// The Place Beyond the Pines 
+// The Place Promised in Our Early Days 
+// The Plague Dogs 
+// The Plague of the Zombies 
+// The Plague: & 2006)
+// The Plan: & 2015)
+// The Plank: & 1979)
+// The Plastic Age 
+// The Player 
+// The Players Club 
+// The Playhouse 
+// The Pleasure Garden: & 1952)
+// The Pledge 
+// The Plow That Broke the Plains 
+// The Pod People 
+// The Point! 
+// The Polar Express 
+// The Pool: & 2009)
+// The Poor Little Rich Girl 
+// The Pope Must Die 
+// The Pope of Greenwich Village 
+// The Pornographers 
+// The Portrait of a Lady 
+// The Poseidon Adventure: & 2005 TV)
+// The Possession 
+// The Post 
+// The Postcard Bandit 
+// The Postman 
+// The Postman Always Rings Twice: & 1981)
+// The Poughkeepsie Tapes 
+// The Power 
+// The Power and the Glory: & 1941)
+// The Power of Myth  / The Power of One 
+// The Power of the Press 
+// The Preacher's Wife 
+// The Predator 
+// The President's Analyst 
+// The President's Barber 
+// The President's Lady 
+// The President's Last Bang 
+// The Presidio 
+// The Prestige 
+// The Price of Milk 
+// The Price of Power 
+// The Price: & 2017)
+// The Pride and the Passion 
+// The Pride of the Yankees 
+// The Priests 
+// The Prime of Miss Jean Brodie 
+// The Primrose Ring 
+// The Prince & Me 
+// The Prince & Me 2: The Royal Wedding 
+// The Prince & Me: A Royal Honeymoon 
+// The Prince & Me: The Elephant Adventure 
+// The Prince and the Pauper 
+// The Prince and the Showgirl 
+// The Prince of Egypt 
+// The Prince of Tides 
+// The Princess Bride 
+// The Princess Comes Across 
+// The Princess Diaries 
+// The Princess Diaries 2: Royal Engagement 
+// The Princess and the Frog 
+// The Princess and the Warrior 
+// The Principal 
+// The Prisoner of Second Avenue 
+// The Prisoner of Zenda: & 1952)
+// The Private Eyes 
+// The Private Life of Helen of Troy 
+// The Private Life of Henry VIII 
+// The Private Life of Sherlock Holmes 
+// The Private Lives of Elizabeth and Essex 
+// The Private Lives of Pippa Lee 
+// The Prize Winner of Defiance, Ohio 
+// The Prize:  1963 & 2011)
+// The Prizefighter and the Lady 
+// The Producers: & 2005)
+// The Professionals 
+// The Profit 
+// The Profound Desire of the Gods 
+// The Program 
+// The Projected Man 
+// The Promise:  1995, 1996, 2005, 2007 & 2016)
+// The Promised Land:  1973, 1975, 1986 & 2015)
+// The Proof of the Man 
+// The Prophecy 
+// The Prophecy 3: The Ascent 
+// The Prophecy II 
+// The Prophecy: Forsaken 
+// The Prophecy: Uprising 
+// The Proposal: & 2009)
+// The Proposition: & 2005)
+// The Protector: & 2005)
+// The Proud Valley 
+// The Prowler: & 1981)
+// The Public Enemy 
+// The Puffy Chair 
+// The Punch Bowl 
+// The Punch and Judy Man 
+// The Punisher: & 2004)
+// The Punisher: Dirty Laundry 
+// The Punk Rock Movie 
+// The Puppet Masters 
+// The Puppetmaster 
+// The Pure Hell of St Trinian's 
+// The Purge 
+// The Purge: Anarchy 
+// The Purge: Election Year 
+// The Purge: The Island 
+// The Purple Rose of Cairo 
+// The Pursuit of D. B. Cooper 
+// The Pursuit of Happyness 
+// The Puzzling Challenge Letter of the Mysterious Thief Dorapan 
+// The Quack 
+// The Quail Hunt 
+// The Quake 
+// The Quakeress 
+// The Qualified Adventurer 
+// The Quality of Mercy 
+// The Quarrel 
+// The Quarry 
+// The Quatermass Experiment TV)
+// The Quatermass Xperiment 
+// The Queen Is in the Factory 
+// The Queen and I 
+// The Queen of Hearts 
+// The Queen of Sheba's Pearls 
+// The Queen of Sheba: & 1952)
+// The Queen of Spades:  1960 & 1982)
+// The Queen of Versailles 
+// The Queen of the Night 
+// The Queen's Affair 
+// The Queen's Corgi 
+// The Queen's Flower 
+// The Queen:  2006 & 2012)
+// The Queens of Comedy 
+// The Quest 
+// The Questor Tapes 
+// The Quick and the Dead 
+// The Quick and the Undead 
+// The Quiet 
+// The Quiet American: & 2002)
+// The Quiet Duel 
+// The Quiet Earth 
+// The Quiet Family 
+// The Quiet Man 
+// The Quiet Ones: & 2014)
+// The Quiet Room 
+// The Quiet Storm 
+// The Quiller Memorandum 
+// The R.M. 
+// The Race: & 2002)
+// The Racket: & 1951)
+// The Rage in Placid Lake 
+// The Rage: Carrie 2 
+// The Raid 2 
+// The Raid: Redemption 
+// The Railroad 
+// The Railway Children 
+// The Railway Man 
+// The Rain People 
+// The Rainbow 
+// The Rainmaker: & 1997)
+// The Rains Came 
+// The Rapture 
+// The Rare Breed 
+// The Raspberry Reich 
+// The Rat Pack  / The Raven:  1935, 1963, 2006 & 2012)
+// The Razor's Edge: & 1984)
+// The Reader 
+// The Real Blonde 
+// The Real Cancun 
+// The Real McCoy 
+// The Reaping 
+// The Rebel Rousers 
+// The Rebel:  1931, 1932, 1961, 1980 French, 1980 Italian, 1993 & 2007)
+// The Rebels 
+// The Rebound 
+// The Reckless Moment 
+// The Reckoning 
+// The Record 
+// The Record of a Tenement Gentleman 
+// The Recruit 
+// The Red Awn 
+// The Red Badge of Courage 
+// The Red Balloon 
+// The Red Baron 
+// The Red House 
+// The Red Pony 
+// The Red Shoes 
+// The Red Violin 
+// The Red and the White 
+// The Redhead from Wyoming 
+// The Reef 
+// The Ref 
+// The Reflecting Skin 
+// The Rehearsal and 2016)
+// The Reivers 
+// The Relic 
+// The Reluctant Astronaut 
+// The Reluctant Dragon 
+// The Reluctant Fundamentalist 
+// The Remains of the Day 
+// The Replacement Killers 
+// The Replacements 
+// The Reptile 
+// The Rescuers 
+// The Rescuers Down Under 
+// The Resident 
+// The Restless 
+// The Return 
+// The Return of Captain Invincible 
+// The Return of Captain Nemo  / The Return of Frank James 
+// The Return of Godzilla 
+// The Return of Jafar 
+// The Return of Martin Guerre 
+// The Return of Swamp Thing 
+// The Return of a Man Called Horse 
+// The Return of the King 
+// The Return of the Living Dead 
+// The Return of the Musketeers 
+// The Return of the Pink Panther 
+// The Return of the Vampire 
+// The Revenant: & 2015)
+// The Revenge 
+// The Revenge of Frankenstein 
+// The Revolution Will Not Be Televised 
+// The Rhythm Section 
+// The Right Mistake 
+// The Right Stuff 
+// The Right Way 
+// The Ring Two 
+// The Ring Virus 
+// The Ring:  2002, & 2017)
+// The Ringer:  1931, 1952, 2005 & 2013)
+// The Rise of a Tomboy 
+// The Rite: & 2011)
+// The Ritual: & 2017)
+// The Ritz 
+// The River Fuefuki 
+// The River Wild 
+// The River:  1951 & 1984)
+// The Road Back 
+// The Road Home: & 2003)
+// The Road to El Dorado 
+// The Road to Guantánamo 
+// The Road to Hong Kong 
+// The Road to Ruin:  1928 & 1934)
+// The Road to Wellville 
+// The Road:  2001, 2009, 2011 & 2015)
+// The Roaring Twenties 
+// The Robber 
+// The Robber Bride 
+// The Robber Kitten 
+// The Robber Symphony 
+// The Robbers 
+// The Robbery 
+// The Robbery of the Third Reich 
+// The Robe 
+// The Roberts Case 
+// The Robot vs. The Aztec Mummy 
+// The Rochdale Pioneers 
+// The Rock 'n' Roll Dreams of Duncan Christopher 
+// The Rock 
+// The Rock Star and the Mullahs 
+// The Rock n' Roll Cops 
+// The Rock of Souls 
+// The Rocker 
+// The Rocket Man 
+// The Rocket Post 
+// The Rocket from Calabuch 
+// The Rocket: & 2013)
+// The Rocketeer 
+// The Rocking Horse Winner 
+// The Rocks of Valpre: & 1935)
+// The Rocky Horror Picture Show 
+// The Rocky Horror Picture Show: Let's Do the Time Warp Again 
+// The Rocky Road 
+// The Rogue 
+// The Rogue Song 
+// The Rogues 
+// The Role of Her Life 
+// The Roller Blade Seven 
+// The Rolling Stones Rock and Roll Circus 
+// The Roman Spring of Mrs. Stone 
+// The Romantic Englishwoman 
+// The Romantic President 
+// The Rookie: & 2002)
+// The Room 
+// The Roommate 
+// The Roost 
+// The Roots of Heaven 
+// The Rose 
+// The Rose Tattoo 
+// The Rough House 
+// The Rounders: & 1965)
+// The Rowdyman 
+// The Royal Family of Broadway 
+// The Royal Scandal 
+// The Royal Tenenbaums 
+// The Rugrats Movie 
+// The Ruins 
+// The Rules of Attraction 
+// The Rules of the Game 
+// The Ruling Class 
+// The Rum Diary 
+// The Runaways 
+// The Rundown 
+// The Running Jumping & Standing Still Film 
+// The Running Man: & 1987)
+// The Russian Dolls 
+// The Russian House 
+// The Russians Are Coming, the Russians Are Coming 
+// The Ryan White Story 
+// The Sacrifice:  1986 & 2005)
+// The Sad Sack 
+// The Saddest Music in the World 
+// The Safety of Objects 
+// The Saga of the Viking Women and Their Voyage to the Waters of the Great Sea Serpent 
+// The Saint Meets the Tiger 
+// The Saint Strikes Back 
+// The Saint Takes Over 
+// The Saint in London 
+// The Saint in New York 
+// The Saint in Palm Springs 
+// The Saint's Double Trouble 
+// The Saint's Return 
+// The Saint's Vacation 
+// The Saint:  1997 & 2017)
+// The Salesman: & 2016)
+// The Salt of the Earth 
+// The Salton Sea: & 2016)
+// The Samaritan 
+// The Sand Pebbles 
+// The Sandlot 
+// The Sandlot 2 
+// The Sandman: short, 2000 & 2011)
+// The Sandpiper 
+// The Santa Clause 
+// The Santa Clause 2 
+// The Santa Clause 3: The Escape Clause 
+// The Saragossa Manuscript 
+// The Satan Bug 
+// The Satanic Rites of Dracula 
+// The Savage Innocents 
+// The Savage:  1926 & 1952)
+// The Savages 
+// The Saved 
+// The Scalphunters 
+// The Scapegoat 
+// The Scar of Shame 
+// The Scarecrow of Romney Marsh 
+// The Scarecrow:  1982, 2000 & 2013 short)
+// The Scarlet Claw 
+// The Scarlet Empress 
+// The Scarlet Letter:  1911, 1913, 1922, 1926, 1934, 1973, 1995 & 2004)
+// The Scarlet Pimpernel: & 1982)
+// The Scarlet Pumpernickel 
+// The Scarlet Runner 
+// The Scarlet and the Black  / The Scent of Green Papaya 
+// The Science of Sleep 
+// The Score:  2001 & 2005)
+// The Scorpion King 
+// The Scorpion King 
+// The Scorpion King 2: Rise of a Warrior 
+// The Scorpion King 3: Battle for Redemption 
+// The Scorpion King 4: Quest for Power 
+// The Scoundrel 
+// The Scout 
+// The Screaming Skull 
+// The Scribbler 
+// The Sea 
+// The Sea Chase 
+// The Sea Hawk 
+// The Sea Inside 
+// The Sea Wolf 
+// The Sea Wolves 
+// The Seafarers 
+// The Searchers 
+// The Second Hundred Years 
+// The Second Jungle Book: Mowgli & Baloo 
+// The Second Renaissance 
+// The Second Woman 
+// The Secret Diaries of Miss Anne Lister 
+// The Secret Fury 
+// The Secret Garden 
+// The Secret Life of Bees 
+// The Secret Life of Pets 
+// The Secret Life of Walter Mitty: & 2013)
+// The Secret Life of Words 
+// The Secret Lives of Dentists 
+// The Secret War of Harry Frigg 
+// The Secret World of Arrietty 
+// The Secret in Their Eyes 
+// The Secret of Kells 
+// The Secret of My Success 
+// The Secret of NIMH 
+// The Secret of NIMH 2: Timmy to the Rescue 
+// The Secret of Roan Inish 
+// The Secret of the Grain 
+// The Secret of the Submarine 
+// The Secret: & 2016)
+// The Seduction of Mimi 
+// The Seeker: The Dark Is Rising 
+// The Sender 
+// The Sensation of Sight 
+// The Sentimental Bloke 
+// The Sentinel: & 2006)
+// The Serpent and the Rainbow 
+// The Serpent's Egg 
+// The Serpent's Kiss 
+// The Servant 
+// The Sessions 
+// The Set-Up 
+// The Seven Pearls 
+// The Seven Red Berets 
+// The Seven Samurai 
+// The Seven Year Itch 
+// The Seven-Per-Cent Solution 
+// The Seven-Ups 
+// The Seventh Bullet 
+// The Seventh Continent: & 1989)
+// The Seventh Cross 
+// The Seventh Seal 
+// The Seventh Sign 
+// The Seventh Victim 
+// The Sex Monster 
+// The Sex of the Stars 
+// The Shack 
+// The Shadow 
+// The Shaggy Dog: & 2006)
+// The Shanghai Gesture 
+// The Shape of Things 
+// The Shape of Water 
+// The Shark 
+// The Shawshank Redemption 
+// The Sheepman 
+// The Sheik 
+// The Sheltering Sky 
+// The Shepherd: Border Patrol 
+// The Sheriff of Fractured Jaw 
+// The Shielding Shadow 
+// The Shining 
+// The Shipment 
+// The Shipping News 
+// The Shiralee 
+// The Shock 
+// The Shoes of the Fisherman 
+// The Shooting 
+// The Shootist 
+// The Shop Around the Corner 
+// The Shop on Main Street 
+// The Sicilian Clan 
+// The Siege: & 1998)
+// The Signal 
+// The Silence 
+// The Silence of the Lambs 
+// The Silencers 
+// The Silent Historian 
+// The Silent Partner 
+// The Silent World 
+// The Silver Chalice 
+// The Silver Lining:  1919, 1921, 1927 & 1932)
+// The Simian Line 
+// The Simple Things 
+// The Simpsons Movie 
+// The Sims // The Sin of Madelon Claudet 
+// The Singing Detective 
+// The Singing Fool 
+// The Singing Revolution 
+// The Singles Ward 
+// The Sino-Dutch War 1661 
+// The Siren 
+// The Sisterhood of the Traveling Pants 
+// The Sisterhood of the Traveling Pants 2 
+// The Sitter 
+// The Sixth 
+// The Sixth Sense 
+// The Skeleton Dance 
+// The Skeleton Key 
+// The Skeleton Twins 
+// The Skin 
+// The Skin Game 
+// The Skin I Live In 
+// The Skulls 
+// The Sky's the Limit 
+// The Skydivers 
+// The Slaughter Rule 
+// The Sleeping City 
+// The Sleeping Dictionary 
+// The Sleeping Princess in Devil's Castle 
+// The Slipper and the Rose 
+// The Slugger's Wife 
+// The Slumber Party Massacre 
+// The Small Back Room 
+// The Small One 
+// The Smallest Show on Earth 
+// The Smiling Lieutenant 
+// The Smokers 
+// The Smurfs 
+// The Smurfs 2 
+// The Smurfs and the Magic Flute 
+// The Snake King  / The Snake King's Child 
+// The Snake Pit 
+// The Snapper 
+// The Sniper 
+// The Snow Creature 
+// The Snowman: TV & 2017)
+// The Snows of Kilimanjaro 
+// The Social Network 
+// The Soft Skin 
+// The Solitaire Man 
+// The Soloist 
+// The Son of Kong 
+// The Son of the Sheik 
+// The Son's Room 
+// The Song Remains the Same 
+// The Song of Bernadette 
+// The Sons of Great Bear 
+// The Sons of Katie Elder 
+// The Sorcerer's Apprentice 
+// The Sorcerers 
+// The Sorrow and the Pity 
+// The Sound Barrier 
+// The Sound of Fury 
+// The Sound of Music 
+// The Source 
+// The Southerner 
+// The Space Between Us 
+// The Spanish Apartment 
+// The Spanish Main 
+// The Spanish Prisoner 
+// The Specialist 
+// The Specials 
+// The Spectacular Now 
+// The Sperm 
+// The Spider Woman 
+// The Spider and the Fly: & 1949)
+// The Spider: & 1945)
+// The Spiders 
+// The Spiderwick Chronicles 
+// The Spiral Staircase:  1975 & 2000 TV)
+// The Spirit 
+// The Spirit of St. Louis 
+// The Spirit of the Beehive 
+// The Spitfire Grill 
+// The Split: & 1968)
+// The Spoilers:  1923, 1930, 1942 & 1955)
+// The SpongeBob Movie 
+// The SpongeBob Movie: Sponge Out of Water 
+// The SpongeBob SquarePants Movie 
+// The Spook Who Sat by the Door 
+// The Spring River Flows East 
+// The Spy Next Door 
+// The Spy Who Came in from the Cold 
+// The Spy Who Dumped Me 
+// The Spy Who Loved Me 
+// The Spy in Black 
+// The Spy: Undercover Operation 
+// The Square:  2008, 2013 & 2017)
+// The Squaw Man:  1918 & 1931)
+// The Squawkin' Hawk 
+// The Squid and the Whale 
+// The St. Valentine's Day Massacre 
+// The Stalking of Laurie Show  / The Stand 
+// The Stanford Prison Experiment 
+// The Star Chamber 
+// The Star Packer 
+// The Star:  2002 & 2017)
+// The Starfighters 
+// The Stars Look Down 
+// The Statement 
+// The Station Agent 
+// The Steamroller and the Violin 
+// The Steel Helmet 
+// The Stendhal Syndrome 
+// The Stepfather II 
+// The Stepfather: & 2009)
+// The Stepford Wives: & 2004)
+// The Sterling Chase 
+// The Sting 
+// The Stoned Age 
+// The Stoneman Murders 
+// The Stoning of Soraya M. 
+// The Stooge 
+// The Stork Pays Off 
+// The Storm Riders 
+// The Stormy Night 
+// The Story of Adele H. 
+// The Story of G.I. Joe 
+// The Story of Louis Pasteur 
+// The Story of Mankind 
+// The Story of Qiu Ju 
+// The Story of Three Loves 
+// The Story of Us 
+// The Story of Vernon and Irene Castle 
+// The Story of a Three-Day Pass 
+// The Story of the Kelly Gang 
+// The Story of the Last Chrysanthemum 
+// The Story of the Weeping Camel 
+// The Straight Story 
+// The Strange Case of Dr. Jekyll and Mr. Hyde 
+// The Strange House 
+// The Strange Love of Martha Ivers 
+// The Stranger: & 1967)
+// The Strangers 
+// The Stratton Story 
+// The Strawberry Blonde 
+// The Strawberry Shortcake Movie: Sky's the Limit 
+// The Strawberry Statement 
+// The Street Fighter 
+// The Street With No Name 
+// The Strong Man 
+// The Strongest Man in the World 
+// The Student Prince in Old Heidelberg 
+// The Stuff 
+// The Stunt Man 
+// The Stupids 
+// The Subject Was Roses 
+// The Substitute 2: School's Out 
+// The Substitute 3: Winner Takes All 
+// The Substitute 4: Failure Is Not an Option 
+// The Substitute: TV, 1996, 2007 & 2015)
+// The Suburbans 
+// The Sugarland Express 
+// The Sum of All Fears 
+// The Sum of Us 
+// The Sun 
+// The Sun Also Rises: & 2007)
+// The Sundowners 
+// The Sunshine Boys 
+// The Super 
+// The Super Cops 
+// The Super Dimension Fortress Macross: Do You Remember Love? 
+// The Super Fight 
+// The Supernatural Events on Campus 
+// The Sure Thing 
+// The Survivor 
+// The Survivors 
+// The Swan Princess 
+// The Swan Princess Christmas 
+// The Swan Princess: A Royal Family Tale 
+// The Swan Princess: Escape from Castle Mountain 
+// The Swan Princess: Princess Tomorrow, Pirate Today 
+// The Swan Princess: Royally Undercover 
+// The Swan Princess: The Mystery of the Enchanted Kingdom 
+// The Swan: & 1956)
+// The Swarm 
+// The Swedish Kings 
+// The Sweet Hereafter 
+// The Sweetest Thing 
+// The Swimmer 
+// The Swimming Pool 
+// The Switch: & 2010)
+// The Sword and the Rose 
+// The Sword and the Sorcerer 
+// The Sword in the Stone 
+// The Sword of Doom 
+// The Syrian Bride 
+// The TV Set 
+// The Table 
+// The Tailor of Panama 
+// The Take: & 2008)
+// The Taking of Pelham 123 
+// The Taking of Pelham One Two Three: & 1998 TV)
+// The Taking of Power by Louis XIV TV)
+// The Taking of Tiger Mountain 
+// The Tale of Despereaux 
+// The Tale of Zatoichi 
+// The Tale of the Fox 
+// The Tale of the Priest and of His Workman Balda 1936)
+// The Talented Mr. Ripley 
+// The Tales of Hoffmann 
+// The Talk of the Town 
+// The Tall Blond Man with One Black Shoe 
+// The Tall Guy 
+// The Tall Man: & 2012)
+// The Tall Men 
+// The Tall T 
+// The Taming of the Shrew 
+// The Tango Lesson 
+// The Tao of Steve 
+// The Taste of Others 
+// The Teahouse of the August Moon 
+// The Tell-Tale Heart 
+// The Tempest:  1979 & 2010)
+// The Temptation of St. Tony 
+// The Temptations 
+// The Temptress 
+// The Ten 
+// The Ten 
+// The Ten Commandments: & 1956)
+// The Ten Commandments:  1956, 2007)
+// The Ten Commandments: The Movie 
+// The Tenant 
+// The Terminal 
+// The Terminator 
+// The Terror 
+// The Terrorist 
+// The Testament of Dr. Mabuse 
+// The Texas Chainsaw Massacre 2 
+// The Texas Chainsaw Massacre: & 2003)
+// The Texas Chainsaw Massacre: The Beginning 
+// The Thaw 
+// The Theory of Everything: TV & 2014)
+// The Theory of Flight 
+// The Thief Lord 
+// The Thief and the Cobbler 
+// The Thief of Baghdad:  1940 & 1961)
+// The Thief: & 1997)
+// The Thin Blue Line 
+// The Thin Man 
+// The Thin Man Goes Home 
+// The Thin Red Line: & 1998)
+// The Thing About My Folks 
+// The Thing from Another World 
+// The Thing with Two Heads 
+// The Thing: & 2011)
+// The Thinning 
+// The Third Generation 
+// The Third Man 
+// The Third Miracle 
+// The Third Wheel 
+// The Thirteen Chairs 
+// The Thirteenth Floor 
+// The Thirteenth Warrior 
+// The Thirteenth Year  / The Thirty Nine Steps 
+// The Thomas Crown Affair: & 1999)
+// The Thorn 
+// The Thousand Eyes of Dr. Mabuse 
+// The Three Burials of Melquiades Estrada 
+// The Three Caballeros 
+// The Three Faces of Eve 
+// The Three Godfathers 
+// The Three Lives of Thomasina 
+// The Three Marias 
+// The Three Musketeers:  1933 serial, 1973, 1992 & 1993)
+// The Three Musketeers:  1933, 1973, 1992 & 1993)
+// The Three Stooges 
+// The Three Stooges 
+// The Three Stooges Go Around the World in a Daze 
+// The Three Stooges Meet Hercules 
+// The Three Stooges in Orbit 
+// The Threepenny Opera 
+// The Thrill of It All 
+// The Tied Up Balloon 
+// The Tiger Brigades 
+// The Tiger and the Snow 
+// The Tigger Movie 
+// The Time Machine: & 2002)
+// The Time Traveler's Wife 
+// The Time Travelers 
+// The Time of Their Lives 
+// The Times of Harvey Milk 
+// The Tin Drum 
+// The Tin Mine 
+// The Tin Star 
+// The Tingler 
+// The Titfield Thunderbolt 
+// The To Do List 
+// The Toast of New Orleans 
+// The Tokyo Trial 
+// The Toll of the Sea 
+// The Tomb of Ligeia 
+// The Toolbox Murders 
+// The Tortoise and the Hare: & 2008)
+// The Touch 
+// The Tourist 
+// The Tournament 
+// The Towering Inferno 
+// The Town 
+// The Town That Dreaded Sundown: & 2014)
+// The Toxic Avenger 
+// The Toxic Avenger Part II 
+// The Toxic Avenger Part III: The Last Temptation of Toxie 
+// The Toy 
+// The Traffickers 
+// The Train 
+// The Train Robbers 
+// The Tramp 
+// The Transformers: The Movie 
+// The Transporter 
+// The Transporter Refueled 
+// The Treasure of the Sierra Madre 
+// The Treatment 
+// The Tree of Life 
+// The Tree of Might 
+// The Tree of Wooden Clogs 
+// The Trespasser 
+// The Trial: & 1993)
+// The Tricky Master 
+// The Trigger Effect 
+// The Trip 
+// The Trip to Bountiful 
+// The Triplets of Belleville 
+// The Triumph of the Nerds: The Rise of Accidental Empires  / The Triumph of the Weak 
+// The Troll Hunter 
+// The Trollenberg Terror 
+// The Trouble with Angels 
+// The Trouble with Girls 
+// The Trouble with Harry 
+// The Trouble with Men and Women 
+// The Truce 
+// The True Story of Ah Q 
+// The Truman Show 
+// The Trumpet of the Swan 
+// The Truth About Cats & Dogs 
+// The Truth About Charlie 
+// The Truth About Love 
+// The Tune 
+// The Turning Point: & 1977)
+// The Tuxedo 
+// The Twelve Chairs film) 
+// The Twelve Chairs:  1971 & 1976)
+// The Twelve Months: & 1972)
+// The Twelve Tasks of Asterix 
+// The Twilight Saga: Breaking Dawn – Part 1 
+// The Twilight Saga: Breaking Dawn – Part 2 
+// The Twilight Saga: Eclipse 
+// The Twilight Saga: New Moon 
+// The Twilight Samurai 
+// The Twins Effect 
+// The Twins Effect II 
+// The Twins: & 2005)
+// The Twist 
+// The Two Brothers 
+// The Two Faces of Dr. Jekyll 
+// The Two Jakes 
+// The Two Jakes 
+// The Two Mrs. Carrolls 
+// The Two of Us 
+// The Twonky 
+// The Typhoon 
+// The U 
+// The U Movie 
+// The U.P. Trail 
+// The U.S. vs. John Lennon 
+// The UFO Incident TV)
+// The Ugly 
+// The Ugly American 
+// The Ugly Boy 
+// The Ugly Dachshund 
+// The Ugly Duckling and Me! 
+// The Ugly Duckling:  1931, 1939 & 1959)
+// The Ugly Ones 
+// The Ugly Swans 
+// The Ugly Truth 
+// The Ultimate Accessory 
+// The Ultimate Christmas Present V)
+// The Ultimate Gift 
+// The Ultimate Life 
+// The Ultimate Task 
+// The Ultimate Thrill 
+// The Ultimate Truth 
+// The Ultimate Vampire 
+// The Ultimate Warrior 
+// The Umbrella 
+// The Umbrella Coup 
+// The Umbrella Woman 
+// The Umbrellas of Cherbourg 
+// The Unafraid 
+// The Unamenables 
+// The Unauthorized Beverly Hills, 90210 Story TV)
+// The Unauthorized Full House Story TV)
+// The Unauthorized Melrose Place Story TV)
+// The Unauthorized Saved by the Bell Story TV)
+// The Unbearable Lightness of Being 
+// The Unbearable Lightness of Inspector Fan 
+// The Unbearable Salesman 
+// The Unbelievable Truth 
+// The Unbeliever 
+// The Unbelievers 
+// The Unborn 2 
+// The Unborn: & 2009)
+// The Unburied Man 
+// The Uncanny 
+// The Uncanny House 
+// The Uncertainty Has Settled 
+// The Uncertainty Principle 
+// The Unchanging Sea 
+// The Unchastened Woman: & 1925)
+// The Uncle 
+// The Uncle from America 
+// The Uncle from Peking 
+// The Uncle from Sumatra 
+// The Uncle from the Provinces 
+// The Uncles 
+// The Uncondemned 
+// The Unconquered 
+// The Undead 
+// The Undefeated:  2000 & 2011)
+// The Underground Comedy Movie 
+// The Underneath 
+// The Undertaker: & 1988)
+// The Undertow: & 1916)
+// The Underworld Story 
+// The Undying Monster 
+// The Unearthly 
+// The Unfaithful 
+// The Unfaithful Wife 
+// The Unforgiven: & 2005)
+// The Unholy Garden 
+// The Unholy Three: & 1930)
+// The Unicorn: & 2018)
+// The Uninvited: & 2008)
+// The United States of Leland 
+// The Universal Language 
+// The Unknown Soldier:  1955, 1985 & 2017)
+// The Unknown: comedy, 1915 drama, 1927, 1936, & 1946)
+// The Unlawful Trade 
+// The Unloved 
+// The Unloved Woman:  1940 & 1949)
+// The Unmarried Wife 
+// The Unmarried Woman 
+// The Unmasking 
+// The Unmentionables 
+// The Unnamable 
+// The Unnamable II: The Statement of Randolph Carter 
+// The Unnamed 
+// The Unnamed Zone 
+// The Unnaturals 
+// The Unnecessary Sex 
+// The Unpainted Woman 
+// The Unpardonable Sin 
+// The Unprecedented Defence of the Fortress Deutschkreuz 
+// The Unreturned 
+// The Unruly Hare 
+// The Unsaid 
+// The Unsaved 
+// The Unscarred 
+// The Unscrupulous Ones 
+// The Unseeable 
+// The Unseen Vengeance 
+// The Unseen World 
+// The Unseen:  1980 & 2016)
+// The Unshrinkable Jerry Mouse 
+// The Unsinkable Molly Brown 
+// The Unspeakable 
+// The Unspeakable Act 
+// The Unstoppable Man 
+// The Unsuspected 
+// The Unsuspecting Angel 
+// The Untamed Breed 
+// The Untamed Lady 
+// The Untamed: & 2016)
+// The Unthinkable 
+// The Untimely Gift 
+// The Untitled Kartik Krishnan Project 
+// The Untold 
+// The Untold Story 
+// The Untold Story 2 
+// The Untouchables 
+// The Untouched Woman 
+// The Unusual Past of Thea Carter 
+// The Unusual Youth 
+// The Unvanquished 
+// The Unveiling Hand 
+// The Unwanted Girl 
+// The Unwanted:  1951 & 2014)
+// The Unwelcome Guest 
+// The Unwelcome Mrs. Hatch 
+// The Unwelcome Stranger 
+// The Unwritten Law:  1922, 1925, 1929, 1932 & 1985)
+// The Ups and Downs 
+// The Upside 
+// The Upside of Anger 
+// The Ural Front 
+// The Uranium Conspiracy 
+// The Urethra Chronicles 
+// The Urethra Chronicles II: Harder Faster Faster Harder 
+// The Usual Suspects 
+// The V.I.P.s 
+// The Vagabond King: & 1956)
+// The Vagabond Lover 
+// The Vagabond Queen 
+// The Vagabond Trail 
+// The Vagabond: & 1953)
+// The Vagabonds:  1916, 1937 & 1939)
+// The Vagrant 
+// The Valachi Papers 
+// The Valentine Girl 
+// The Valet 
+// The Valet's Wife 
+// The Valiant Hombre 
+// The Valiant Navigator 
+// The Valiant: & 1962)
+// The Valley Below 
+// The Valley Resounds 
+// The Valley of Death 
+// The Valley of Decision 
+// The Valley of Fear 
+// The Valley of Ghosts 
+// The Valley of Gwangi 
+// The Valley of Hell 
+// The Valley of Silent Men 
+// The Valley of Water 
+// The Valley of the Bees 
+// The Valley of the Giants: & 1927)
+// The Valley:  1976, 2014, & 2017)
+// The Vamp 
+// The Vampire Bat 
+// The Vampire Doll 
+// The Vampire Happening 
+// The Vampire Lovers 
+// The Vampire Who Admires Me 
+// The Vampire and the Ballerina 
+// The Vampire of Düsseldorf 
+// The Vampire of the Opera 
+// The Vampire's Ghost 
+// The Vampire:  1915 & 1957)
+// The Vampires Night Orgy 
+// The Vampires of Bloody Island 
+// The Van Nostrand Tiara 
+// The Van: & 1996)
+// The Vancouver Asahi 
+// The Vandergilt Diamond Mystery 
+// The Vanished Elephant 
+// The Vanished Murderer 
+// The Vanished: & 2018)
+// The Vanishing Act // The Vanishing American: & 1955)
+// The Vanishing Dagger 
+// The Vanishing Duck 
+// The Vanishing Frontier 
+// The Vanishing Lady 
+// The Vanishing Outpost 
+// The Vanishing Pioneer 
+// The Vanishing Prairie 
+// The Vanishing Private 
+// The Vanishing Riders 
+// The Vanishing Shadow 
+// The Vanishing Virginian 
+// The Vanishing Westerner 
+// The Vanishing of Sidney Hall 
+// The Vanishing:  1993 & 2019)
+// The Vanity Pool 
+// The Vanity Serum 
+// The Vanquished 
+// The Vaquero's Vow 
+// The Variegateds Case 
+// The Varmint 
+// The Vatican Affair 
+// The Vatican Tapes 
+// The Vault 
+// The Vault of Horror 
+// The Vegas Strip War 
+// The Veil Dancer 
+// The Veil of Twilight 
+// The Veil: & 2017)
+// The Veiled Adventure 
+// The Veiled Woman 
+// The Veils of Bagdad 
+// The Vein 
+// The Veldt 
+// The Velocity of Gary 
+// The Velvet Paw 
+// The Velvet Touch 
+// The Velvet Underground and Nico: A Symphony of Sound 
+// The Velvet Vampire 
+// The Vendor 
+// The Venerable Ones 
+// The Venetian 
+// The Venetian Affair 
+// The Venetian Woman 
+// The Vengeance of Fu Manchu 
+// The Vengeance of Galora 
+// The Vengeance of Jago 
+// The Vengeance of Pancho Villa 
+// The Vengeance of She 
+// The Vengeance of Ursus 
+// The Vengeance of the Winged Serpent 
+// The Venice Project 
+// The Venus Model 
+// The Venus of Montmartre 
+// The Verdict of Lake Balaton 
+// The Verdict of the Heart 
+// The Verdict:  1959, 1982 & 2013)
+// The Vermilion Pencil 
+// The Verona Trial 
+// The Versace Murder 
+// The Verse of Us 
+// The Very Best Day 
+// The Very Edge 
+// The Very Friendly Neighbors 
+// The Very Idea 
+// The Very Late Afternoon of a Faun 
+// The Very Merry Widows 
+// The Very Private Life of Mister Sim 
+// The Very Same Munchhausen 
+// The Very Thought of You: & 1998)
+// The Vessel 
+// The Vesuvians 
+// The Veteran of Waterloo 
+// The Veteran: & 2011)
+// The Veterinarian's Adopted Children 
+// The Vice Squad 
+// The Victim:  1980, 2006, 2011, & 2012)
+// The Vigilante 
+// The Viking: & 1931)
+// The Vikings 
+// The Village Barbershop 
+// The Village of No Return 
+// The Village:  2004 & 2015)
+// The Villain: & 1979)
+// The Vineyard 
+// The Virgin Queen: & 1955)
+// The Virgin Soldiers 
+// The Virgin Spring 
+// The Virgin Suicides 
+// The Virginian:  1923, 1929 & 1946)
+// The Visit:  2000, 2015 America, & 2015 Nigeria)
+// The Visitation 
+// The Visitor:  2002, 2007 short, 2007 drama & 2015)
+// The Visitors II: The Corridors of Time 
+// The Visitors: & 1993)
+// The Visitors: Bastille Day 
+// The Vivero Letter 
+// The Vixen 
+// The Voice Within 
+// The Voice from the Minaret 
+// The Voice from the Sky 
+// The Voice in the Fog 
+// The Voice in the Wilderness 
+// The Voice of Action 
+// The Voice of Bugle Ann 
+// The Voice of Conscience:  1927 & 1920)
+// The Voice of Happiness 
+// The Voice of Love 
+// The Voice of Merrill 
+// The Voice of My City 
+// The Voice of Passion 
+// The Voice of Warning 
+// The Voice of the Child 
+// The Voice of the Heart: & 1937)
+// The Voice of the Moon 
+// The Voice of the Turtle 
+// The Voice of the Violin 
+// The Voice of the Voiceless 
+// The Voice:  1982, 1992 & 2010)
+// The Voices 
+// The Void: & 2016)
+// The Volcano Disaster 
+// The Volga Boatman 
+// The Volunteer: & 1943)
+// The Voorman Problem 
+// The Vortex 
+// The Vote That Counted 
+// The Vow: & 2012)
+// The Vows 
+// The Voyage of Doctor Dolittle 
+// The Voyage of the Bourrichon Family 
+// The Voyage that Shook the World 
+// The Voyage: & 1974)
+// The Voyager 
+// The Voyeur: & 1994)
+// The Vulgar Hours 
+// The Vulture Wally:  1940 & 1956)
+// The Vulture's Eye 
+// The Vulture:  1967, 1981 & 1982)
+// The Vultures 
+// The Vyborg Side 
+// The Wabbit Who Came to Supper 
+// The Wackness 
+// The Wager: & 2007)
+// The Wages of Fear 
+// The Walk:  2001, & 2015)
+// The Walker 
+// The Wanderer in Bulgar 
+// The Wanderer:  1925, & 1967)
+// The Wanderers 
+// The Wannabes 
+// The War Game  / The War Lord 
+// The War Lover 
+// The War Room 
+// The War Wagon 
+// The War Zone 
+// The War in Space 
+// The War of the Roses 
+// The War of the Worlds 
+// The War: & 2007)
+// The Ward 
+// The Warlord: Battle for the Galaxy  / The Warlords 
+// The Warrior 
+// The Warrior and the Wolf 
+// The Warrior's Gate 
+// The Warrior's Way 
+// The Warriors 
+// The Warriors Gate 
+// The Wash: & 2001)
+// The Wasp Woman 
+// The Wasted Times 
+// The Watch: & 2012)
+// The Watcher 
+// The Watcher in the Woods 
+// The Water Babies 
+// The Water Horse: Legend of the Deep 
+// The Waterboy 
+// The Waterdance 
+// The Wave: & 2015)
+// The Way & 2017)
+// The Way Ahead 
+// The Way Back 
+// The Way Home: & 1937)
+// The Way Home:  2010 American, & 2010 Indian)
+// The Way Way Back 
+// The Way We Were 
+// The Way West 
+// The Way of All Flesh 
+// The Way of the Gun 
+// The Way to the Stars 
+// The Wayward Cloud 
+// The Weather Man 
+// The Weather Underground 
+// The Web 
+// The Wedding Banquet 
+// The Wedding Date 
+// The Wedding March:  1928, 1929 & 2016)
+// The Wedding Planner 
+// The Wedding Singer 
+// The Weight of Water 
+// The Weird Doll 
+// The Well-Digger's Daughter: & 2011)
+// The Wendell Baker Story 
+// The Werewolf of Washington 
+// The Werewolf of Woodstock 
+// The Werewolf: & 1956)
+// The Wesley's Mysterious File 
+// The West Point Story 
+// The West: & 1996)
+// The Westerner 
+// The Wet Parade 
+// The Whales of August 
+// The Whip and the Body 
+// The Whisperers 
+// The Whispering Star 
+// The Whistleblower 
+// The Whistler 
+// The White Buffalo 
+// The White Cliffs of Dover 
+// The White Countess 
+// The White Horse Inn:  1935, 1952 & 1960)
+// The White Parade 
+// The White Ribbon 
+// The White Sheik 
+// The Whole Nine Yards 
+// The Whole Ten Yards 
+// The Whole Truth: & 1958)
+// The Whole Wide World 
+// The Whoopee Boys 
+// The Wicked City 
+// The Wicked Lady: & 1983)
+// The Wicked: & 2013)
+// The Wicker Man: & 2006)
+// The Wicker Tree 
+// The Widow & 1955)
+// The Widow of Saint-Pierre 
+// The Wife 
+// The Wiggles Movie 
+// The Wilby Conspiracy 
+// The Wild 
+// The Wild Angels 
+// The Wild Blue Yonder 
+// The Wild Bunch 
+// The Wild Cat 
+// The Wild Child 
+// The Wild Geese 
+// The Wild Life 
+// The Wild One 
+// The Wild Ones 
+// The Wild Parrots of Telegraph Hill 
+// The Wild Party:  1929, 1956 & 1975)
+// The Wild Ride 
+// The Wild Thornberrys Movie 
+// The Wild and Wycked World of Brian Jones 
+// The Wildcat: & 1936)
+// The Will: & 1939)
+// The Wind Rises 
+// The Wind That Shakes the Barley 
+// The Wind Will Carry Us 
+// The Wind and the Lion 
+// The Wind in the Willows:  1987, 1995, 1996 & 2006 TV)
+// The Wind:  1982 & 1986)
+// The Winding Road 
+// The Winding Stair 
+// The Windmill 
+// The Windmill Massacre 
+// The Window 
+// The Window Cleaner 
+// The Wings 
+// The Wings of Eagles 
+// The Wings of the Dove: & 1997)
+// The Winslow Boy: & 1999)
+// The Winter 
+// The Winter Guest 
+// The Winter War 
+// The Wisdom of Crocodiles 
+// The Wise Little Hen 
+// The Witch 
+// The Witches Cave 
+// The Witches of Eastwick 
+// The Witches:  1967 & 1990)
+// The Witness - A Change of Heart 
+// The Witness: French, 1969 Hungarian, 1992 short, 2000, 2012, 2015 American & 2015 Chinese)
+// The Wiz 
+// The Wizard 
+// The Wizard of Gore & 2007)
+// The Wizard of Lies TV)
+// The Wizard of Oz:  1939 & 1982)
+// The Wizard of Speed and Time 
+// The Woes of Roller Skaters 
+// The Wog Boy 
+// The Wold Shadow 
+// The Wolf Dog 
+// The Wolf Hunters 
+// The Wolf Man: short, 1941)
+// The Wolf Men 
+// The Wolf Woman 
+// The Wolf at the Door 
+// The Wolf of Debt 
+// The Wolf of Wall Street: & 2013)
+// The Wolf of the Sila 
+// The Wolf's Call 
+// The Wolf:  1949 & 2004)
+// The Wolfman 
+// The Wolfpack 
+// The Wolverine 
+// The Wolves of Willoughby Chase 
+// The Wolves: & 1971)
+// The Woman Accused 
+// The Woman Beneath 
+// The Woman Between: American & 1931 British)
+// The Woman Chaser 
+// The Woman Condemned 
+// The Woman Conquers 
+// The Woman Cop 
+// The Woman Disputed 
+// The Woman Dressed As a Man 
+// The Woman Eater 
+// The Woman Everyone Loves Is You 
+// The Woman Gives 
+// The Woman God Changed 
+// The Woman God Forgot 
+// The Woman Hater: Powers film, 1910 Thanhouser film & 1925)
+// The Woman Haters 
+// The Woman He Loved 
+// The Woman He Married 
+// The Woman Hunt 
+// The Woman Hunter 
+// The Woman I Love 
+// The Woman I Stole 
+// The Woman Inside 
+// The Woman Juror 
+// The Woman Knight of Mirror Lake 
+// The Woman Michael Married 
+// The Woman Next Door:  1919 & 1981)
+// The Woman One Longs For 
+// The Woman Racket 
+// The Woman Suffers 
+// The Woman Tempted 
+// The Woman That Dreamed About a Man 
+// The Woman They Talk About 
+// The Woman Thief 
+// The Woman Thou Gavest Me 
+// The Woman Under Cover 
+// The Woman Under Oath 
+// The Woman Upstairs 
+// The Woman Who Believed 
+// The Woman Who Brushed Off Her Tears 
+// The Woman Who Came Back 
+// The Woman Who Couldn't Say No 
+// The Woman Who Dared: & 1944)
+// The Woman Who Desires Sin 
+// The Woman Who Did: & 1925)
+// The Woman Who Drinks 
+// The Woman Who Gave 
+// The Woman Who Invented Love 
+// The Woman Who Left 
+// The Woman Who Loved Elvis 
+// The Woman Who Obeyed 
+// The Woman Who Sinned 
+// The Woman Who Walked Alone 
+// The Woman Who Was Nothing 
+// The Woman Wins 
+// The Woman With Four Faces 
+// The Woman Without Nerves 
+// The Woman Without a Soul 
+// The Woman Worth Millions 
+// The Woman and the Puppet: & 1929)
+// The Woman and the Stranger 
+// The Woman at Midnight 
+// The Woman at the Crossroads: & 1938)
+// The Woman by the Dark Window 
+// The Woman for Joe 
+// The Woman from Berlin 
+// The Woman from China 
+// The Woman from Hell 
+// The Woman from Last Night 
+// The Woman from Mellon's 
+// The Woman from Monte Carlo 
+// The Woman from Moscow 
+// The Woman from Tangier 
+// The Woman from Till 12 
+// The Woman from Warren's 
+// The Woman from the Folies Bergères 
+// The Woman from the Orient 
+// The Woman in 47 
+// The Woman in Black: & 2012)
+// The Woman in Black: Angel of Death 
+// The Woman in Blue 
+// The Woman in Doctor's Garb 
+// The Woman in Flames 
+// The Woman in Gold 
+// The Woman in Green 
+// The Woman in Heaven 
+// The Woman in His House 
+// The Woman in Question 
+// The Woman in Red:  1947 & 1984)
+// The Woman in Room 13: & 1932)
+// The Woman in the Fifth 
+// The Woman in the Window 
+// The Woman's Angle 
+// The Woman's Crusade 
+// The Woman's Law 
+// The Woman: & 2011)
+// The Women: & 2008)
+// The Wonderful Horrible Life of Leni Riefenstahl 
+// The Wonderful Ice Cream Suit 
+// The Wonderful Land of Oz 
+// The Wonderful Wizard of Oz: & 1975)
+// The Wood 
+// The Wooden Man's Bride 
+// The Woods: & 2011)
+// The Woodsman: & 2016)
+// The Words 
+// The Work and the Glory 
+// The Working Class Goes to Heaven 
+// The World 
+// The World According to Garp 
+// The World Gone Mad 
+// The World Is Not Enough 
+// The World in His Arms 
+// The World of Henry Orient 
+// The World of Suzie Wong 
+// The World's End 
+// The World's Fastest Indian 
+// The World's Greatest Athlete 
+// The World's Greatest Lover 
+// The World's Strongest 
+// The World, the Flesh and the Devil: & 1959)
+// The World, the Flesh, the Devil 
+// The Worst of Faces of Death 
+// The Wraith 
+// The Wraith of Haddon Towers 
+// The Wrath 
+// The Wrath of God 
+// The Wrath of Silence 
+// The Wrath of Vajra 
+// The Wrath of the Gods 
+// The Wreck in the North Sea 
+// The Wreck of the Dunbar or The Yeoman's Wedding 
+// The Wreck of the Hesperus: & 1948)
+// The Wreck of the Mary Deare 
+// The Wreck of the Singapore 
+// The Wreck: & 1927)
+// The Wrecker: & 1933)
+// The Wrecking Crew:  2000 & 2008)
+// The Wrestler and the Clown 
+// The Wrestler: & 2008)
+// The Wretches Are Still Singing 
+// The Wright Brothers 
+// The Writer with No Hands 
+// The Writing on the Wall 
+// The Written Law 
+// The Wrong Arm of the Law 
+// The Wrong Birds 
+// The Wrong Bottle 
+// The Wrong Box 
+// The Wrong Couples 
+// The Wrong Ferarri 
+// The Wrong Girl 
+// The Wrong Guy 
+// The Wrong Guys 
+// The Wrong Husband 
+// The Wrong Man:  1956 & 1993)
+// The Wrong Move 
+// The Wrong Mr. Perkins 
+// The Wrong Mr. Wright 
+// The Wrong Road 
+// The Wrong Roommate 
+// The Wrong Woman 
+// The Wyoming Bandit 
+// The Wyvern Mystery 
+// The X from Outer Space 
+// The X-Files 
+// The X-Files: I Want to Believe 
+// The Xi'an Incident 
+// The Xposé 
+// The Yacht Isabel Arrived This Afternoon 
+// The Yacoubian Building 
+// The Yakuza 
+// The Yank 
+// The Yankee Clipper 
+// The Yankee Consul 
+// The Yankee Doodle Mouse 
+// The Yankee Girl 
+// The Yankee Señor 
+// The Yankles 
+// The Yanks Are Coming: & 1963)
+// The Yaqui Cur 
+// The Yaqui Girl 
+// The Yards 
+// The Year My Parents Went on Vacation 
+// The Year My Voice Broke 
+// The Year of Living Dangerously 
+// The Year of the Dog 
+// The Year of the Rabbit 
+// The Year of the Yao 
+// The Yearling: & 1994)
+// The Yellow Birds 
+// The Yellow Canary 
+// The Yellow Claw 
+// The Yellow Handkerchief: & 2008)
+// The Yellow Rolls-Royce 
+// The Yellow Ticket 
+// The Yes Men 
+// The Yin and the Yang of Mr. Go 
+// The Yo-Yo Gang 
+// The Yogi 
+// The Yoke's on Me 
+// The Yolk's on You 
+// The Young Ahmed 
+// The Young Americans 
+// The Young Animals 
+// The Young Baron Neuhaus 
+// The Young Black Stallion 
+// The Young Blood Chronicles 
+// The Young Girls of Rochefort 
+// The Young Master 
+// The Young One: & 2016)
+// The Young Philadelphians 
+// The Young Poisoner's Handbook 
+// The Young Victoria 
+// The Young, the Evil and the Savage 
+// The Yuppie Fantasia 
+// The Yuppie Fantasia 3 
+// The Za-Bum Circus 
+// The Zany Adventures of Robin Hood TV)
+// The Zen Diaries of Garry Shandling 
+// The Zen of Bennett 
+// The Zero Boys 
+// The Zero Hour: & 2010)
+// The Zero Theorem 
+// The Zero Years 
+// The Zhang Family's Daughter-in-Law 
+// The Zigzag Kid 
+// The Zodiac 
+// The Zodiac Killer 
+// The Zombie Diaries 
+// The Zombie Farm 
+// The Zombie King 
+// The Zombinator 
+// The Zone of Death 
+// The Zone:  2011, & 2017)
+// The Zoo Gang 
+// The Zookeeper 
+// The Zookeeper's Wife 
+// The Zoot Cat 
+// The Zoya Factor 
+// Theatre of Blood 
+// Theekkadal 
+// Their Own Desire 
+// Their Purple Moment 
+// Theirs is the Glory 
+// Thelma & Louise 
+// Them 
+// Them Thar Hills 
+// Them! 
+// Themroc 
+// Then She Found Me 
+// Theodora Goes Wild 
+// Theodore Case Sound Test: Gus Visser and His Singing Duck 
+// Theodore Rex 
+// Theorem 
+// There Be Dragons 
+// There Was a Crooked Man... 
+// There Was a Father 
+// There Will Be Blood 
+// There Will Be No Leave Today 
+// There is a Secret in my Soup 
+// There's Always Vanilla 
+// There's No Business Like Show Business 
+// There's Something About Mary 
+// There's a Girl in My Soup 
+// These Are the Damned 
+// These Three 
+// They 
+// They All Laughed 
+// They Call Me Bruce? 
+// They Call Me MISTER Tibbs! 
+// They Call Me Trinity 
+// They Came Back 
+// They Died with Their Boots On 
+// They Drive by Night 
+// They Go Boom 
+// They Knew What They Wanted 
+// They Live 
+// They Live by Night 
+// They Might Be Giants 
+// They Saved Hitler's Brain 
+// They Shoot Horses, Don't They? 
+// They Still Call Me Bruce 
+// They Were Expendable 
+// They're a Weird Mob 
+// Thick as Thieves 
+// Thicker than Water:  1999, 2000, 2005 & 2006)
+// Thief 
+// Thieves Like Us 
+// Thieves' Highway 
+// Thin Ice 
+// Things Are Tough All Over 
+// Things Behind the Sun 
+// Things We Lost in the Fire 
+// Things You Can Tell Just by Looking at Her 
+// Things to Come 
+// Things to Do in Denver When You're Dead 
+// Think like a Man 
+// Thinner 
+// Thirst 
+// Thirteen 
+// Thirteen Conversations About One Thing 
+// Thirteen Days 
+// Thirteen Ghosts 
+// Thirteen Ghosts: & 2001)
+// Thirteen Princess Trees 
+// Thirteen Women 
+// Thirty Seconds Over Tokyo 
+// This Boy's Life 
+// This Christmas 
+// This Film Is Not Yet Rated 
+// This Girl's Life 
+// This Gun for Hire 
+// This Happy Breed 
+// This Is 40 
+// This Is Cinerama 
+// This Is England 
+// This Is Martin Bonner 
+// This Is Me 
+// This Is My Father 
+// This Is Not a Film 
+// This Is Spinal Tap 
+// This Is Where I Leave You 
+// This Is the Army 
+// This Is the End 
+// This Is the Night 
+// This Island Earth 
+// This Land Is Mine 
+// This Man Must Die 
+// This Means War 
+// This Must Be the Place 
+// This Property Is Condemned 
+// This Sporting Life 
+// This is Not a Love Song 
+// Thomas and the Magic Railroad 
+// Thor 
+// Thor: Ragnarok 
+// Thor: Tales of Asgard 
+// Thor: The Dark World 
+// Thoroughly Modern Millie 
+// Those Magnificent Men in Their Flying Machines 
+// Those Were Wonderful Days 
+// Those Were the Days:  1997, & 2000)
+// Thou Shalt Honor Thy Wife 
+// Thoughtcrimes 
+// Thousands Cheer 
+// Three 
+// Three Ages 
+// Three Amigos 
+// Three Billboards Outside Ebbing, Missouri 
+// Three Body 
+// Three Businessmen 
+// Three Coins in the Fountain 
+// Three Colors: Blue 
+// Three Colors: Red 
+// Three Colors: White 
+// Three Comrades 
+// Three Daughters 
+// Three Days of the Condor 
+// Three Dollars 
+// Three Fugitives 
+// Three Godfathers 
+// Three Kings 
+// Three Little Words 
+// Three Men and a Baby 
+// Three Men and a Little Lady 
+// Three Modern Women 
+// Three O'Clock High 
+// Three Outlaw Samurai 
+// Three Reservists 
+// Three Seasons 
+// Three Sisters:  1970, 1970 Olivier & 1994)
+// Three Sisters: Olivier & 1994)
+// Three Smart Girls 
+// Three Stories of Love 
+// Three Times 
+// Three Women:  1949 & 1952)
+// Three Young Texans 
+// Three Young Texans 
+// Three for the Road 
+// Three from Buttermilk Village 
+// Three on a Couch 
+// Three on a Match 
+// Three the Hard Way 
+// Three to Tango 
+// Three... Extremes 
+// Threesome 
+// Thriller: A Cruel Picture 
+// Throne of Blood 
+// Throne of Elves 
+// Through a Glass Darkly 
+// Throw Momma from the Train 
+// Thru the Mirror 
+// Thumbelina: & 1994)
+// Thumbsucker 
+// Thunder Bay 
+// Thunder Road 
+// Thunderball 
+// Thunderbird 6 
+// Thunderbirds 
+// Thunderbirds Are Go 
+// Thunderbolt and Lightfoot 
+// Thunderbolt:  1929, & 1995)
+// Thunderheart 
+// Thunderpants 
+// Thunderstruck 
+// Thursday 
+// TiMER 
+// Ticker 
+// Tickle Me 
+// Ticks 
+// Tideland 
+// Tie Me Up! Tie Me Down! 
+// Tieta do Agreste 
+// Tiger Bay 
+// Tiger Cruise  / Tiger Eyes 
+// Tiger on Beat 
+// Tigerland 
+// Tightrope 
+// Tik Tok 
+// Til Death 
+// Tilaï 
+// Till Human Voices Wake Us 
+// Till There Was You: & 2003)
+// Till the Clouds Roll By 
+// Tillamook Treasure 
+// Tillie's Punctured Romance 
+// Tim 
+// Tim Tyler's Luck 
+// Tim and Eric's Billion Dollar Movie 
+// Timber Falls 
+// Time 
+// Time After Time 
+// Time Bandits 
+// Time Changer 
+// Time Out 
+// Time Raiders 
+// Time Regained 
+// Time Stands Still 
+// Time Travelers 
+// Time of Favor 
+// Time of the Gypsies 
+// Time of the Wolf 
+// Time to Leave 
+// Timecode 
+// Timecop 
+// Timecop 2: The Berlin Decision 
+// Timecrimes 
+// Timeline 
+// Timequest 
+// Times Square 
+// Timing 
+// Tin Cup 
+// Tin Men 
+// Tin Toy 
+// Tinker Bell 
+// Tinker Tailor Soldier Spy 
+// Tintin and I 
+// Tintin and the Blue Oranges 
+// Tintin and the Golden Fleece 
+// Tintin and the Lake of Sharks 
+// Tintin and the Temple of the Sun 
+// Tiny Furniture 
+// Tiny Times 
+// Tiny Times 2 
+// Tiny Times 3 
+// Tiny Times 4 
+// Tiny Toon Adventures: How I Spent My Vacation 
+// Tiovivo c. 1950 
+// Tiptoes 
+// Tirana Year Zero 
+// Tirant lo Blanc 
+// Tit for Tat 
+// Titan A.E. 
+// Titanic II 
+// Titanic Town 
+// Titanic:  1953, & 1997)
+// Titicut Follies 
+// Title to Murder 
+// Tito and Me 
+// Titus 
+// Tko pjeva zlo ne misli 
+// To Be and to Have 
+// To Be or Not to Be: & 1983)
+// To Beat the Band 
+// To Beep or Not to Beep 
+// To Catch a Thief 
+// To Die For:  1994 & 1995)
+// To Each His Own 
+// To End All Wars 
+// To Fly! 
+// To Have and Have Not 
+// To Have and to Hold 
+// To Have or Not to Have 
+// To Hell and Back 
+// To Joy 
+// To Kill a King 
+// To Kill a Mockingbird 
+// To Live 
+// To Live and Die in L.A. 
+// To Live in Peace 
+// To Paint or Make Love 
+// To Rome with Love 
+// To Save a Life 
+// To Shoot an Elephant 
+// To Sir, with Love: & 2006)
+// To Wong Foo, Thanks for Everything! Julie Newmar 
+// To the Devil a Daughter 
+// To the Last Man 
+// To the Wonder 
+// Tobacco Road 
+// Tobruk 
+// Today You Die 
+// Together Alone 
+// Together: & 2002)
+// Tokyo Drifter 
+// Tokyo Fist 
+// Tokyo Ghoul 
+// Tokyo Godfathers 
+// Tokyo Gore Police 
+// Tokyo Joe 
+// Tokyo Olympiad 
+// Tokyo Raiders 
+// Tokyo Story 
+// Tokyo Tower: Mom and Me, and Sometimes Dad 
+// TokyoPlastic 
+// Tol'able David 
+// Tom & Huck 
+// Tom Horn 
+// Tom Jones 
+// Tom Sawyer: & 2000)
+// Tom Thumb 
+// Tom White 
+// Tom and Jerry Meet Sherlock Holmes 
+// Tom and Jerry and the Wizard of Oz 
+// Tom and Jerry's Giant Adventure 
+// Tom and Jerry: A Nutcracker Tale 
+// Tom and Jerry: Back to Oz 
+// Tom and Jerry: Blast Off to Mars 
+// Tom and Jerry: Robin Hood and His Merry Mouse 
+// Tom and Jerry: Shiver Me Whiskers 
+// Tom and Jerry: Spy Quest 
+// Tom and Jerry: The Fast and the Furry 
+// Tom and Jerry: The Lost Dragon 
+// Tom and Jerry: The Magic Ring 
+// Tom and Jerry: The Movie 
+// Tom and Jerry: Willy Wonka and the Chocolate Factory 
+// Tom-Yum-Goong 
+// Tomb Raider: The Cradle of Life 
+// Tomb Robber 
+// Tomb of the Werewolf 
+// Tomboy 
+// Tombs of the Blind Dead 
+// Tombstone 
+// Tombstone, the Town Too Tough to Die 
+// Tomcats: & 2001)
+// Tommy 
+// Tommy Boy 
+// Tomorrow I Will Date With Yesterday's You 
+// Tomorrow Is Forever 
+// Tomorrow Never Dies 
+// Tomorrow, When the War Began 
+// Tomorrow:  1988 & 2001)
+// Tomorrowland 
+// Tongpan 
+// Toni 
+// Tonight for Sure 
+// Tonite Let's All Make Love in London 
+// Tony Rome 
+// Tony Takitani 
+// Too Late for Tears 
+// Too Late the Hero 
+// Too Much Johnson 
+// Toolbox Murders 
+// Toomelah 
+// Tooth Fairy 
+// Tootsie 
+// Top Banana 
+// Top Five 
+// Top Gun 
+// Top Gun: Maverick 
+// Top Hat 
+// Top Secret! 
+// Top of the World 
+// Topaz: & 1969)
+// Topkapi 
+// Topper 
+// Topper Returns 
+// Topsy-Turvy 
+// Tora! Tora! Tora! 
+// Torch Song 
+// Torment 
+// Tormented:  2009 British, 2009 short, 2011)
+// Torn Curtain 
+// Torque 
+// Torremolinos 73 
+// Torrente 2: Misión en Marbella 
+// Torrente, el brazo tonto de la ley 
+// Torso 
+// Tortilla Flaps 
+// Tortilla Soup 
+// Torture Garden 
+// Tosun Pasa 
+// Total Balalaika Show 
+// Total Eclipse 
+// Total Recall: & 2012)
+// Touch 
+// Touch of Evil 
+// Touch of Pink 
+// Touchez pas au grisbi 
+// Touching the Void 
+// Tough Guys 
+// Tourist Trap 
+// Tout va bien 
+// Tovarich 
+// Towards the Sun 
+// Towelhead 
+// Tower Heist 
+// Tower of London 
+// Tower of Terror: & 1997)
+// Town & Country 
+// Town of the Dragon 
+// Toxic Zombies 
+// Toy Soldiers 
+// Toy Spoiler 
+// Toy Story 
+// Toy Story 2 
+// Toy Story 3 
+// Toy Story 4 
+// Toys 
+// Traces of Death 
+// Trailer Park Boys: The Movie 
+// Trailer Park of Terror 
+// Train 
+// Train Ride 
+// Train of Life 
+// Training Day 
+// Trainspotting 
+// Traitor 
+// Traitor or Patriot 
+// Trance 
+// Trance and Dance in Bali 
+// Trancers 
+// Transamerica 
+// Transcendence 
+// Transfer 
+// Transformers 
+// Transformers: Age of Extinction 
+// Transformers: Dark of the Moon 
+// Transformers: Revenge of the Fallen 
+// Transformers: The Last Knight 
+// Transit 
+// Transmorphers 
+// Transmorphers: Fall of Man 
+// Transparent Man 
+// Transporter 2 
+// Transporter 3 
+// Transsiberian 
+// Transylvania 6-5000: & 1985)
+// Trapped in Paradise 
+// Trapped: & 2002)
+// Tras el cristal 
+// Trash 
+// Trauma: & 2004)
+// Traumschiff Surprise - Periode 1 
+// Travellers and Magicians 
+// Travels with My Aunt 
+// Treasure Island:  1950, 1972 animated, 1972 live-action, 1982, 1985, 1987, 1988, 1990 TV, & 1999)
+// Treasure Planet 
+// Trees Lounge 
+// Trekkies 
+// Tremors 
+// Tremors 2: Aftershocks 
+// Tremors 3: Back to Perfection 
+// Tremors 4: The Legend Begins 
+// Tremors 5: Bloodlines 
+// Tremors: A Cold Day in Hell 
+// Trespass: & 2011)
+// Trial and Error 
+// Triangle 
+// Tribute: & 2009)
+// Trick 
+// Trick or Treat: & 2006)
+// Tricky Brains 
+// Trigun: Badlands Rumble 
+// Trilogy of Terror  / Trilogy of Terror II  / Trinity 
+// Trinity Is STILL My Name! 
+// Tripfall 
+// Triple Trouble 
+// Triplex 
+// Trishna:  2009 & 2011)
+// Tristan & Isolde 
+// Tristana 
+// Tristram Shandy: A Cock and Bull Story 
+// Triumph of the Will 
+// Triumphs of a Man Called Horse 
+// Trixie 
+// Trog 
+// Trois hommes et un couffin 
+// Trojan War 
+// Trojan Warrior 
+// Troll 
+// Troll 2 
+// Troll 3 
+// Trolley Troubles 
+// Trolls 
+// Tromeo and Juliet 
+// Tron 
+// Tron: Legacy 
+// Troop Beverly Hills 
+// Troops 
+// Trop belle pour toi 
+// Tropic Thunder 
+// Tropic of Ice 
+// Tropical Malady 
+// Trouble Every Day 
+// Trouble Makers: & 2006)
+// Trouble Man 
+// Trouble in Paradise 
+// Trouble with the Curve 
+// Troubled Laughter 
+// Troy 
+// Tru Confessions  / Truck Turner 
+// Trudell 
+// True Believer 
+// True Confessions 
+// True Crime 
+// True Grit: & 2010)
+// True Lies 
+// True Love 
+// True Romance 
+// True Stories 
+// Truly, Madly, Deeply 
+// Trunk to Cairo 
+// Trust the Man 
+// Trust: & 2010)
+// Truth or Consequences, N.M. 
+// Truth or Dare 
+// Tsotsi 
+// Tsugaru Folk Song 
+// Tsukue no Nakami 
+// Tsukuroi Tatsu Hito 
+// Tsure ga Utsu ni Narimashite 
+// Tube Tales 
+// Tuck Everlasting: & 2002)
+// Tucker & Dale vs. Evil 
+// Tucker: The Man and His Dream 
+// Tuff Turf 
+// Tulips Shall Grow 
+// Tulivesi 
+// Tully 
+// Tulsa 
+// Tumbleweeds: & 1999)
+// Tumko Na Bhool Paayenge 
+// Tunes of Glory 
+// Tunnel Vision: & 1995)
+// Tupac: Resurrection 
+// Turbo 
+// Turbo Kid 
+// Turbo: A Power Rangers Movie 
+// Turbulence 
+// Turbulence 2: Fear of Flying 
+// Turbulence 3: Heavy Metal 
+// Turbulence: & 2011)
+// Turistas 
+// Turkish Delight: & 1973)
+// Turn It Up 
+// Turn Left, Turn Right 
+// Turner & Hooch 
+// Turok: Son of Stone 
+// Turtles Can Fly 
+// Turtles Forever  TV)
+// Tuvalu 
+// Tweetie Pie 
+// Tweety and the Beanstalk 
+// Tweety's High-Flying Adventure 
+// Twelfth Night:  1955, 1980 & 1986
+// Twelfth Night: Or What You Will 
+// Twelve 
+// Twelve Months 
+// Twelve O'Clock High 
+// Twentieth Century 
+// Twenty Bucks 
+// Twenty Minutes of Love 
+// Twenty-Four Eyes 
+// Twenty-One 
+// Twentynine Palms 
+// Twice Upon a Time: & 1983)
+// Twice Upon a Yesterday 
+// Twilight 
+// Twilight 
+// Twilight Online 
+// Twilight Syndrome: Dead Go Round 
+// Twilight Zone: The Movie 
+// Twilight of Honor 
+// Twilight of the Ice Nymphs 
+// Twilight's Last Gleaming 
+// Twin Dragons 
+// Twin Falls Idaho 
+// Twin Peaks: Fire Walk with Me 
+// Twin Sisters: & 2002)
+// Twin Town 
+// Twinkle, Twinkle Lucky Stars 
+// Twins of Evil 
+// Twins: & 1988)
+// Twist 
+// Twisted Desire  / Twisted Justice 
+// Twisted Nerve 
+// Twisted Obsession 
+// Twisted:  1996 & 2004)
+// Twister: & 1996)
+// Twitch of the Death Nerve 
+// Twixt 
+// Two Arabian Knights 
+// Two Brothers: & 2004)
+// Two Can Play That Game 
+// Two Cops 
+// Two Daughters 
+// Two English Girls 
+// Two Evil Eyes 
+// Two Girls and a Guy 
+// Two Great Sheep 
+// Two Hands 
+// Two Hands: The Leon Fleisher Story 
+// Two If by Sea 
+// Two Men and a Wardrobe 
+// Two Moon Junction 
+// Two Much 
+// Two Mules for Sister Sara 
+// Two Plus Fours 
+// Two Rode Together 
+// Two Solitudes 
+// Two Stage Sisters 
+// Two Tars 
+// Two Thousand Maniacs! 
+// Two Weeks Notice 
+// Two Weeks: & 2006)
+// Two Women 
+// Two Women:  1947 & 1999)
+// Two for the Money 
+// Two for the Road 
+// Two for the Seesaw 
+// Two of Us: TV & 2000)
+// Two of a Kind: & 1983)
+// Two or Three Things I Know About Her 
+// Two-Fisted Tales  TV)
+// Two-Lane Blacktop 
+// Two-Minute Warning 
+// Two-Way Stretch 
+// Tyler Perry Presents Peeples 
+// Typhoon Noruda 
+// Typhoon:  1940 & 2005)
+// Tyrannosaur 
+// Tyson: & 2008)
+// Tōkyō Mukokuseki Shōjo 
+// U Turn 
+// U, Bomsi n Me 
 // U, Me Aur Ghar (2017)
 // U-571 (2000)
 // U-9 Weddigen (1927)
