@@ -15542,25 +15542,22 @@ export const Pokemon = [
 // Saint-Ex 
 // Saints and Soldiers 
 // Saippuaprinssi 
-// Saki 
-// Salaam Bombay! 
+// Saki  
 // Salaam Namaste 
 // Salakhain 
 // Salangeul chajaseo 
 // Salem's Lot  
 // Salesman 
-// Sally:  1929 & 2000)
+// Sally
 // Salmon Fishing in the Yemen 
 // Salome of the Tenements 
 // Salome's Last Dance 
-// Salomé:  1923 & 1953)
 // Salon Kitty 
 // Salt and Pepper 
 // Salt of the Earth 
-// Salt:  2006, 2009 & 2010)
+// Salt
 // Saludos Amigos 
-// Salvador Dalí 
-// Salvador: & 2006)
+// Salvador
 // Salvatore Giuliano 
 // Salween 
 // Salò, or the 120 Days of Sodom 
@@ -15568,10 +15565,10 @@ export const Pokemon = [
 // Same Kind of Different as Me 
 // Same Time, Next Year 
 // Sampo 
-// Samsara: & 2011)
-// Samson and Delilah:  1949, 1984, 1996 TV & 2009)
+// Samsara
+// Samson and Delilah
 // Samson and His Mighty Challenge 
-// Samson:  1915, 1923, 1936, 1961 Polish, 1961 Italian & 2018)
+// Samson
 // Samurai Assassin 
 // Samurai Cop 
 // Samurai Fiction 
@@ -15583,26 +15580,25 @@ export const Pokemon = [
 // Samurai Rebellion 
 // Samurai Spy 
 // San Andreas 
-// San Francisco: & 1968)
+// San Francisco
 // Sanada 10 Braves 
 // Sanctum 
 // Sanders of the River 
-// Sandor / Ida 
+// Sandor 
+// Ida 
 // Sands of Iwo Jima 
-// Sangam: Hindi, 1964 Urdu & 1997)
+// Sangam
 // Sango-sho Densetsu: Aoi Umi no Erufii 
 // Sanjuro 
 // Sankaku 
 // Sans Soleil 
 // Sanshiro Sugata 
-// Sanshiro Sugata Part II 
 // Sansho the Bailiff 
 // Santa Claus Conquers the Martians 
-// Santa Claus: & 1959)
+// Santa Claus
 // Santa Claus: The Movie 
 // Santa Fe Trail 
 // Santa Sangre 
-// Santa Who? 
 // Santa with Muscles 
 // Santa's Little Helper 
 // Santa's Slay 
@@ -15611,42 +15607,37 @@ export const Pokemon = [
 // Saps at Sea 
 // Saraba Abunai Deka 
 // Saraba Kamen Rider Den-O: Final Countdown 
-// Saraband TV)
-// Sarah Silverman: Jesus Is Magic 
+// Saraband
 // Sarah and Son 
 // Sarah's Key 
 // Saratoga Trunk 
 // Sardaar Ji 
 // Sarfarosh 
-// Sarkar 3 
 // Sarkar Raj 
-// Sarkar: & 2014)
+// Sarkar
 // Sarraounia 
 // Sasidharan 
 // Satan Met a Lady 
-// Sathya:  2010, 2017 Malayalam & 2017 Tamil)
-// Sathyam: & 2004)
+// Sathya
+// Sathyam
 // Satomi Hakkenden 
 // Saturday Night Fever 
 // Saturday Night and Sunday Morning 
 // Saturday the 14th 
-// Saturn 3 
-// Satya: & 2017)
-// Satyam:  2003 & 2008)
-// Satyricon oro, 1969)
+// Satya
+// Satyam
+// Satyricon
 // Sauerbruch – Das war mein Leben 
 // Sausage Party 
-// Sauve qui peut e) 
+// Sauve qui peut e
 // Savage Beach 
 // Savage Grace 
-// Savage Planet  / Savage Streets 
-// Savage! 
-// Savages:  1974 TV & 2012)
-// Save the Green Planet! 
+// Savage Planet  
+// Savage Streets 
+// Savages 
 // Save the Last Dance 
 // Save the Tiger 
 // Saved from the Titanic 
-// Saved! 
 // Saving Face 
 // Saving Grace 
 // Saving Mr. Banks 
@@ -15658,14 +15649,8 @@ export const Pokemon = [
 // Saw 
 // Saw 
 // Saw 3D 
-// Saw II 
-// Saw III 
-// Saw IV 
-// Saw V 
-// Saw VI 
 // Sawdust and Tinsel 
 // Sax Rohmer's The Castle of Fu Manchu 
-// Say Anything... 
 // Say It Isn't So 
 // Say Uncle 
 // Say Yes 
@@ -15675,10 +15660,10 @@ export const Pokemon = [
 // Sayonara Midori-chan 
 // Scandal Maker 
 // Scandal Makers 
-// Scandal Sheet:  1952 & 1985 TV)
+// Scandal Sheet
 // Scandal Street 
 // Scandal at Scourie 
-// Scandal: & 1989)
+// Scandal
 // Scanner Cop 
 // Scanners 
 // Scanners II: The New Order 
@@ -15686,47 +15671,41 @@ export const Pokemon = [
 // Scanners: The Showdown 
 // Scaramouche 
 // Scarecrow Gone Wild 
-// Scarecrow:  2002 & 2013)
+// Scarecrow
 // Scarecrows 
-// Scared Stiff:  1953 & 1987)
+// Scared Stiff
 // Scared to Death 
 // Scaredy Cat 
-// Scarface: & 1983)
+// Scarface
 // Scarlet Diva 
-// Scarlet Sails Паруса) 
 // Scarlet Street 
 // Scars of Dracula 
 // Scary Godmother: The Revenge of Jimmy 
 // Scary Movie 
-// Scary Movie 2 
-// Scary Movie 3 
-// Scary Movie 4 
-// Scary Movie 5 
 // Scary Road Is Fun 
 // Scary Stories to Tell in the Dark 
 // Scavenger Hunt 
 // Scenes from a Mall 
-// Scenes from a Marriage  / Scenic Route 
+// Scenes from a Marriage  
+// Scenic Route 
 // Scent of Love 
 // Scent of Mystery 
-// Scent of a Woman: & 1992)
+// Scent of a Woman
 // Schatten – Eine nächtliche Halluzination 
 // Schindler's List 
 // Schizopolis 
 // School Daze 
 // School Ties 
-// School for Scoundrels: & 2006)
+// School for Scoundrels
 // School for Seduction 
 // School of Rock 
 // Schoolgirl Report Part 1: What Parents Don't Think Is Possible 
-// Schoolmates 1 
-// Schtonk! 
 // Schulmädchen-Report: Was Eltern nicht für möglich halten 
 // Schultze Gets the Blues 
 // Sci-Fi High: A Movie Musical 
 // Scooby-Doo 
 // Scooby-Doo 2: Monsters Unleashed 
-// Scooby-Doo Meets the Boo Brothers TV)
+// Scooby-Doo Meets the Boo Brothers
 // Scooby-Doo and the Alien Invaders 
 // Scooby-Doo and the Cyber Chase 
 // Scooby-Doo on Zombie Island 
@@ -15734,16 +15713,15 @@ export const Pokemon = [
 // Scooby-Doo! Abracadabra-Doo 
 // Scooby-Doo! Adventures: The Mystery Map 
 // Scooby-Doo! Camp Scare 
-// Scooby-Doo! Curse of the Lake Monster TV)
+// Scooby-Doo! Curse of the Lake Monster
 // Scooby-Doo! Frankencreepy 
 // Scooby-Doo! Legend of the Phantosaur 
 // Scooby-Doo! Mask of the Blue Falcon 
 // Scooby-Doo! Moon Monster Madness 
 // Scooby-Doo! Music of the Vampire 
-// Scooby-Doo! Pirates Ahoy! 
 // Scooby-Doo! Shaggy's Showdown 
 // Scooby-Doo! Stage Fright 
-// Scooby-Doo! The Mystery Begins TV)
+// Scooby-Doo! The Mystery Begins
 // Scooby-Doo! WrestleMania Mystery 
 // Scooby-Doo! and Kiss: Rock and Roll Mystery 
 // Scooby-Doo! and WWE: Curse of the Speed Demon 
@@ -15751,13 +15729,12 @@ export const Pokemon = [
 // Scooby-Doo! and the Legend of the Vampire 
 // Scooby-Doo! and the Loch Ness Monster 
 // Scooby-Doo! and the Monster of Mexico 
-// Scooby-Doo! and the Reluctant Werewolf TV)
+// Scooby-Doo! and the Reluctant Werewolf
 // Scooby-Doo! and the Witch's Ghost 
-// Scooby-Doo! in Arabian Nights  / Scooby-Doo! in Where's My Mummy? 
-// Scoop! 
-// Scoop: & 2006)
+// Scooby-Doo! in Arabian Nights  
+// Scoop
 // Scorched 
-// Score: & 2016)
+// Score
 // Score: A Hockey Musical 
 // Scorpio 
 // Scorpio Rising 
@@ -15766,9 +15743,6 @@ export const Pokemon = [
 // Scott of the Antarctic 
 // Scratch 
 // Scream 
-// Scream 2 
-// Scream 3 
-// Scream 4 
 // Scream Blacula Scream 
 // Scream Bloody Murder 
 // Scream and Scream Again 
@@ -15776,12 +15750,11 @@ export const Pokemon = [
 // Screamers: The Hunting 
 // Screaming Masterpiece 
 // Screwed 
-// Scrooge: & 1970)
+// Scrooge
 // Scrooged 
 // Scrub Me Mama with a Boogie Beat 
 // Scum 
 // Scum of the Earth 
-// Scum of the Earth! 
 // Se7en 
 // Sea of Love 
 // Seabiscuit 
@@ -15789,7 +15762,7 @@ export const Pokemon = [
 // Seal Team Six: The Raid on Osama Bin Laden 
 // Searching for Bobby Fischer 
 // Searching for Sugar Man 
-// Season of the Witch: & 2011)
+// Season of the Witch
 // Sebastiane 
 // Second Act 
 // Second Chorus 
@@ -15799,7 +15772,7 @@ export const Pokemon = [
 // Seconds 
 // Secret 
 // Secret Admirer 
-// Secret Agent: & 1947)
+// Secret Agent
 // Secret Beyond the Door 
 // Secret Ceremony 
 // Secret Honor 
@@ -15813,12 +15786,12 @@ export const Pokemon = [
 // Secretariat 
 // Secretary 
 // Secrets & Lies 
-// Secrets: & 1973 TV)
+// Secrets
 // Seduced and Abandoned 
 // Seducing Doctor Lewis 
 // Seduction: The Cruel Woman 
 // See No Evil, Hear No Evil 
-// See No Evil: & 2006)
+// See No Evil
 // See Spot Run 
 // See You in Hell, My Darling 
 // Seed 
@@ -15827,7 +15800,7 @@ export const Pokemon = [
 // Seeing Other People 
 // Seeking Justice 
 // Seeking a Friend for the End of the World 
-// Seema: & 1971)
+// Seema
 // Seems Like Old Times 
 // Sehnsucht 
 // Seizure 
@@ -15838,10 +15811,8 @@ export const Pokemon = [
 // Semi-Pro 
 // Semi-Tough 
 // Send Me No Flowers 
-// Sengoku Jieitai 1549 
 // Senna 
 // Sennenbi 
-// Sensations of 1945 
 // Sense and Sensibility 
 // Senseless 
 // Senso 
@@ -15852,7 +15823,7 @@ export const Pokemon = [
 // September 12th 
 // September Dawn 
 // September in the Rain 
-// September:  1987, 2003 & 2011)
+// September
 // Sequel to the Diamond from the Sky 
 // Seraphim Falls 
 // Serenade 
@@ -15870,7 +15841,6 @@ export const Pokemon = [
 // Service de nuit 
 // Serving Sara 
 // Sesame Street Presents: Follow That Bird 
-// Session 9 
 // Set It Off 
 // Setoutsumi 
 // Settai 
@@ -15886,25 +15856,21 @@ export const Pokemon = [
 // Seven Psychopaths 
 // Seven Samurai 
 // Seven Times Seven 
-// Seven Up! 
 // Seven Years in Tibet 
 // Seventeen Again 
 // Seventeen Moments of Spring 
 // Seventeen Years 
-// Seventh Heaven:  1937 & 1993)
+// Seventh Heaven
 // Seventh Son 
 // Severance 
 // Sex & Fury 
 // Sex Drive 
 // Sex Is Zero 
-// Sex Is Zero 2 
 // Sex Lives of the Potato Men 
 // Sex Madness 
-// Sex and Death 101 
 // Sex and Lucia 
 // Sex and Zen 
-// Sex and the City 
-// Sex and the City 2 
+// Sex and the City  
 // Sex and the Single Girl 
 // Sex in Chains 
 // Sex, Shame, and Tears 
@@ -15914,15 +15880,14 @@ export const Pokemon = [
 // Sextette 
 // Sexual Meditation: Room with View 
 // Sexy Beast 
-// Sgt. Bilko 
-// Sgt. Kabukiman N.Y.P.D. 
+// Sgt. Bilko  
 // Sgt. Pepper's Lonely Hearts Club Band 
 // Shaadi Se Pehle 
 // Shade 
 // Shadow 
 // Shadow Builder 
 // Shadow Conspiracy 
-// Shadow Man: & 2006)
+// Shadow Man
 // Shadow of Evil 
 // Shadow of a Doubt 
 // Shadow of the Thin Man 
@@ -15935,9 +15900,9 @@ export const Pokemon = [
 // Shadows of Forgotten Ancestors 
 // Shaft in Africa 
 // Shaft's Big Score 
-// Shaft: & 2000)
+// Shaft
 // Shag 
-// Shake Hands With the Devil: & 2007)
+// Shake Hands With the Devil
 // Shake Hands with the Devil: The Journey of Roméo Dallaire 
 // Shake! Otis at Monterey 
 // Shakedown: Return of the Sontarans 
@@ -15945,11 +15910,11 @@ export const Pokemon = [
 // Shakespeare Wallah 
 // Shakespeare in Love 
 // Shalako 
-// Shall We Dance:  1996 & 2004)
+// Shall We Dance
 // Shallow Grave 
 // Shallow Ground 
 // Shallow Hal 
-// Shame: & 2011)
+// Shame
 // Shampoo 
 // Shane 
 // Shanghai Dreams 
@@ -15962,29 +15927,25 @@ export const Pokemon = [
 // Shanghai Triad 
 // Shaolin 
 // Shaolin Soccer 
-// Shaolin Temple: & 1982)
+// Shaolin Temple
 // Shaolin Wooden Men 
 // Shaolin and Wu Tang 
 // Shape of the Moon 
 // Shararat 
 // Shark 
 // Shark Attack 
-// Shark Attack 2 
 // Shark Attack 3: Megalodon 
 // Shark Night 
 // Shark Tale 
-// Shark! 
 // Shark: Mind of a Demon 
 // Sharknado 
 // Sharknado 2: The Second One 
-// Sharknado 3: Oh Hell No! 
 // Sharknado 5: Global Swarming 
 // Sharknado: The 4th Awakens 
 // Sharky's Machine 
 // Shaso 
 // Shatter Dead 
-// Shattered 
-// Shattered rfly on a Wheel) 
+// Shattered  
 // Shattered Glass 
 // Shaukeen 
 // Shaun of the Dead 
@@ -15995,7 +15956,6 @@ export const Pokemon = [
 // She Gods of Shark Reef 
 // She Hate Me 
 // She Remembers, He Forgets 
-// She Shoulda Said 'No'! 
 // She Stoops to Conquer 
 // She Was an Acrobat's Daughter 
 // She Wore a Yellow Ribbon 
@@ -16013,7 +15973,7 @@ export const Pokemon = [
 // Sheena 
 // Sheitan 
 // Shelter Dogs 
-// Shelter: & 2010)
+// Shelter
 // Shenandoah 
 // Sherlock Holmes 
 // Sherlock Holmes Faces Death 
@@ -16041,7 +16001,6 @@ export const Pokemon = [
 // Ship of Fools 
 // Shiri 
 // Shirley Valentine 
-// Shiroi Kyotō 
 // Shivering Shakespeare 
 // Shivers 
 // Shiza 
@@ -16068,15 +16027,12 @@ export const Pokemon = [
 // Shopgirl 
 // Shopping 
 // Short Circuit 
-// Short Circuit 2 
-// Short Term 12 
-// Shorts: & 2013)
+// Shorts
 // Show Girl 
 // Showgirl in Hollywood 
 // Showgirls 
 // Showtime 
 // Shrek 
-// Shrek 2 
 // Shrek Forever After 
 // Shrek the Third 
 // Shriek If You Know What I Did Last Friday the Thirteenth 
@@ -16086,7 +16042,7 @@ export const Pokemon = [
 // Shut Up & Sing 
 // Shut Up and Play the Hits 
 // Shutter Island 
-// Shutter: & 2008)
+// Shutter
 // Shuttle 
 // Si accettano miracoli 
 // SiREN 
@@ -16105,8 +16061,7 @@ export const Pokemon = [
 // Sigade revolutsioon 
 // Signore & Signori 
 // Signs 
-// Siin me oleme! 
-// Sikandar: & 2009)
+// Sikandar
 // Silence of the North 
 // Silent Hill 
 // Silent Hill: Revelation 3D 
@@ -16115,23 +16070,22 @@ export const Pokemon = [
 // Silent Movie 
 // Silent Night, Bloody Night 
 // Silent Night, Deadly Night 
-// Silent Night, Deadly Night 3: Better Watch Out! 
 // Silent Night, Deadly Night 4: Initiation 
 // Silent Night, Deadly Night 5: The Toy Maker 
-// Silent Night, Deadly Night Part 2 
 // Silent Rage 
 // Silent Running 
 // Silent Tongue 
-// Silent Warnings  / Silk 
+// Silent Warnings  
+// Silk 
 // Silk Stockings 
 // Silkwood 
 // Silmido 
 // Silver & Black 
 // Silver Bullet 
-// Silver City:  1984 & 2004)
+// Silver City
 // Silver Linings Playbook 
 // Silver Lode 
-// Silver Streak: & 1976)
+// Silver Streak
 // Silverado 
 // Simon Birch 
 // Simon Says 
@@ -16147,25 +16101,25 @@ export const Pokemon = [
 // Sinbad and The Minotaur 
 // Sinbad and the Eye of the Tiger 
 // Sinbad of the Seven Seas 
-// Sinbad the Sailor: & 1947)
+// Sinbad the Sailor
 // Sinbad: Beyond the Veil of Mists 
 // Sinbad: Legend of the Seven Seas 
 // Sinbad: Sora Tobu Hime to Himitsu no Shima 
 // Since Otar Left 
 // Since You Went Away 
-// Since You've Been Gone  / Sing 
+// Since You've Been Gone  
+// Sing 
 // Sing As We Go 
 // Sing Boy Sing 
 // Singapore Dreaming 
 // Singapore Sling 
 // Singin' in the Rain 
 // Single White Female 
-// Singles: & 2003)
+// Singles
 // Sinister 
-// Sink the Bismarck! 
 // Sinkin' in the Bathtub 
 // Sione's Wedding 
-// Sirens: & 1999)
+// Sirens
 // Sirocco 
 // Sisily 2km 
 // Sissi 
@@ -16174,7 +16128,7 @@ export const Pokemon = [
 // Sister Act 2: Back in the Habit 
 // Sister Kenny 
 // Sister Wife 
-// Sisters :  2001, 2006 & 2015)
+// Sisters
 // Sisters, or the Balance of Happiness 
 // Sitcom 
 // Sith Apprentice 
@@ -16193,22 +16147,21 @@ export const Pokemon = [
 // Skidoo 
 // Skin Deep 
 // Skin Game 
-// Skin: & 2008)
+// Skin
 // Skinned Deep 
 // Skinner 
-// Skins: & 2017)
-// Skinwalkers: & 2007)
+// Skins
+// Skinwalkers
 // Skipped Parts 
 // Skippy 
-// Skum Rocks! 
 // Sky Captain and the World of Tomorrow 
-// Sky High:  2003 & 2005)
+// Sky High
 // Sky Lovers 
 // Sky Riders 
 // Sky on Fire 
 // Skyfall 
-// Skyline: & 2010)
-// Skyscraper:  1996, 2011 & 2018)
+// Skyline
+// Skyscraper
 // Skytturnar 
 // Slacker 
 // Slackers 
@@ -16217,59 +16170,60 @@ export const Pokemon = [
 // Slap Her... She's French 
 // Slap Shot 
 // Slapstick of Another Kind 
-// Slasher & 2007)
+// Slasher 
 // Slaughter Disc 
 // Slaughter High 
 // Slaughterhouse-Five 
 // Slaves of New York 
 // Sleep 
 // Sleepaway Camp 
-// Sleepaway Camp II: Unhappy Campers // Sleepaway Camp III: Teenage Wasteland 
+// Sleepaway Camp II: Unhappy Campers 
+// Sleepaway Camp III: Teenage Wasteland 
 // Sleeper 
 // Sleepers 
 // Sleeping Beauties 
-// Sleeping Beauty:  1959, 1973, 1987, 1995 & 2011)
+// Sleeping Beauty
 // Sleeping Bride 
 // Sleeping Dogs 
-// Sleeping Dogs Lie: & 2006)
+// Sleeping Dogs Lie
 // Sleeping with Other People 
 // Sleeping with the Enemy 
 // Sleepless Nights 
 // Sleepless in Seattle 
-// Sleepless:  2001 & 2017)
+// Sleepless
 // Sleepover 
 // Sleepstalker 
 // Sleepwalkers 
 // Sleepy Hollow 
-// Sleuth: & 2007)
+// Sleuth
 // Sliding Doors 
 // Slightly Scarlet 
 // Slim 
 // Sling Blade 
 // Slipping Wives 
-// Slipstream:  1973, 1989, 2005 & 2007)
+// Slipstream
 // Sliver 
 // Sloane 
-// Slow Burn:  2000 & 2005)
+// Slow Burn
 // Slugs: The Movie 
 // Slugterra: Return of the Elementals 
-// Slumber Party Massacre II 
 // Slumdog Millionaire 
 // Slums of Beverly Hills 
 // Small Change 
 // Small Faces 
-// Small Sacrifices  / Small Soldiers 
+// Small Sacrifices  
+// Small Soldiers 
 // Small Time Crooks 
 // Small Town Rivals 
 // Small Tragedy 
 // Smart Alec 
-// Smart House TV)
+// Smart House 
 // Smart Money 
 // Smart People 
 // Smash Palace 
 // Smash-Up, the Story of a Woman 
 // Smashed 
-// Smile: & 2005)
+// Smile
 // Smiles of a Summer Night 
 // Smiley 
 // Smiley Face 
@@ -16279,8 +16233,6 @@ export const Pokemon = [
 // Smoke 
 // Smoke Signals 
 // Smokey and the Bandit 
-// Smokey and the Bandit II 
-// Smokey and the Bandit Part 3 
 // Smokin' Aces 
 // Smokin' Aces 2: Assassins' Ball
 // Smooth Talk 
@@ -16291,12 +16243,13 @@ export const Pokemon = [
 // Snake & Crane Arts of Shaolin 
 // Snake Eyes 
 // Snake in the Eagle's Shadow 
-// Snakeman  / Snakes on a Plane 
+// Snakeman  
+// Snakes on a Plane 
 // Snakes on a Train 
 // Snatch 
 // Sneakers 
 // Sniper 
-// Sniper 2  / Snitch 
+// Snitch 
 // Snoop Dogg's Doggystyle 
 // Snoop Dogg's Hood of Horror 
 // Snoopy, Come Home 
@@ -16309,12 +16262,11 @@ export const Pokemon = [
 // Snow White and the Huntsman 
 // Snow White and the Seven Dwarfs 
 // Snow White and the Three Stooges 
-// Snow White: & 1933)
+// Snow White
 // Snowboard Academy 
 // Snowden 
 // Snowmen 
 // Snowtown 
-// So Big! 
 // So Close 
 // So Close to Paradise 
 // So Cute 
@@ -16322,38 +16274,38 @@ export const Pokemon = [
 // So Dear to My Heart 
 // So I Married an Axe Murderer 
 // So Long, Stooge 
-// So Proudly We Hail! 
 // So Quiet on the Canine Front 
 // So Undercover 
 // So Young 
 // Soapdish 
 // Society 
-// Society Murders  / Sodom and Gomorrah: & 1963)
+// Society Murders  
+// Sodom and Gomorrah
 // Soigne ta droite 
 // Solace 
 // Solarbabies 
-// Solaris: & 2002)
+// Solaris
 // Soldados de Salamina 
 // Soldier Blue 
 // Soldier in the Rain 
 // Soldier of Fortune 
 // Soldier of Orange 
 // Soldier's Girl 
-// Soldier: USA & 1998 India)
+// Soldier
 // Sole Sisters 
 // Solitary Man 
-// Solo:  1996, 2006, 2008, 2011, 2013 & 2017)
+// Solo
 // Solo: A Star Wars Story 
 // Solomon Kane 
 // Solomon and Sheba 
 // Solomon's Perjury 
 // Some Came Running 
-// Some Dudes Can Fight  US silent film
+// Some Dudes Can Fight
 // Some Girls Do 
 // Some Kind of Beautiful 
 // Some Kind of Monster 
 // Some Kind of Wonderful 
-// Some Like It Hot:  1959 & 2016)
+// Some Like It Hot
 // Somebody Up There Likes Me 
 // Someone Like You 
 // Someone Special 
@@ -16366,8 +16318,9 @@ export const Pokemon = [
 // Something New 
 // Something Out of Nothing 
 // Something Wicked This Way Comes 
-// Something Wild: & 1986)
-// Something the Lord Made  / Something to Talk About 
+// Something Wild
+// Something the Lord Made  
+// Something to Talk About 
 // Something's Got to Give 
 // Something's Gotta Give 
 // Sometimes They Come Back... Again 
@@ -16377,7 +16330,7 @@ export const Pokemon = [
 // Somewhere in the Night 
 // Sommersby 
 // Son in Law 
-// Son of Dracula: & 1974)
+// Son of Dracula
 // Son of Flubber 
 // Son of Frankenstein 
 // Son of Godzilla 
@@ -16387,12 +16340,12 @@ export const Pokemon = [
 // Son of the Bride 
 // Son of the Mask 
 // Son of the Pink Panther 
-// Sonatine and 1993)
+// Sonatine
 // Song For a Raggy Boy 
 // Song at Midnight 
 // Song of China 
 // Song of Freedom 
-// Song of Love: & 1947)
+// Song of Love
 // Song of the Fishermen 
 // Song of the Phoenix 
 // Song of the South 
@@ -16427,7 +16380,8 @@ export const Pokemon = [
 // Soul Surfer 
 // Soul Survivors 
 // Souli 
-// Soulkeeper  / Souls Protest 
+// Soulkeeper  
+// Souls Protest 
 // Souls for Sale 
 // Soumyam 
 // Sound City 
@@ -16440,17 +16394,16 @@ export const Pokemon = [
 // South Pacific 
 // South Park: Bigger, Longer & Uncut 
 // South of Wawa 
-// South of the Clouds: & 2014)
+// South of the Clouds
 // Southern Belles 
-// Southern Comfort: & 2001)
+// Southern Comfort
 // Southern Fried Rabbit 
 // Southie 
 // Southland Tales 
 // Southlander 
-// Southside 1-1000 
 // Soylent Green 
 // Space Amoeba 
-// Space Battleship Yamato: & 2010)
+// Space Battleship Yamato
 // Space Battleship Yamato: Resurrection 
 // Space Boy! Night, Neal and Ness 
 // Space Chimps 
@@ -16468,13 +16421,13 @@ export const Pokemon = [
 // SpaceCamp 
 // Spaceballs 
 // Spacehunter: Adventures in the Forbidden Zone 
-// Spaceman: & 2016)
+// Spaceman
 // Spaceways 
 // Spanglish 
 // Spanking the Monkey 
-// Spark:  2014 & 2016)
+// Spark
 // Spark: A Burning Man Story 
-// Sparkle:  2007 & 2012)
+// Sparkle
 // Sparks 
 // Spartacus 
 // Spartan 
@@ -16482,40 +16435,36 @@ export const Pokemon = [
 // Speak 
 // Speak Up! It's So Dark 
 // Speak to Me of Love 
-// Speakeasy: & 2002)
+// Speakeasy
 // Special 
-// Special 26 
 // Special Effects: Anything Can Happen 
 // Species 
-// Species II 
-// Species III 
 // Spectre 
-// Speechless & 2012)
+// Speechless
 // Speed 2: Cruise Control 
-// Speed Demon: & 2003)
+// Speed Demon
 // Speed Racer 
 // Speed Zone 
-// Speed:  1984, 1994 & 2007)
+// Speed
 // Speeder 
 // Speedway Junky 
-// Speedway: & 1968)
+// Speedway
 // Speedy 
-// Spellbound: & 2002)
+// Spellbound
 // Spencer's Mountain 
 // Spetters 
-// Sphere: & 2013)
+// Sphere
 // Spice World 
 // Spicy Hot in Love 
 // Spicy Love Soup 
 // Spider Baby 
 // Spider Lilies 
-// Spider-Man 2 
-// Spider-Man 3 
-// Spider-Man:  1979 TV & 2002)
+// Spider-Man
+// Spider-Man: No Way Home
 // Spider-Man: Far From Home 
 // Spider-Man: Homecoming 
 // Spider-Man: Into the Spider-Verse 
-// Spider: & 2007)
+// Spider
 // SpiderBabe 
 // Spiders 3D 
 // Spies Like Us 
@@ -16530,29 +16479,29 @@ export const Pokemon = [
 // Spirits’ Homecoming 
 // Spiritual Kung Fu 
 // Splash 
-// Splendor in the Grass: & 1981 TV)
-// Splendor:  1989 & 1999)
+// Splendor in the Grass
+// Splendor
 // Splice 
-// Split Second: & 1992)
-// Split:  2016 American & 2016 South Korean)
+// Split Second
+// Split
 // Splitting Heirs 
 // Spooked 
 // Spookies 
 // Spookley the Square Pumpkin 
 // Spooks Run Wild 
-// Spooks: & 1953)
+// Spooks
 // Spooks: The Greater Good 
 // Spooky Jack 
 // Spotswood 
 // Spread 
 // Spring Breakdown 
 // Spring Breakers 
-// Spring Fever:  1927, 1982 & 2009)
+// Spring Fever
 // Spring Silkworms 
 // Spring Subway 
 // Spring in a Small Town 
 // Spring, Summer, Fall, Winter... and Spring 
-// Spring: & 2014)
+// Spring
 // Springtime in a Small Town 
 // Sprung 
 // Spun 
@@ -16563,37 +16512,34 @@ export const Pokemon = [
 // Spy Kids 2: The Island of Lost Dreams 
 // Spy Kids 3-D: Game Over 
 // Spy Kids: All the Time in the World 
-// Spy: South Korean, 2012 Russian & 2015)
+// Spy
 // Spymate 
 // Square Dance 
 // Squirm 
 // Squizzy Taylor 
 // Ssaki 
 // St. Elmo's Fire 
-// St. Ives  / St. Louis Blues:  1939 & 1958)
+// St. Ives  
+// St. Louis Blues
 // St. Trinian's 
 // Stacy: Attack of the Schoolgirl Zombies 
 // StagKnight 
 // Stage Beauty 
 // Stage Door 
-// Stage Fright:  1940, 1950, 1987, 1989, 1997 & 2014)
-// Stage Fright: & 2013)
-// Stagecoach:  1966 & 1986)
+// Stage Fright
+// Stagecoach
 // Stairway to Heaven 
 // Stake Land 
 // Stakeout 
-// Stalag 17 
 // Stalingrad 
-// Stalker:  2010, 2012 & 2016)
+// Stalker
 // Stan Helsing 
 // Stand Up Guys 
-// Stand Up and Cheer! 
 // Stand and Deliver 
 // Stand by Me 
 // Stander 
 // Standing in the Shadows of Motown 
 // Stanley & Iris 
-// Star 80 
 // Star Theatre 
 // Star Trek 
 // Star Trek Beyond 
@@ -16604,7 +16550,6 @@ export const Pokemon = [
 // Star Trek Into Darkness 
 // Star Trek V: The Final Frontier 
 // Star Trek VI: The Undiscovered Country 
-// Star Trek: Chains of Betrayal  fan fiction film
 // Star Trek: First Contact 
 // Star Trek: Insurrection 
 // Star Trek: Nemesis 
@@ -16623,15 +16568,15 @@ export const Pokemon = [
 // Star Wars: The Last Jedi 
 // Star Wars: The Rise of Skywalker 
 // Star Wreck: In the Pirkinning 
-// Star! 
-// Star: & 2001)
+// Star
 // Starchaser: The Legend of Orin 
 // Starcrash 
 // Stardom 
 // Stardust Memories 
-// Stardust: & 2007)
+// Stardust
 // Stargate 
-// Stargirl // Starkweather 
+// Stargirl 
+// Starkweather 
 // Starman 
 // Starship Troopers 
 // Starship Troopers 2: Hero of the Federation 
@@ -16641,12 +16586,11 @@ export const Pokemon = [
 // Starship: Apocalypse 
 // Starship: Rising 
 // Starsky & Hutch 
-// Starstruck:  1998 & 2010 TV)
+// Starstruck
 // Start the Revolution Without Me 
-// Starter for 10 
-// Starting Over: & 2007)
+// Starting Over
 // Startup.com 
-// State Fair:  1945 & 1962)
+// State Fair
 // State Property 
 // State and Main 
 // State of Grace 
@@ -16657,15 +16601,14 @@ export const Pokemon = [
 // Stay Away, Joe 
 // Stay Hungry 
 // Stay Tuned 
-// Stay the Night  / Stay: & 2013)
-// Staya Erusa 2007) seies of Dutch documentary films
-// Staying Alive: & 2012)
-// Steal This Movie! 
+// Stay the Night  
+// Stay
+// Staya Erusa
+// Staying Alive
 // Stealing Beauty 
 // Stealing Harvard 
 // Stealing Home 
 // Stealth 
-// Steamboat Bill, Jr. 
 // Steamboat Willie 
 // Steamboy 
 // Steel 
@@ -16681,7 +16624,8 @@ export const Pokemon = [
 // Step Up Revolution 
 // Stephanie Daley 
 // Stepmom 
-// Stepsister from Planet Weird  / Stereo 
+// Stepsister from Planet Weird  
+// Stereo 
 // Stevie 
 // Stewardess School 
 // Stewie Griffin: The Untold Story 
@@ -16689,7 +16633,7 @@ export const Pokemon = [
 // Stigmata 
 // Still Breathing 
 // Still Crazy 
-// Still Life: & 2006)
+// Still Life
 // Still Smokin 
 // Still Walking 
 // Stingray Sam 
@@ -16701,11 +16645,11 @@ export const Pokemon = [
 // Stolen Kisses 
 // Stolen Moments 
 // Stolen Summer 
-// Stolen: documentary, 2009 drama & 2012)
+// Stolen
 // Stomp the Yard 
 // Stone 
 // Stonewall Uprising 
-// Stonewall: & 2015)
+// Stonewall
 // Stop Making Sense 
 // Stop! Or My Mom Will Shoot 
 // Stop-Loss 
@@ -16714,7 +16658,8 @@ export const Pokemon = [
 // Storm Boy 
 // Storm Rider 
 // Storm Warning 
-// Storm of the Century  / Stormbreaker 
+// Storm of the Century  
+// Stormbreaker 
 // Stormy Monday 
 // Stormy Weather 
 // Story of O 
@@ -16743,17 +16688,17 @@ export const Pokemon = [
 // Stranger on the Third Floor 
 // Strangers on a Train 
 // Strangers with Candy 
-// Strangers: & 2007)
+// Strangers
 // Strangers: The Story of a Mother and Daughter 
 // Strategic Air Command 
 // Stratosphere Girl 
-// Straw Dogs: & 2011)
+// Straw Dogs
 // Strawberry Fields 
 // Strawberry Shortcake: The Sweet Dreams Movie 
 // Stray Dog 
 // StrayDog: Kerberos Panzer Cops 
 // Streamers 
-// Street Angel: & 1937)
+// Street Angel
 // Street Fighter 
 // Street Fighter II: The Animated Movie 
 // Street Fighter: The Legend of Chun-Li 
@@ -16763,13 +16708,13 @@ export const Pokemon = [
 // Street of Chance 
 // Street of Shame 
 // Streets of Fire 
-// Stricken: & 2010)
+// Stricken
 // Strictly Ballroom 
 // Strictly Business 
 // Strike It Rich 
-// Strike! 
 // Striking Distance 
-// Strip Search  / Stripes 
+// Strip Search  
+// Stripes 
 // Striptease 
 // Stroker Ace 
 // Stromboli 
@@ -16777,19 +16722,19 @@ export const Pokemon = [
 // Struck by Lightning 
 // Struggle 
 // Stuart Little 
-// Stuart Little 2 
 // Stuart Little 3: Call of the Wild 
 // Stuart Saves His Family 
 // Stubble Trouble 
 // Stuck in Love 
-// Stuck in the Suburbs  / Stuck on You 
-// Stuck: & 2007)
+// Stuck in the Suburbs  
+// Stuck on You 
+// Stuck
 // Student Bodies 
 // SubUrbia 
 // Subconscious Cruelty 
 // Sublime 
 // Submarine 
-// Submerged: & 2005)
+// Submerged
 // Subspecies 
 // Subspecies 4: Bloodstorm 
 // Substitute 
@@ -16800,7 +16745,7 @@ export const Pokemon = [
 // Suburbicon 
 // Subway 
 // Such a Long Journey 
-// Sucker Punch: & 2011)
+// Sucker Punch
 // Sudden Death 
 // Sudden Fear 
 // Sudden Impact 
@@ -16812,9 +16757,9 @@ export const Pokemon = [
 // Suffering Man's Charity 
 // Sugar & Spice 
 // Sugar Daddies 
-// Sugar Hill: & 1994)
+// Sugar Hill
 // Sugar Town 
-// Sugar: & 2008)
+// Sugar
 // Sugata Sanshirō 
 // Suhruthu 
 // Suicide Club 
@@ -16840,25 +16785,24 @@ export const Pokemon = [
 // Summer School 
 // Summer Snow 
 // Summer Stock 
-// Summer Storm: & 2004)
-// Summer of '42 
+// Summer Storm
 // Summer of Sam 
 // Summer with Monika 
 // Summer's Desire 
-// Summertime: & 2001)
+// Summertime
 // Sumo Do, Sumo Don't 
 // Sun Valley 
 // Sun Valley Serenade 
 // Sunday Bloody Sunday 
 // Sunday Too Far Away 
 // Sunday in New York 
-// Sunday: & 2008)
-// Sundown: & 1941)
+// Sunday
+// Sundown
 // Sundown: The Vampire in Retreat 
-// Sunflower: & 2006)
+// Sunflower
 // Sung horn 
 // Sunless 
-// Sunny:  1941 & 2008)
+// Sunny
 // Sunnyside 
 // Sunrise at Campobello 
 // Sunrise: A Song of Two Humans 
@@ -16866,31 +16810,24 @@ export const Pokemon = [
 // Sunset Boulevard 
 // Sunshine Cleaning 
 // Sunshine State 
-// Sunshine: & 2007)
+// Sunshine
 // Super 
-// Super 8 
 // Super Bodyguard 
 // Super Express 
 // Super Fly 
-// Super Hero Central 
-// Super Hero Taisen GP: Kamen Rider 3 
-// Super Mario Bros. 
+// Super Hero Central  
 // Super Size Me 
 // Super Speedway 
 // Super Troopers 
 // Super-Rabbit 
-// Superbabies: Baby Geniuses 2 
 // Superbad 
 // Supercop 
 // Supercross 
 // Supergirl 
 // Superhero Movie 
-// Superjews 
+// Superjews  
 // Superman 
-// Superman 
-// Superman II 
 // Superman II: The Richard Donner Cut 
-// Superman III 
 // Superman IV: The Quest for Peace 
 // Superman Returns 
 // Superman Unbound 
@@ -16906,7 +16843,6 @@ export const Pokemon = [
 // Superstar in a Housedress 
 // Supervixens 
 // Support Your Local Gunfighter 
-// Support Your Local Sheriff! 
 // Sur mes lèvres 
 // Surf Nazis Must Die 
 // Surf Ninjas 
@@ -16921,7 +16857,8 @@ export const Pokemon = [
 // Surviving Christmas 
 // Surviving the Game 
 // Susannah of the Mounties 
-// Susie Q  / Suspect Zero 
+// Susie Q  
+// Suspect Zero 
 // Suspense 
 // Suspicion 
 // Suspiria 
@@ -16939,19 +16876,18 @@ export const Pokemon = [
 // Swamp Women 
 // Swan Lake 
 // Swashbuckler 
-// Sweeney Todd: The Demon Barber of Fleet Street: & 2007)
-// Sweet 20 
+// Sweeney Todd: The Demon Barber of Fleet Street
 // Sweet Angel 
 // Sweet Bird of Youth 
 // Sweet Bunch 
 // Sweet Charity 
-// Sweet Dreams: & 1996)
+// Sweet Dreams
 // Sweet Home Alabama 
 // Sweet Jam 
 // Sweet Land 
 // Sweet Movie 
-// Sweet November: & 2001)
-// Sweet Sixteen:  2002 & 2016)
+// Sweet November
+// Sweet Sixteen
 // Sweet Smell of Success 
 // Sweet Sweetback's Baadasssss Song 
 // Sweet Toronto 
@@ -16971,10 +16907,10 @@ export const Pokemon = [
 // Swing Parade of 1946 
 // Swing Shift 
 // Swing Time 
-// Swing Vote: & 2008)
-// Swingers: & 2002)
+// Swing Vote
+// Swingers
 // Swiss Army Man 
-// Swiss Family Robinson: & 1960)
+// Swiss Family Robinson
 // Switch 
 // Switchback 
 // Switching Channels 
@@ -16995,18 +16931,14 @@ export const Pokemon = [
 // Synecdoche, New York 
 // Syngenor 
 // Syriana 
-// Sátántangó 
 // Séance on a Wet Afternoon 
 // Sólo Con Tu Pareja 
 // Sügisball 
 // T-Men 
 // T2 Trainspotting 
-// THX 1138 
 // TMNT 
 // TT3D: Closer to the Edge 
 // Tabi no omosa 
-// Table 19 
-// Table No. 21 
 // Tabu 
 // Tabu, a Story of the South Seas 
 // Tackle Happy 
@@ -17021,7 +16953,7 @@ export const Pokemon = [
 // Tail Lights Fade 
 // Tail Sting 
 // Take Me Home Tonight 
-// Take Me Home: & 2011)
+// Take Me Home
 // Take Me Out to the Ball Game 
 // Take Shelter 
 // Take This Job and Shove It 
@@ -17029,8 +16961,6 @@ export const Pokemon = [
 // Take the Lead 
 // Take the Money and Run 
 // Taken 
-// Taken 2 
-// Taken 3 
 // Takers 
 // Taking Care of Business 
 // Taking Chances 
@@ -17048,8 +16978,6 @@ export const Pokemon = [
 // Tales From the Crypt 
 // Tales From the Darkside: The Movie 
 // Tales From the Hood 
-// Tales from the Dark 1 
-// Tales from the Dark 2 
 // Tales from the Gimli Hospital 
 // Tales of Cube World 
 // Tales of Manhattan 
@@ -17070,8 +16998,7 @@ export const Pokemon = [
 // Tammy 
 // Tammy and the Bachelor 
 // Tampopo 
-// Tanga - Deu no New York Times? 
-// Tangled: & 2010)
+// Tangled
 // Tango & Cash 
 // Tango, no me dejes nunca 
 // Tanguy 
@@ -17099,15 +17026,12 @@ export const Pokemon = [
 // Taste the Blood of Dracula 
 // Tatie Danielle 
 // Taxi 
-// Taxi 
-// Taxi 2 
-// Taxi 3 
 // Taxi Driver 
 // Taylor's Wall 
 // Te doy mis ojos 
 // Tea and Sympathy 
 // Tea with Mussolini 
-// Teacher's Pet:  1958 & 2004)
+// Teacher's Pet
 // Teachers 
 // Teaching Mrs. Tingle 
 // Team America: World Police 
@@ -17119,23 +17043,21 @@ export const Pokemon = [
 // Teen Kanya 
 // Teen Titans Go! to the Movies 
 // Teen Titans: The Judas Contract 
-// Teen Titans: Trouble in Tokyo TV)
+// Teen Titans: Trouble in Tokyo
 // Teen Witch 
 // Teen Wolf 
 // Teen Wolf Too 
 // Teenage Cave Man 
 // Teenage Caveman 
 // Teenage Mutant Ninja Turtles II: The Secret of the Ooze 
-// Teenage Mutant Ninja Turtles III 
-// Teenage Mutant Ninja Turtles: & 2014)
+// Teenage Mutant Ninja Turtles
 // Teenage Mutant Ninja Turtles: Out of the Shadows 
 // Teenage Zombies 
 // Teenagers from Outer Space 
 // Tees Maar Khan 
 // Teeth 
-// Teheran 43 
 // Tekken 2: Kazuya's Revenge 
-// Tekken: & 2009)
+// Tekken
 // Tekken: Blood Vengeance 
 // Telefon 
 // Tell Me Something 
@@ -17143,7 +17065,7 @@ export const Pokemon = [
 // Tell Them Willie Boy Is Here 
 // Telokhranitel 
 // Temmink: The Ultimate Fight 
-// Tempest:  1958, 1982 & 2015)
+// Tempest
 // Temporada de patos 
 // Temporary Family 
 // Temptation: Confessions of a Marriage Counselor 
@@ -17160,7 +17082,7 @@ export const Pokemon = [
 // Tender Fictions 
 // Tender Is the Night 
 // Tender Mercies 
-// Tenderness:  2016 & 2017)
+// Tenderness
 // Tenebrae 
 // Tengoku no honya 
 // Tennessee's Partner 
@@ -17185,7 +17107,6 @@ export const Pokemon = [
 // Terror by Night 
 // Terror of Mechagodzilla 
 // TerrorVision 
-// Terrorama! 
 // Terrorists, Killers and Middle-East Wackos 
 // Tesis 
 // Tess 
@@ -17207,31 +17128,27 @@ export const Pokemon = [
 // Thank God It's Friday 
 // Thank You for Smoking 
 // Thanks for Sharing 
-// That Darn Cat: & 1997)
+// That Darn Cat
 // That Hamilton Woman 
 // That Man from Rio 
 // That Night in Varennes 
 // That Obscure Object of Desire 
 // That Old Feeling 
-// That Thing You Do! 
 // That Touch of Mink 
 // That Uncertain Feeling 
-// That's Dancing! 
-// That's Entertainment! 
-// That's Entertainment! III 
-// That's Entertainment, Part II 
-// That's My Boy:  1951 & 2012)
-// That's My Wife: & 1933)
+// That's My Boy
+// That's My Wife
 // The $1,000,000 Reward 
 // The 'Burbs 
 // The 1 Second Film 
-// The 10th Kingdom  / The 10th Victim 
+// The 10th Kingdom  
+// The 10th Victim 
 // The 13th Warrior 
 // The 300 Spartans 
-// The 39 Steps:  1959 & 1978)
+// The 39 Steps
 // The 40-Year-Old Virgin 
 // The 400 Blows 
-// The 47 ronin:  1994)
+// The 47 ronin
 // The 5,000 Fingers of Dr. T 
 // The 51st State 
 // The 601st Phone Call 
@@ -17241,7 +17158,7 @@ export const Pokemon = [
 // The 9th Life of Louis Drax 
 // The A-Team 
 // The A.R.K. Report 
-// The Abandoned: & 2006)
+// The Abandoned
 // The Abandonment 
 // The Abdication 
 // The Abominable Dr. Phibes 
@@ -17252,9 +17169,9 @@ export const Pokemon = [
 // The Accidental Spy 
 // The Accidental Tourist 
 // The Accompanist 
-// The Accountant: & 2016)
+// The Accountant
 // The Accused Uncle Shangang 
-// The Accused:  1960 & 1988)
+// The Accused
 // The Acid House 
 // The Act in Question 
 // The Addiction 
@@ -17264,9 +17181,9 @@ export const Pokemon = [
 // The Adventure of Iron Pussy 
 // The Adventure of Sherlock Holmes' Smarter Brother 
 // The Adventure of Sudsakorn 
-// The Adventurer: & 1928)
+// The Adventurer
 // The Adventurer: The Curse of the Midas Box 
-// The Adventurers: & 1970)
+// The Adventurers
 // The Adventures of Baron Munchausen 
 // The Adventures of Barry McKenzie 
 // The Adventures of Brer Rabbit 
@@ -17298,7 +17215,6 @@ export const Pokemon = [
 // The Adventures of Rocky and Bullwinkle 
 // The Adventures of Sharkboy and Lavagirl in 3-D 
 // The Adventures of Sherlock Holmes 
-// The Adventures of Sinbad 2 
 // The Adventures of Tintin: The Secret of the Unicorn 
 // The Adventures of a Two-Minute Werewolf 
 // The Aeronauts 
@@ -17306,9 +17222,9 @@ export const Pokemon = [
 // The Affairs of Cellini 
 // The Afflicted 
 // The African Queen 
-// The Aftermath: & 2019)
+// The Aftermath
 // The Age of Consent 
-// The Age of Innocence:  1934 & 1993)
+// The Age of Innocence
 // The Age of Insects 
 // The Ages of Lulu 
 // The Aggressives 
@@ -17316,7 +17232,7 @@ export const Pokemon = [
 // The Air I Breathe 
 // The Air Up There 
 // The Airzone Solution 
-// The Alamo:  1960 & 2004)
+// The Alamo
 // The Alamo: Thirteen Days to Glory 
 // The Alibi 
 // The Alien Encounters 
@@ -17328,7 +17244,6 @@ export const Pokemon = [
 // The Amazing Grace 
 // The Amazing Panda Adventure 
 // The Amazing Spider-Man 
-// The Amazing Spider-Man 2 
 // The Amazing Transparent Man 
 // The Amazing Truth About Queen Raquela 
 // The Ambulance 
@@ -17338,10 +17253,10 @@ export const Pokemon = [
 // The American Friend 
 // The American Gangster 
 // The American President 
-// The American: & 2010)
+// The American
 // The Americanization of Emily 
 // The Amityville Curse 
-// The Amityville Horror: & 2005)
+// The Amityville Horror
 // The Amphibian Man 
 // The Amy Fisher Story 
 // The Anarchist Cookbook 
@@ -17349,13 +17264,13 @@ export const Pokemon = [
 // The Andromeda Nebula 
 // The Andromeda Strain 
 // The Angel's Egg 
-// The Angel: & 2007 short)
+// The Angel
 // The Angels Wash Their Faces 
 // The Angry Birds Movie 
 // The Angry Red Planet 
 // The Animal 
 // The Anniversary Party 
-// The Anniversary:  2004 short & 2009)
+// The Anniversary
 // The Answer Man 
 // The Ant Bully 
 // The Antichrist 
@@ -17367,12 +17282,12 @@ export const Pokemon = [
 // The Apparition 
 // The Apple Dumpling Gang 
 // The Apple Dumpling Gang Rides Again 
-// The Apple: & 1998)
+// The Apple
 // The Apprenticeship of Duddy Kravitz 
 // The Aqua Teen Hunger Force Colon Movie Film for Theaters 
 // The Archangel 
-// The Archies in Jugman TV)
-// The Arena: & 2001 TV)
+// The Archies in Jugman
+// The Arena
 // The Aristocats 
 // The Aristocrats 
 // The Arrangement 
@@ -17402,28 +17317,28 @@ export const Pokemon = [
 // The Atomic Cafe 
 // The Atomic Kid 
 // The Atomic Submarine 
-// The Attacks of 26/11 
-// The Audition: short & 2015 short)
-// The Avengers: 
-// The Aviator:  1985 & 2004)
+// The Audition
+// The Avengers 
+// The Aviator
 // The Awakening 
 // The Awful Truth 
 // The Aztec Mummy Against the Humanoid Robot 
 // The Baader Meinhof Complex 
 // The Babe 
 // The Baby-Sitters Club 
-// The Babysitter:  1995 & 2017)
+// The Babysitter
 // The Bachelor and the Bobby-Soxer 
-// The Bachelor:  1990 & 1999)
+// The Bachelor
 // The Back-up Plan 
 // The Bad Lands 
 // The Bad News Bears Go to Japan 
-// The Bad Seed: & 1985)
+// The Bad News Bears
+// The Bad Seed
 // The Bad Sleep Well 
 // The Bad and the Beautiful 
 // The Badge 
 // The Badlanders 
-// The Bait: TV & 1995)
+// The Bait
 // The Baker's Wife 
 // The Bakery Girl of Monceau 
 // The Ball Game 
@@ -17436,17 +17351,16 @@ export const Pokemon = [
 // The Banger Sisters 
 // The Bank Dick 
 // The Bank Job 
-// The Banquet: & 2006)
+// The Banquet
 // The Barbarian Invasions 
-// The Barbaric Beast of Boggy Creek, Part II 
 // The Barbie Diaries 
 // The Barefoot Contessa 
 // The Barkleys of Broadway 
 // The Barnyard 
-// The Barretts of Wimpole Street: & 1957)
+// The Barretts of Wimpole Street
 // The Basketball Diaries 
 // The Bat Whispers 
-// The Bat: & 1959)
+// The Bat
 // The Batman vs. Dracula 
 // The Battle of Algiers 
 // The Battle of San Pietro 
@@ -17464,7 +17378,7 @@ export const Pokemon = [
 // The Beast from 20,000 Fathoms 
 // The Beast of Yucca Flats 
 // The Beast with Five Fingers 
-// The Beast:  1988 & 1996 TV)
+// The Beast
 // The Beastmaster 
 // The Beat That My Heart Skipped 
 // The Beautician and the Beast 
@@ -17473,7 +17387,7 @@ export const Pokemon = [
 // The Bedevilled 
 // The Bedford Incident 
 // The Bedroom Window 
-// The Beguiled: & 2017)
+// The Beguiled
 // The Believer 
 // The Believers 
 // The Belko Experiment 
@@ -17481,20 +17395,20 @@ export const Pokemon = [
 // The Bellboy and the Playgirls 
 // The Belles of St Trinian's 
 // The Bells of St. Mary's 
-// The Bells: & 1931)
+// The Bells
 // The Belly of an Architect 
-// The Beloved:  2011 & 2015)
+// The Beloved
 // The Benchwarmers 
 // The Best Exotic Marigold Hotel 
 // The Best Intentions 
 // The Best Little Whorehouse in Texas 
-// The Best Man: & 1999)
+// The Best Man
 // The Best Plan Is No Plan 
 // The Best Years of Our Lives 
 // The Best of Times 
 // The Best of Youth glio gioventù) 
-// The Bet: & 2006)
-// The Betrayed  * 
+// The Bet
+// The Betrayed 
 // The Betsy 
 // The Beverly Hillbillies 
 // The Beyond 
@@ -17510,7 +17424,7 @@ export const Pokemon = [
 // The Big Combo 
 // The Big Country 
 // The Big Easy 
-// The Big Empty: 2003 & 2005
+// The Big Empty
 // The Big Feast 
 // The Big Green 
 // The Big Gundown 
@@ -17543,15 +17457,15 @@ export const Pokemon = [
 // The Birdcage 
 // The Birds 
 // The Birth of a Nation 
-// The Biscuit Eater & 1972)
+// The Biscuit Eater
 // The Bishop's Wife 
 // The Bitter Tea of General Yen 
 // The Bitter Tears of Petra von Kant 
 // The Black Cannon Incident 
-// The Black Cat:  1941 & 1981)
+// The Black Cat
 // The Black Cauldron 
 // The Black Dahlia 
-// The Black Hole & 2006 TV)
+// The Black Hole
 // The Black Pirate 
 // The Black Scorpion 
 // The Black Stallion 
@@ -17564,72 +17478,71 @@ export const Pokemon = [
 // The Blank Generation 
 // The Blind Side 
 // The Bling Ring 
-// The Blob: & 1988)
+// The Blob
 // The Blood Stained Route Map 
 // The Blood of Jesus 
 // The Blood of a Poet 
 // The Blood on Satan's Claw 
-// The Blue Bird :  1940 & 1976)
+// The Blue Bird
 // The Blue Dahlia 
 // The Blue Eagle 
 // The Blue Gardenia 
 // The Blue Kite 
-// The Blue Lagoon:  1949 & 1980)
+// The Blue Lagoon
 // The Blue Lamp 
 // The Blue Light 
 // The Blue Max 
-// The Blue Veil: & 1951)
+// The Blue Veil
 // The Blues Brothers 
 // The Boat 
 // The Boatniks 
 // The Body Snatcher 
-// The Body:  1974, 2001, 2012 & 2018)
-// The Bodyguard 2 
-// The Bodyguard: & 2004)
-// The Bogie Man TV)
-// The Bohemian Girl: & 1936)
+// The Body
+// The Bodyguard
+// The Bogie Man
+// The Bohemian Girl
 // The Bone Collector 
 // The Bonfire of the Vanities 
 // The Boogens 
 // The Boogie Man Will Get You 
 // The Book Thief 
 // The Book of Eli 
-// The Book of Life:  2014 & 2017)
+// The Book of Life
 // The Boondock Saints 
 // The Boondock Saints II: All Saints Day 
-// The Border:  1996, 2007 & 2009)
+// The Border
 // The Born Losers 
 // The Borrower 
-// The Borrowers:  1997 & 2011)
+// The Borrowers
 // The Boston Strangler 
 // The Bostonians 
 // The Bothersome Man 
 // The Boundary 
-// The Bounty Hunter: & 2010)
-// The Bounty: & 2012)
-// The Bourne Identity TV)
+// The Bounty Hunter
+// The Bounty
+// The Bourne Identity
 // The Bourne Identity 
 // The Bourne Legacy 
 // The Bourne Supremacy 
 // The Bourne Ultimatum 
 // The Bow 
 // The Bowery 
-// The Box:  2007 & 2009)
-// The Boxer:  1997 & 2012)
+// The Box
+// The Boxer
 // The Boxing Kangaroo 
 // The Boxtrolls 
-// The Boy Friend: & 1971)
+// The Boy Friend
 // The Boy Turns Man 
 // The Boy Who Could Fly 
 // The Boy Who Cried Werewolf 
 // The Boy and the Beast 
 // The Boy in the Plastic Bubble 
 // The Boy in the Striped Pajamas 
-// The Boy: & 2016)
+// The Boy
 // The Boys from Brazil 
 // The Boys in Company C 
 // The Boys in the Band 
-// The Boys: British, 1962 Finnish film), 1991 & 1998)
+// The Boys
 // The Boys: The Sherman Brothers' Story 
 // The Brady Bunch Movie 
 // The Brain That Wouldn't Die 
@@ -17639,20 +17552,19 @@ export const Pokemon = [
 // The Brave Little Toaster 
 // The Brave Little Toaster Goes to Mars 
 // The Brave Little Toaster to the Rescue 
-// The Brave One: & 2007)
+// The Brave One
 // The Break-Up 
 // The Break-up Season 
 // The Breakfast Club 
-// The Breed: & 2006)
-// The Bride Came C.O.D. 
+// The Breed
 // The Bride Wore Black 
 // The Bride with White Hair 
-// The Bride:  1985, 2015 & 2017)
+// The Bride
 // The Brides of Dracula 
 // The Bridge at Remagen 
-// The Bridge of San Luis Rey]]:  1944 & 2004)
+// The Bridge of San Luis Rey
 // The Bridge on the River Kwai 
-// The Bridge: & 2006)
+// The Bridge
 // The Bridges at Toko-Ri 
 // The Bridges of Madison County 
 // The Broadway Melody 
@@ -17665,45 +17577,44 @@ export const Pokemon = [
 // The Brothers Lionheart 
 // The Brothers McMullen 
 // The Brothers Solomon 
-// The Brothers:  1973, 1979 & 2001)
+// The Brothers
 // The Brown Bunny 
 // The Brown Wallet 
-// The Browning Version: & 1994)
-// The Buccaneer: & 1958)
+// The Browning Version
+// The Buccaneer
 // The Buccaneers 
 // The Bucket List 
 // The Buddy Holly Story 
 // The Buffalo Boy 
 // The Bullfighters 
-// The Bunker: TV & 2001)
+// The Bunker
 // The Bunny Game 
-// The Burmese Harp: & 1985)
+// The Burmese Harp
 // The Burning 
 // The Burning Bed 
 // The Burning Plain 
 // The Bus Uncle 
 // The Business 
 // The Business of Strangers 
-// The Butcher Boy: & 1997)
+// The Butcher Boy
 // The Butcher's Wife 
-// The Butcher: & 2009)
+// The Butcher
 // The Butler 
 // The Butterfly Effect 
-// The Butterfly Effect 2 
 // The Butterfly Effect 3: Revelations 
 // The Bye Bye Man 
 // The Cabin Crew 
 // The Cabin in the Cotton 
 // The Cabin in the Woods 
 // The Cabinet of Caligari 
-// The Cabinet of Dr. Caligari: & 2005)
+// The Cabinet of Dr. Caligari
 // The Cable Guy 
 // The Caddy 
 // The Caine Mutiny 
 // The Cake Eaters 
 // The Calcium Kid 
 // The Call 
-// The Call of the Wild:  1935, 1972 & 1976)
+// The Call of the Wild
 // The Cameraman 
 // The Campaign 
 // The Candidate 
@@ -17713,7 +17624,7 @@ export const Pokemon = [
 // The Canterville Ghost 
 // The Canyons 
 // The Captive Heart 
-// The Car: & 1997)
+// The Car
 // The Card Player 
 // The Cardinal 
 // The Care Bears Adventure in Wonderland 
@@ -17727,7 +17638,7 @@ export const Pokemon = [
 // The Case of the Scorpion's Tail 
 // The Cassandra Crossing 
 // The Castle 
-// The Castle of the Monsters & 1964)
+// The Castle of the Monsters
 // The Cat Returns 
 // The Cat and the Canary 
 // The Cat from Outer Space 
@@ -17738,18 +17649,17 @@ export const Pokemon = [
 // The Cave 
 // The Caveman's Valentine 
 // The Cell 
-// The Cell 2 
 // The Center of the World 
 // The Challenge... A Tribute to Modern Art 
-// The Challenge:  1948, 1958, 1960, 1970, 1982, 2003 & 2011)
+// The Challenge
 // The Chamber 
-// The Champ: & 1979)
+// The Champ
 // The Chancellor Manuscript 
 // The Change-Up 
 // The Changeling 
 // The Chaplin Revue 
-// The Charge of the Light Brigade: & 1968)
-// The Chase: & 1994)
+// The Charge of the Light Brigade
+// The Chase
 // The Chaser 
 // The Cheat 
 // The Chess Players 
@@ -17769,26 +17679,26 @@ export const Pokemon = [
 // The Church 
 // The Cider House Rules 
 // The Cincinnati Kid 
-// The Circle:  2000, 2014, 2015 & 2017)
+// The Circle
 // The Circus 
 // The Citadel 
 // The City of Lost Children 
 // The City of the Dead 
-// The City:  1926, 1939, 1977, 1994 & 1998)
+// The City
 // The Claim 
 // The Clairvoyant 
 // The Clan of the Cave Bear 
 // The Clash of the Wolves 
-// The Class & 2008)
+// The Class
 // The Class of Nuke 'Em High 
 // The Cleaner 
 // The Clearing 
-// The Client: & 2011)
+// The Client
 // The Clique 
-// The Clock: & 2010)
+// The Clock
 // The Clockmaker 
 // The Clockwork Girl 
-// The Closet: & 2007)
+// The Closet
 // The Clown Barber 
 // The Clowns 
 // The Coast Guard 
@@ -17796,8 +17706,8 @@ export const Pokemon = [
 // The Cold Light of Day 
 // The Colditz Story 
 // The Collection 
-// The Collector: & 2009)
-// The Colonel: & 1974)
+// The Collector
+// The Colonel
 // The Color Purple 
 // The Color of Money 
 // The Color of Paradise 
@@ -17816,16 +17726,13 @@ export const Pokemon = [
 // The Competition 
 // The Computer Wore Tennis Shoes 
 // The Concert 
-// The Concorde ... Airport '79 
-// The Condemned 2 
-// The Condemned: & 2007)
+// The Condemned
 // The Conformist 
 // The Conjuring 
-// The Conjuring 2 
 // The Conqueror 
 // The Conquest of Everest 
 // The Conspirator 
-// The Conspirators:   & 1969)
+// The Conspirators
 // The Constant Gardener 
 // The Contender 
 // The Contract 
@@ -17846,7 +17753,7 @@ export const Pokemon = [
 // The Cotton Club 
 // The Couch Trip 
 // The Counselor 
-// The Count of Monte Cristo: & 2002)
+// The Count of Monte Cristo
 // The Counterfeiters 
 // The Country Bears 
 // The Country Girl 
@@ -17861,7 +17768,7 @@ export const Pokemon = [
 // The Craft 
 // The Cranes Are Flying 
 // The Crawling Eye 
-// The Crazies: & 2010)
+// The Crazies
 // The Crazy Stranger 
 // The Creature Walks Among Us 
 // The Creeping Flesh 
@@ -17891,7 +17798,7 @@ export const Pokemon = [
 // The Crying Game 
 // The Cuckoo 
 // The Cup 
-// The Cure:  1995, & 2014)
+// The Cure
 // The Curiosity of Chance 
 // The Curious Case of Benjamin Button 
 // The Curse of Frankenstein 
@@ -17918,10 +17825,10 @@ export const Pokemon = [
 // The Dark Knight 
 // The Dark Knight Rises 
 // The Dark Mirror 
-// The Dark Tower: & 2017)
+// The Dark Tower
 // The Darkest Hour 
 // The Darwin Awards 
-// The Dawn Patrol and 1938)
+// The Dawn Patrol 
 // The Day After Tomorrow 
 // The Day I Became a Woman 
 // The Day of the Beast 
@@ -17931,12 +17838,11 @@ export const Pokemon = [
 // The Day of the Triffids 
 // The Day the Earth Caught Fire 
 // The Day the Earth Froze 
-// The Day the Earth Stood Still and 2008)
+// The Day the Earth Stood Still 
 // The Days 
 // The Daytrippers 
 // The Dead 
 // The Dead Girl 
-// The Dead Hate the Living! 
 // The Dead One  
 // The Dead Pool 
 // The Dead Zone 
@@ -17949,41 +17855,40 @@ export const Pokemon = [
 // The Death of Mr. Lăzărescu 
 // The Deathday Party 
 // The Deaths of Ian Stone 
-// The Debt and 2011)
+// The Debt 
 // The Decameron 
 // The Deceivers 
 // The Decline of the American Empire 
 // The Deep 
-// The Deep Blue Sea & 2011)
+// The Deep Blue Sea 
 // The Deep End 
 // The Deep End of the Ocean 
 // The Deer Hunter 
 // The Defiant Ones 
 // The Delicate Delinquent 
 // The Delicious Little Devil 
-// The Delinquents:  1960 & 1989)
+// The Delinquents
 // The Delta Force 
 // The Deluge 
 // The Demi-Paradise 
-// The Demon: & 1981)
+// The Demon
 // The Dentist 
 // The Dentist 2: Brace Yourself 
 // The Departed 
-// The Departure: & 2017)
+// The Departure
 // The Derby 
 // The Descendants 
-// The Descent 
-// The Descent: Part 2 
+// The Descent
 // The Desert Fox: The Story of Rommel 
 // The Desert Island 
 // The Desert Rats 
 // The Desperate Hours 
 // The Desperate Mission 
-// The Desperate Trail TV)
+// The Desperate Trail 
 // The Detective 
 // The Devil Bat 
 // The Devil Inside 
-// The Devil Is a Woman:  1950 & 1974)
+// The Devil Is a Woman
 // The Devil Rides Out 
 // The Devil Wears Prada 
 // The Devil and Daniel Johnston 
@@ -17995,22 +17900,22 @@ export const Pokemon = [
 // The Devil's Double 
 // The Devil's Game 
 // The Devil's Own 
-// The Devil's Playground:  1937, 1946, 1976, 2002 & 2010)
+// The Devil's Playground
 // The Devil's Rain 
 // The Devil's Rejects 
 // The Devil's Tomb 
 // The Devil-Doll 
-// The Devil:  1915, 1918 & 1972)
+// The Devil
 // The Devils 
 // The Diary of Anne Frank 
 // The Diary of a Teenage Girl 
 // The Dickson Experimental Sound Film 
-// The Dictator & 2012)
+// The Dictator 
 // The Dinner Game 
 // The Dirty Dozen 
 // The Dirty Picture 
 // The Disappearance of Alice Creed 
-// The Disappeared & 2012)
+// The Disappeared
 // The Disappointments Room 
 // The Disaster Artist 
 // The Discreet Charm of the Bourgeoisie 
@@ -18025,13 +17930,13 @@ export const Pokemon = [
 // The Divorcee 
 // The Docks of New York 
 // The Dogs of War 
-// The Doll:  1968, 2008 & 2015)
+// The Doll
 // The Doom Generation 
 // The Door in the Floor 
 // The Doors 
 // The Double 0 Kid 
 // The Double Life of Véronique 
-// The Double:  2011 & 2013)
+// The Double
 // The Downfall 
 // The Downhill 
 // The Drag Net 
@@ -18039,32 +17944,31 @@ export const Pokemon = [
 // The Draughtsman's Contract 
 // The Dream Team 
 // The Dream of Garuda 
-// The Dream:  1966, 1985, 1987, 1989)
+// The Dream
 // The Dreamers 
 // The Dreamlife of Angels 
-// The Dresser: & 2015)
+// The Dresser
 // The Driller Killer 
 // The Driver 
 // The Drop 
 // The Drowning Pool 
-// The Drunkard:  1937, 1950 & 1953)
+// The Drunkard
 // The Duchess 
 // The Duellists 
-// The Duke: and 1999)
+// The Duke
 // The Dukes 
 // The Dukes of Hazzard 
 // The Dukes of Hazzard: Hazzard in Hollywood 
-// The Dukes of Hazzard: Reunion! 
 // The Dukes of Hazzard: The Beginning 
 // The Dunwich Horror 
 // The Eagle Has Landed 
 // The Eagle of the Sea 
 // The Eagle's Talons 
-// The Eagle: & 2011)
-// The Earrings of Madame de... 
+// The Eagle
 // The East 
 // The East is Red 
-// The Echo of Thunder  / The Eclipse 
+// The Echo of Thunder  
+// The Eclipse 
 // The Eddy Duchin Story 
 // The Edge 
 // The Edge of Heaven 
@@ -18084,7 +17988,7 @@ export const Pokemon = [
 // The Emerald Forest 
 // The Emigrants 
 // The Emoji Movie 
-// The Emperor Jones: & 1955)
+// The Emperor Jones
 // The Emperor Waltz 
 // The Emperor and the Assassin 
 // The Emperor's Club 
@@ -18097,10 +18001,10 @@ export const Pokemon = [
 // The End of Violence 
 // The End of the Affair 
 // The End of the World and the Cat's Disappearance 
-// The End:  1998 & 2012)
+// The End
 // The Endless Summer 
 // The Enemy Below 
-// The Enforcer: & 1976)
+// The Enforcer
 // The English Patient 
 // The English Teacher 
 // The Englishman Who Went Up a Hill But Came Down a Mountain 
@@ -18115,16 +18019,13 @@ export const Pokemon = [
 // The Evening Star 
 // The Evil Cult 
 // The Evil Dead 
-// The Evil Eye: & 1920)
+// The Evil Eye
 // The Evil That Men Do 
 // The Evil of Frankenstein 
-// The Ex: & 2007)
+// The Ex
 // The Exorcism of Emily Rose 
 // The Exorcist 
-// The Exorcist III 
-// The Expendables 2 
-// The Expendables 3 
-// The Expendables:  2000 & 2010)
+// The Expendables
 // The Experiment 
 // The Exploits of Elaine 
 // The Express 
@@ -18133,9 +18034,6 @@ export const Pokemon = [
 // The Exterminator 
 // The Extra 
 // The Eye 
-// The Eye 
-// The Eye 10 
-// The Eye 2 
 // The FBI Story 
 // The Fabulous Baker Boys 
 // The Face 
@@ -18145,7 +18043,7 @@ export const Pokemon = [
 // The Falcon and the Snowman 
 // The Fall of the House of Usher 
 // The Fall of the Roman Empire 
-// The Fall: & 2008)
+// The Fall
 // The Fallen Idol 
 // The Family Jewels 
 // The Family Man 
@@ -18153,7 +18051,7 @@ export const Pokemon = [
 // The Family That Preys 
 // The Family Way 
 // The Fan 
-// The Farmer Takes a Wife: & 1953)
+// The Farmer Takes a Wife
 // The Farmer's Daughter 
 // The Farmer's Wife 
 // The Fast and the Furious 
@@ -18161,15 +18059,15 @@ export const Pokemon = [
 // The Fast and the Furious: Tokyo Drift 
 // The Fastest Guitar Alive 
 // The Fate of the Furious 
-// The Favor: & 2006)
+// The Favor
 // The Fearless Hyena 
 // The Fearless Vampire Killers 
 // The Fencer 
 // The Fifth Element 
 // The Fifth Estate 
-// The Fifth Missile TV)
+// The Fifth Missile
 // The Fifth Wave 
-// The Fighter: & 2010)
+// The Fighter
 // The Fighters 
 // The Fighting 69th 
 // The Fighting Kentuckian 
@@ -18182,14 +18080,14 @@ export const Pokemon = [
 // The Fine Art of Love: Mine Ha-Ha 
 // The Finishing Touch 
 // The Fire Within 
-// The Fire:  2003 & 2015)
-// The Fireman: & 1931)
+// The Fire
+// The Fireman
 // The Firemen's Ball 
-// The Firm: TV, 1993 & 2009)
+// The Firm
 // The First $20 Million Is Always the Hardest 
-// The First Born: & 1928)
-// The First Men in the Moon: & 1964)
-// The First Time:  1969, 2009 & 2012)
+// The First Born
+// The First Men in the Moon
+// The First Time
 // The First Wives Club 
 // The First of May 
 // The Fisher King 
@@ -18201,9 +18099,8 @@ export const Pokemon = [
 // The Flag: A Story Inspired by the Tradition of Betsy Ross 
 // The Flame and the Arrow 
 // The Flesh 
-// The Flight of the Phoenix: & 2004)
+// The Flight of the Phoenix
 // The Flim-Flam Man 
-// The Flintstones & WWE: Stone Age SmackDown! 
 // The Flintstones 
 // The Flintstones in Viva Rock Vegas 
 // The Flintstones: On the Rocks 
@@ -18214,23 +18111,22 @@ export const Pokemon = [
 // The Flowers of St. Francis 
 // The Flowers of War 
 // The Fluffer 
-// The Fly II 
-// The Fly: & 1986)
+// The Fly
 // The Flying Deuces 
 // The Fog of War: Eleven Lessons from the Life of Robert S. McNamara 
-// The Fog: & 2005)
+// The Fog
 // The Food of the Gods 
 // The Football Factory 
 // The Forbidden Kingdom 
 // The Force 
-// The Foreigner: & 2017)
-// The Forest:  2005, 2009 & 2016)
+// The Foreigner
+// The Forest
 // The Forgiveness of Blood 
 // The Forgotten Frontier 
-// The Forgotten:  2003 & 2004)
-// The Formula: & 2002)
+// The Forgotten
+// The Formula
 // The Forsaken 
-// The Fortress:  1994 & 2017)
+// The Fortress
 // The Fortune 
 // The Fortune Cookie 
 // The Foul King 
@@ -18240,53 +18136,51 @@ export const Pokemon = [
 // The Four Horsemen of the Apocalypse 
 // The Four Musketeers 
 // The Four Seasons 
-// The Four Seasons: & 1981)
+// The Four Seasons
 // The Fourth Kind 
 // The Fourth Man 
-// The Fourth Man: & 2007)
 // The Fourth Protocol 
 // The Fox Family 
 // The Fox and the Hound 
-// The Fox and the Hound 2 
 // The Fox with Nine Tails 
 // The Frame 
 // The French Connection 
 // The French Lieutenant's Woman 
-// The Freshman: & 1990)
+// The Freshman
 // The Friends of Eddie Coyle 
 // The Frighteners 
 // The Frisco Kid 
 // The Frogville 
 // The Front 
-// The Front Page: & 1974)
+// The Front Page
 // The Fugitive Kind 
-// The Fugitive: & 1993)
+// The Fugitive
 // The Full Monteverdi 
 // The Full Monty 
-// The Funeral & 1996)
+// The Funeral
 // The Funhouse 
-// The Furies: & 1950)
+// The Furies
 // The Fury 
 // The Fury of the Wolfman 
 // The Future 
 // The Galaxy on Earth 
-// The Gambler: & 2014)
+// The Gambler
 // The Game Plan 
-// The Game of Their Lives: & 2005)
-// The Game: & 1997)
+// The Game of Their Lives
+// The Game
 // The Gamers 
 // The Gang That Couldn't Shoot Straight 
 // The Garden of the Finzi-Continis 
-// The Gate: & 2014)
-// The Gathering: TV & 2002)
+// The Gate
+// The Gathering
 // The Gauntlet 
 // The Gay Divorcee 
 // The Geisha Boy 
 // The Gene Generation 
 // The General's Daughter 
-// The General: & 1998)
+// The General
 // The Gentle Art of Burglary 
-// The Getaway: & 1994)
+// The Getaway
 // The Ghost Breakers 
 // The Ghost Goes West 
 // The Ghost Inside 
@@ -18296,14 +18190,15 @@ export const Pokemon = [
 // The Ghost and Mrs. Muir 
 // The Ghost and the Darkness 
 // The Ghost of Frankenstein 
-// The Ghost:  1982, 2004, 2008 & 2010)
-// The Ghosts of Buxley Hall  / The Giant Claw 
+// The Ghost
+// The Ghosts of Buxley Hall  
+// The Giant Claw 
 // The Giant Spider Invasion 
 // The Gift 
 // The Gingerbread Man 
-// The Girl & 2014)
+// The Girl 
 // The Girl Can't Help It 
-// The Girl Next Door: & 2007)
+// The Girl Next Door
 // The Girl Who Kicked the Hornets' Nest 
 // The Girl Who Knew Too Much 
 // The Girl Who Leapt Through Time 
@@ -18312,29 +18207,25 @@ export const Pokemon = [
 // The Girl in the Park 
 // The Girl in the Spider's Web 
 // The Girl in the Taxi 
-// The Girl on the Train: & 2016)
-// The Girl with the Dragon Tattoo: & 2011)
+// The Girl on the Train
+// The Girl with the Dragon Tattoo
 // The Girlfriend Experience 
 // The Girls of Pleasure Island 
-// The Gladiator: & 1986)
+// The Gladiator
 // The Gladiators 
 // The Glass Bottom Boat 
 // The Glass Castle 
-// The Glass House:  2001 & 2009)
-// The Glass Key & 1942)
+// The Glass House
+// The Glass Key
 // The Glass Slipper 
 // The Glenn Miller Story 
 // The Glimmer Man 
-// The Go-Between: & 2015 TV)
+// The Go-Between
 // The Goalkeeper's Fear of the Penalty 
-// The Goat:  1918 & 1921)
-// The Goddess of 1967 
-// The Goddess: & 1958)
+// The Goat
+// The Goddess
 // The Godfather 
-// The Godfather Part II 
-// The Godfather Part III 
 // The Gods Must Be Crazy 
-// The Gods Must Be Crazy II 
 // The Godson 
 // The Gold Rush 
 // The Golden Age 
@@ -18350,7 +18241,7 @@ export const Pokemon = [
 // The Good German 
 // The Good Girl 
 // The Good Lie 
-// The Good Life:  1997, 2007 & 2008)
+// The Good Life
 // The Good Shepherd 
 // The Good Son 
 // The Good Thief 
@@ -18377,8 +18268,8 @@ export const Pokemon = [
 // The Great Detective 
 // The Great Dictator 
 // The Great Escape 
-// The Great Game:  1953 & 2015)
-// The Great Gatsby:  1949, 1974, 2000 TV & 2013)
+// The Great Game
+// The Great Gatsby
 // The Great Lie 
 // The Great Man 
 // The Great McGinty 
@@ -18394,7 +18285,7 @@ export const Pokemon = [
 // The Great Santini 
 // The Great Silence 
 // The Great St. Trinian's Train Robbery 
-// The Great Train Robbery: & 1979)
+// The Great Train Robbery
 // The Great Waldo Pepper 
 // The Great Wall 
 // The Great White Hope 
@@ -18404,10 +18295,9 @@ export const Pokemon = [
 // The Greatest Show on Earth 
 // The Greatest Showman 
 // The Greatest Story Ever Told 
-// The Greatest: & 2009)
+// The Greatest
 // The Green Berets 
-// The Green Hornet  1994, 2006 & 2011)
-// The Green Hornet Strikes Again! 
+// The Green Hornet 
 // The Green Mile 
 // The Green Slime 
 // The Green Years 
@@ -18415,29 +18305,26 @@ export const Pokemon = [
 // The Grey Zone 
 // The Grifters 
 // The Grim Game 
-// The Grind: & 2009)
+// The Grind
 // The Groomsmen 
 // The Groove Tube 
 // The Grow 
-// The Grow 2 
 // The Grudge 
-// The Grudge 2 
-// The Grudge 3 
 // The Gruffalo's Child
 // The Guard from Underground 
-// The Guard:  2001 & 2011)
-// The Guardian: & 2006)
+// The Guard
+// The Guardian
 // The Guatemalan Handshake 
-// The Guerrilla: & 1973)
+// The Guerrilla
 // The Guilt Trip 
-// The Guilty: & 2000)
+// The Guilty
 // The Guinea Pig 
 // The Gulf Between 
 // The Gumball Rally 
 // The Gunfighter 
 // The Gunman 
 // The Guns of Navarone 
-// The Guru & 2002)
+// The Guru
 // The Guyver 
 // The Gwaii 
 // The H-Man 
@@ -18445,18 +18332,16 @@ export const Pokemon = [
 // The Hairy Bird 
 // The Hallelujah Trail 
 // The Hand That Rocks the Cradle 
-// The Hand:  1965 & 1981)
+// The Hand
 // The Handmaid's Tale 
 // The Handmaiden 
 // The Hanging Tree 
 // The Hangover 
-// The Hangover Part II 
-// The Hangover Part III 
-// The Happening: & 2008)
+// The Happening
 // The Happiest Days of Your Life 
 // The Happiest Millionaire 
 // The Happiness of the Katakuris 
-// The Hard Way: & 1991)
+// The Hard Way
 // The Harder They Come 
 // The Harder They Fall 
 // The Hare Census 
@@ -18464,7 +18349,7 @@ export const Pokemon = [
 // The Harvey Girls 
 // The Haunted 
 // The Haunted Cinema 
-// The Haunted House:  1921, 1928, 1929 1982 & 2005)
+// The Haunted House
 // The Haunted Mansion 
 // The Haunted Palace 
 // The Haunted Strangler 
@@ -18472,7 +18357,7 @@ export const Pokemon = [
 // The Haunting in Connecticut 
 // The Haunting in Connecticut 2: Ghosts of Georgia 
 // The Haunting of Molly Hartley 
-// The Haunting: & 1999)
+// The Haunting
 // The Hawks and the Sparrows 
 // The Headsman 
 // The Heart Breaker 
@@ -18481,12 +18366,12 @@ export const Pokemon = [
 // The Heart of the Bear 
 // The Heart of the Game 
 // The Heart's Cry 
-// The Heartbreak Kid:  1993 & 2007)
+// The Heartbreak Kid
 // The Hearts of Age 
 // The Heat 
 // The Hebrew Hammer 
 // The Heiress 
-// The Heist:  1976, 1989 TV, 2001 & 2008)
+// The Heist
 // The Hellcats 
 // The Help 
 // The Herdsman 
@@ -18498,9 +18383,7 @@ export const Pokemon = [
 // The Hidden Fortress 
 // The High and the Mighty 
 // The Hill 
-// The Hills Have Eyes 2 
-// The Hills Have Eyes Part II 
-// The Hills Have Eyes: & 2006)
+// The Hills Have Eyes
 // The Hills Run Red 
 // The Hindenburg 
 // The Hired Hand 
@@ -18509,18 +18392,17 @@ export const Pokemon = [
 // The Hit 
 // The Hitch-Hiker 
 // The Hitcher II: I've Been Waiting 
-// The Hitcher: & 2007)
+// The Hitcher
 // The Hitchhiker's Guide to the Galaxy 
 // The Hoax 
-// The Hobbit: & The Hobbit film))
+// The Hobbit
 // The Hobbit: An Unexpected Journey 
 // The Hobbit: The Battle of the Five Armies 
 // The Hobbit: The Desolation of Smaug 
-// The Hole:  1960, 1962, 1997, 1998, 2001 & 2009)
+// The Hole
 // The Holiday 
 // The Hollywood Knights 
-// The Hollywood Revue of 1929 
-// The Holy Mountain & 1973)
+// The Holy Mountain
 // The Homecoming 
 // The Homeless 
 // The Homeless Student 
@@ -18535,7 +18417,7 @@ export const Pokemon = [
 // The Horse Whisperer 
 // The Horse's Mouth 
 // The Hospital 
-// The Host & 2013)
+// The Host
 // The Hostage 
 // The Hot Chick 
 // The Hot Rock 
@@ -18566,28 +18448,24 @@ export const Pokemon = [
 // The Howling: Reborn 
 // The Hudsucker Proxy 
 // The Hugga Bunch 
-// The Human Centipede  Sequence) 
-// The Human Centipede 2 Sequence) 
+// The Human Centipede 
 // The Human Condition I: No Greater Love 
 // The Human Condition II: Road to Eternity 
 // The Human Condition III: A Soldier's Prayer 
 // The Human Stain 
-// The Hunchback TV)
-// The Hunchback of Notre Dame II 
-// The Hunchback of Notre Dame:  1939, 1956, 1982 & 1996)
+// The Hunchback 
+// The Hunchback of Notre Dame
 // The Hunger Games 
 // The Hunger Games: Catching Fire 
-// The Hunger Games: Mockingjay – Part 1 
-// The Hunger Games: Mockingjay – Part 2 
-// The Hunger: & 1986)
+// The Hunger
 // The Hunt for Red October 
-// The Hunt: & 2012)
-// The Hunted: & 2003)
-// The Hunter:  2010, 2011 Russian & 2011 Australian)
-// The Hunting Party: & 2007)
+// The Hunt
+// The Hunted
+// The Hunter
+// The Hunting Party
 // The Hunting of the President 
 // The Huntsman: Winter's War 
-// The Hurricane: & 1999)
+// The Hurricane
 // The Hurt Locker 
 // The Husband 
 // The Hustle 
@@ -18599,23 +18477,22 @@ export const Pokemon = [
 // The Ice Storm 
 // The Iceman 
 // The Ides of March 
-// The Idiot  1951, 1958 & 2011)
+// The Idiot 
 // The Idiots 
 // The Idle Class 
 // The Idol of Bonanza Camp 
-// The Idolmaster Movie: Kagayaki no Mukogawa e! 
-// The Illusionist: & 2010)
+// The Illusionist
 // The Illustrated Man 
 // The Imaginarium of Doctor Parnassus 
 // The Imitation Game 
-// The Immigrant:  1917 & 2013)
-// The Importance of Being Earnest: & 2002)
+// The Immigrant
+// The Importance of Being Earnest
 // The Impossible Voyage 
-// The Impossible: & 2012)
-// The Imposter: & 2012)
+// The Impossible
+// The Imposter
 // The Impostors 
 // The In Crowd 
-// The In-Laws: & 2003)
+// The In-Laws
 // The Inbetweeners Movie 
 // The Incredible Burt Wonderstone 
 // The Incredible Hulk 
@@ -18630,7 +18507,6 @@ export const Pokemon = [
 // The Indian Runner 
 // The Indian in the Cupboard 
 // The Inerasable 
-// The Informant! 
 // The Informer 
 // The Informers 
 // The Inkwell 
@@ -18644,7 +18520,7 @@ export const Pokemon = [
 // The International 
 // The Internship 
 // The Interpreter 
-// The Interview: & 2014)
+// The Interview
 // The Intouchables 
 // The Intruder 
 // The Invasion 
@@ -18657,20 +18533,20 @@ export const Pokemon = [
 // The Invisible Man 
 // The Invisible Man Returns 
 // The Invisible War 
-// The Invisible Woman: & 2013)
-// The Invitation: & 2015)
-// The Irishman: & 2019)
+// The Invisible Woman
+// The Invitation
+// The Irishman
 // The Iron Giant 
 // The Iron Lady 
 // The Island at the Top of the World 
-// The Island of Dr. Moreau: & 1996)
-// The Island: & 2005)
+// The Island of Dr. Moreau
+// The Island
 // The Isle 
 // The Isle of the Dead 
 // The Italian 
-// The Italian Job: & 2003)
-// The Jackal: & 2010)
-// The Jackals: & 1968)
+// The Italian Job
+// The Jackal
+// The Jackals
 // The Jacket 
 // The Jackpot 
 // The Jammed 
@@ -18681,29 +18557,27 @@ export const Pokemon = [
 // The Jar 
 // The Jar: A Tale From the East 
 // The Jay Bird 
-// The Jayhawkers! 
-// The Jayne Mansfield Story TV)
+// The Jayne Mansfield Story
 // The Jazz Cinderella 
 // The Jazz Girl 
-// The Jazz Singer:  1952 & 1980)
+// The Jazz Singer
 // The Jerk 
-// The Jerk, Too TV)
+// The Jerk, Too
 // The Jerky Boys: The Movie 
-// The Jesse Owens Story  / The Jetsons & WWE: Robo-WrestleMania! 
+// The Jesse Owens Story  
 // The Jetsons Meet the Flintstones 
 // The Jewel of the Nile 
 // The Jezebels 
-// The Joker: & 1960)
+// The Joker
 // The Jokers 
 // The Jolson Story 
 // The Joneses 
 // The Joy Luck Club 
 // The Judge and the Assassin 
-// The Judge:  1984, 2014, & 2017)
-// The Jungle Book 2 
-// The Jungle Book:  1994 & 2016)
+// The Judge
+// The Jungle Book
 // The Jungle Book: Mowgli's Story 
-// The Jungle:  1952, & 1967)
+// The Jungle
 // The Junkman 
 // The Junky's Christmas 
 // The Juror 
@@ -18712,21 +18586,18 @@ export const Pokemon = [
 // The Kalemites Visit Gibraltar 
 // The Kangaroo Kid 
 // The Kansan 
-// The Kansas City Massacre TV)
+// The Kansas City Massacre 
 // The Kansas Terrors 
 // The Karamazovs 
 // The Karaoke King 
-// The Karate Dog TV)
+// The Karate Dog 
 // The Karate Guard 
-// The Karate Kid Part II 
-// The Karate Kid Part III 
-// The Karate Kid: & 2010)
+// The Karate Kid
 // The Karate Killers 
-// The Karen Carpenter Story TV)
+// The Karen Carpenter Story 
 // The Karnival Kid 
 // The Karthauzer 
 // The Kate Logan Affair 
-// The Katnips of 1940 
 // The Kautokeino Rebellion 
 // The Keep 
 // The Kennel Murder Case 
@@ -18752,15 +18623,14 @@ export const Pokemon = [
 // The Kid from Cleveland 
 // The Kid from Kansas 
 // The Kid from Kokomo 
-// The Kid from Left Field: & 1979)
+// The Kid from Left Field
 // The Kid from Spain 
-// The Kid from Texas: & 1950)
+// The Kid from Texas
 // The Kid from the Big Apple 
 // The Kid with a Bike 
-// The Kid with the 200 I.Q. 
 // The Kid with the Broken Halo 
 // The Kid's Clever 
-// The Kid:  1921, 1950, 1999, 2000, 2010 & 2019)
+// The Kid
 // The Kiddies in the Ruins 
 // The Kidnapped Bride 
 // The Kidnapper 
@@ -18777,10 +18647,10 @@ export const Pokemon = [
 // The Kids from the Port 
 // The Kids in the Shoe 
 // The Killer Elite 
-// The Killer Inside Me: & 2010)
+// The Killer Inside Me
 // The Killer Shrews 
-// The Killer:  1972, 1989, 2006 & 2017)
-// The Killers:  1956 & 1964)
+// The Killer
+// The Killers
 // The Killing 
 // The Killing Fields 
 // The Killing Gene 
@@ -18788,28 +18658,28 @@ export const Pokemon = [
 // The Killing of Sister George 
 // The Killing of a Chinese Bookie 
 // The Killing of a Sacred Deer 
-// The King and I: & 1999)
+// The King and I
 // The King and the Clown 
 // The King of Comedy 
-// The King of Kings: & 1963)
+// The King of Kings
 // The King of Kong: A Fistful of Quarters 
 // The King of Marvin Gardens 
 // The King of Masks 
 // The King – Jari Litmanen 
 // The King's Speech 
-// The King:  2002, 2005, 2007, 2017 Korean, 2017 American, & 2019)
+// The King
 // The Kingdom 
 // The Kings of Summer 
 // The Kirishima Thing 
 // The Kiss of Evil 
 // The Kiss of the Vampire 
-// The Kiss: & 2003)
-// The Kitchen:  2012 & 2019)
+// The Kiss
+// The Kitchen
 // The Kite Runner 
 // The Kites Flying in the Sky 
 // The Klansman 
 // The Knack ...and How to Get It 
-// The Knot: & 2006)
+// The Knot
 // The Komediant 
 // The Kon Ichikawa Story 
 // The Kook 
@@ -18819,23 +18689,23 @@ export const Pokemon = [
 // The Kovak Box 
 // The Krays 
 // The Kremlin Letter 
-// The Kreutzer Sonata:  1915, 1920, 1922, 1927, 1937, 1987 & 2008)
+// The Kreutzer Sonata
 // The Kung Fu Instructor 
 // The Kung Fu Scholar 
 // The Kunoichi: Ninja Girl 
 // The Kurnell Story 
 // The Kwannon of Okadera 
-// The Ladies Man: & 2000)
+// The Ladies Man
 // The Lady Eve 
-// The Lady Vanishes:  1979 & 2013)
+// The Lady Vanishes
 // The Lady from Shanghai 
 // The Lady in the Van 
-// The Lady: & 2011)
-// The Ladykillers: & 2004)
+// The Lady
+// The Ladykillers
 // The Lair of the White Worm 
 // The Lake House 
-// The Lamb: & 1918)
-// The Lame Devil  French: Le Diable boiteux)
+// The Lamb
+// The Lame Devil
 // The Land Before Time 
 // The Land Before Time II: The Great Valley Adventure 
 // The Land Before Time III: The Time of the Great Giving 
@@ -18850,7 +18720,7 @@ export const Pokemon = [
 // The Land Before Time XII: The Great Day of the Flyers 
 // The Land Before Time XIII: The Wisdom of Friends 
 // The Land Before Time XIV: Journey of the Brave 
-// The Land That Time Forgot: & 2009)
+// The Land That Time Forgot
 // The Laramie Project 
 // The Last Airbender 
 // The Last American Hero 
@@ -18858,22 +18728,21 @@ export const Pokemon = [
 // The Last Boy Scout 
 // The Last Broadcast 
 // The Last Castle 
-// The Last Command: & 1955)
+// The Last Command
 // The Last Days of Disco 
 // The Last Detail 
 // The Last Dragon 
 // The Last Emperor 
 // The Last Exorcism 
-// The Last Exorcism Part II 
 // The Last Five Years 
 // The Last Horror Movie 
-// The Last House on the Left: & 2009)
+// The Last House on the Left
 // The Last Hunt 
 // The Last King of Scotland 
-// The Last Kiss: & 2006)
+// The Last Kiss
 // The Last Laugh 
 // The Last Legion 
-// The Last Man on Earth: & 1964)
+// The Last Man on Earth
 // The Last Metro 
 // The Last Mimzy 
 // The Last Movie 
@@ -18890,7 +18759,7 @@ export const Pokemon = [
 // The Last Starfighter 
 // The Last Station 
 // The Last Sunset 
-// The Last Supper:  1995, 2003 & 2006)
+// The Last Supper
 // The Last Survivors 
 // The Last Temptation of Christ 
 // The Last Time I Saw Paris 
@@ -18902,7 +18771,7 @@ export const Pokemon = [
 // The Last Winter 
 // The Last Women Standing 
 // The Last of Sheila 
-// The Last of the Mohicans: American, 1920 German, 1936 & 1992)
+// The Last of the Mohicans
 // The Last: Naruto the Movie 
 // The Late, Great Planet Earth 
 // The Laughing Policeman 
@@ -18917,7 +18786,6 @@ export const Pokemon = [
 // The Left Hand of God 
 // The Left Handed Gun 
 // The Legend 
-// The Legend of 1900 
 // The Legend of Bagger Vance 
 // The Legend of Billie Jean 
 // The Legend of Boggy Creek 
@@ -18934,8 +18802,8 @@ export const Pokemon = [
 // The Lego Ninjago Movie 
 // The Leopard 
 // The Leopard Man 
-// The Letter: & 1940)
-// The Libertine: & 2005)
+// The Letter
+// The Libertine
 // The Life Aquatic with Steve Zissou 
 // The Life Before Her Eyes 
 // The Life and Death of 9413: a Hollywood Extra 
@@ -18952,9 +18820,8 @@ export const Pokemon = [
 // The Limits of Control 
 // The Lincoln Lawyer 
 // The Lion King 
-// The Lion King 1½ 
 // The Lion King II: Simba's Pride 
-// The Lion in Winter: & 2003 TV)
+// The Lion in Winter
 // The List of Adrian Messenger 
 // The Little Foxes 
 // The Little Girl Who Lives Down the Lane 
@@ -18962,7 +18829,7 @@ export const Pokemon = [
 // The Little Mermaid 
 // The Little Mermaid II: Return to the Sea 
 // The Little Mermaid: Ariel's Beginning 
-// The Little Prince:& 2015)
+// The Little Prince
 // The Little Shop of Horrors 
 // The Little Theatre of Jean Renoir 
 // The Little Vampire 
@@ -18973,10 +18840,10 @@ export const Pokemon = [
 // The Living Desert 
 // The Lizzie McGuire Movie 
 // The Lobo Paramilitary Christmas Special 
-// The Lodger:  1944 & 2009)
+// The Lodger
 // The Lodger: A Story of the London Fog 
 // The Lollipop Generation 
-// The Lone Ranger: TV & 2013)
+// The Lone Ranger
 // The Loneliness of the Long Distance Runner 
 // The Lonely Guy 
 // The Long Absence 
@@ -18991,7 +18858,7 @@ export const Pokemon = [
 // The Long, Long Trailer 
 // The Longest Day 
 // The Longest Night in Shanghai 
-// The Longest Yard: & 2005)
+// The Longest Yard
 // The Look of Love 
 // The Lookout 
 // The Lord of the Rings 
@@ -19012,12 +18879,12 @@ export const Pokemon = [
 // The Lost Patrol 
 // The Lost Skeleton of Cadavra 
 // The Lost Weekend 
-// The Lost World: & 1960)
+// The Lost World
 // The Lost World: Jurassic Park 
 // The Love Boat 
 // The Love Bug 
 // The Love Guru 
-// The Love Letter: & 1999)
+// The Love Letter
 // The Love Parade 
 // The Loved One 
 // The Loved Ones 
@@ -19025,12 +18892,12 @@ export const Pokemon = [
 // The Lover 
 // The Lovers of Montparnasse 
 // The Lovers on the Bridge 
-// The Lovers:  1958 & 1994)
-// The Lower Depths: & 1957)
+// The Lovers
+// The Lower Depths
 // The Lucky One 
 // The Lucky Ones 
 // The Lucky Texan 
-// The Lure:  1933 & 2015)
+// The Lure
 // The Luzhin Defence 
 // The Machine Girl 
 // The Machinist 
@@ -19045,24 +18912,25 @@ export const Pokemon = [
 // The Madness of King George 
 // The Magdalene Sisters 
 // The Maggie 
-// The Magic 7  / The Magic Box 
+// The Magic Box 
 // The Magic Christian 
-// The Magic Flute: & 2006)
+// The Magic Flute
 // The Magic Roundabout 
-// The Magic Sword:  1950 & 1962)
+// The Magic Sword
 // The Magic of Lassie 
-// The Magical Legend of the Leprechauns  / The Magician:  1926, 1958 & 2005)
+// The Magical Legend of the Leprechauns  
+// The Magician
 // The Magnificent Ambersons 
-// The Magnificent Seven & 2016)
+// The Magnificent Seven
 // The Magnificent Seven Deadly Sins 
-// The Maid  2005 & 2009)
+// The Maid 
 // The Maids 
 // The Main Event 
 // The Majestic 
 // The Major and the Minor 
 // The Making of Fanny and Alexander 
 // The Makioka Sisters 
-// The Maltese Falcon: & 1941)
+// The Maltese Falcon
 // The Man Behind the Mask 
 // The Man Who Came to Dinner 
 // The Man Who Captured Eichmann 
@@ -19070,7 +18938,7 @@ export const Pokemon = [
 // The Man Who Cried 
 // The Man Who Fell to Earth 
 // The Man Who Knew Too Little 
-// The Man Who Knew Too Much: & 1956)
+// The Man Who Knew Too Much
 // The Man Who Loved Cat Dancing 
 // The Man Who Loves Women 
 // The Man Who Never Was 
@@ -19084,11 +18952,8 @@ export const Pokemon = [
 // The Man from Elysian Fields 
 // The Man from Laramie 
 // The Man from Nowhere 
-// The Man from O.R.G.Y. 
 // The Man from Snowy River 
-// The Man from Snowy River II 
 // The Man from Toronto 
-// The Man from U.N.C.L.E. 
 // The Man from the Deep River 
 // The Man in Grey 
 // The Man in the Gray Flannel Suit 
@@ -19101,9 +18966,8 @@ export const Pokemon = [
 // The Man with the Golden Arm 
 // The Man with the Golden Gun 
 // The Man with the Iron Fists 
-// The Man with the Iron Fists 2 
-// The Man: & 2005)
-// The Manchurian Candidate: & 2004)
+// The Man
+// The Manchurian Candidate
 // The Mangler 
 // The Mangler Reborn 
 // The Manitou 
@@ -19112,12 +18976,11 @@ export const Pokemon = [
 // The Many Adventures of Winnie the Pooh 
 // The Marathon Family 
 // The Marine 
-// The Marine 2 
 // The Marine 3: Homefront 
 // The Marine 4: Moving Target 
 // The Marine 5: Battleground 
 // The Mark 
-// The Mark of Zorro:  1940 & 1974 TV)
+// The Mark of Zorro
 // The Marriage of Maria Braun 
 // The Martian 
 // The Mask 
@@ -19125,9 +18988,9 @@ export const Pokemon = [
 // The Mask of Fu Manchu 
 // The Mask of Zorro 
 // The Masked Saint 
-// The Masque of the Red Death: & 1989)
+// The Masque of the Red Death
 // The Master Mind 
-// The Master:  1989, 2005, 2009, 2012 & 2015)
+// The Master
 // The Matador 
 // The Match Factory Girl 
 // The MatchMaker 
@@ -19139,7 +19002,7 @@ export const Pokemon = [
 // The Mattei Affair 
 // The Mayor of Hell 
 // The McKenzie Break 
-// The Mechanic: & 2011)
+// The Mechanic
 // The Medallion 
 // The Medusa Touch 
 // The Memory of Justice 
@@ -19150,11 +19013,11 @@ export const Pokemon = [
 // The Men Who Tread on the Tiger's Tail 
 // The Mephisto Waltz 
 // The Merchant of Four Seasons 
-// The Merchant of Venice:  1923, 1953 & 2004)
-// The Mermaid:  1965 & 2016)
+// The Merchant of Venice
+// The Mermaid
 // The Merry Gentleman 
-// The Merry Widow & 1934)
-// The Message: & 2009)
+// The Merry Widow 
+// The Message
 // The Messenger 
 // The Messenger: The Story of Joan of Arc 
 // The Messengers 
@@ -19166,28 +19029,28 @@ export const Pokemon = [
 // The Midnight Meat Train 
 // The Mighty 
 // The Mighty Ducks 
-// The Mikado: & 1967)
+// The Mikado
 // The Milker's Mishap 
-// The Milky Way:  1940 & 1969)
+// The Milky Way
 // The Miller and the Sweep 
 // The Million Dollar Duck 
 // The Million Dollar Hotel 
 // The Miniver Story 
 // The Minus Man 
-// The Miracle Man: & 1932)
+// The Miracle Man
 // The Miracle Match 
-// The Miracle Worker:  1979 & 2000)
+// The Miracle Worker
 // The Miracle of Joe Petrel 
 // The Miracle of Morgan's Creek 
-// The Miracle: German, 1912 UK, 1913, 1959, 1987, 1991, 2009, 2013 & 2015)
-// The Mirage: & 2015)
+// The Miracle
+// The Mirage
 // The Mirror Crack'd 
 // The Mirror Has Two Faces 
-// The Mirror:  1967, 1975, 1999 & 2015)
+// The Mirror
 // The Misfits 
 // The Missing Person 
-// The Missing:  2003 & 2017)
-// The Mission:  1986 & 1999)
+// The Missing
+// The Mission
 // The Missionary 
 // The Missouri Breaks 
 // The Mist 
@@ -19196,17 +19059,15 @@ export const Pokemon = [
 // The Moguls 
 // The Mole People 
 // The Molly Maguires 
-// The Moment of Truth film)
-// The Moment: & 2013)
+// The Moment of Truth 
+// The Moment
 // The Money Pit 
 // The Monkey King 
-// The Monkey King 2 
-// The Monkey King 3 
 // The Monolith Monsters 
 // The Monster Club 
 // The Monster Squad 
 // The Monster That Challenged the World 
-// The Monster: & 1994)
+// The Monster
 // The Monuments Men 
 // The Moon Is Blue 
 // The Moon-Spinners 
@@ -19225,24 +19086,24 @@ export const Pokemon = [
 // The Mountain Road 
 // The Mountain of the Cannibal God 
 // The Mouse That Roared 
-// The Mouth of the Wolf: & 2009)
+// The Mouth of the Wolf
 // The Mouthpiece 
 // The Mummy Returns 
 // The Mummy's Curse 
 // The Mummy's Ghost 
 // The Mummy's Hand 
 // The Mummy's Tomb 
-// The Mummy:  1999 & 2017)
+// The Mummy
 // The Mummy: Tomb of the Dragon Emperor 
 // The Muppet Christmas Carol 
 // The Muppet Movie 
 // The Muppets 
 // The Muppets Take Manhattan 
-// The Muppets' Wizard of Oz TV)
+// The Muppets' Wizard of Oz
 // The Muse 
 // The Music Box 
 // The Music Lovers 
-// The Music Man: & 2003 TV)
+// The Music Man
 // The Musketeer 
 // The Musketeers of Pig Alley 
 // The Mysterious Island 
@@ -19253,7 +19114,6 @@ export const Pokemon = [
 // The Naked Edge 
 // The Naked Feminist 
 // The Naked Gun 2½: The Smell of Fear 
-// The Naked Gun: From the Files of Police Squad! 
 // The Naked Island 
 // The Naked Jungle 
 // The Naked Kiss 
@@ -19262,21 +19122,21 @@ export const Pokemon = [
 // The Naked Proof 
 // The Naked Runner 
 // The Naked Spur 
-// The Naked Truth: & 1992)
+// The Naked Truth
 // The Name of the Rose 
 // The Nameless 
 // The Namesake 
 // The Nanny Diaries 
-// The Nanny: & 1999)
+// The Nanny
 // The Narrow Margin 
-// The Narrow Path: & 2006)
+// The Narrow Path
 // The Nasty Girl 
 // The National Anthem 
 // The National Health 
 // The Nativity 
 // The Nativity Story 
 // The Natural 
-// The Nature of the Beast: & 1995)
+// The Nature of the Beast
 // The Naughty Duchess 
 // The Naughty Flirt 
 // The Naughty List 
@@ -19301,13 +19161,11 @@ export const Pokemon = [
 // The Negotiator 
 // The Neon Bible 
 // The Neon Demon 
-// The Nest:  1980, 1988 & 2002)
+// The Nest
 // The Nesting 
-// The Net 2.0 
-// The Net:  1975 & 1995)
+// The Net
 // The Nevadan 
 // The NeverEnding Story II: The Next Chapter 
-// The NeverEnding Story III 
 // The Neverending Story 
 // The New Adventures of Pippi Longstocking 
 // The New Age 
@@ -19315,7 +19173,7 @@ export const Pokemon = [
 // The New Guy 
 // The New Janitor 
 // The New Mutants 
-// The New World & 2011)
+// The New World 
 // The New Year 
 // The New York Ripper 
 // The Newton Boys 
@@ -19329,17 +19187,18 @@ export const Pokemon = [
 // The Nifty Nineties 
 // The Night 
 // The Night Angel 
-// The Night Before Christmas:  1913, 1933, 1941 & 1951)
+// The Night Before Christmas
 // The Night Before the Divorce 
-// The Night Before the Night Before Christmas TV)
+// The Night Before the Night Before Christmas 
 // The Night Before the Premiere 
-// The Night Before: & 2015)
+// The Night Before
 // The Night Belongs to Us 
 // The Night Bird 
 // The Night Brings Charlie 
 // The Night Bus 
 // The Night Caller 
-// The Night Clerk // The Night Club 
+// The Night Clerk 
+// The Night Club 
 // The Night Club Lady 
 // The Night Club Queen 
 // The Night Coachman 
@@ -19357,8 +19216,9 @@ export const Pokemon = [
 // The Night Has Eyes 
 // The Night Listener 
 // The Night Porter 
-// The Night That Panicked America  / The Night Watch: & 2011)
-// The Night Watchman: & 2008)
+// The Night That Panicked America  
+// The Night Watch
+// The Night Watchman
 // The Night of the Following Day 
 // The Night of the Generals 
 // The Night of the Iguana 
@@ -19375,22 +19235,21 @@ export const Pokemon = [
 // The Noose 
 // The Normal Heart 
 // The North Star 
-// The Notebook: & 2013)
+// The Notebook
 // The Notorious Bettie Page 
 // The November Man 
 // The Nude Bomb 
 // The Nugget 
-// The Number 
-// The Number 23 
+// The Number  
 // The Nun's Story 
-// The Nun:  2005, 2013, & 2018)
+// The Nun
 // The Nut 
 // The Nut Job 
 // The Nut Job 2: Nutty by Nature 
 // The Nutcracker 
 // The Nutcracker and the Four Realms 
 // The Nutcracker in 3D 
-// The Nutty Professor: & 1996)
+// The Nutty Professor
 // The Nymph 
 // The OH in Ohio 
 // The Oasis 
@@ -19401,7 +19260,6 @@ export const Pokemon = [
 // The Octagon 
 // The Odd Angry Shot 
 // The Odd Couple 
-// The Odd Couple II 
 // The Odd Job 
 // The Odd Life of Timothy Green 
 // The Odessa File 
@@ -19409,31 +19267,31 @@ export const Pokemon = [
 // The Offence 
 // The Offenders 
 // The Office 
-// The Office Wife: & 1934)
+// The Office Wife
 // The Official Story 
 // The Oil, the Baby and the Transylvanians 
 // The Oklahoma Kid 
 // The Oklahoma Woman 
 // The Old Dark House 
 // The Old Grey Hare 
-// The Old Guard: & 1960)
-// The Old Homestead:  1922, 1935, & 1942)
+// The Old Guard
+// The Old Homestead
 // The Old Lady 
-// The Old Maid: & 1972)
+// The Old Maid
 // The Old Man & the Gun 
-// The Old Man and the Sea: & 1999)
-// The Old Man: & 2012)
+// The Old Man and the Sea
+// The Old Man
 // The Old Mill 
 // The Old Mill Pond 
 // The Omega Code 
 // The Omega Man 
-// The Omen: & 2006)
-// The One and Only  1999 & 2002)
+// The Omen
+// The One and Only  
 // The One and Only, Genuine, Original Family Band 
-// The One: & 2003)
+// The One
 // The Onion Field 
 // The Onion Movie 
-// The Only Son: & 1936)
+// The Only Son
 // The Oogieloves in the Big Balloon Adventure 
 // The Opening of Misty Beethoven 
 // The Operator 
@@ -19443,7 +19301,7 @@ export const Pokemon = [
 // The Orange Sky 
 // The Oranges 
 // The Ordeal 
-// The Order: & 2003)
+// The Order
 // The Organizer 
 // The Original Kings of Comedy 
 // The Original Sin 
@@ -19453,38 +19311,38 @@ export const Pokemon = [
 // The Orphanage 
 // The Oscar 
 // The Osterman Weekend 
-// The Other Boleyn Girl: TV & 2008)
+// The Other Boleyn Girl
 // The Other Final 
 // The Other Guys 
-// The Other Half: & 2006)
-// The Other Man: & 2008)
+// The Other Half
+// The Other Man
 // The Other Side of Heaven 
 // The Other Side of Midnight 
 // The Other Side of the Bed 
 // The Other Side of the Wind 
-// The Other Side:  2006, 2011, 2012 & 2015)
+// The Other Side
 // The Other Sister 
-// The Other Woman:  1983, 1995, 2009, & 2014)
-// The Other:  1930, 1972 & 1999)
-// The Others: & 2001)
+// The Other Woman
+// The Other
+// The Others
 // The Ottoman Lieutenant 
-// The Out-of-Towners: & 1999)
-// The Outcast: & 1954)
-// The Outcasts:  2007 & 2017)
+// The Out-of-Towners
+// The Outcast
+// The Outcasts
 // The Outfield 
 // The Outfit 
 // The Outlaw Josey Wales 
-// The Outlaw:  1943 & 2010)
+// The Outlaw
 // The Outlaws Is Coming 
 // The Outpost 
 // The Outrage 
-// The Outsider:  1931, 1939, 1948, 1961, 1980, 1998 TV, 2002, 2014 & 2018)
+// The Outsider
 // The Outsiders 
 // The Over the Hill Band 
-// The Over-the-Hill Gang TV)
-// The Over-the-Hill Gang Rides Again TV)
+// The Over-the-Hill Gang 
+// The Over-the-Hill Gang Rides Again 
 // The Overbrook Brothers 
-// The Overcoat:  1952, 1959 & unfinished)
+// The Overcoat
 // The Overeater 
 // The Overland Limited 
 // The Overland Stage 
@@ -19497,7 +19355,7 @@ export const Pokemon = [
 // The Owl Who Married a Goose: An Eskimo Legend 
 // The Owl and the Pussycat 
 // The Owl vs Bombo 
-// The Owl: & 1991)
+// The Owl
 // The Owner 
 // The Owners 
 // The Ox 
@@ -19508,33 +19366,32 @@ export const Pokemon = [
 // The Oyster Dredger 
 // The Oyster Princess 
 // The Pacifier 
-// The Pack:  2010 & 2015)
-// The Package: & 2013)
-// The Pact: TV, 2003, 2006 & 2012)
+// The Pack
+// The Package
+// The Pact
 // The Page Turner 
 // The Pagemaster 
 // The Painted Desert 
-// The Painted Veil: & 2006)
+// The Painted Veil
 // The Pajama Game 
-// The Paleface: & 1948)
+// The Paleface
 // The Pallbearer 
 // The Palm Beach Story 
 // The Panic in Needle Park 
 // The Paper 
 // The Paper Chase 
-// The Paperboy: & 2012)
+// The Paperboy
 // The Parade 
 // The Paradine Case 
 // The Parallax View 
-// The Parent Trap II TV)
-// The Parent Trap: & 1998)
-// The Park & 2007)
+// The Parent Trap
+// The Park
 // The Parole Officer 
 // The Party at Kitty and Stud's 
-// The Party: & 2017)
+// The Party
 // The Passenger – Welcome to Germany 
-// The Passenger:  2005 Éric Caravaca & 2005 François Rotger)
-// The Passengers: & 1999)
+// The Passenger
+// The Passengers
 // The Passion of Anna 
 // The Passion of Joan of Arc 
 // The Passion of the Christ 
@@ -19544,12 +19401,12 @@ export const Pokemon = [
 // The Patent Leather Kid 
 // The Path to Power 
 // The Path to Ultimate Strength 
-// The Pathfinder: & 1996 TV)
-// The Patriot:  1998 & 2000)
-// The Patsy: & 1964)
+// The Pathfinder
+// The Patriot
+// The Patsy
 // The Pawnbroker 
 // The Pawnshop 
-// The Peacemaker:  1956 & 1997)
+// The Peacemaker
 // The Peach Girl 
 // The Peanut Butter Solution 
 // The Peanuts Movie 
@@ -19558,7 +19415,7 @@ export const Pokemon = [
 // The Pebble and the Penguin 
 // The Pelican Brief 
 // The Penalty 
-// The Pentagon Wars TV)
+// The Pentagon Wars 
 // The People That Time Forgot 
 // The People Under the Stairs 
 // The People vs. George Lucas 
@@ -19571,76 +19428,74 @@ export const Pokemon = [
 // The Perfect Son 
 // The Perfect Storm 
 // The Perils of Gwendoline in the Land of the Yik-Yak 
-// The Perils of Pauline:  1933, 1947 & 1967)
+// The Perils of Pauline
 // The Perks of Being a Wallflower 
 // The Persecution and Assassination of Jean-Paul Marat as Performed by the Inmates of the Asylum at Charenton Under the Direction of the Marquis de Sade 
-// The Pest:  1922 & 1997)
+// The Pest
 // The Petrified Forest 
-// The Phantom Carriage: & 1958)
+// The Phantom Carriage
 // The Phantom Lady 
 // The Phantom Planet 
 // The Phantom Tollbooth 
 // The Phantom from 10,000 Leagues 
-// The Phantom of Hollywood TV)
+// The Phantom of Hollywood 
 // The Phantom of Liberty 
-// The Phantom of the Opera:  1943, 1962, 1989, 1998 & 2004)
-// The Phantom: & 1996)
+// The Phantom of the Opera
+// The Phantom
 // The Philadelphia Experiment 
 // The Philadelphia Story 
 // The Phone 
 // The Photographical Congress Arrives in Lyon 
 // The Phynx 
-// The Pianist:  1998 & 2002)
+// The Pianist
 // The Piano 
 // The Piano Teacher 
 // The Pick-up Artist 
-// The Picture of Dorian Gray:  1915, 1916, 1917, 1918, 1945, 1976 TV & 2004)
+// The Picture of Dorian Gray
 // The Pigeon Egg Strategy 
-// The Pilgrim: & 2014)
+// The Pilgrim
 // The Pillow Book 
-// The Pink Panther 2 
 // The Pink Panther Deux 
 // The Pink Panther Strikes Again 
-// The Pink Panther: & 2006)
+// The Pink Panther
 // The Pirate Movie 
-// The Pirate:  1973, 1978 & 1984)
+// The Pirate
 // The Pirates 
 // The Pirates Who Don't Do Anything: A VeggieTales Movie 
-// The Pirates! In an Adventure with Scientists! 
-// The Pit and the Pendulum: & 1990)
+// The Pit and the Pendulum
 // The Place Beyond the Pines 
 // The Place Promised in Our Early Days 
 // The Plague Dogs 
 // The Plague of the Zombies 
-// The Plague: & 2006)
-// The Plan: & 2015)
-// The Plank: & 1979)
+// The Plague
+// The Plan
+// The Plank
 // The Plastic Age 
 // The Player 
 // The Players Club 
 // The Playhouse 
-// The Pleasure Garden: & 1952)
+// The Pleasure Garden
 // The Pledge 
 // The Plow That Broke the Plains 
 // The Pod People 
-// The Point! 
 // The Polar Express 
-// The Pool: & 2009)
+// The Pool
 // The Poor Little Rich Girl 
 // The Pope Must Die 
 // The Pope of Greenwich Village 
 // The Pornographers 
 // The Portrait of a Lady 
-// The Poseidon Adventure: & 2005 TV)
+// The Poseidon Adventure
 // The Possession 
 // The Post 
 // The Postcard Bandit 
 // The Postman 
-// The Postman Always Rings Twice: & 1981)
+// The Postman Always Rings Twice
 // The Poughkeepsie Tapes 
 // The Power 
-// The Power and the Glory: & 1941)
-// The Power of Myth  / The Power of One 
+// The Power and the Glory
+// The Power of Myth  
+// The Power of One 
 // The Power of the Press 
 // The Preacher's Wife 
 // The Predator 
@@ -19652,7 +19507,7 @@ export const Pokemon = [
 // The Prestige 
 // The Price of Milk 
 // The Price of Power 
-// The Price: & 2017)
+// The Price
 // The Pride and the Passion 
 // The Pride of the Yankees 
 // The Priests 
@@ -19674,40 +19529,38 @@ export const Pokemon = [
 // The Princess and the Warrior 
 // The Principal 
 // The Prisoner of Second Avenue 
-// The Prisoner of Zenda: & 1952)
+// The Prisoner of Zenda
 // The Private Eyes 
 // The Private Life of Helen of Troy 
-// The Private Life of Henry VIII 
 // The Private Life of Sherlock Holmes 
 // The Private Lives of Elizabeth and Essex 
 // The Private Lives of Pippa Lee 
 // The Prize Winner of Defiance, Ohio 
-// The Prize:  1963 & 2011)
+// The Prize
 // The Prizefighter and the Lady 
-// The Producers: & 2005)
+// The Producers
 // The Professionals 
 // The Profit 
 // The Profound Desire of the Gods 
 // The Program 
 // The Projected Man 
-// The Promise:  1995, 1996, 2005, 2007 & 2016)
-// The Promised Land:  1973, 1975, 1986 & 2015)
+// The Promise
+// The Promised Land
 // The Proof of the Man 
 // The Prophecy 
 // The Prophecy 3: The Ascent 
-// The Prophecy II 
 // The Prophecy: Forsaken 
 // The Prophecy: Uprising 
-// The Proposal: & 2009)
-// The Proposition: & 2005)
-// The Protector: & 2005)
+// The Proposal
+// The Proposition
+// The Protector
 // The Proud Valley 
-// The Prowler: & 1981)
+// The Prowler
 // The Public Enemy 
 // The Puffy Chair 
 // The Punch Bowl 
 // The Punch and Judy Man 
-// The Punisher: & 2004)
+// The Punisher
 // The Punisher: Dirty Laundry 
 // The Punk Rock Movie 
 // The Puppet Masters 
@@ -19729,61 +19582,59 @@ export const Pokemon = [
 // The Quality of Mercy 
 // The Quarrel 
 // The Quarry 
-// The Quatermass Experiment TV)
+// The Quatermass Experiment
 // The Quatermass Xperiment 
 // The Queen Is in the Factory 
 // The Queen and I 
 // The Queen of Hearts 
 // The Queen of Sheba's Pearls 
-// The Queen of Sheba: & 1952)
-// The Queen of Spades:  1960 & 1982)
+// The Queen of Sheba
+// The Queen of Spades
 // The Queen of Versailles 
 // The Queen of the Night 
 // The Queen's Affair 
 // The Queen's Corgi 
 // The Queen's Flower 
-// The Queen:  2006 & 2012)
+// The Queen
 // The Queens of Comedy 
 // The Quest 
 // The Questor Tapes 
 // The Quick and the Dead 
 // The Quick and the Undead 
 // The Quiet 
-// The Quiet American: & 2002)
+// The Quiet American
 // The Quiet Duel 
 // The Quiet Earth 
 // The Quiet Family 
 // The Quiet Man 
-// The Quiet Ones: & 2014)
+// The Quiet Ones
 // The Quiet Room 
 // The Quiet Storm 
 // The Quiller Memorandum 
-// The R.M. 
-// The Race: & 2002)
-// The Racket: & 1951)
+// The Race
+// The Racket
 // The Rage in Placid Lake 
-// The Rage: Carrie 2 
-// The Raid 2 
 // The Raid: Redemption 
 // The Railroad 
 // The Railway Children 
 // The Railway Man 
 // The Rain People 
 // The Rainbow 
-// The Rainmaker: & 1997)
+// The Rainmaker
 // The Rains Came 
 // The Rapture 
 // The Rare Breed 
 // The Raspberry Reich 
-// The Rat Pack  / The Raven:  1935, 1963, 2006 & 2012)
-// The Razor's Edge: & 1984)
+// The Rat Pack  
+// The Raven
+// The Razor's Edge
 // The Reader 
 // The Real Blonde 
 // The Real Cancun 
 // The Real McCoy 
 // The Reaping 
 // The Rebel Rousers 
-// The Rebel:  1931, 1932, 1961, 1980 French, 1980 Italian, 1993 & 2007)
+// The Rebel
 // The Rebels 
 // The Rebound 
 // The Reckless Moment 
@@ -19804,7 +19655,7 @@ export const Pokemon = [
 // The Reef 
 // The Ref 
 // The Reflecting Skin 
-// The Rehearsal and 2016)
+// The Rehearsal
 // The Reivers 
 // The Relic 
 // The Reluctant Astronaut 
@@ -19820,7 +19671,8 @@ export const Pokemon = [
 // The Restless 
 // The Return 
 // The Return of Captain Invincible 
-// The Return of Captain Nemo  / The Return of Frank James 
+// The Return of Captain Nemo  
+// The Return of Frank James 
 // The Return of Godzilla 
 // The Return of Jafar 
 // The Return of Martin Guerre 
@@ -19831,7 +19683,7 @@ export const Pokemon = [
 // The Return of the Musketeers 
 // The Return of the Pink Panther 
 // The Return of the Vampire 
-// The Revenant: & 2015)
+// The Revenant
 // The Revenge 
 // The Revenge of Frankenstein 
 // The Revolution Will Not Be Televised 
@@ -19841,23 +19693,23 @@ export const Pokemon = [
 // The Right Way 
 // The Ring Two 
 // The Ring Virus 
-// The Ring:  2002, & 2017)
-// The Ringer:  1931, 1952, 2005 & 2013)
+// The Ring
+// The Ringer
 // The Rise of a Tomboy 
-// The Rite: & 2011)
-// The Ritual: & 2017)
+// The Rite
+// The Ritual
 // The Ritz 
 // The River Fuefuki 
 // The River Wild 
-// The River:  1951 & 1984)
+// The River
 // The Road Back 
-// The Road Home: & 2003)
+// The Road Home
 // The Road to El Dorado 
 // The Road to Guantánamo 
 // The Road to Hong Kong 
-// The Road to Ruin:  1928 & 1934)
+// The Road to Ruin
 // The Road to Wellville 
-// The Road:  2001, 2009, 2011 & 2015)
+// The Road
 // The Roaring Twenties 
 // The Robber 
 // The Robber Bride 
@@ -19879,10 +19731,10 @@ export const Pokemon = [
 // The Rocket Man 
 // The Rocket Post 
 // The Rocket from Calabuch 
-// The Rocket: & 2013)
+// The Rocket
 // The Rocketeer 
 // The Rocking Horse Winner 
-// The Rocks of Valpre: & 1935)
+// The Rocks of Valpre
 // The Rocky Horror Picture Show 
 // The Rocky Horror Picture Show: Let's Do the Time Warp Again 
 // The Rocky Road 
@@ -19895,7 +19747,7 @@ export const Pokemon = [
 // The Roman Spring of Mrs. Stone 
 // The Romantic Englishwoman 
 // The Romantic President 
-// The Rookie: & 2002)
+// The Rookie
 // The Room 
 // The Roommate 
 // The Roost 
@@ -19903,7 +19755,7 @@ export const Pokemon = [
 // The Rose 
 // The Rose Tattoo 
 // The Rough House 
-// The Rounders: & 1965)
+// The Rounders
 // The Rowdyman 
 // The Royal Family of Broadway 
 // The Royal Scandal 
@@ -19917,12 +19769,12 @@ export const Pokemon = [
 // The Runaways 
 // The Rundown 
 // The Running Jumping & Standing Still Film 
-// The Running Man: & 1987)
+// The Running Man
 // The Russian Dolls 
 // The Russian House 
 // The Russians Are Coming, the Russians Are Coming 
 // The Ryan White Story 
-// The Sacrifice:  1986 & 2005)
+// The Sacrifice
 // The Sad Sack 
 // The Saddest Music in the World 
 // The Safety of Objects 
@@ -19936,41 +19788,39 @@ export const Pokemon = [
 // The Saint's Double Trouble 
 // The Saint's Return 
 // The Saint's Vacation 
-// The Saint:  1997 & 2017)
-// The Salesman: & 2016)
+// The Saint
+// The Salesman
 // The Salt of the Earth 
-// The Salton Sea: & 2016)
+// The Salton Sea
 // The Samaritan 
 // The Sand Pebbles 
 // The Sandlot 
-// The Sandlot 2 
-// The Sandman: short, 2000 & 2011)
+// The Sandman
 // The Sandpiper 
 // The Santa Clause 
-// The Santa Clause 2 
 // The Santa Clause 3: The Escape Clause 
 // The Saragossa Manuscript 
 // The Satan Bug 
 // The Satanic Rites of Dracula 
 // The Savage Innocents 
-// The Savage:  1926 & 1952)
+// The Savage
 // The Savages 
 // The Saved 
 // The Scalphunters 
 // The Scapegoat 
 // The Scar of Shame 
 // The Scarecrow of Romney Marsh 
-// The Scarecrow:  1982, 2000 & 2013 short)
+// The Scarecrow
 // The Scarlet Claw 
 // The Scarlet Empress 
-// The Scarlet Letter:  1911, 1913, 1922, 1926, 1934, 1973, 1995 & 2004)
-// The Scarlet Pimpernel: & 1982)
+// The Scarlet Letter
+// The Scarlet Pimpernel
 // The Scarlet Pumpernickel 
 // The Scarlet Runner 
-// The Scarlet and the Black  / The Scent of Green Papaya 
+// The Scarlet and the Black  
+// The Scent of Green Papaya 
 // The Science of Sleep 
-// The Score:  2001 & 2005)
-// The Scorpion King 
+// The Score
 // The Scorpion King 
 // The Scorpion King 2: Rise of a Warrior 
 // The Scorpion King 3: Battle for Redemption 
@@ -19996,7 +19846,7 @@ export const Pokemon = [
 // The Secret Garden 
 // The Secret Life of Bees 
 // The Secret Life of Pets 
-// The Secret Life of Walter Mitty: & 2013)
+// The Secret Life of Walter Mitty
 // The Secret Life of Words 
 // The Secret Lives of Dentists 
 // The Secret War of Harry Frigg 
@@ -20009,13 +19859,13 @@ export const Pokemon = [
 // The Secret of Roan Inish 
 // The Secret of the Grain 
 // The Secret of the Submarine 
-// The Secret: & 2016)
+// The Secret
 // The Seduction of Mimi 
 // The Seeker: The Dark Is Rising 
 // The Sender 
 // The Sensation of Sight 
 // The Sentimental Bloke 
-// The Sentinel: & 2006)
+// The Sentinel
 // The Serpent and the Rainbow 
 // The Serpent's Egg 
 // The Serpent's Kiss 
@@ -20029,7 +19879,7 @@ export const Pokemon = [
 // The Seven-Per-Cent Solution 
 // The Seven-Ups 
 // The Seventh Bullet 
-// The Seventh Continent: & 1989)
+// The Seventh Continent
 // The Seventh Cross 
 // The Seventh Seal 
 // The Seventh Sign 
@@ -20038,7 +19888,7 @@ export const Pokemon = [
 // The Sex of the Stars 
 // The Shack 
 // The Shadow 
-// The Shaggy Dog: & 2006)
+// The Shaggy Dog
 // The Shanghai Gesture 
 // The Shape of Things 
 // The Shape of Water 
@@ -20061,7 +19911,7 @@ export const Pokemon = [
 // The Shop Around the Corner 
 // The Shop on Main Street 
 // The Sicilian Clan 
-// The Siege: & 1998)
+// The Siege
 // The Signal 
 // The Silence 
 // The Silence of the Lambs 
@@ -20070,19 +19920,18 @@ export const Pokemon = [
 // The Silent Partner 
 // The Silent World 
 // The Silver Chalice 
-// The Silver Lining:  1919, 1921, 1927 & 1932)
+// The Silver Lining
 // The Simian Line 
 // The Simple Things 
 // The Simpsons Movie 
-// The Sims // The Sin of Madelon Claudet 
+// The Sims 
+// The Sin of Madelon Claudet 
 // The Singing Detective 
 // The Singing Fool 
 // The Singing Revolution 
 // The Singles Ward 
-// The Sino-Dutch War 1661 
 // The Siren 
 // The Sisterhood of the Traveling Pants 
-// The Sisterhood of the Traveling Pants 2 
 // The Sitter 
 // The Sixth 
 // The Sixth Sense 
@@ -20108,14 +19957,14 @@ export const Pokemon = [
 // The Smiling Lieutenant 
 // The Smokers 
 // The Smurfs 
-// The Smurfs 2 
 // The Smurfs and the Magic Flute 
-// The Snake King  / The Snake King's Child 
+// The Snake King  
+// The Snake King's Child 
 // The Snake Pit 
 // The Snapper 
 // The Sniper 
 // The Snow Creature 
-// The Snowman: TV & 2017)
+// The Snowman
 // The Snows of Kilimanjaro 
 // The Social Network 
 // The Soft Skin 
@@ -20145,17 +19994,17 @@ export const Pokemon = [
 // The Spectacular Now 
 // The Sperm 
 // The Spider Woman 
-// The Spider and the Fly: & 1949)
-// The Spider: & 1945)
+// The Spider and the Fly
+// The Spider
 // The Spiders 
 // The Spiderwick Chronicles 
-// The Spiral Staircase:  1975 & 2000 TV)
+// The Spiral Staircase
 // The Spirit 
 // The Spirit of St. Louis 
 // The Spirit of the Beehive 
 // The Spitfire Grill 
-// The Split: & 1968)
-// The Spoilers:  1923, 1930, 1942 & 1955)
+// The Split
+// The Spoilers
 // The SpongeBob Movie 
 // The SpongeBob Movie: Sponge Out of Water 
 // The SpongeBob SquarePants Movie 
@@ -20167,16 +20016,17 @@ export const Pokemon = [
 // The Spy Who Loved Me 
 // The Spy in Black 
 // The Spy: Undercover Operation 
-// The Square:  2008, 2013 & 2017)
-// The Squaw Man:  1918 & 1931)
+// The Square
+// The Squaw Man
 // The Squawkin' Hawk 
 // The Squid and the Whale 
 // The St. Valentine's Day Massacre 
-// The Stalking of Laurie Show  / The Stand 
+// The Stalking of Laurie Show  
+// The Stand 
 // The Stanford Prison Experiment 
 // The Star Chamber 
 // The Star Packer 
-// The Star:  2002 & 2017)
+// The Star
 // The Starfighters 
 // The Stars Look Down 
 // The Statement 
@@ -20184,19 +20034,16 @@ export const Pokemon = [
 // The Steamroller and the Violin 
 // The Steel Helmet 
 // The Stendhal Syndrome 
-// The Stepfather II 
-// The Stepfather: & 2009)
-// The Stepford Wives: & 2004)
+// The Stepfather
+// The Stepford Wives
 // The Sterling Chase 
 // The Sting 
 // The Stoned Age 
 // The Stoneman Murders 
-// The Stoning of Soraya M. 
 // The Stooge 
 // The Stork Pays Off 
 // The Storm Riders 
 // The Stormy Night 
-// The Story of Adele H. 
 // The Story of G.I. Joe 
 // The Story of Louis Pasteur 
 // The Story of Mankind 
@@ -20212,7 +20059,7 @@ export const Pokemon = [
 // The Strange Case of Dr. Jekyll and Mr. Hyde 
 // The Strange House 
 // The Strange Love of Martha Ivers 
-// The Stranger: & 1967)
+// The Stranger
 // The Strangers 
 // The Stratton Story 
 // The Strawberry Blonde 
@@ -20230,18 +20077,17 @@ export const Pokemon = [
 // The Substitute 2: School's Out 
 // The Substitute 3: Winner Takes All 
 // The Substitute 4: Failure Is Not an Option 
-// The Substitute: TV, 1996, 2007 & 2015)
+// The Substitute
 // The Suburbans 
 // The Sugarland Express 
 // The Sum of All Fears 
 // The Sum of Us 
 // The Sun 
-// The Sun Also Rises: & 2007)
+// The Sun Also Rises
 // The Sundowners 
 // The Sunshine Boys 
 // The Super 
 // The Super Cops 
-// The Super Dimension Fortress Macross: Do You Remember Love? 
 // The Super Fight 
 // The Supernatural Events on Campus 
 // The Sure Thing 
@@ -20254,14 +20100,14 @@ export const Pokemon = [
 // The Swan Princess: Princess Tomorrow, Pirate Today 
 // The Swan Princess: Royally Undercover 
 // The Swan Princess: The Mystery of the Enchanted Kingdom 
-// The Swan: & 1956)
+// The Swan
 // The Swarm 
 // The Swedish Kings 
 // The Sweet Hereafter 
 // The Sweetest Thing 
 // The Swimmer 
 // The Swimming Pool 
-// The Switch: & 2010)
+// The Switch
 // The Sword and the Rose 
 // The Sword and the Sorcerer 
 // The Sword in the Stone 
@@ -20270,21 +20116,19 @@ export const Pokemon = [
 // The TV Set 
 // The Table 
 // The Tailor of Panama 
-// The Take: & 2008)
-// The Taking of Pelham 123 
-// The Taking of Pelham One Two Three: & 1998 TV)
-// The Taking of Power by Louis XIV TV)
+// The Take
+// The Taking of Pelham One Two Three
 // The Taking of Tiger Mountain 
 // The Tale of Despereaux 
 // The Tale of Zatoichi 
 // The Tale of the Fox 
-// The Tale of the Priest and of His Workman Balda 1936)
+// The Tale of the Priest and of His Workman Balda
 // The Talented Mr. Ripley 
 // The Tales of Hoffmann 
 // The Talk of the Town 
 // The Tall Blond Man with One Black Shoe 
 // The Tall Guy 
-// The Tall Man: & 2012)
+// The Tall Man
 // The Tall Men 
 // The Tall T 
 // The Taming of the Shrew 
@@ -20293,14 +20137,13 @@ export const Pokemon = [
 // The Taste of Others 
 // The Teahouse of the August Moon 
 // The Tell-Tale Heart 
-// The Tempest:  1979 & 2010)
+// The Tempest
 // The Temptation of St. Tony 
 // The Temptations 
 // The Temptress 
 // The Ten 
 // The Ten 
-// The Ten Commandments: & 1956)
-// The Ten Commandments:  1956, 2007)
+// The Ten Commandments
 // The Ten Commandments: The Movie 
 // The Tenant 
 // The Terminal 
@@ -20308,24 +20151,23 @@ export const Pokemon = [
 // The Terror 
 // The Terrorist 
 // The Testament of Dr. Mabuse 
-// The Texas Chainsaw Massacre 2 
-// The Texas Chainsaw Massacre: & 2003)
+// The Texas Chainsaw Massacre
 // The Texas Chainsaw Massacre: The Beginning 
 // The Thaw 
-// The Theory of Everything: TV & 2014)
+// The Theory of Everything
 // The Theory of Flight 
 // The Thief Lord 
 // The Thief and the Cobbler 
-// The Thief of Baghdad:  1940 & 1961)
-// The Thief: & 1997)
+// The Thief of Baghdad
+// The Thief
 // The Thin Blue Line 
 // The Thin Man 
 // The Thin Man Goes Home 
-// The Thin Red Line: & 1998)
+// The Thin Red Line
 // The Thing About My Folks 
 // The Thing from Another World 
 // The Thing with Two Heads 
-// The Thing: & 2011)
+// The Thing
 // The Thinning 
 // The Third Generation 
 // The Third Man 
@@ -20334,8 +20176,9 @@ export const Pokemon = [
 // The Thirteen Chairs 
 // The Thirteenth Floor 
 // The Thirteenth Warrior 
-// The Thirteenth Year  / The Thirty Nine Steps 
-// The Thomas Crown Affair: & 1999)
+// The Thirteenth Year  
+// The Thirty Nine Steps 
+// The Thomas Crown Affair
 // The Thorn 
 // The Thousand Eyes of Dr. Mabuse 
 // The Three Burials of Melquiades Estrada 
@@ -20344,9 +20187,7 @@ export const Pokemon = [
 // The Three Godfathers 
 // The Three Lives of Thomasina 
 // The Three Marias 
-// The Three Musketeers:  1933 serial, 1973, 1992 & 1993)
-// The Three Musketeers:  1933, 1973, 1992 & 1993)
-// The Three Stooges 
+// The Three Musketeers
 // The Three Stooges 
 // The Three Stooges Go Around the World in a Daze 
 // The Three Stooges Meet Hercules 
@@ -20357,7 +20198,7 @@ export const Pokemon = [
 // The Tiger Brigades 
 // The Tiger and the Snow 
 // The Tigger Movie 
-// The Time Machine: & 2002)
+// The Time Machine
 // The Time Traveler's Wife 
 // The Time Travelers 
 // The Time of Their Lives 
@@ -20373,15 +20214,14 @@ export const Pokemon = [
 // The Toll of the Sea 
 // The Tomb of Ligeia 
 // The Toolbox Murders 
-// The Tortoise and the Hare: & 2008)
+// The Tortoise and the Hare
 // The Touch 
 // The Tourist 
 // The Tournament 
 // The Towering Inferno 
 // The Town 
-// The Town That Dreaded Sundown: & 2014)
+// The Town That Dreaded Sundown
 // The Toxic Avenger 
-// The Toxic Avenger Part II 
 // The Toxic Avenger Part III: The Last Temptation of Toxie 
 // The Toy 
 // The Traffickers 
@@ -20397,13 +20237,14 @@ export const Pokemon = [
 // The Tree of Might 
 // The Tree of Wooden Clogs 
 // The Trespasser 
-// The Trial: & 1993)
+// The Trial
 // The Tricky Master 
 // The Trigger Effect 
 // The Trip 
 // The Trip to Bountiful 
 // The Triplets of Belleville 
-// The Triumph of the Nerds: The Rise of Accidental Empires  / The Triumph of the Weak 
+// The Triumph of the Nerds: The Rise of Accidental Empires  
+// The Triumph of the Weak 
 // The Troll Hunter 
 // The Trollenberg Terror 
 // The Trouble with Angels 
@@ -20418,20 +20259,16 @@ export const Pokemon = [
 // The Truth About Charlie 
 // The Truth About Love 
 // The Tune 
-// The Turning Point: & 1977)
+// The Turning Point
 // The Tuxedo 
-// The Twelve Chairs film) 
-// The Twelve Chairs:  1971 & 1976)
-// The Twelve Months: & 1972)
+// The Twelve Chairs 
+// The Twelve Months
 // The Twelve Tasks of Asterix 
-// The Twilight Saga: Breaking Dawn – Part 1 
-// The Twilight Saga: Breaking Dawn – Part 2 
 // The Twilight Saga: Eclipse 
 // The Twilight Saga: New Moon 
 // The Twilight Samurai 
 // The Twins Effect 
-// The Twins Effect II 
-// The Twins: & 2005)
+// The Twins
 // The Twist 
 // The Two Brothers 
 // The Two Faces of Dr. Jekyll 
@@ -20445,18 +20282,17 @@ export const Pokemon = [
 // The U Movie 
 // The U.P. Trail 
 // The U.S. vs. John Lennon 
-// The UFO Incident TV)
+// The UFO Incident
 // The Ugly 
 // The Ugly American 
 // The Ugly Boy 
 // The Ugly Dachshund 
-// The Ugly Duckling and Me! 
-// The Ugly Duckling:  1931, 1939 & 1959)
+// The Ugly Duckling
 // The Ugly Ones 
 // The Ugly Swans 
 // The Ugly Truth 
 // The Ultimate Accessory 
-// The Ultimate Christmas Present V)
+// The Ultimate Christmas Present 
 // The Ultimate Gift 
 // The Ultimate Life 
 // The Ultimate Task 
@@ -20470,25 +20306,23 @@ export const Pokemon = [
 // The Umbrellas of Cherbourg 
 // The Unafraid 
 // The Unamenables 
-// The Unauthorized Beverly Hills, 90210 Story TV)
-// The Unauthorized Full House Story TV)
-// The Unauthorized Melrose Place Story TV)
-// The Unauthorized Saved by the Bell Story TV)
+// The Unauthorized Full House Story 
+// The Unauthorized Melrose Place Story 
+// The Unauthorized Saved by the Bell Story 
 // The Unbearable Lightness of Being 
 // The Unbearable Lightness of Inspector Fan 
 // The Unbearable Salesman 
 // The Unbelievable Truth 
 // The Unbeliever 
 // The Unbelievers 
-// The Unborn 2 
-// The Unborn: & 2009)
+// The Unborn
 // The Unburied Man 
 // The Uncanny 
 // The Uncanny House 
 // The Uncertainty Has Settled 
 // The Uncertainty Principle 
 // The Unchanging Sea 
-// The Unchastened Woman: & 1925)
+// The Unchastened Woman
 // The Uncle 
 // The Uncle from America 
 // The Uncle from Peking 
@@ -20498,28 +20332,28 @@ export const Pokemon = [
 // The Uncondemned 
 // The Unconquered 
 // The Undead 
-// The Undefeated:  2000 & 2011)
+// The Undefeated
 // The Underground Comedy Movie 
 // The Underneath 
-// The Undertaker: & 1988)
-// The Undertow: & 1916)
+// The Undertaker
+// The Undertow
 // The Underworld Story 
 // The Undying Monster 
 // The Unearthly 
 // The Unfaithful 
 // The Unfaithful Wife 
-// The Unforgiven: & 2005)
+// The Unforgiven
 // The Unholy Garden 
-// The Unholy Three: & 1930)
-// The Unicorn: & 2018)
-// The Uninvited: & 2008)
+// The Unholy Three
+// The Unicorn
+// The Uninvited
 // The United States of Leland 
 // The Universal Language 
-// The Unknown Soldier:  1955, 1985 & 2017)
-// The Unknown: comedy, 1915 drama, 1927, 1936, & 1946)
+// The Unknown Soldier
+// The Unknown
 // The Unlawful Trade 
 // The Unloved 
-// The Unloved Woman:  1940 & 1949)
+// The Unloved Woman
 // The Unmarried Wife 
 // The Unmarried Woman 
 // The Unmasking 
@@ -20542,7 +20376,7 @@ export const Pokemon = [
 // The Unseeable 
 // The Unseen Vengeance 
 // The Unseen World 
-// The Unseen:  1980 & 2016)
+// The Unseen
 // The Unshrinkable Jerry Mouse 
 // The Unsinkable Molly Brown 
 // The Unspeakable 
@@ -20552,13 +20386,12 @@ export const Pokemon = [
 // The Unsuspecting Angel 
 // The Untamed Breed 
 // The Untamed Lady 
-// The Untamed: & 2016)
+// The Untamed
 // The Unthinkable 
 // The Untimely Gift 
 // The Untitled Kartik Krishnan Project 
 // The Untold 
 // The Untold Story 
-// The Untold Story 2 
 // The Untouchables 
 // The Untouched Woman 
 // The Unusual Past of Thea Carter 
@@ -20566,11 +20399,11 @@ export const Pokemon = [
 // The Unvanquished 
 // The Unveiling Hand 
 // The Unwanted Girl 
-// The Unwanted:  1951 & 2014)
+// The Unwanted
 // The Unwelcome Guest 
 // The Unwelcome Mrs. Hatch 
 // The Unwelcome Stranger 
-// The Unwritten Law:  1922, 1925, 1929, 1932 & 1985)
+// The Unwritten Law
 // The Ups and Downs 
 // The Upside 
 // The Upside of Anger 
@@ -20580,12 +20413,12 @@ export const Pokemon = [
 // The Urethra Chronicles II: Harder Faster Faster Harder 
 // The Usual Suspects 
 // The V.I.P.s 
-// The Vagabond King: & 1956)
+// The Vagabond King
 // The Vagabond Lover 
 // The Vagabond Queen 
 // The Vagabond Trail 
-// The Vagabond: & 1953)
-// The Vagabonds:  1916, 1937 & 1939)
+// The Vagabond
+// The Vagabonds
 // The Vagrant 
 // The Valachi Papers 
 // The Valentine Girl 
@@ -20593,7 +20426,7 @@ export const Pokemon = [
 // The Valet's Wife 
 // The Valiant Hombre 
 // The Valiant Navigator 
-// The Valiant: & 1962)
+// The Valiant
 // The Valley Below 
 // The Valley Resounds 
 // The Valley of Death 
@@ -20605,8 +20438,8 @@ export const Pokemon = [
 // The Valley of Silent Men 
 // The Valley of Water 
 // The Valley of the Bees 
-// The Valley of the Giants: & 1927)
-// The Valley:  1976, 2014, & 2017)
+// The Valley of the Giants
+// The Valley
 // The Vamp 
 // The Vampire Bat 
 // The Vampire Doll 
@@ -20617,17 +20450,18 @@ export const Pokemon = [
 // The Vampire of Düsseldorf 
 // The Vampire of the Opera 
 // The Vampire's Ghost 
-// The Vampire:  1915 & 1957)
+// The Vampire
 // The Vampires Night Orgy 
 // The Vampires of Bloody Island 
 // The Van Nostrand Tiara 
-// The Van: & 1996)
+// The Van
 // The Vancouver Asahi 
 // The Vandergilt Diamond Mystery 
 // The Vanished Elephant 
 // The Vanished Murderer 
-// The Vanished: & 2018)
-// The Vanishing Act // The Vanishing American: & 1955)
+// The Vanished
+// The Vanishing Act 
+// The Vanishing American
 // The Vanishing Dagger 
 // The Vanishing Duck 
 // The Vanishing Frontier 
@@ -20641,7 +20475,7 @@ export const Pokemon = [
 // The Vanishing Virginian 
 // The Vanishing Westerner 
 // The Vanishing of Sidney Hall 
-// The Vanishing:  1993 & 2019)
+// The Vanishing
 // The Vanity Pool 
 // The Vanity Serum 
 // The Vanquished 
@@ -20655,7 +20489,7 @@ export const Pokemon = [
 // The Vegas Strip War 
 // The Veil Dancer 
 // The Veil of Twilight 
-// The Veil: & 2017)
+// The Veil
 // The Veiled Adventure 
 // The Veiled Woman 
 // The Veils of Bagdad 
@@ -20683,7 +20517,7 @@ export const Pokemon = [
 // The Venus of Montmartre 
 // The Verdict of Lake Balaton 
 // The Verdict of the Heart 
-// The Verdict:  1959, 1982 & 2013)
+// The Verdict
 // The Vermilion Pencil 
 // The Verona Trial 
 // The Versace Murder 
@@ -20696,32 +20530,32 @@ export const Pokemon = [
 // The Very Merry Widows 
 // The Very Private Life of Mister Sim 
 // The Very Same Munchhausen 
-// The Very Thought of You: & 1998)
+// The Very Thought of You
 // The Vessel 
 // The Vesuvians 
 // The Veteran of Waterloo 
-// The Veteran: & 2011)
+// The Veteran
 // The Veterinarian's Adopted Children 
 // The Vice Squad 
-// The Victim:  1980, 2006, 2011, & 2012)
+// The Victim
 // The Vigilante 
-// The Viking: & 1931)
+// The Viking
 // The Vikings 
 // The Village Barbershop 
 // The Village of No Return 
-// The Village:  2004 & 2015)
-// The Villain: & 1979)
+// The Village
+// The Villain
 // The Vineyard 
-// The Virgin Queen: & 1955)
+// The Virgin Queen
 // The Virgin Soldiers 
 // The Virgin Spring 
 // The Virgin Suicides 
-// The Virginian:  1923, 1929 & 1946)
-// The Visit:  2000, 2015 America, & 2015 Nigeria)
+// The Virginian
+// The Visit
 // The Visitation 
-// The Visitor:  2002, 2007 short, 2007 drama & 2015)
+// The Visitor
 // The Visitors II: The Corridors of Time 
-// The Visitors: & 1993)
+// The Visitors
 // The Visitors: Bastille Day 
 // The Vivero Letter 
 // The Vixen 
@@ -20732,7 +20566,7 @@ export const Pokemon = [
 // The Voice in the Wilderness 
 // The Voice of Action 
 // The Voice of Bugle Ann 
-// The Voice of Conscience:  1927 & 1920)
+// The Voice of Conscience
 // The Voice of Happiness 
 // The Voice of Love 
 // The Voice of Merrill 
@@ -20740,45 +20574,46 @@ export const Pokemon = [
 // The Voice of Passion 
 // The Voice of Warning 
 // The Voice of the Child 
-// The Voice of the Heart: & 1937)
+// The Voice of the Heart
 // The Voice of the Moon 
 // The Voice of the Turtle 
 // The Voice of the Violin 
 // The Voice of the Voiceless 
-// The Voice:  1982, 1992 & 2010)
+// The Voice
 // The Voices 
-// The Void: & 2016)
+// The Void
 // The Volcano Disaster 
 // The Volga Boatman 
-// The Volunteer: & 1943)
+// The Volunteer
 // The Voorman Problem 
 // The Vortex 
 // The Vote That Counted 
-// The Vow: & 2012)
+// The Vow
 // The Vows 
 // The Voyage of Doctor Dolittle 
 // The Voyage of the Bourrichon Family 
 // The Voyage that Shook the World 
-// The Voyage: & 1974)
+// The Voyage
 // The Voyager 
-// The Voyeur: & 1994)
+// The Voyeur
 // The Vulgar Hours 
-// The Vulture Wally:  1940 & 1956)
+// The Vulture Wally
 // The Vulture's Eye 
-// The Vulture:  1967, 1981 & 1982)
+// The Vulture
 // The Vultures 
 // The Vyborg Side 
 // The Wabbit Who Came to Supper 
 // The Wackness 
-// The Wager: & 2007)
+// The Wager
 // The Wages of Fear 
-// The Walk:  2001, & 2015)
+// The Walk
 // The Walker 
 // The Wanderer in Bulgar 
-// The Wanderer:  1925, & 1967)
+// The Wanderer
 // The Wanderers 
 // The Wannabes 
-// The War Game  / The War Lord 
+// The War Game  
+// The War Lord 
 // The War Lover 
 // The War Room 
 // The War Wagon 
@@ -20786,31 +20621,31 @@ export const Pokemon = [
 // The War in Space 
 // The War of the Roses 
 // The War of the Worlds 
-// The War: & 2007)
+// The War
 // The Ward 
-// The Warlord: Battle for the Galaxy  / The Warlords 
+// The Warlord: Battle for the Galaxy  
+// The Warlords 
 // The Warrior 
 // The Warrior and the Wolf 
 // The Warrior's Gate 
 // The Warrior's Way 
 // The Warriors 
 // The Warriors Gate 
-// The Wash: & 2001)
+// The Wash
 // The Wasp Woman 
 // The Wasted Times 
-// The Watch: & 2012)
+// The Watch
 // The Watcher 
 // The Watcher in the Woods 
 // The Water Babies 
 // The Water Horse: Legend of the Deep 
 // The Waterboy 
 // The Waterdance 
-// The Wave: & 2015)
-// The Way & 2017)
+// The Wave
+// The Way
 // The Way Ahead 
 // The Way Back 
-// The Way Home: & 1937)
-// The Way Home:  2010 American, & 2010 Indian)
+// The Way Home
 // The Way Way Back 
 // The Way We Were 
 // The Way West 
@@ -20823,19 +20658,19 @@ export const Pokemon = [
 // The Web 
 // The Wedding Banquet 
 // The Wedding Date 
-// The Wedding March:  1928, 1929 & 2016)
+// The Wedding March
 // The Wedding Planner 
 // The Wedding Singer 
 // The Weight of Water 
 // The Weird Doll 
-// The Well-Digger's Daughter: & 2011)
+// The Well-Digger's Daughter
 // The Wendell Baker Story 
 // The Werewolf of Washington 
 // The Werewolf of Woodstock 
-// The Werewolf: & 1956)
+// The Werewolf
 // The Wesley's Mysterious File 
 // The West Point Story 
-// The West: & 1996)
+// The West
 // The Westerner 
 // The Wet Parade 
 // The Whales of August 
@@ -20847,21 +20682,21 @@ export const Pokemon = [
 // The White Buffalo 
 // The White Cliffs of Dover 
 // The White Countess 
-// The White Horse Inn:  1935, 1952 & 1960)
+// The White Horse Inn
 // The White Parade 
 // The White Ribbon 
 // The White Sheik 
 // The Whole Nine Yards 
 // The Whole Ten Yards 
-// The Whole Truth: & 1958)
+// The Whole Truth
 // The Whole Wide World 
 // The Whoopee Boys 
 // The Wicked City 
-// The Wicked Lady: & 1983)
-// The Wicked: & 2013)
-// The Wicker Man: & 2006)
+// The Wicked Lady
+// The Wicked
+// The Wicker Man
 // The Wicker Tree 
-// The Widow & 1955)
+// The Widow 
 // The Widow of Saint-Pierre 
 // The Wife 
 // The Wiggles Movie 
@@ -20877,18 +20712,18 @@ export const Pokemon = [
 // The Wild One 
 // The Wild Ones 
 // The Wild Parrots of Telegraph Hill 
-// The Wild Party:  1929, 1956 & 1975)
+// The Wild Party
 // The Wild Ride 
 // The Wild Thornberrys Movie 
 // The Wild and Wycked World of Brian Jones 
-// The Wildcat: & 1936)
-// The Will: & 1939)
+// The Wildcat
+// The Will
 // The Wind Rises 
 // The Wind That Shakes the Barley 
 // The Wind Will Carry Us 
 // The Wind and the Lion 
-// The Wind in the Willows:  1987, 1995, 1996 & 2006 TV)
-// The Wind:  1982 & 1986)
+// The Wind in the Willows
+// The Wind
 // The Winding Road 
 // The Winding Stair 
 // The Windmill 
@@ -20897,8 +20732,8 @@ export const Pokemon = [
 // The Window Cleaner 
 // The Wings 
 // The Wings of Eagles 
-// The Wings of the Dove: & 1997)
-// The Winslow Boy: & 1999)
+// The Wings of the Dove
+// The Winslow Boy
 // The Winter 
 // The Winter Guest 
 // The Winter War 
@@ -20907,37 +20742,37 @@ export const Pokemon = [
 // The Witch 
 // The Witches Cave 
 // The Witches of Eastwick 
-// The Witches:  1967 & 1990)
+// The Witches
 // The Witness - A Change of Heart 
-// The Witness: French, 1969 Hungarian, 1992 short, 2000, 2012, 2015 American & 2015 Chinese)
+// The Witness
 // The Wiz 
 // The Wizard 
-// The Wizard of Gore & 2007)
-// The Wizard of Lies TV)
-// The Wizard of Oz:  1939 & 1982)
+// The Wizard of Gore
+// The Wizard of Lies 
+// The Wizard of Oz
 // The Wizard of Speed and Time 
 // The Woes of Roller Skaters 
 // The Wog Boy 
 // The Wold Shadow 
 // The Wolf Dog 
 // The Wolf Hunters 
-// The Wolf Man: short, 1941)
+// The Wolf Man
 // The Wolf Men 
 // The Wolf Woman 
 // The Wolf at the Door 
 // The Wolf of Debt 
-// The Wolf of Wall Street: & 2013)
+// The Wolf of Wall Street
 // The Wolf of the Sila 
 // The Wolf's Call 
-// The Wolf:  1949 & 2004)
+// The Wolf
 // The Wolfman 
 // The Wolfpack 
 // The Wolverine 
 // The Wolves of Willoughby Chase 
-// The Wolves: & 1971)
+// The Wolves
 // The Woman Accused 
 // The Woman Beneath 
-// The Woman Between: American & 1931 British)
+// The Woman Between
 // The Woman Chaser 
 // The Woman Condemned 
 // The Woman Conquers 
@@ -20949,7 +20784,7 @@ export const Pokemon = [
 // The Woman Gives 
 // The Woman God Changed 
 // The Woman God Forgot 
-// The Woman Hater: Powers film, 1910 Thanhouser film & 1925)
+// The Woman Hater
 // The Woman Haters 
 // The Woman He Loved 
 // The Woman He Married 
@@ -20961,7 +20796,7 @@ export const Pokemon = [
 // The Woman Juror 
 // The Woman Knight of Mirror Lake 
 // The Woman Michael Married 
-// The Woman Next Door:  1919 & 1981)
+// The Woman Next Door
 // The Woman One Longs For 
 // The Woman Racket 
 // The Woman Suffers 
@@ -20977,9 +20812,9 @@ export const Pokemon = [
 // The Woman Who Brushed Off Her Tears 
 // The Woman Who Came Back 
 // The Woman Who Couldn't Say No 
-// The Woman Who Dared: & 1944)
+// The Woman Who Dared
 // The Woman Who Desires Sin 
-// The Woman Who Did: & 1925)
+// The Woman Who Did
 // The Woman Who Drinks 
 // The Woman Who Gave 
 // The Woman Who Invented Love 
@@ -20994,10 +20829,10 @@ export const Pokemon = [
 // The Woman Without Nerves 
 // The Woman Without a Soul 
 // The Woman Worth Millions 
-// The Woman and the Puppet: & 1929)
+// The Woman and the Puppet
 // The Woman and the Stranger 
 // The Woman at Midnight 
-// The Woman at the Crossroads: & 1938)
+// The Woman at the Crossroads
 // The Woman by the Dark Window 
 // The Woman for Joe 
 // The Woman from Berlin 
@@ -21008,12 +20843,10 @@ export const Pokemon = [
 // The Woman from Monte Carlo 
 // The Woman from Moscow 
 // The Woman from Tangier 
-// The Woman from Till 12 
 // The Woman from Warren's 
 // The Woman from the Folies Bergères 
 // The Woman from the Orient 
-// The Woman in 47 
-// The Woman in Black: & 2012)
+// The Woman in Black
 // The Woman in Black: Angel of Death 
 // The Woman in Blue 
 // The Woman in Doctor's Garb 
@@ -21023,23 +20856,22 @@ export const Pokemon = [
 // The Woman in Heaven 
 // The Woman in His House 
 // The Woman in Question 
-// The Woman in Red:  1947 & 1984)
-// The Woman in Room 13: & 1932)
+// The Woman in Red
 // The Woman in the Fifth 
 // The Woman in the Window 
 // The Woman's Angle 
 // The Woman's Crusade 
 // The Woman's Law 
-// The Woman: & 2011)
-// The Women: & 2008)
+// The Woman
+// The Women
 // The Wonderful Horrible Life of Leni Riefenstahl 
 // The Wonderful Ice Cream Suit 
 // The Wonderful Land of Oz 
-// The Wonderful Wizard of Oz: & 1975)
+// The Wonderful Wizard of Oz
 // The Wood 
 // The Wooden Man's Bride 
-// The Woods: & 2011)
-// The Woodsman: & 2016)
+// The Woods
+// The Woodsman
 // The Words 
 // The Work and the Glory 
 // The Working Class Goes to Heaven 
@@ -21055,7 +20887,7 @@ export const Pokemon = [
 // The World's Greatest Athlete 
 // The World's Greatest Lover 
 // The World's Strongest 
-// The World, the Flesh and the Devil: & 1959)
+// The World, the Flesh and the Devil
 // The World, the Flesh, the Devil 
 // The Worst of Faces of Death 
 // The Wraith 
@@ -21067,14 +20899,14 @@ export const Pokemon = [
 // The Wrath of the Gods 
 // The Wreck in the North Sea 
 // The Wreck of the Dunbar or The Yeoman's Wedding 
-// The Wreck of the Hesperus: & 1948)
+// The Wreck of the Hesperus
 // The Wreck of the Mary Deare 
 // The Wreck of the Singapore 
-// The Wreck: & 1927)
-// The Wrecker: & 1933)
-// The Wrecking Crew:  2000 & 2008)
+// The Wreck
+// The Wrecker
+// The Wrecking Crew
 // The Wrestler and the Clown 
-// The Wrestler: & 2008)
+// The Wrestler
 // The Wretches Are Still Singing 
 // The Wright Brothers 
 // The Writer with No Hands 
@@ -21090,7 +20922,7 @@ export const Pokemon = [
 // The Wrong Guy 
 // The Wrong Guys 
 // The Wrong Husband 
-// The Wrong Man:  1956 & 1993)
+// The Wrong Man
 // The Wrong Move 
 // The Wrong Mr. Perkins 
 // The Wrong Mr. Wright 
@@ -21103,7 +20935,6 @@ export const Pokemon = [
 // The X-Files 
 // The X-Files: I Want to Believe 
 // The Xi'an Incident 
-// The Xposé 
 // The Yacht Isabel Arrived This Afternoon 
 // The Yacoubian Building 
 // The Yakuza 
@@ -21114,7 +20945,7 @@ export const Pokemon = [
 // The Yankee Girl 
 // The Yankee Señor 
 // The Yankles 
-// The Yanks Are Coming: & 1963)
+// The Yanks Are Coming
 // The Yaqui Cur 
 // The Yaqui Girl 
 // The Yards 
@@ -21124,11 +20955,11 @@ export const Pokemon = [
 // The Year of the Dog 
 // The Year of the Rabbit 
 // The Year of the Yao 
-// The Yearling: & 1994)
+// The Yearling
 // The Yellow Birds 
 // The Yellow Canary 
 // The Yellow Claw 
-// The Yellow Handkerchief: & 2008)
+// The Yellow Handkerchief
 // The Yellow Rolls-Royce 
 // The Yellow Ticket 
 // The Yes Men 
@@ -21145,19 +20976,18 @@ export const Pokemon = [
 // The Young Blood Chronicles 
 // The Young Girls of Rochefort 
 // The Young Master 
-// The Young One: & 2016)
+// The Young One
 // The Young Philadelphians 
 // The Young Poisoner's Handbook 
 // The Young Victoria 
 // The Young, the Evil and the Savage 
 // The Yuppie Fantasia 
-// The Yuppie Fantasia 3 
 // The Za-Bum Circus 
-// The Zany Adventures of Robin Hood TV)
+// The Zany Adventures of Robin Hood 
 // The Zen Diaries of Garry Shandling 
 // The Zen of Bennett 
 // The Zero Boys 
-// The Zero Hour: & 2010)
+// The Zero Hour
 // The Zero Theorem 
 // The Zero Years 
 // The Zhang Family's Daughter-in-Law 
@@ -21169,7 +20999,7 @@ export const Pokemon = [
 // The Zombie King 
 // The Zombinator 
 // The Zone of Death 
-// The Zone:  2011, & 2017)
+// The Zone
 // The Zoo Gang 
 // The Zookeeper 
 // The Zookeeper's Wife 
@@ -21183,7 +21013,6 @@ export const Pokemon = [
 // Thelma & Louise 
 // Them 
 // Them Thar Hills 
-// Them! 
 // Themroc 
 // Then She Found Me 
 // Theodora Goes Wild 
@@ -21191,7 +21020,6 @@ export const Pokemon = [
 // Theodore Rex 
 // Theorem 
 // There Be Dragons 
-// There Was a Crooked Man... 
 // There Was a Father 
 // There Will Be Blood 
 // There Will Be No Leave Today 
@@ -21204,8 +21032,6 @@ export const Pokemon = [
 // These Three 
 // They 
 // They All Laughed 
-// They Call Me Bruce? 
-// They Call Me MISTER Tibbs! 
 // They Call Me Trinity 
 // They Came Back 
 // They Died with Their Boots On 
@@ -21216,12 +21042,11 @@ export const Pokemon = [
 // They Live by Night 
 // They Might Be Giants 
 // They Saved Hitler's Brain 
-// They Shoot Horses, Don't They? 
 // They Still Call Me Bruce 
 // They Were Expendable 
 // They're a Weird Mob 
 // Thick as Thieves 
-// Thicker than Water:  1999, 2000, 2005 & 2006)
+// Thicker than Water
 // Thief 
 // Thieves Like Us 
 // Thieves' Highway 
@@ -21239,7 +21064,6 @@ export const Pokemon = [
 // Thirteen Conversations About One Thing 
 // Thirteen Days 
 // Thirteen Ghosts 
-// Thirteen Ghosts: & 2001)
 // Thirteen Princess Trees 
 // Thirteen Women 
 // Thirty Seconds Over Tokyo 
@@ -21249,7 +21073,6 @@ export const Pokemon = [
 // This Girl's Life 
 // This Gun for Hire 
 // This Happy Breed 
-// This Is 40 
 // This Is Cinerama 
 // This Is England 
 // This Is Martin Bonner 
@@ -21277,7 +21100,7 @@ export const Pokemon = [
 // Thoroughly Modern Millie 
 // Those Magnificent Men in Their Flying Machines 
 // Those Were Wonderful Days 
-// Those Were the Days:  1997, & 2000)
+// Those Were the Days
 // Thou Shalt Honor Thy Wife 
 // Thoughtcrimes 
 // Thousands Cheer 
@@ -21306,12 +21129,11 @@ export const Pokemon = [
 // Three Outlaw Samurai 
 // Three Reservists 
 // Three Seasons 
-// Three Sisters:  1970, 1970 Olivier & 1994)
-// Three Sisters: Olivier & 1994)
+// Three Sisters
 // Three Smart Girls 
 // Three Stories of Love 
 // Three Times 
-// Three Women:  1949 & 1952)
+// Three Women
 // Three Young Texans 
 // Three Young Texans 
 // Three for the Road 
@@ -21328,16 +21150,15 @@ export const Pokemon = [
 // Through a Glass Darkly 
 // Throw Momma from the Train 
 // Thru the Mirror 
-// Thumbelina: & 1994)
+// Thumbelina
 // Thumbsucker 
 // Thunder Bay 
 // Thunder Road 
 // Thunderball 
-// Thunderbird 6 
 // Thunderbirds 
 // Thunderbirds Are Go 
 // Thunderbolt and Lightfoot 
-// Thunderbolt:  1929, & 1995)
+// Thunderbolt
 // Thunderheart 
 // Thunderpants 
 // Thunderstruck 
@@ -21347,18 +21168,17 @@ export const Pokemon = [
 // Tickle Me 
 // Ticks 
 // Tideland 
-// Tie Me Up! Tie Me Down! 
 // Tieta do Agreste 
 // Tiger Bay 
-// Tiger Cruise  / Tiger Eyes 
+// Tiger Cruise  
+// Tiger Eyes 
 // Tiger on Beat 
 // Tigerland 
 // Tightrope 
 // Tik Tok 
 // Til Death 
-// Tilaï 
 // Till Human Voices Wake Us 
-// Till There Was You: & 2003)
+// Till There Was You
 // Till the Clouds Roll By 
 // Tillamook Treasure 
 // Tillie's Punctured Romance 
@@ -21399,33 +21219,26 @@ export const Pokemon = [
 // Tintin and the Temple of the Sun 
 // Tiny Furniture 
 // Tiny Times 
-// Tiny Times 2 
-// Tiny Times 3 
-// Tiny Times 4 
 // Tiny Toon Adventures: How I Spent My Vacation 
-// Tiovivo c. 1950 
 // Tiptoes 
 // Tirana Year Zero 
 // Tirant lo Blanc 
 // Tit for Tat 
-// Titan A.E. 
-// Titanic II 
 // Titanic Town 
-// Titanic:  1953, & 1997)
+// Titanic
 // Titicut Follies 
 // Title to Murder 
 // Tito and Me 
 // Titus 
 // Tko pjeva zlo ne misli 
 // To Be and to Have 
-// To Be or Not to Be: & 1983)
+// To Be or Not to Be
 // To Beat the Band 
 // To Beep or Not to Beep 
 // To Catch a Thief 
-// To Die For:  1994 & 1995)
+// To Die For
 // To Each His Own 
 // To End All Wars 
-// To Fly! 
 // To Have and Have Not 
 // To Have and to Hold 
 // To Have or Not to Have 
@@ -21434,13 +21247,12 @@ export const Pokemon = [
 // To Kill a King 
 // To Kill a Mockingbird 
 // To Live 
-// To Live and Die in L.A. 
 // To Live in Peace 
 // To Paint or Make Love 
 // To Rome with Love 
 // To Save a Life 
 // To Shoot an Elephant 
-// To Sir, with Love: & 2006)
+// To Sir, with Love
 // To Wong Foo, Thanks for Everything! Julie Newmar 
 // To the Devil a Daughter 
 // To the Last Man 
@@ -21449,7 +21261,7 @@ export const Pokemon = [
 // Tobruk 
 // Today You Die 
 // Together Alone 
-// Together: & 2002)
+// Together
 // Tokyo Drifter 
 // Tokyo Fist 
 // Tokyo Ghoul 
@@ -21465,7 +21277,7 @@ export const Pokemon = [
 // Tom & Huck 
 // Tom Horn 
 // Tom Jones 
-// Tom Sawyer: & 2000)
+// Tom Sawyer
 // Tom Thumb 
 // Tom White 
 // Tom and Jerry Meet Sherlock Holmes 
@@ -21490,14 +21302,14 @@ export const Pokemon = [
 // Tombs of the Blind Dead 
 // Tombstone 
 // Tombstone, the Town Too Tough to Die 
-// Tomcats: & 2001)
+// Tomcats
 // Tommy 
 // Tommy Boy 
 // Tomorrow I Will Date With Yesterday's You 
 // Tomorrow Is Forever 
 // Tomorrow Never Dies 
 // Tomorrow, When the War Began 
-// Tomorrow:  1988 & 2001)
+// Tomorrow
 // Tomorrowland 
 // Tongpan 
 // Toni 
@@ -21517,20 +21329,17 @@ export const Pokemon = [
 // Top Gun 
 // Top Gun: Maverick 
 // Top Hat 
-// Top Secret! 
 // Top of the World 
-// Topaz: & 1969)
+// Topaz
 // Topkapi 
 // Topper 
 // Topper Returns 
 // Topsy-Turvy 
-// Tora! Tora! Tora! 
 // Torch Song 
 // Torment 
-// Tormented:  2009 British, 2009 short, 2011)
+// Tormented
 // Torn Curtain 
 // Torque 
-// Torremolinos 73 
 // Torrente 2: Misión en Marbella 
 // Torrente, el brazo tonto de la ley 
 // Torso 
@@ -21540,7 +21349,7 @@ export const Pokemon = [
 // Tosun Pasa 
 // Total Balalaika Show 
 // Total Eclipse 
-// Total Recall: & 2012)
+// Total Recall
 // Touch 
 // Touch of Evil 
 // Touch of Pink 
@@ -21554,16 +21363,13 @@ export const Pokemon = [
 // Towelhead 
 // Tower Heist 
 // Tower of London 
-// Tower of Terror: & 1997)
+// Tower of Terror
 // Town & Country 
 // Town of the Dragon 
 // Toxic Zombies 
 // Toy Soldiers 
 // Toy Spoiler 
 // Toy Story 
-// Toy Story 2 
-// Toy Story 3 
-// Toy Story 4 
 // Toys 
 // Traces of Death 
 // Trailer Park Boys: The Movie 
@@ -21590,19 +21396,15 @@ export const Pokemon = [
 // Transmorphers 
 // Transmorphers: Fall of Man 
 // Transparent Man 
-// Transporter 2 
-// Transporter 3 
 // Transsiberian 
-// Transylvania 6-5000: & 1985)
 // Trapped in Paradise 
-// Trapped: & 2002)
+// Trapped
 // Tras el cristal 
 // Trash 
-// Trauma: & 2004)
-// Traumschiff Surprise - Periode 1 
+// Trauma
 // Travellers and Magicians 
 // Travels with My Aunt 
-// Treasure Island:  1950, 1972 animated, 1972 live-action, 1982, 1985, 1987, 1988, 1990 TV, & 1999)
+// Treasure Island
 // Treasure Planet 
 // Trees Lounge 
 // Trekkies 
@@ -21612,20 +21414,20 @@ export const Pokemon = [
 // Tremors 4: The Legend Begins 
 // Tremors 5: Bloodlines 
 // Tremors: A Cold Day in Hell 
-// Trespass: & 2011)
+// Trespass
 // Trial and Error 
 // Triangle 
-// Tribute: & 2009)
+// Tribute
 // Trick 
-// Trick or Treat: & 2006)
+// Trick or Treat
 // Tricky Brains 
 // Trigun: Badlands Rumble 
-// Trilogy of Terror  / Trilogy of Terror II  / Trinity 
-// Trinity Is STILL My Name! 
+// Trilogy of Terror  
+// Trinity 
 // Tripfall 
 // Triple Trouble 
 // Triplex 
-// Trishna:  2009 & 2011)
+// Trishna
 // Tristan & Isolde 
 // Tristana 
 // Tristram Shandy: A Cock and Bull Story 
@@ -21637,8 +21439,6 @@ export const Pokemon = [
 // Trojan War 
 // Trojan Warrior 
 // Troll 
-// Troll 2 
-// Troll 3 
 // Trolley Troubles 
 // Trolls 
 // Tromeo and Juliet 
@@ -21651,18 +21451,19 @@ export const Pokemon = [
 // Tropic of Ice 
 // Tropical Malady 
 // Trouble Every Day 
-// Trouble Makers: & 2006)
+// Trouble Makers
 // Trouble Man 
 // Trouble in Paradise 
 // Trouble with the Curve 
 // Troubled Laughter 
 // Troy 
-// Tru Confessions  / Truck Turner 
+// Tru Confessions  
+// Truck Turner 
 // Trudell 
 // True Believer 
 // True Confessions 
 // True Crime 
-// True Grit: & 2010)
+// True Grit
 // True Lies 
 // True Love 
 // True Romance 
@@ -21670,8 +21471,7 @@ export const Pokemon = [
 // Truly, Madly, Deeply 
 // Trunk to Cairo 
 // Trust the Man 
-// Trust: & 2010)
-// Truth or Consequences, N.M. 
+// Trust
 // Truth or Dare 
 // Tsotsi 
 // Tsugaru Folk Song 
@@ -21679,7 +21479,7 @@ export const Pokemon = [
 // Tsukuroi Tatsu Hito 
 // Tsure ga Utsu ni Narimashite 
 // Tube Tales 
-// Tuck Everlasting: & 2002)
+// Tuck Everlasting
 // Tucker & Dale vs. Evil 
 // Tucker: The Man and His Dream 
 // Tuff Turf 
@@ -21687,10 +21487,10 @@ export const Pokemon = [
 // Tulivesi 
 // Tully 
 // Tulsa 
-// Tumbleweeds: & 1999)
+// Tumbleweeds
 // Tumko Na Bhool Paayenge 
 // Tunes of Glory 
-// Tunnel Vision: & 1995)
+// Tunnel Vision
 // Tupac: Resurrection 
 // Turbo 
 // Turbo Kid 
@@ -21698,20 +21498,20 @@ export const Pokemon = [
 // Turbulence 
 // Turbulence 2: Fear of Flying 
 // Turbulence 3: Heavy Metal 
-// Turbulence: & 2011)
+// Turbulence
 // Turistas 
-// Turkish Delight: & 1973)
+// Turkish Delight
 // Turn It Up 
 // Turn Left, Turn Right 
 // Turner & Hooch 
 // Turok: Son of Stone 
 // Turtles Can Fly 
-// Turtles Forever  TV)
+// Turtles Forever  
 // Tuvalu 
 // Tweetie Pie 
 // Tweety and the Beanstalk 
 // Tweety's High-Flying Adventure 
-// Twelfth Night:  1955, 1980 & 1986
+// Twelfth Night
 // Twelfth Night: Or What You Will 
 // Twelve 
 // Twelve Months 
@@ -21722,7 +21522,7 @@ export const Pokemon = [
 // Twenty-Four Eyes 
 // Twenty-One 
 // Twentynine Palms 
-// Twice Upon a Time: & 1983)
+// Twice Upon a Time
 // Twice Upon a Yesterday 
 // Twilight 
 // Twilight 
@@ -21735,21 +21535,22 @@ export const Pokemon = [
 // Twin Dragons 
 // Twin Falls Idaho 
 // Twin Peaks: Fire Walk with Me 
-// Twin Sisters: & 2002)
+// Twin Sisters
 // Twin Town 
 // Twinkle, Twinkle Lucky Stars 
 // Twins of Evil 
-// Twins: & 1988)
+// Twins
 // Twist 
-// Twisted Desire  / Twisted Justice 
+// Twisted Desire  
+// Twisted Justice 
 // Twisted Nerve 
 // Twisted Obsession 
-// Twisted:  1996 & 2004)
-// Twister: & 1996)
+// Twisted
+// Twister
 // Twitch of the Death Nerve 
 // Twixt 
 // Two Arabian Knights 
-// Two Brothers: & 2004)
+// Two Brothers
 // Two Can Play That Game 
 // Two Cops 
 // Two Daughters 
@@ -21769,1917 +21570,1894 @@ export const Pokemon = [
 // Two Solitudes 
 // Two Stage Sisters 
 // Two Tars 
-// Two Thousand Maniacs! 
 // Two Weeks Notice 
-// Two Weeks: & 2006)
+// Two Weeks
 // Two Women 
-// Two Women:  1947 & 1999)
+// Two Women
 // Two for the Money 
 // Two for the Road 
 // Two for the Seesaw 
-// Two of Us: TV & 2000)
-// Two of a Kind: & 1983)
+// Two of Us
+// Two of a Kind
 // Two or Three Things I Know About Her 
-// Two-Fisted Tales  TV)
+// Two-Fisted Tales 
 // Two-Lane Blacktop 
 // Two-Minute Warning 
 // Two-Way Stretch 
 // Tyler Perry Presents Peeples 
 // Typhoon Noruda 
-// Typhoon:  1940 & 2005)
+// Typhoon
 // Tyrannosaur 
-// Tyson: & 2008)
+// Tyson
 // Tōkyō Mukokuseki Shōjo 
 // U Turn 
 // U, Bomsi n Me 
-// U, Me Aur Ghar (2017)
-// U-571 (2000)
-// U-9 Weddigen (1927)
-// U-Boat Prisoner (1944)
-// U-Boote westwärts! (1941)
-// U-Carmen eKhayelitsha (2005)
-// U-Turn (1973)
-// U.F.O. (1993, 2013)
-// U.N. Me (2009)
-// U.N.R.R.A. presents In the Wake of the Armies ... (1941)
-// U.S. Marshals (1998)
-// U.S. Seals II: The Ultimate Force (2001)
-// U2 3D (2008)
-// U2 Live at Red Rocks: Under a Blood Red Sky (1983)
-// U2360° at the Rose Bowl (2010)
-// UFO (1956)
-// UFO Abduction (1989)
-// UFO Robot Grendizer vs. Great Mazinger (1976)
-// UFOria (1985)
-// UFOs: Past, Present, and Future (1974)
-// UFOs: Seeing Is Believing (2005)
-// UHF (1989)
-// Ubu et la Grande Gidouille (1979)
-// Ubuntu (2017)
-// Uchu Daikaijū Dogora (1964)
-// Uchū no hōsoku (1990)
-// Ud i den kolde sne (1934)
-// Udaan: (1997 & 2010)
-// Udan Pirappu (1993)
-// Udanchhoo (2018)
-// Udaya Geetham (1985)
-// Udayam Kizhakku Thanne (1978)
-// Udayam Padinjaru (1986)
-// Udayam: (1973 & 2004)
-// Udayanan Vasavadatta (1947)
-// Udayananu Tharam (2005)
-// Udayapuram Sulthan (1999)
-// Udaykal (1930)
-// Udayon (2005)
-// Udedh Bun (2008)
-// Udhaar (1949)
-// Udhaar Ki Zindagi (1994)
-// Udhabaani (2009)
-// Udhao (2013)
-// Udhar Ka Sindur (1976)
-// Udhavikku Varalaamaa (1998)
-// Udhaya (2004)
-// Udhayam NH4 (2015)
-// Udhyanapalakan (1996)
-// Udhyogastha (1967)
-// Udta Punjab (2016)
-// Udugan Yamaya (2007)
-// Udumbara (2018)
-// Udyaanalakshmi (1976)
-// Ue o Muite Arukō: Sakamoto Kyu Monogatari (2005)
-// Ue... paisano! (1953)
-// Ufa con el sexo (1968)
-// Uff! Yeh Mohabbat (1997)
-// Ugadi: (1997 & 2007)
-// Ugetsu (1953)
-// Ugler i mosen (1959)
-// Ugly (2014)
-// Ugly Aur Pagli (2008)
-// Ugly Me (2006)
-// UglyDolls (2019)
-// Ugra Narasimham (1986)
-// Ugramm (2014)
-// Ujala (1959)
-// Ukare Gitsune Senbon Zakura (1954)
-// Ukradená bitva (1972)
-// Ukraine Is Not a Brothel (2013)
-// Ulagam (1953)
-// Ulagam Palavitham (1955)
-// Ulagam Pirandhadhu Enakkaga (1990)
-// Ulagam Sutrum Valiban (1973)
-// Ulakam Chuttum Valiban (2011)
-// Ulath Ekai Pilath Ekai (2016)
-// Ulavuthurai (1998)
-// Ulee's Gold (1997)
-// Ulpathi (1984)
-// Ulrike's Brain (2017)
-// Ulsavapittennu (1988)
-// Ulta (2019)
-// Ulta Palta 69 (2007)
-// Ulta Palta: (1997 & 1998)
-// Ulta Seedha (1985)
-// Ulterior Motive (2015)
-// Ulti Ganga (1942)
-// Ultimate Avengers (2006)
-// Ultimate Avengers 2: Rise of the Panther (2007)
-// Ultimate Betrayal (1994)
-// Ultimate Deception (1999)
-// Ultimate Force (2005)
-// Ultimate Hero (2016)
-// Ultimate Teacher (1988)
-// Ultimate X: The Movie (2002)
-// Ultimatum: (1938 & 2009)
-// Ultime grida dalla savana (1975)
-// Ultimo minuto (1987)
-// Ultimo mondo cannibale (1977)
-// Ultimo perdono (1952)
-// Ultimo tango a Zagarol (1973)
-// Ultimul cartuș (1973)
-// Ultra (1991)
-// Ultra Q The Movie: Legend of the Stars (1990)
-// Ultra Reinforcement (2012)
-// Ultra Warrior (1990)
-// Ultrachrist! (2003)
-// Ultraman Cosmos 2: The Blue Planet (2002)
-// Ultraman Cosmos vs. Ultraman Justice: The Final Battle (2003)
-// Ultraman Cosmos: The First Contact (2001)
-// Ultraman Gaia: The Battle in Hyperspace (1999)
-// Ultraman Geed the Movie (2018)
-// Ultraman Ginga S The Movie (2015)
-// Ultraman Ginga Theater Special (2013)
-// Ultraman Ginga Theater Special: Ultra Monster Hero Battle Royal! (2014)
-// Ultraman Mebius & Ultraman Brothers (2006)
-// Ultraman Orb The Movie (2017)
-// Ultraman R/B the Movie (2019)
-// Ultraman Saga (2012)
-// Ultraman Story (1984)
-// Ultraman Tiga & Ultraman Dyna: Warriors of the Star of Light (1998)
-// Ultraman Tiga: The Final Odyssey (2000)
-// Ultraman X The Movie (2016)
-// Ultraman Zearth (1996)
-// Ultraman Zero: The Revenge of Belial (2010)
-// Ultraman Zoffy: Ultra Warriors vs. the Giant Monster Army (1984)
-// Ultraman, Ultraseven: Great Violent Monster Fight (1969)
-// Ultraman: (1967 & 1979)
-// Ultraman: Great Monster Decisive Battle (1979)
-// Ultraman: The Adventure Begins (1987)
-// Ultraman: The Next (2004)
-// Ultramarines: A Warhammer 40,000 Movie (2010)
-// Ultrasonic (2012)
-// Ultraviolet (2006)
-// Ulysses Against the Son of Hercules (1962)
-// Ulysses' Gaze (1995)
-// Ulysses: (1955, 1967 & 2011)
-// Ulzana's Raid (1972)
-// Ulzhan (2007)
-// Um Crime no Parque Paulista (1921)
-// Um Show de Verão (2004)
-// Um das Menschenrecht (1934)
-// Uma (2018)
-// Uma Aventura na Casa Assombrada (2009)
-// Uma Aventura no Tempo (2007)
-// Uma Chandi Gowri Shankarula Katha (1968)
-// Uma Longa Viagem (2012)
-// Uma Sundari (1956)
-// Umaanilayam (1984)
-// Umar (2006)
-// Umar 55 Ki Dil Bachpan Ka (1992)
-// Umar Marvi (1956)
-// Umbartha (1982)
-// Umberto D. (1952)
-// Umbrage (2009)
-// Umbrella (2007)
-// Umi no yarodomo (1957)
-// Umizaru (2004)
-// Umizaru 3: The Last Message (2010)
-// Umma (1960)
-// Ummachu (1971)
-// Ummadi Kutumbam (1967)
-// Ummeed: (1941 & 1962)
-// Ummini Thanka (1961)
-// Umoja: The Village Where Men Are Forbidden (2008)
-// Umrao Jaan Ada (1972)
-// Umrao Jaan: (1981 & 2006)
-// Umurage (2002)
-// Umut (1970)
-// Un Elefante color ilusión (1970)
-// Un bon bock (1892)
-// Unabomber: The True Story (1996)
-// Unacceptable Levels (2013)
-// Unaccompanied Minors (2006)
-// Unaccustomed As We Are (1929)
-// Unakkaagave Vaazhgiren (1986)
-// Unakkaga Ellam Unakkaga (1999)
-// Unakkaga En Kadhal (2010)
-// Unakkaga Mattum (2000)
-// Unakkaga Naan (1976)
-// Unakkaga Piranthen (1992)
-// Unakkenna Venum Sollu (2015)
-// Unakkul Naan (2015)
-// Unakkum Enakkum (2006)
-// Unarchigal: (1976 & 2005)
-// Unarmed Verses (2017)
-// Unarthupattu (1980)
-// Unaru (1984)
-// Unashamed (1932)
-// Unaware (2010)
-// Unbeatable (2013)
-// Unbeatable Harold (2006)
-// Unbeaten 28 (1980)
-// Unbecoming Age (1992)
-// Unbelievable Adventures of Italians in Russia (1974)
-// Unborn but Forgotten (2002)
-// Unborn in the USA (2007)
-// Unbowed (2011)
-// Unbreakable (2000)
-// Unbridled (2017)
-// Unbroken (2014)
-// Unbroken Glass (2016)
-// Unbroken: Path to Redemption (2018)
-// Uncanny (2015)
-// Uncanny Valley (2015)
-// Uncensored (1942)
-// Uncertain Glory (1944)
-// Uncertain Lady (1934)
-// Uncertainty (2008)
-// Unchained (1955)
-// Unchained Memories (2003)
-// Uncharted Channels (1920)
-// Uncharted Live Action Fan Film (2018)
-// Uncharted Seas (1921)
-// Uncivil War Birds (1946)
-// Uncivil Warriors (1935)
-// Uncivilised (1936)
-// Unclaimed Goods (1918)
-// Unclaimed: (2013 & 2016)
-// Uncle (2018)
-// Uncle Boonmee Who Can Recall His Past Lives (2010)
-// Uncle Buck (1989)
-// Uncle Bun (1991)
-// Uncle David (2010)
-// Uncle Dick's Darling (1920)
-// Uncle Drew (2018)
-// Uncle Howard (2016)
-// Uncle Hyacynth (1956)
-// Uncle Jasper's Will (1922)
-// Uncle Joe (1941)
-// Uncle Joe Shannon (1978)
-// Uncle John (2015)
-// Uncle Kent (2011)
-// Uncle Marin, the Billionaire (1979)
-// Uncle Meat (1987)
-// Uncle Nick (2015)
-// Uncle Nino (2003)
-// Uncle Sam (1997)
-// Uncle Silas (1947)
-// Uncle Tom's Bungalow (1937)
-// Uncle Tom's Cabaña (1947)
-// Uncle Tom's Cabin: (1910, 1914, 1918, 1927, 1965 & 1987)
-// Uncle Tom's Uncle (1926)
-// Uncle Vanya: (1957, 1963 & 1970)
-// Uncle Was a Vampire (1959)
-// Uncle's Apartment (1913)
-// Uncle's New Blazer (1915)
-// Uncle's Paradise (2006)
-// Uncommon Friends of the 20th Century (1999)
-// Uncommon Valor (1983)
-// Uncommon Women and Others (1978)
-// Unconditional (2012)
-// Unconditional Love: (2002 & 2003 TV)
-// Unconquered Bandit (1935)
-// Unconquered: (1917 & 1989)
-// Unconstitutional: The War on Our Civil Liberties (2004)
-// Uncorked (2009)
-// Uncovered (1994)
-// Uncovered: The War on Iraq (2004)
-// Uncut (1997)
-// Uncut Gems (TBD)
-// Und Jimmy ging zum Regenbogen (1971)
-// Und wieder 48 (1948)
-// Unda (TBD)
-// Undamma Bottu Pedata (1968)
-// Undead (2003)
-// Undead Pool (2007)
-// Undead or Alive (2007)
-// Undeclared War (1990)
-// Undefeatable (1994)
-// Undefeated: (2003 TV & 2011)
-// Under Age: (1941 & 1964)
-// Under Arizona Skies (1946)
-// Under Blazing Heavens (1936)
-// Under Burning Skies (1912)
-// Under California Stars (1948)
-// Under Capricorn (1949)
-// Under Colorado Skies (1947)
-// Under Construction (2015)
-// Under Cover of Night (1937)
-// Under Cover: (1916 & 1987)
-// Under Crimson Skies (1920)
-// Under Eighteen (1931)
-// Under Electric Clouds (2015)
-// Under False Colors (1917)
-// Under False Flag: (1932 & 1935)
-// Under Fiesta Stars (1941)
-// Under Fire: (1926, 1957 & 1983)
-// Under Great White Northern Lights (2009)
-// Under Heaven (1998)
-// Under Heavy Fire (2001)
-// Under Jakob's Ladder (2011)
-// Under Mexicali Stars (1950)
-// Under Milk Wood: (1972 & 2015)
-// Under My Nails (2012)
-// Under My Skin (1950)
-// Under Nevada Skies (1946)
-// Under New Management (1946)
-// Under One Roof (2002)
-// Under One Sky (1982)
-// Under Our Skin (2008)
-// Under Pressure (1935)
-// Under Proof (1936)
-// Under Secret Orders (1937)
-// Under Siege (1992)
-// Under Siege 2: Dark Territory (1995)
-// Under Southern Skies: (1902 & 1915)
-// Under Strange Flags (1937)
-// Under Suspicion: (1918, 1919, 1930, 1991 & 2000)
-// Under Ten Flags (1960)
-// Under Texas Skies: (1930 & 1940)
-// Under Two Flags: (1916, 1922 & 1936)
-// Under Two Jags (1923)
-// Under Western Eyes: (1936 & 1996)
-// Under Western Skies: (1926 & 1945)
-// Under Western Stars (1938)
-// Under Wraps (1997 TV)
-// Under Your Hat (1940)
-// Under Your Skin (1966)
-// Under Your Spell (1936)
-// Under a Cloud (1937)
-// Under a Jarvis Moon (2010)
-// Under a Shadow (1915)
-// Under a Texas Moon (1930)
-// Under en steinhimmel (1974)
-// Under the Bed (2012)
-// Under the Bed 2 (2014)
-// Under the Bed 3 (2016)
-// Under the Big Top (1938)
-// Under the Black Eagle (1928)
-// Under the Boardwalk (1989)
-// Under the Boardwalk: The Monopoly Story (2011)
-// Under the Bombs (2007)
-// Under the Bridges (1946)
-// Under the Cards (1948)
-// Under the Cherry Moon (1986)
-// Under the Chinese Restaurant (1987)
-// Under the City (1953)
-// Under the Constellation Gemini (1979)
-// Under the Counter Spy (1954)
-// Under the Crescent (1915)
-// Under the Doctor (1976)
-// Under the Dome (2015)
-// Under the Domim Tree (1994)
-// Under the Dragon's Tail (2005)
-// Under the Eiffel Tower (2018)
-// Under the Electric Sky (2014)
-// Under the Flag of the Rising Sun (1972)
-// Under the Frozen Falls (1948)
-// Under the Gaslight (1914)
-// Under the Glacier (1989)
-// Under the Greenwood Tree: (1918 & 1929)
-// Under the Gun: (1951 & 1995)
-// Under the Hawthorn Tree (2010)
-// Under the Hula Moon (1995)
-// Under the Lantern (1928)
-// Under the Lash (1921)
-// Under the Leather Helmet (1932)
-// Under the Lighthouse Dancing (1997)
-// Under the Mountain (2009)
-// Under the Mountains (1920)
-// Under the Mud (2009)
-// Under the Palms (1999)
-// Under the Pampas Moon (1935)
-// Under the Pavement Lies the Strand (1975)
-// Under the Piano (1995)
-// Under the Radar (2004)
-// Under the Rainbow: (1981 & 2013)
-// Under the Raven's Wing (2007)
-// Under the Red Robe: (1915, 1923 & 1937)
-// Under the Red Sea (1952)
-// Under the Roofs of Paris (1930)
-// Under the Salt (2008)
-// Under the Same Moon (2008)
-// Under the Same Roof (2019)
-// Under the Same Skin (1962)
-// Under the Same Sky (1964)
-// Under the Sand (2001)
-// Under the Seas (1907)
-// Under the Shadow (2016)
-// Under the Shadow of the Law (1913)
-// Under the Sign of Scorpio (1969)
-// Under the Silver Lake (2018)
-// Under the Skies of the Asturias (1951)
-// Under the Skin of the City (2001)
-// Under the Skin: (1997 & 2013)
-// Under the Sky of Paris (1951)
-// Under the Sky of Spain (1953)
-// Under the Southern Cross: (1927, 1929 & 1938)
-// Under the Spell of Silence (1916)
-// Under the Stars of Capri (1953)
-// Under the Stars: (2001 & 2007)
-// Under the Sun of Rome (1948)
-// Under the Sun of Satan (1987)
-// Under the Sun: (1998 & 2015)
-// Under the Thousand Lanterns (1952)
-// Under the Tonto Rim: (1928, 1933 & 1947)
-// Under the Top (1919)
-// Under the Tree: (2008 & 2017)
-// Under the Tuscan Sun (2003)
-// Under the Volcano (1984)
-// Under the Yoke (1918)
-// Under the Yum Yum Tree (1963)
-// Under-Cover Man (1932)
-// Underclassman (2005)
-// Undercover Agent (1939)
-// Undercover Angel (1999)
-// Undercover Blues (1993)
-// Undercover Brother (2002)
-// Undercover Christmas (2003)
-// Undercover Doctor (1939)
-// Undercover Duet (2015)
-// Undercover Girl (1950)
-// Undercover Grandpa (2017)
-// Undercover Kitty (2001)
-// Undercover Maisie (1947)
-// Undercover Man: (1936 & 1942)
-// Undercover Men (1934)
-// Undercover X (2001)
-// Undercover with the KKK (1979)
-// Undercover: (1943 & 1983)
-// Undercurrent: (1946 & 2010)
-// Undercut (2004)
-// Underdog (2007 & 2018)
-// Underdog Kids (2015)
-// Underdogs: (2013 American & 2013 Argentine)
-// Underexposure (2005)
-// Underfunded (2006)
-// Underground Aces (1981)
-// Underground Lizard People (2011)
-// Underground Rustlers (1941)
-// Underground Secrets (1991)
-// Underground U.S.A. (1980)
-// Underground: (1928, 1941, 1970, 1976 & 1995)
-// Underground: The Julian Assange Story (2012)
-// Undermind (2003)
-// Underneath the Arches (1937)
-// Undersea Kingdom (1936)
-// Undersea Super Train: Marine Express (1979)
-// Undertow Eyes (2009)
-// Undertow: (1930, 1949, 1996, 2004 & 2009)
-// Undertrial (2007)
-// Underwater (2018)
-// Underwater Dreams (2014)
-// Underwater Love (2011)
-// Underwater Warrior (1958)
-// Underwater! (1955)
-// Underworld (2003)
-// Underworld Beauty (1958)
-// Underworld U.S.A. (1961)
-// Underworld: (1927, 1937, 1985, 1996 & 2004)
-// Underworld: Awakening (2012)
-// Underworld: Blood Wars (2017)
-// Underworld: Endless War (2011)
-// Underworld: Evolution (2006)
-// Underworld: Rise of the Lycans (2009)
-// Undine (1916)
-// Undiscovered (2005)
-// Undisputed (2002)
-// Undisputed II: Last Man Standing (2006)
-// Undisputed III: Redemption (2010)
-// Undocumented (2010)
-// Undoing (2006)
-// Undrafted (2016)
-// Undressed (1928)
-// Undressing Extraordinary (1901)
-// Undressing Israel: Gay Men in the Promised Land (2012)
-// Undu Hoda Kondu Hoda (1992)
-// Une liaison pornographique (1999)
-// Unearthed (2006)
-// Unearthed and Understood (2014)
-// Unearthly Stranger (1964)
-// Uneasy Money: (1918 & 1926)
-// Uneasy Terms (1948)
-// Uneasy Virtue (1931)
-// Unees-Bees (1980)
-// Uneven Fairways (2009)
-// Unexpected Conflict (1948)
-// Unexpected Father (1939)
-// Unexpected Guest (1947)
-// Unexpected Love (2014)
-// Unexpected Places: (1918 & 2012)
-// Unexpected Riches (1942)
-// Unexpected Uncle (1941)
-// Unexpected: (2005 & 2015)
-// Unexpectedly Yours (2017)
-// Unfair 2: The Answer (2011)
-// Unfair Competition (2001)
-// Unfair Dealing (2008)
-// Unfair World (2011)
-// Unfair: The End (2015)
-// Unfair: The Movie (2007)
-// Unfaithful Mornings (1989)
-// Unfaithful: (1931, 2002 & 2009)
-// Unfaithfully Yours: (1948 & 1984)
-// Unfiltered Breathed In (2015)
-// Unfinished (2018)
-// Unfinished Business: (1941, 1977, 1984, 1985 Australian, 1985 American, 2009 & 2015)
-// Unfinished Sky (2007)
-// Unfinished Spaces (2011)
-// Unfinished Story (1955)
-// Unfinished Supper (1979)
-// Unfinished Symphony (1934)
-// Unfinished Symphony: Democracy and Dissent (2001)
-// Unfolding Florence: The Many Lives of Florence Broadhurst (2006)
-// Unforgettable Blast (2015)
-// Unforgettable Life (1988)
-// Unforgettable Trail (1959)
-// Unforgettable: (1996, 2014, 2016, & 2017)
-// Unforgivable: (1996 & 2011)
-// Unforgiven: (1992, 2013 & 2018)
-// Unfreedom (2014)
-// Unfriend (2014)
-// Unfriended (2014)
-// Unfriended: Dark Web (2018)
-// Ungarala Rambabu (2017)
-// Ungeküsst soll man nicht schlafen gehn (1936)
-// Unglassed Windows Cast a Terrible Reflection (1953)
-// Ungli (2014)
-// Ungu Violet (2005)
-// Unguarded Women (1924)
-// Unhallowed Ground (2015)
-// Unheimliche Geschichten: (1919 & 1932)
-// Unhinged (1982)
-// Unholy (2007)
-// Unholy Desire (1964)
-// Unholy Love (1932)
-// Unholy Partners (1941)
-// Unholy Women (2006)
-// Unhook the Stars (1996)
-// Unicorn Store (2019)
-// Unidentified (2006)
-// Unidentified Flying Oddball (1979)
-// Uniform (2003)
-// Uninhabited (2010)
-// Uninvited Guest (1999)
-// Uninvited: (1988 & 1999)
-// Union Leader (2017)
-// Union Maids (1976)
-// Union Pacific (1939)
-// Union Square (2011)
-// Union Station (1950)
-// Union of Salvation (TBD)
-// Unique Brothers (2014)
-// United 93 (2006)
-// United Passions (2014)
-// United Red Army (2007)
-// United Six (2011)
-// United Skates (TBD)
-// United States Marine Band (1942)
-// United: (2003 & 2011)
-// Unity (2015)
-// Universal Signs (2008)
-// Universal Soldier (1971)
-// Universal Soldier (1992)
-// Universal Soldier II: Brothers in Arms (1998)
-// Universal Soldier III: Unfinished Business (1998)
-// Universal Soldier: Day of Reckoning (2012)
-// Universal Soldier: Regeneration (2010)
-// Universal Soldier: The Return (1999)
-// Universal Soldiers (2007)
-// Universe: (1960 & 1976)
-// University (2002)
-// University Heights (2004)
-// Unknown Brood (2016)
-// Unknown Chaplin (1983 TV)
-// Unknown Island (1948)
-// Unknown Man of San Marino (1946)
-// Unknown Path (1946)
-// Unknown Pleasures (2002)
-// Unknown Sender (1950)
-// Unknown Time (1993)
-// Unknown Treasures (1926)
-// Unknown White Male (2005)
-// Unknown World (1951)
-// Unknown of Monte Carlo (1939)
-// Unknown: (2006 & 2011)
-// Unlawful Entry (1992)
-// Unlawful Killing (2011)
-// Unleashed: (2005 & 2016)
-// Unless (2016)
-// Unless the Water Is Safer than the Land (2018)
-// Unlikely Angel (1996)
-// Unlikely Revolutionaries (2010)
-// Unlisted Owner (2017)
-// Unlocked: (2006 & 2017)
-// Unlocking the Cage (2016)
-// Unlocking the Mystery of Life (2003)
-// Unlovable (2018)
-// Unloved (2001)
-// Unlucky Plaza (2014)
-// Unmade Beds: (1997 & 2009)
-// Unmaiye Un Vilai Enna? (1976)
-// Unman, Wittering and Zigo (1971)
-// Unmanned: America's Drone Wars (2013)
-// Unmarried Daughters (1926)
-// Unmarried Mothers (1976)
-// Unmarried: (1920 & 1939)
-// Unmasked: (1917 & 1950)
-// Unmatched (2010)
-// Unmistaken Child (2008)
-// Unna Nenachen Pattu Padichen (1992)
-// Unna ja Nuuk (2006)
-// Unnai Charanadaindhen (2003)
-// Unnai Kann Theduthe (2009)
-// Unnai Kann Theduthey (2000)
-// Unnai Kodu Ennai Tharuven (2000)
-// Unnai Naan Santhithen (1984)
-// Unnai Ninaithu (2002)
-// Unnai Solli Kutramillai (1990)
-// Unnai Suttrum Ulagam (1977)
-// Unnai Thedi (1999)
-// Unnai Thedi Varuven (1985)
-// Unnai Vaazhthi Paadugiren (1992)
-// Unnaipol Oruvan: (1965 & 2009)
-// Unnal Mudiyum Thambi (1988)
-// Unnale Unnale (2007)
-// Unnam (2012)
-// Unnaruge Naan Irundhal (1999)
-// Unnathangalil (2001)
-// Unnatural History (1959)
-// Unnecessary Fuss (1984)
-// Unni Vanna Divasam (1984)
-// Unni: (1989 & 2007)
-// Unnidathil Ennai Koduthen (1998)
-// Unnikale Oru Kadha Parayam (1987)
-// Unnikrishnante Adyathe Christmas (1988)
-// Unnikuttanu Joli Kitti (1989)
-// Unnil Tholaindhein (TBD)
-// Unnimaya (2000)
-// Unnimoolam (2014)
-// Unniyarcha (1961)
-// Unnodu Ka (2016)
-// Unnudan (1999)
-// Uno (2004)
-// Uno contro l'altro, praticamente amici (1981)
-// Uno di più all'inferno (1968)
-// Unofficially Yours (2012)
-// Unos Pocos con Valor (2010)
-// Unplanned (2019)
-// Unprecedented: The 2000 Presidential Election (2002)
-// Unprotected (1916)
-// Unpublished Story (1942)
-// Unraveled (2011)
-// Unrelated (2007)
-// Unrest: (2006 & 2017)
-// Unripe Fruit (1934)
-// Unrivaled (2010)
-// Unrivaled: Earnhardt vs. Gordon (2019)
-// Unruled Paper (2002)
-// Unsalted: A Great Lakes Experience (2005)
-// Unsane (2018)
-// Unseeing Eyes (1923)
-// Unseen Enemy (1942)
-// Unseen Evil (2001)
-// Unseen Forces (1920)
-// Unseen Wonder (1984)
-// Unser täglich Brot (1949)
-// Unsettled (2007)
-// Unsettled Land (1987)
-// Unspeakable: (2000 & 2002)
-// Unspoken (2008)
-// Unstoppable Marriage (2007)
-// Unstoppable: (2004, 2010, 2013 & 2018)
-// Unstoppable: Conversation with Melvin Van Peebles, Gordon Parks, and Ossie Davis (2005)
-// Unstrung Heroes (1995)
-// Unsullied (2014)
-// Untamagiru (1989)
-// Untamed Frontier (1952)
-// Untamed Fury (1947)
-// Untamed Heart (1993)
-// Untamed Heiress (1954)
-// Untamed Women (1952)
-// Untamed Youth (1957)
-// Untamed: (1929, 1940, 1955 & 1957)
-// Unter dem Rauschen deiner Wimpern (1951)
-// Unterm Radar (2015)
-// Unternehmen Michael (1937)
-// Unternehmen Teutonenschwert (1958)
-// Unterwerfung (2018)
-// Unthinkable (2010)
-// Until the End of the World (1991)
-// Unto the Third Generation (1913)
-// Untraceable (2008)
-// Unusable (1917)
-// Unusual Exhibition (1968)
-// Unutra (2015)
-// Unvanquished City (1950)
-// Unwanted (2017)
-// Unwanted Cinema (2005)
-// Unwanted Guest (2016)
-// Unwanted Soldiers (1999)
-// Unwed Mother (1958)
-// Unzipped (1995)
-// Uomini ombra (1954)
-// Up 'n' Under (1998)
-// Up Against It (1912)
-// Up Close & Personal (1996)
-// Up Denali 3D (2003)
-// Up Front (1951)
-// Up Goes Maisie (1946)
-// Up Jumped a Swagman (1965)
-// Up Jumped the Devil (1941)
-// Up North (2018)
-// Up Periscope (1959)
-// Up Pompeii (1971)
-// Up Pops the Devil (1931)
-// Up Pops the Duke (1931)
-// Up Romance Road (1918)
-// Up Syndrome (2001)
-// Up There (2011)
-// Up Your Alley (1989)
-// Up Your Legs Forever (1971)
-// Up a Tree: (1930 & 1955)
-// Up and at 'Em (1922)
-// Up at the Villa (2000)
-// Up for Grabs (2004)
-// Up for Love (2016)
-// Up for Murder (1931)
-// Up for the Cup: (1931 & 1950)
-// Up for the Derby (1933)
-// Up for the Rising Sun (1997)
-// Up from the Beach (1965)
-// Up from the Depths (1979)
-// Up from the Ranks (1943)
-// Up in Arms (1944)
-// Up in Central Park (1948)
-// Up in Daisy's Penthouse (1953)
-// Up in Flames (1973)
-// Up in Mabel's Room: (1926 & 1944)
-// Up in Smoke (1978)
-// Up in the Air: (1940 & 2009)
-// Up in the Cellar (1970)
-// Up in the Wind (2013)
-// Up in the World (1956)
-// Up the Academy (1980)
-// Up the Chastity Belt (1971)
-// Up the Creek: (1958 & 1984)
-// Up the Down Staircase (1967)
-// Up the Establishment (1969)
-// Up the Front (1972)
-// Up the Junction (1968)
-// Up the Ladder (1925)
-// Up the MacGregors! (1967)
-// Up the Ridge (2006)
-// Up the River: (1930 & 1938)
-// Up the Road with Sallie (1918)
-// Up the Sandbox (1972)
-// Up the Yangtze (2007)
-// Up to His Ears (1965)
-// Up to His Neck (1954)
-// Up to Our Necks (2004)
-// Up to a Certain Point (1983)
-// Up to the Neck (1933)
-// Up with the Lark (1943)
-// Up! (1976)
-// Up, Down, Fragile (1995)
-// Up, Up and Away (2000 TV)*
-// Up: (1984 & 2009)
-// Upa en apuros (1942)
-// Upaasna (1971)
-// Upadeshiyude Makan (2010)
-// Upaharam: (1972 & 1985)
-// Upasana (1979)
-// Upasane (1974)
-// Upbeat in Music (1943)
-// Upeksha (TBD)
-// Upendra (1999)
-// Upendra Matte Baa (2017)
-// Upgrade (2018)
-// Uphaar (1971)
-// Uphill All the Way (1986)
-// Upin & Ipin: Jeng Jeng Jeng! (2016)
-// Upin & Ipin: Keris Siamang Tunggal (2019)
-// Upkar (1967)
-// Uppalawanna (2007)
-// Upper World (1934)
-// Uppi 2 (2015)
-// Uppu (1987)
-// Uppu Huli Khara (2017)
-// Uppu Karuvaadu (2015)
-// Uppukandam Brothers (1993)
-// Uppukandam Brothers: Back in Action (2011)
-// Uprising: (2001 & 2012)
-// Uproar in Damascus (1939)
-// Uproar in the Studio (1926)
-// Ups 'n Downs (1931)
-// Ups and Downs: (1915 & 1937)
-// Upside (2010)
-// Upside Down: (1919, 2012 & 2015)
-// Upside Down: The Creation Records Story (2010)
-// Upside Down; or, the Human Flies (1899)
-// Upside-Down Girl (2007)
-// Upstage (1926)
-// Upstairs and Downstairs: (1925 & 1959)
-// Upstream (1927)
-// Upstream Color (2013)
-// Upswept Hare (1952)
-// Uptight (1968)
-// Uptown Girls (2003)
-// Uptown Saturday Night (1974)
-// Uptown: (1987 & 2009)
-// Urakkam Varaatha Raathrikal (1978)
-// Uran Khatola (1955)
-// Urangatha Ninaivugal (1983)
-// Urangatha Sundary (1969)
-// Uranium Boom (1956)
-// Uranus (1990)
-// Urashima Tarō (1918)
-// Uravai Kaatha Kili (1984)
-// Uravukku Kai Koduppom (1975)
-// Urban Cowboy (1980)
-// Urban Decay (2007)
-// Urban Explorer (2011)
-// Urban Explorers: Into the Darkness (2007)
-// Urban Feel (1998)
-// Urban Games (2014)
-// Urban Ghost Story (1998)
-// Urban Hymn (2015)
-// Urban Justice (2007)
-// Urban Legend (1998)
-// Urban Legends: Bloody Mary (2005)
-// Urban Legends: Final Cut (2000)
-// Urban Menace (1999)
-// Urban Safari (1996)
-// Urbania (2000)
-// Urbanized (2011)
-// Urchin (2007)
-// Urduja (2008)
-// Ureinung (2013)
-// Ureme 1 (1986)
-// Ureme 2 (1986)
-// Ureme 3 (1987)
-// Ureme 4 (1987)
-// Ureme 5 (1988)
-// Ureme 6 (1989)
-// Ureme 7 (1992)
-// Ureme 8 (1993)
-// Ureshi Hazukashi Monogatari (1988)
-// Urge (2016)
-// Urge to Build (1981)
-// Urge to Kill (1960)
-// Urgh! A Music War (1982)
-// Uri: The Surgical Strike (2019)
-// Urimai (1985)
-// Urimai Geetham (1988)
-// Urimai Oonjaladugiradhu (1992)
-// Urimai Por (1998)
-// Urimaikural (1974)
-// Uriyadi (2016)
-// Uriyadi 2 (2019)
-// Urlaub auf Ehrenwort: (1938 & 1955)
-// Uro (2006)
-// Ursus (1961)
-// Ursus and the Tartar Princess (1961)
-// Ursus in the Land of Fire (1963)
-// Ursus in the Valley of the Lions (1962)
-// Uru (2017)
-// Urubu (1948)
-// Urudhi Mozhi (1990)
-// Urukku Manushyan (1986)
-// Urukku Mushtikal (1981)
-// Urumattram (TBD)
-// Urumbukal Urangarilla (2015)
-// Urumeen (2015)
-// Urumi (2011)
-// Urusei Yatsura 2: Beautiful Dreamer (1984)
-// Urusei Yatsura 3: Remember Me (1985)
-// Urusei Yatsura 4: Lum the Forever (1986)
-// Urusei Yatsura: Always My Darling (1991)
-// Urusei Yatsura: Only You (1983)
-// Urusei Yatsura: The Final Chapter (1988)
-// Uruvam (1991)
-// Uruvangal Maralam (1983)
-// Urvashi (1990)
-// Urvashi Bharathi (1973)
-// Urvashi Kalyana (1993)
-// Urvi (2017)
-// Us Now (2009)
-// Us Paar (1974)
-// Us Two (1979)
-// Us and Our Education (2009)
-// Us and Them (2018)
-// Us: (1991 TV & 2019)[1]
-// Used Cars (1980)
-// Used People (1992)
-// Useless (2007)
-// Usfahrt Oerlike (2015)
-// Usha Haran (1940)
-// Usha Kalyanam (1936)
-// Usha Parinayam (1961)
-// Usher (2004)
-// Ushpizin (2004)
-// Usire (2001)
-// Uski Roti (1969)
-// Usne Kaha Tha (1960)
-// Uss Paar (1944)
-// Ustaad: (1989 & 1999)
-// Ustad Hotel (2012)
-// Ustadi Ustad Se (1982)
-// Ustadon Ke Ustad: (1963 & (1998)
-// Ustedes los ricos (1948)
-// Usuku Lwan (2006)
-// Ut av mørket (1958)
-// Utah (1945)
-// Utah Blaine (1957)
-// Utah Wagon Train (1951)
-// Utamaro and His Five Women (1946)
-// Utatama (2008)
-// Uthama Purushan (1989)
-// Uthama Puthiran: (1940 & 1958)
-// Uthama Raasa (1993)
-// Uthaman: (1976 & 2001)
-// Uthamaputhiran (2010)
-// Uthami (1985)
-// Uthami Petra Rathinam (1960)
-// Uthara (2002)
-// Utharam (1989)
-// Utharaswayamvaram (2009)
-// Uthiripookkal (1979)
-// Uthrada Rathri (1978)
-// Uththara (2010)
-// Utilities (1983)
-// Utkarsha (1990)
-// Utopia: (1983, 2013 & 2015)
-// Utopians (2015)
-// Utopiayile Rajavu (2015)
-// Utrpení mladého Boháčka (1969)
-// Utsab (2000)
-// Utsav (1984)
-// Utsavam (1975)
-// Utsavamelam (1992)
-// Utt Pataang (2011)
-// Uttar Dakshin (1987)
-// Uttar Falguni (1963)
-// Uttar Purush (1966)
-// Uttara (2000)
-// Utu (1983)
-// Uu Kodathara? Ulikki Padathara? (2012)
-// Uuno Epsanjassa (1985)
-// Uuno Turhapuro (1973)
-// Uuno Turhapuro armeijan leivissä (1984)
-// Uuno Turhapuro muuttaa maalle (1986)
-// Uuno Turhapuro – Suomen tasavallan herra presidentti (1992)
-// Uuno Turhapuro – This Is My Life (2004)
-// Uuno Turhapuro – kaksoisagentti (1987)
-// Uvaa (2015)
-// Uvanga (2013)
-// Uvvu (1982)
-// Uwantme2killhim? (2013)
-// Uwiedziona (1931)
-// Uyaran Orumikkan (1988)
-// Uyarangalil (1984)
-// Uyarndha Manithan: (1968 & 2019)
-// Uyarndha Ullam (1985)
-// Uyarndhavargal (1977)
-// Uyarthiru 420 (2011)
-// Uyarum Njan Nadake (1985)
-// Uyir (2006)
-// Uyir Mel Aasai (1967)
-// Uyira Maanama (1968)
-// Uyire Unakkaga (1986)
-// Uyire Uyire (2016)
-// Uyirile Kalanthathu (2000)
-// Uyirodu Uyiraga (1998)
-// Uyirthezhunnelppu (1985)
-// Uyirullavarai Usha (1983)
-// Uyyala Jampala (2013)
-// Uyyale (1969)
-// Uzak (2002)
-// Uzumaki (2000)
-// Uśmiech zębiczny (1957)
-// V for Vendetta (2006)
-// V for Visa (2013)
-// V-Day: Until the Violence Stops (2003)
-// V. I. P.: (1988 & 1997)
-// V.I. Warshawski (1991)
-// V.I.P. (2017)
-// V/H/S (2012)
-// V/H/S/2 (2013)
-// V/H/S: Viral (2014)
-// Va (2010)
-// Va a ser que nadie es perfecto (2006)
-// Va banque (1920)
-// Va savoir (2001)
-// Vaa Arugil Vaa (1991)
-// Vaa Deal (2019)
-// Vaa Kanna Vaa (1982)
-// Vaa Magale Vaa (1994)
-// Vaa Raja Vaa (1969)
-// Vaachalam (1997)
-// Vaada (2005)
-// Vaada Poda Nanbargal (2011)
-// Vaada Raha (2009)
-// Vaadaa (2010)
-// Vaadaka Gunda (1989)
-// Vaadaka Veettile Athidhi (1981)
-// Vaadamalli (2011)
-// Vaade Iraade (1994)
-// Vaade Veedu (1973)
-// Vaadhdivsachya Haardik Shubhechcha (2014)
-// Vaadhyar (2012)
-// Vaadu Nenu Kaadhu (TBD)
-// Vaagai Sooda Vaa (2011)
-// Vaah! Life Ho Toh Aisi! (2005)
-// Vaai Kozhuppu (1989)
-// Vaaimai (2016)
-// Vaajlaach Paahije - Game Ki Shinema (2015)
-// Vaaleduthaven Vaalaal (1979)
-// Vaalee (2001)
-// Vaali (1999)
-// Vaaliba Raja (2016)
-// Vaaloabi Engeynama (2006)
-// Vaalu (2015)
-// Vaalu Jada (TBD)
-// Vaamanan (2009)
-// Vaan (TBD)
-// Vaana (2008)
-// Vaanam (2011)
-// Vaanam Vasappadum (2004)
-// Vaaname Ellai (1992)
-// Vaanathaippola (2000)
-// Vaanavil (2000)
-// Vaanavil Vaazhkai (2015)
-// Vaanchinathan (2001)
-// Vaanga Partner Vaanga (1994)
-// Vaanmathi (1996)
-// Vaapsi (2016)
-// Vaaraayo Vennilaave (2017)
-// Vaaranam Aayiram (2008)
-// Vaarasatwam (1964)
-// Vaareva (2011)
-// Vaarikkuzhiyile Kolapathakam (2019)
-// Vaarikuzhi (1982)
-// Vaasarashayya (1993)
-// Vaashey Mashaa Ekee (2016)
-// Vaashi (1983)
-// Vaastav: The Reality (1999)
-// Vaasthavam (2006)
-// Vaastu Prakaara (2015)
-// Vaastu Shastra (2004)
-// Vaasu Naan Pakka Commercial (2018)
-// Vaathiyaar Veettu Pillai (1989)
-// Vaayai Moodi Pesavum (2014)
-// Vaazha Vaitha Deivam (1959)
-// Vaazhga Jananayagam (1996)
-// Vaazhkai Alaigal (1978)
+// U, Me Aur Ghar 
+// U-9 Weddigen
+// U-Boat Prisoner 
+// U-Carmen eKhayelitsha 
+// U-Turn 
+// U.N. Me 
+// U.S. Marshals 
+// U.S. Seals II: The Ultimate Force 
+// U2 3D 
+// U2 Live at Red Rocks: Under a Blood Red Sky 
+// U2360° at the Rose Bowl 
+// UFO 
+// UFO Abduction 
+// UFO Robot Grendizer vs. Great Mazinger 
+// UFOria 
+// UFOs: Past, Present, and Future 
+// UFOs: Seeing Is Believing 
+// UHF 
+// Ubu et la Grande Gidouille 
+// Ubuntu 
+// Uchu Daikaijū Dogora 
+// Uchū no hōsoku 
+// Ud i den kolde sne 
+// Udaan
+// Udan Pirappu 
+// Udanchhoo 
+// Udaya Geetham 
+// Udayam Kizhakku Thanne 
+// Udayam Padinjaru 
+// Udayam: & 2004)
+// Udayanan Vasavadatta 
+// Udayananu Tharam 
+// Udayapuram Sulthan 
+// Udaykal 
+// Udayon 
+// Udedh Bun 
+// Udhaar 
+// Udhaar Ki Zindagi 
+// Udhabaani 
+// Udhao 
+// Udhar Ka Sindur 
+// Udhavikku Varalaamaa 
+// Udhaya 
+// Udhayam NH4 
+// Udhyanapalakan 
+// Udhyogastha 
+// Udta Punjab 
+// Udugan Yamaya 
+// Udumbara 
+// Udyaanalakshmi 
+// Ue o Muite Arukō: Sakamoto Kyu Monogatari 
+// Ue... paisano! 
+// Ufa con el sexo 
+// Uff! Yeh Mohabbat 
+// Ugadi: & 2007)
+// Ugetsu 
+// Ugler i mosen 
+// Ugly 
+// Ugly Aur Pagli 
+// Ugly Me 
+// UglyDolls 
+// Ugra Narasimham 
+// Ugramm 
+// Ujala 
+// Ukare Gitsune Senbon Zakura 
+// Ukradená bitva 
+// Ukraine Is Not a Brothel 
+// Ulagam 
+// Ulagam Palavitham 
+// Ulagam Pirandhadhu Enakkaga 
+// Ulagam Sutrum Valiban 
+// Ulakam Chuttum Valiban 
+// Ulath Ekai Pilath Ekai 
+// Ulavuthurai 
+// Ulee's Gold 
+// Ulpathi 
+// Ulrike's Brain 
+// Ulsavapittennu 
+// Ulta 
+// Ulta Palta 69 
+// Ulta Palta: & 1998)
+// Ulta Seedha 
+// Ulterior Motive 
+// Ulti Ganga 
+// Ultimate Avengers 
+// Ultimate Avengers 2: Rise of the Panther 
+// Ultimate Betrayal 
+// Ultimate Deception 
+// Ultimate Force 
+// Ultimate Hero 
+// Ultimate Teacher 
+// Ultimate X: The Movie 
+// Ultimatum: & 2009)
+// Ultime grida dalla savana 
+// Ultimo minuto 
+// Ultimo mondo cannibale 
+// Ultimo perdono 
+// Ultimo tango a Zagarol 
+// Ultimul cartuș 
+// Ultra 
+// Ultra Q The Movie: Legend of the Stars 
+// Ultra Reinforcement 
+// Ultra Warrior 
+// Ultrachrist! 
+// Ultraman Cosmos 2: The Blue Planet 
+// Ultraman Cosmos vs. Ultraman Justice: The Final Battle 
+// Ultraman Cosmos: The First Contact 
+// Ultraman Gaia: The Battle in Hyperspace 
+// Ultraman Geed the Movie 
+// Ultraman Ginga S The Movie 
+// Ultraman Ginga Theater Special 
+// Ultraman Ginga Theater Special: Ultra Monster Hero Battle Royal! 
+// Ultraman Mebius & Ultraman Brothers 
+// Ultraman Orb The Movie 
+// Ultraman R/B the Movie 
+// Ultraman Saga 
+// Ultraman Story 
+// Ultraman Tiga & Ultraman Dyna: Warriors of the Star of Light 
+// Ultraman Tiga: The Final Odyssey 
+// Ultraman X The Movie 
+// Ultraman Zearth 
+// Ultraman Zero: The Revenge of Belial 
+// Ultraman Zoffy: Ultra Warriors vs. the Giant Monster Army 
+// Ultraman, Ultraseven: Great Violent Monster Fight 
+// Ultraman: & 1979)
+// Ultraman: Great Monster Decisive Battle 
+// Ultraman: The Adventure Begins 
+// Ultraman: The Next 
+// Ultramarines: A Warhammer 40,000 Movie 
+// Ultrasonic 
+// Ultraviolet 
+// Ulysses Against the Son of Hercules 
+// Ulysses' Gaze 
+// Ulysses:  1967 & 2011)
+// Ulzana's Raid 
+// Ulzhan 
+// Um Crime no Parque Paulista 
+// Um Show de Verão 
+// Um das Menschenrecht 
+// Uma 
+// Uma Aventura na Casa Assombrada 
+// Uma Aventura no Tempo 
+// Uma Chandi Gowri Shankarula Katha 
+// Uma Longa Viagem 
+// Uma Sundari 
+// Umaanilayam 
+// Umar 
+// Umar 55 Ki Dil Bachpan Ka 
+// Umar Marvi 
+// Umbartha 
+// Umberto D. 
+// Umbrage 
+// Umbrella 
+// Umi no yarodomo 
+// Umizaru 
+// Umizaru 3: The Last Message 
+// Umma 
+// Ummachu 
+// Ummadi Kutumbam 
+// Ummeed: & 1962)
+// Ummini Thanka 
+// Umoja: The Village Where Men Are Forbidden 
+// Umrao Jaan Ada 
+// Umrao Jaan: & 2006)
+// Umurage 
+// Umut 
+// Un Elefante color ilusión 
+// Un bon bock 
+// Unabomber: The True Story 
+// Unacceptable Levels 
+// Unaccompanied Minors 
+// Unaccustomed As We Are 
+// Unakkaagave Vaazhgiren 
+// Unakkaga Ellam Unakkaga 
+// Unakkaga En Kadhal 
+// Unakkaga Mattum 
+// Unakkaga Naan 
+// Unakkaga Piranthen 
+// Unakkenna Venum Sollu 
+// Unakkul Naan 
+// Unakkum Enakkum 
+// Unarchigal: & 2005)
+// Unarmed Verses 
+// Unarthupattu 
+// Unaru 
+// Unashamed 
+// Unaware 
+// Unbeatable 
+// Unbeatable Harold 
+// Unbeaten 28 
+// Unbecoming Age 
+// Unbelievable Adventures of Italians in Russia 
+// Unborn but Forgotten 
+// Unborn in the USA 
+// Unbowed 
+// Unbreakable 
+// Unbridled 
+// Unbroken 
+// Unbroken Glass 
+// Unbroken: Path to Redemption 
+// Uncanny 
+// Uncanny Valley 
+// Uncensored 
+// Uncertain Glory 
+// Uncertain Lady 
+// Uncertainty 
+// Unchained 
+// Unchained Memories 
+// Uncharted Channels 
+// Uncharted Live Action Fan Film 
+// Uncharted Seas 
+// Uncivil War Birds 
+// Uncivil Warriors 
+// Uncivilised 
+// Unclaimed Goods 
+// Unclaimed: & 2016)
+// Uncle 
+// Uncle Boonmee Who Can Recall His Past Lives 
+// Uncle Buck 
+// Uncle Bun 
+// Uncle David 
+// Uncle Dick's Darling 
+// Uncle Drew 
+// Uncle Howard 
+// Uncle Hyacynth 
+// Uncle Jasper's Will 
+// Uncle Joe 
+// Uncle Joe Shannon 
+// Uncle John 
+// Uncle Kent 
+// Uncle Marin, the Billionaire 
+// Uncle Meat 
+// Uncle Nick 
+// Uncle Nino 
+// Uncle Sam 
+// Uncle Silas 
+// Uncle Tom's Bungalow 
+// Uncle Tom's Cabaña 
+// Uncle Tom's Cabin:  1914, 1918, 1927, 1965 & 1987)
+// Uncle Tom's Uncle 
+// Uncle Vanya:  1963 & 1970)
+// Uncle Was a Vampire 
+// Uncle's Apartment 
+// Uncle's New Blazer 
+// Uncle's Paradise 
+// Uncommon Friends of the 20th Century 
+// Uncommon Valor 
+// Uncommon Women and Others 
+// Unconditional 
+// Unconditional Love: & 2003 TV)
+// Unconquered Bandit 
+// Unconquered: & 1989)
+// Unconstitutional: The War on Our Civil Liberties 
+// Uncorked 
+// Uncovered 
+// Uncovered: The War on Iraq 
+// Uncut 
+// Uncut Gems // Und Jimmy ging zum Regenbogen 
+// Und wieder 48 
+// Unda // Undamma Bottu Pedata 
+// Undead 
+// Undead Pool 
+// Undead or Alive 
+// Undeclared War 
+// Undefeatable 
+// Undefeated: TV & 2011)
+// Under Age: & 1964)
+// Under Arizona Skies 
+// Under Blazing Heavens 
+// Under Burning Skies 
+// Under California Stars 
+// Under Capricorn 
+// Under Colorado Skies 
+// Under Construction 
+// Under Cover of Night 
+// Under Cover: & 1987)
+// Under Crimson Skies 
+// Under Eighteen 
+// Under Electric Clouds 
+// Under False Colors 
+// Under False Flag: & 1935)
+// Under Fiesta Stars 
+// Under Fire:  1957 & 1983)
+// Under Great White Northern Lights 
+// Under Heaven 
+// Under Heavy Fire 
+// Under Jakob's Ladder 
+// Under Mexicali Stars 
+// Under Milk Wood: & 2015)
+// Under My Nails 
+// Under My Skin 
+// Under Nevada Skies 
+// Under New Management 
+// Under One Roof 
+// Under One Sky 
+// Under Our Skin 
+// Under Pressure 
+// Under Proof 
+// Under Secret Orders 
+// Under Siege 
+// Under Siege 2: Dark Territory 
+// Under Southern Skies: & 1915)
+// Under Strange Flags 
+// Under Suspicion:  1919, 1930, 1991 & 2000)
+// Under Ten Flags 
+// Under Texas Skies: & 1940)
+// Under Two Flags:  1922 & 1936)
+// Under Two Jags 
+// Under Western Eyes: & 1996)
+// Under Western Skies: & 1945)
+// Under Western Stars 
+// Under Wraps TV)
+// Under Your Hat 
+// Under Your Skin 
+// Under Your Spell 
+// Under a Cloud 
+// Under a Jarvis Moon 
+// Under a Shadow 
+// Under a Texas Moon 
+// Under en steinhimmel 
+// Under the Bed 
+// Under the Bed 2 
+// Under the Bed 3 
+// Under the Big Top 
+// Under the Black Eagle 
+// Under the Boardwalk 
+// Under the Boardwalk: The Monopoly Story 
+// Under the Bombs 
+// Under the Bridges 
+// Under the Cards 
+// Under the Cherry Moon 
+// Under the Chinese Restaurant 
+// Under the City 
+// Under the Constellation Gemini 
+// Under the Counter Spy 
+// Under the Crescent 
+// Under the Doctor 
+// Under the Dome 
+// Under the Domim Tree 
+// Under the Dragon's Tail 
+// Under the Eiffel Tower 
+// Under the Electric Sky 
+// Under the Flag of the Rising Sun 
+// Under the Frozen Falls 
+// Under the Gaslight 
+// Under the Glacier 
+// Under the Greenwood Tree: & 1929)
+// Under the Gun: & 1995)
+// Under the Hawthorn Tree 
+// Under the Hula Moon 
+// Under the Lantern 
+// Under the Lash 
+// Under the Leather Helmet 
+// Under the Lighthouse Dancing 
+// Under the Mountain 
+// Under the Mountains 
+// Under the Mud 
+// Under the Palms 
+// Under the Pampas Moon 
+// Under the Pavement Lies the Strand 
+// Under the Piano 
+// Under the Radar 
+// Under the Rainbow: & 2013)
+// Under the Raven's Wing 
+// Under the Red Robe:  1923 & 1937)
+// Under the Red Sea 
+// Under the Roofs of Paris 
+// Under the Salt 
+// Under the Same Moon 
+// Under the Same Roof 
+// Under the Same Skin 
+// Under the Same Sky 
+// Under the Sand 
+// Under the Seas 
+// Under the Shadow 
+// Under the Shadow of the Law 
+// Under the Sign of Scorpio 
+// Under the Silver Lake 
+// Under the Skies of the Asturias 
+// Under the Skin of the City 
+// Under the Skin: & 2013)
+// Under the Sky of Paris 
+// Under the Sky of Spain 
+// Under the Southern Cross:  1929 & 1938)
+// Under the Spell of Silence 
+// Under the Stars of Capri 
+// Under the Stars: & 2007)
+// Under the Sun of Rome 
+// Under the Sun of Satan 
+// Under the Sun: & 2015)
+// Under the Thousand Lanterns 
+// Under the Tonto Rim:  1933 & 1947)
+// Under the Top 
+// Under the Tree: & 2017)
+// Under the Tuscan Sun 
+// Under the Volcano 
+// Under the Yoke 
+// Under the Yum Yum Tree 
+// Under-Cover Man 
+// Underclassman 
+// Undercover Agent 
+// Undercover Angel 
+// Undercover Blues 
+// Undercover Brother 
+// Undercover Christmas 
+// Undercover Doctor 
+// Undercover Duet 
+// Undercover Girl 
+// Undercover Grandpa 
+// Undercover Kitty 
+// Undercover Maisie 
+// Undercover Man: & 1942)
+// Undercover Men 
+// Undercover X 
+// Undercover with the KKK 
+// Undercover: & 1983)
+// Undercurrent: & 2010)
+// Undercut 
+// Underdog & 2018)
+// Underdog Kids 
+// Underdogs: American & 2013 Argentine)
+// Underexposure 
+// Underfunded 
+// Underground Aces 
+// Underground Lizard People 
+// Underground Rustlers 
+// Underground Secrets 
+// Underground U.S.A. 
+// Underground:  1941, 1970, 1976 & 1995)
+// Underground: The Julian Assange Story 
+// Undermind 
+// Underneath the Arches 
+// Undersea Kingdom 
+// Undersea Super Train: Marine Express 
+// Undertow Eyes 
+// Undertow:  1949, 1996, 2004 & 2009)
+// Undertrial 
+// Underwater 
+// Underwater Dreams 
+// Underwater Love 
+// Underwater Warrior 
+// Underwater! 
+// Underworld 
+// Underworld Beauty 
+// Underworld U.S.A. 
+// Underworld:  1937, 1985, 1996 & 2004)
+// Underworld: Awakening 
+// Underworld: Blood Wars 
+// Underworld: Endless War 
+// Underworld: Evolution 
+// Underworld: Rise of the Lycans 
+// Undine 
+// Undiscovered 
+// Undisputed 
+// Undisputed II: Last Man Standing 
+// Undisputed III: Redemption 
+// Undocumented 
+// Undoing 
+// Undrafted 
+// Undressed 
+// Undressing Extraordinary 
+// Undressing Israel: Gay Men in the Promised Land 
+// Undu Hoda Kondu Hoda 
+// Une liaison pornographique 
+// Unearthed 
+// Unearthed and Understood 
+// Unearthly Stranger 
+// Uneasy Money: & 1926)
+// Uneasy Terms 
+// Uneasy Virtue 
+// Unees-Bees 
+// Uneven Fairways 
+// Unexpected Conflict 
+// Unexpected Father 
+// Unexpected Guest 
+// Unexpected Love 
+// Unexpected Places: & 2012)
+// Unexpected Riches 
+// Unexpected Uncle 
+// Unexpected: & 2015)
+// Unexpectedly Yours 
+// Unfair 2: The Answer 
+// Unfair Competition 
+// Unfair Dealing 
+// Unfair World 
+// Unfair: The End 
+// Unfair: The Movie 
+// Unfaithful Mornings 
+// Unfaithful:  2002 & 2009)
+// Unfaithfully Yours: & 1984)
+// Unfiltered Breathed In 
+// Unfinished 
+// Unfinished Business:  1977, 1984, 1985 Australian, 1985 American, 2009 & 2015)
+// Unfinished Sky 
+// Unfinished Spaces 
+// Unfinished Story 
+// Unfinished Supper 
+// Unfinished Symphony 
+// Unfinished Symphony: Democracy and Dissent 
+// Unfolding Florence: The Many Lives of Florence Broadhurst 
+// Unforgettable Blast 
+// Unforgettable Life 
+// Unforgettable Trail 
+// Unforgettable:  2014, 2016, & 2017)
+// Unforgivable: & 2011)
+// Unforgiven:  2013 & 2018)
+// Unfreedom 
+// Unfriend 
+// Unfriended 
+// Unfriended: Dark Web 
+// Ungarala Rambabu 
+// Ungeküsst soll man nicht schlafen gehn 
+// Unglassed Windows Cast a Terrible Reflection 
+// Ungli 
+// Ungu Violet 
+// Unguarded Women 
+// Unhallowed Ground 
+// Unheimliche Geschichten: & 1932)
+// Unhinged 
+// Unholy 
+// Unholy Desire 
+// Unholy Love 
+// Unholy Partners 
+// Unholy Women 
+// Unhook the Stars 
+// Unicorn Store 
+// Unidentified 
+// Unidentified Flying Oddball 
+// Uniform 
+// Uninhabited 
+// Uninvited Guest 
+// Uninvited: & 1999)
+// Union Leader 
+// Union Maids 
+// Union Pacific 
+// Union Square 
+// Union Station 
+// Union of Salvation // Unique Brothers 
+// United 93 
+// United Passions 
+// United Red Army 
+// United Six 
+// United Skates // United States Marine Band 
+// United: & 2011)
+// Unity 
+// Universal Signs 
+// Universal Soldier 
+// Universal Soldier 
+// Universal Soldier II: Brothers in Arms 
+// Universal Soldier III: Unfinished Business 
+// Universal Soldier: Day of Reckoning 
+// Universal Soldier: Regeneration 
+// Universal Soldier: The Return 
+// Universal Soldiers 
+// Universe: & 1976)
+// University 
+// University Heights 
+// Unknown Brood 
+// Unknown Chaplin TV)
+// Unknown Island 
+// Unknown Man of San Marino 
+// Unknown Path 
+// Unknown Pleasures 
+// Unknown Sender 
+// Unknown Time 
+// Unknown Treasures 
+// Unknown White Male 
+// Unknown World 
+// Unknown of Monte Carlo 
+// Unknown: & 2011)
+// Unlawful Entry 
+// Unlawful Killing 
+// Unleashed: & 2016)
+// Unless 
+// Unless the Water Is Safer than the Land 
+// Unlikely Angel 
+// Unlikely Revolutionaries 
+// Unlisted Owner 
+// Unlocked: & 2017)
+// Unlocking the Cage 
+// Unlocking the Mystery of Life 
+// Unlovable 
+// Unloved 
+// Unlucky Plaza 
+// Unmade Beds: & 2009)
+// Unmaiye Un Vilai Enna? 
+// Unman, Wittering and Zigo 
+// Unmanned: America's Drone Wars 
+// Unmarried Daughters 
+// Unmarried Mothers 
+// Unmarried: & 1939)
+// Unmasked: & 1950)
+// Unmatched 
+// Unmistaken Child 
+// Unna Nenachen Pattu Padichen 
+// Unna ja Nuuk 
+// Unnai Charanadaindhen 
+// Unnai Kann Theduthe 
+// Unnai Kann Theduthey 
+// Unnai Kodu Ennai Tharuven 
+// Unnai Naan Santhithen 
+// Unnai Ninaithu 
+// Unnai Solli Kutramillai 
+// Unnai Suttrum Ulagam 
+// Unnai Thedi 
+// Unnai Thedi Varuven 
+// Unnai Vaazhthi Paadugiren 
+// Unnaipol Oruvan: & 2009)
+// Unnal Mudiyum Thambi 
+// Unnale Unnale 
+// Unnam 
+// Unnaruge Naan Irundhal 
+// Unnathangalil 
+// Unnatural History 
+// Unnecessary Fuss 
+// Unni Vanna Divasam 
+// Unni: & 2007)
+// Unnidathil Ennai Koduthen 
+// Unnikale Oru Kadha Parayam 
+// Unnikrishnante Adyathe Christmas 
+// Unnikuttanu Joli Kitti 
+// Unnil Tholaindhein // Unnimaya 
+// Unnimoolam 
+// Unniyarcha 
+// Unnodu Ka 
+// Unnudan 
+// Uno 
+// Uno contro l'altro, praticamente amici 
+// Uno di più all'inferno 
+// Unofficially Yours 
+// Unos Pocos con Valor 
+// Unplanned 
+// Unprecedented: The 2000 Presidential Election 
+// Unprotected 
+// Unpublished Story 
+// Unraveled 
+// Unrelated 
+// Unrest: & 2017)
+// Unripe Fruit 
+// Unrivaled 
+// Unrivaled: Earnhardt vs. Gordon 
+// Unruled Paper 
+// Unsalted: A Great Lakes Experience 
+// Unsane 
+// Unseeing Eyes 
+// Unseen Enemy 
+// Unseen Evil 
+// Unseen Forces 
+// Unseen Wonder 
+// Unser täglich Brot 
+// Unsettled 
+// Unsettled Land 
+// Unspeakable: & 2002)
+// Unspoken 
+// Unstoppable Marriage 
+// Unstoppable:  2010, 2013 & 2018)
+// Unstoppable: Conversation with Melvin Van Peebles, Gordon Parks, and Ossie Davis 
+// Unstrung Heroes 
+// Unsullied 
+// Untamagiru 
+// Untamed Frontier 
+// Untamed Fury 
+// Untamed Heart 
+// Untamed Heiress 
+// Untamed Women 
+// Untamed Youth 
+// Untamed:  1940, 1955 & 1957)
+// Unter dem Rauschen deiner Wimpern 
+// Unterm Radar 
+// Unternehmen Michael 
+// Unternehmen Teutonenschwert 
+// Unterwerfung 
+// Unthinkable 
+// Until the End of the World 
+// Unto the Third Generation 
+// Untraceable 
+// Unusable 
+// Unusual Exhibition 
+// Unutra 
+// Unvanquished City 
+// Unwanted 
+// Unwanted Cinema 
+// Unwanted Guest 
+// Unwanted Soldiers 
+// Unwed Mother 
+// Unzipped 
+// Uomini ombra 
+// Up 'n' Under 
+// Up Against It 
+// Up Close & Personal 
+// Up Denali 3D 
+// Up Front 
+// Up Goes Maisie 
+// Up Jumped a Swagman 
+// Up Jumped the Devil 
+// Up North 
+// Up Periscope 
+// Up Pompeii 
+// Up Pops the Devil 
+// Up Pops the Duke 
+// Up Romance Road 
+// Up Syndrome 
+// Up There 
+// Up Your Alley 
+// Up Your Legs Forever 
+// Up a Tree: & 1955)
+// Up and at 'Em 
+// Up at the Villa 
+// Up for Grabs 
+// Up for Love 
+// Up for Murder 
+// Up for the Cup: & 1950)
+// Up for the Derby 
+// Up for the Rising Sun 
+// Up from the Beach 
+// Up from the Depths 
+// Up from the Ranks 
+// Up in Arms 
+// Up in Central Park 
+// Up in Daisy's Penthouse 
+// Up in Flames 
+// Up in Mabel's Room: & 1944)
+// Up in Smoke 
+// Up in the Air: & 2009)
+// Up in the Cellar 
+// Up in the Wind 
+// Up in the World 
+// Up the Academy 
+// Up the Chastity Belt 
+// Up the Creek: & 1984)
+// Up the Down Staircase 
+// Up the Establishment 
+// Up the Front 
+// Up the Junction 
+// Up the Ladder 
+// Up the MacGregors! 
+// Up the Ridge 
+// Up the River: & 1938)
+// Up the Road with Sallie 
+// Up the Sandbox 
+// Up the Yangtze 
+// Up to His Ears 
+// Up to His Neck 
+// Up to Our Necks 
+// Up to a Certain Point 
+// Up to the Neck 
+// Up with the Lark 
+// Up! 
+// Up, Down, Fragile 
+// Up, Up and Away TV)*
+// Up: & 2009)
+// Upa en apuros 
+// Upaasna 
+// Upadeshiyude Makan 
+// Upaharam: & 1985)
+// Upasana 
+// Upasane 
+// Upbeat in Music 
+// Upeksha // Upendra 
+// Upendra Matte Baa 
+// Upgrade 
+// Uphaar 
+// Uphill All the Way 
+// Upin & Ipin: Jeng Jeng Jeng! 
+// Upin & Ipin: Keris Siamang Tunggal 
+// Upkar 
+// Uppalawanna 
+// Upper World 
+// Uppi 2 
+// Uppu 
+// Uppu Huli Khara 
+// Uppu Karuvaadu 
+// Uppukandam Brothers 
+// Uppukandam Brothers: Back in Action 
+// Uprising: & 2012)
+// Uproar in Damascus 
+// Uproar in the Studio 
+// Ups 'n Downs 
+// Ups and Downs: & 1937)
+// Upside 
+// Upside Down:  2012 & 2015)
+// Upside Down: The Creation Records Story 
+// Upside Down; or, the Human Flies 
+// Upside-Down Girl 
+// Upstage 
+// Upstairs and Downstairs: & 1959)
+// Upstream 
+// Upstream Color 
+// Upswept Hare 
+// Uptight 
+// Uptown Girls 
+// Uptown Saturday Night 
+// Uptown: & 2009)
+// Urakkam Varaatha Raathrikal 
+// Uran Khatola 
+// Urangatha Ninaivugal 
+// Urangatha Sundary 
+// Uranium Boom 
+// Uranus 
+// Urashima Tarō 
+// Uravai Kaatha Kili 
+// Uravukku Kai Koduppom 
+// Urban Cowboy 
+// Urban Decay 
+// Urban Explorer 
+// Urban Explorers: Into the Darkness 
+// Urban Feel 
+// Urban Games 
+// Urban Ghost Story 
+// Urban Hymn 
+// Urban Justice 
+// Urban Legend 
+// Urban Legends: Bloody Mary 
+// Urban Legends: Final Cut 
+// Urban Menace 
+// Urban Safari 
+// Urbania 
+// Urbanized 
+// Urchin 
+// Urduja 
+// Ureinung 
+// Ureme 1 
+// Ureme 2 
+// Ureme 3 
+// Ureme 4 
+// Ureme 5 
+// Ureme 6 
+// Ureme 7 
+// Ureme 8 
+// Ureshi Hazukashi Monogatari 
+// Urge 
+// Urge to Build 
+// Urge to Kill 
+// Urgh! A Music War 
+// Uri: The Surgical Strike 
+// Urimai 
+// Urimai Geetham 
+// Urimai Oonjaladugiradhu 
+// Urimai Por 
+// Urimaikural 
+// Uriyadi 
+// Uriyadi 2 
+// Urlaub auf Ehrenwort: & 1955)
+// Uro 
+// Ursus 
+// Ursus and the Tartar Princess 
+// Ursus in the Land of Fire 
+// Ursus in the Valley of the Lions 
+// Uru 
+// Urubu 
+// Urudhi Mozhi 
+// Urukku Manushyan 
+// Urukku Mushtikal 
+// Urumattram // Urumbukal Urangarilla 
+// Urumeen 
+// Urumi 
+// Urusei Yatsura 2: Beautiful Dreamer 
+// Urusei Yatsura 3: Remember Me 
+// Urusei Yatsura 4: Lum the Forever 
+// Urusei Yatsura: Always My Darling 
+// Urusei Yatsura: Only You 
+// Urusei Yatsura: The Final Chapter 
+// Uruvam 
+// Uruvangal Maralam 
+// Urvashi 
+// Urvashi Bharathi 
+// Urvashi Kalyana 
+// Urvi 
+// Us Now 
+// Us Paar 
+// Us Two 
+// Us and Our Education 
+// Us and Them 
+// Us: TV & 2019)[1]
+// Used Cars 
+// Used People 
+// Useless 
+// Usfahrt Oerlike 
+// Usha Haran 
+// Usha Kalyanam 
+// Usha Parinayam 
+// Usher 
+// Ushpizin 
+// Usire 
+// Uski Roti 
+// Usne Kaha Tha 
+// Uss Paar 
+// Ustaad: & 1999)
+// Ustad Hotel 
+// Ustadi Ustad Se 
+// Ustadon Ke Ustad: & 
+// Ustedes los ricos 
+// Usuku Lwan 
+// Ut av mørket 
+// Utah 
+// Utah Blaine 
+// Utah Wagon Train 
+// Utamaro and His Five Women 
+// Utatama 
+// Uthama Purushan 
+// Uthama Puthiran: & 1958)
+// Uthama Raasa 
+// Uthaman: & 2001)
+// Uthamaputhiran 
+// Uthami 
+// Uthami Petra Rathinam 
+// Uthara 
+// Utharam 
+// Utharaswayamvaram 
+// Uthiripookkal 
+// Uthrada Rathri 
+// Uththara 
+// Utilities 
+// Utkarsha 
+// Utopia:  2013 & 2015)
+// Utopians 
+// Utopiayile Rajavu 
+// Utrpení mladého Boháčka 
+// Utsab 
+// Utsav 
+// Utsavam 
+// Utsavamelam 
+// Utt Pataang 
+// Uttar Dakshin 
+// Uttar Falguni 
+// Uttar Purush 
+// Uttara 
+// Utu 
+// Uu Kodathara? Ulikki Padathara? 
+// Uuno Epsanjassa 
+// Uuno Turhapuro 
+// Uuno Turhapuro armeijan leivissä 
+// Uuno Turhapuro muuttaa maalle 
+// Uuno Turhapuro – Suomen tasavallan herra presidentti 
+// Uuno Turhapuro – This Is My Life 
+// Uuno Turhapuro – kaksoisagentti 
+// Uvaa 
+// Uvanga 
+// Uvvu 
+// Uwantme2killhim? 
+// Uwiedziona 
+// Uyaran Orumikkan 
+// Uyarangalil 
+// Uyarndha Manithan: & 2019)
+// Uyarndha Ullam 
+// Uyarndhavargal 
+// Uyarthiru 420 
+// Uyarum Njan Nadake 
+// Uyir 
+// Uyir Mel Aasai 
+// Uyira Maanama 
+// Uyire Unakkaga 
+// Uyire Uyire 
+// Uyirile Kalanthathu 
+// Uyirodu Uyiraga 
+// Uyirthezhunnelppu 
+// Uyirullavarai Usha 
+// Uyyala Jampala 
+// Uyyale 
+// Uzak 
+// Uzumaki 
+// Uśmiech zębiczny 
+// V for Vendetta 
+// V for Visa 
+// V-Day: Until the Violence Stops 
+// V. I. P.: & 1997)
+// V.I. Warshawski 
+// V.I.P. 
+// V/H/S 
+// V/H/S/2 
+// V/H/S: Viral 
+// Va 
+// Va a ser que nadie es perfecto 
+// Va banque 
+// Va savoir 
+// Vaa Arugil Vaa 
+// Vaa Deal 
+// Vaa Kanna Vaa 
+// Vaa Magale Vaa 
+// Vaa Raja Vaa 
+// Vaachalam 
+// Vaada 
+// Vaada Poda Nanbargal 
+// Vaada Raha 
+// Vaadaa 
+// Vaadaka Gunda 
+// Vaadaka Veettile Athidhi 
+// Vaadamalli 
+// Vaade Iraade 
+// Vaade Veedu 
+// Vaadhdivsachya Haardik Shubhechcha 
+// Vaadhyar 
+// Vaadu Nenu Kaadhu // Vaagai Sooda Vaa 
+// Vaah! Life Ho Toh Aisi! 
+// Vaai Kozhuppu 
+// Vaaimai 
+// Vaajlaach Paahije - Game Ki Shinema 
+// Vaaleduthaven Vaalaal 
+// Vaalee 
+// Vaali 
+// Vaaliba Raja 
+// Vaaloabi Engeynama 
+// Vaalu 
+// Vaalu Jada // Vaamanan 
+// Vaan // Vaana 
+// Vaanam 
+// Vaanam Vasappadum 
+// Vaaname Ellai 
+// Vaanathaippola 
+// Vaanavil 
+// Vaanavil Vaazhkai 
+// Vaanchinathan 
+// Vaanga Partner Vaanga 
+// Vaanmathi 
+// Vaapsi 
+// Vaaraayo Vennilaave 
+// Vaaranam Aayiram 
+// Vaarasatwam 
+// Vaareva 
+// Vaarikkuzhiyile Kolapathakam 
+// Vaarikuzhi 
+// Vaasarashayya 
+// Vaashey Mashaa Ekee 
+// Vaashi 
+// Vaastav: The Reality 
+// Vaasthavam 
+// Vaastu Prakaara 
+// Vaastu Shastra 
+// Vaasu Naan Pakka Commercial 
+// Vaathiyaar Veettu Pillai 
+// Vaayai Moodi Pesavum 
+// Vaazha Vaitha Deivam 
+// Vaazhga Jananayagam 
+// Vaazhkai Alaigal 
 // Vaazhkai Oppandham 1959)
-// Vaazhkai Padagu (1965)
-// Vaazhkai: (1949 & 1984)
-// Vaazhnthu Kaattugiren (1975)
-// Vaazhthugal (2008)
-// Vaazhve Mayam (1970)
-// Vabank (1981)
-// Vacaciones (1947)
-// Vacancy (2007)
-// Vacancy 2: The First Cut (2009)
-// Vacant Possession (1995)
-// Vacanze a Ischia (1957)
-// Vacanze di Natale '90 (1990)
-// Vacanze di Natale '95 (1995)
-// Vacanze di Natale (1983)
-// Vacanze di Natale a Cortina (2011)
-// Vacanze in America (1984)
-// Vacanze in Argentina (1960)
-// Vacas (1992)
-// Vacation Days (1947)
-// Vacation from Love (1938)
-// Vacation from Marriage (1927)
-// Vacation in Reno (1946)
-// Vacation of Petrov and Vasechkin, Usual and Incredible (1984)
-// Vacation with a Gangster (1951)
-// Vacation: (2005 & 2015)
-// Vacationland (2006)
-// Vacations in Acapulco (1961)
-// Vacations in Majorca (1959)
-// Vacations in the Other World (1942)
-// Vachan: (1938 & 1955)
-// Vachanam (1990)
-// Vachathi (2012)
-// Vachina Kodalu Nachindi (1959)
-// Vacuuming Completely Nude in Paradise (2001)
-// Vada Chennai (2018)
-// Vadacurry (2014)
-// Vadagupatti Maapillai (2001)
-// Vadaka Veedu (1979)
-// Vadakakku Oru Hridayam (1978)
-// Vadakkumnadhan (2006)
-// Vadakkunokkiyantram (1989)
-// Vaddante Dabbu (1954)
-// Vaddu Bava Thappu (1994)
-// Vadhayiyaan Ji Vadhayiyaan (2018)
-// Vadhu Doctoranu (1994)
-// Vadina (1955)
-// Vadivukku Valai Kappu (1962)
-// Vado a riprendermi il gatto (1987)
-// Vaettiya Madichu Kattu (1998)
-// Vafaatheri Kehiveriya (2016)
-// Vagabond Lady (1935)
-// Vagabond Loafers (1949)
-// Vagabond: (1950 & 1985)
-// Vagabonderne på Bakkegården (1958)
-// Vagdanam (1961)
-// Vagrant Bus (1990)
-// Vai Pandal (1984)
-// Vai Que Cola - O Filme (2015)
-// Vai Raja Vai (2015)
-// Vai avanti tu che mi vien da ridere (1982)
-// Vai que Dá Certo (2013)
-// Vai que é Mole (1960)
-// Vaidehi (2009)
-// Vaidehi Kalyanam (1991)
-// Vaidehi Kathirunthal (1984)
-// Vaigai (2009)
-// Vaigai Express (2017)
-// Vaigasi Poranthachu (1990)
-// Vaiki Odunna Vandi (1987)
-// Vaiki Vanna Vasantham (1980)
-// Vaimaye Vellum (1997)
-// Vaincre à Olympie (1977)
-// Vaira Maalai (1954)
-// Vaira Nenjam (1975)
-// Vairagyam (1987)
-// Vairam (1974)
-// Vairam: Fight for Justice (2009)
-// Vaisakha Rathiri (1991)
-// Vaisakhi List (2016)
-// Vaisali (1988)
-// Vaishakada Dinagalu (1993)
-// Vaishnavee (2018)
-// Vaitheeswaran (2008)
-// Vajont (2001)
-// Vajraghat (1992)
-// Vajrakaya (2015)
-// Vajram: (1995, 2004 & 2015)
-// Vajrayudha (1992)
-// Vakil Babu (1982)
-// Vakil Saheb (1943)
-// Vakkalathu Narayanankutty (2001)
-// Vakkeel Vasudev (1993)
-// Vakratunda Mahakaaya (2015)
-// Vala In London (2003)
-// Valaiyam (TBD)
-// Valar Pirai (1962)
-// Valarthumrugangal (1981)
-// Valathottu Thirinjal Nalamathe Veedu (2003)
-// Valayal Satham (1987)
-// Valayam (1992)
-// Valayapathi (1952)
-// Valediction (2012)
-// Valente Quintero (1973)
-// Valentina: (1950 & 2008)
-// Valentine (2001)
-// Valentine Ever After (2016)
-// Valentine Road (2013)
-// Valentine's Day: (2007 & 2010)
-// Valentino: (1951 & 1977)
-// Valentino: The Last Emperor (2009)
-// Valentín (2002)
-// Valerian and the City of a Thousand Planets (2017)
-// Valerie and Her Week of Wonders (1970)
-// Valhalla Rising (2010)
-// Valhalla: (1986 & 2013)
-// Valiant (2005)
-// Valiant Is the Word for Carrie (1936)
-// Valiba Virundhu (1967)
-// Valibamey Vaa Vaa (1982)
-// Valiyangadi (2010)
-// Valiyavan (2015)
-// Valkannadi (2002)
-// Valkyrie (2008)
-// Valla Desam (2017)
-// Vallakottai (2010)
-// Vallal (1997)
-// Vallamai Tharayo (2008)
-// Vallarasu (2000)
-// Vallatha Pahayan (2013)
-// Vallavan (2006)
-// Vallavan Oruvan (1966)
-// Vallavanukku Pullum Aayudham (2014)
-// Vallavanukku Vallavan (1965)
-// Valleem Thetti Pulleem Thetti (2016)
-// Valley Forge (1975)
-// Valley Girl (1983)
-// Valley of Angels (2008)
-// Valley of Bones (2017)
-// Valley of Eagles (1951)
-// Valley of Hunted Men (1942)
-// Valley of Love (2015)
-// Valley of Peace (1956)
-// Valley of Saints (2012)
-// Valley of Song (1953)
-// Valley of the Dolls (1967)
-// Valley of the Dragons (1961)
-// Valley of the Giants (1938)
-// Valley of the Head Hunters (1953)
-// Valley of the Kings (1954)
-// Valley of the Moon (1914)
-// Valley of the Redwoods (1960)
-// Valley of the Sasquatch (2015)
-// Valley of the Stereos (1992)
-// Valley of the Sun (1942)
-// Valley of the Wolves: Gladio (2009)
-// Valley of the Wolves: Iraq (2006)
-// Valley of the Wolves: Palestine (2011)
-// Valley of the Zombies (1946)
-// Valli (1993)
-// Valli Vara Pora (1995)
-// Valliettan (2000)
-// Vallinam (2014)
-// Valliyin Selvan (1955)
-// Valluvan Vasuki (2008)
-// Valmiki: (1946, 1963 Kannada, 1963 Telugu & 2009)
-// Valmont (1989)
-// Valobasha Emoni Hoy (2017)
-// Valparaíso mi amor (1969)
-// Valu (2008)
-// Valu Jada Tolu Beltu (1992)
-// Value—Beyond Price (1910)
-// Valzer (2007)
-// Vamban (1987)
-// Vambu Sandai (2008)
-// Vamos a sonar por el amor (1971)
-// Vamp (1986)
-// Vampariah (2016)
-// Vamping (1984)
-// Vamping Venus (1928)
-// Vampira: (1974 & 1994)
-// Vampire Academy (2014)
-// Vampire Assassin (2005)
-// Vampire Bats (2005)
-// Vampire Blvd. (2004)
-// Vampire Circus (1972)
-// Vampire Clan (2002)
-// Vampire Cleanup Department (2017)
-// Vampire Controller (2001)
-// Vampire Cop Ricky (2006)
-// Vampire Diary (2007)
-// Vampire Dog (2012)
-// Vampire Girl vs. Frankenstein Girl (2009)
-// Vampire Hunter D (1985)
-// Vampire Hunter D: Bloodlust (2000)
-// Vampire Journals (1997)
-// Vampire Killers (2009)
-// Vampire Moth (1956)
-// Vampire Noir (2007)
-// Vampire Secrets (2006)
-// Vampire Stories: Brothers (2011)
-// Vampire in Brooklyn (1995)
-// Vampire in Venice (1988)
-// Vampire vs. Vampire (1989)
-// Vampire's Kiss (1989)
-// Vampire: (1979 TV & 2011)
-// Vampirella (1996)
-// Vampires (1986)
-// Vampires (1998)
-// Vampires Suck (2010)
-// Vampires in Havana (1985)
-// Vampires of Geon (1991-92)
-// Vampires of Warsaw (1925)
-// Vampires vs. Zombies (2004)
-// Vampires vs. the Bronx (TBD)
-// Vampires: Los Muertos (2002)
-// Vampires: The Turning (2005)
-// Vampiro: Angel, Devil, Hero (2008)
-// Vampiros los prefieren gorditos (1974)
-// Vamps (2012)
-// Vampyr (1932)
-// Vampyres (1974)
-// Vampyros Lesbos (1971)
-// Vamsa Vilakku (1984)
-// Vamsa Vruksham (1980)
-// Vamsam: (1997 & 2010)
-// Vamsha Jyothi (1978)
-// Vamsha Vriksha (1972)
-// Vamshanikokkadu (1996)
-// Vamshi (2008)
-// Vamshodharaka (2015)
-// Vamsi (2000)
-// Van Diemen's Land (2009)
-// Van Gogh: (1948 & 1991)
-// Van Helsing (2004)
-// Van Helsing: The London Assignment (2004)
-// Van Nuys Blvd. (1979)
-// Van Wilder (2002)
-// Van Wilder: Freshman Year (2009)
-// Van Wilder: The Rise of Taj (2006)
-// Van de koele meren des doods (1982)
-// Vanaja (2006)
-// Vanaja Girija (1994)
-// Vanakkam Chennai (2013)
-// Vanakkam Thalaiva (2005)
-// Vanakkam Vathiyare (1991)
-// Vanakkatukuriya Kathaliye (1978)
-// Vanamagan (2017)
-// Vanamala (1951)
-// Vanambadi (1963)
-// Vanangamudi (1957)
-// Vanaprastham (1999)
-// Vanaraja Karzan (1938)
-// Vanarasena (1996)
-// Vanasundari (1951)
-// Vanavarayan Vallavarayan (2014)
-// Vance and Pepe's Porn Start (2011)
-// Vandae Maatharam (2010)
-// Vandana (1975)
-// Vandanam (1989)
-// Vande Mataram (1985)
-// Vandhaale Magaraasi (1973)
-// Vandhaan Vendraan (2011)
-// Vandhal Sridevi (2018)
-// Vandi (2018)
-// Vandichakkaram (1980)
-// Vandicholai Chinraasu (1994)
-// Vandikkari (1974)
-// Vandiny trampoty (1938)
-// Vangaveeti (2016)
-// Vani (1943)
-// Vani Rani (1974)
-// Vanilla Sky (2001)
-// Vanilla and Chocolate (2004)
-// Vanina Vanini (1961)
-// Vanish (2015)
-// Vanished – Left Behind: Next Generation (2016)
-// Vanished: (1995 & 2009
-// Vanishing Africa (1982)
-// Vanishing Men (1932)
-// Vanishing Point: (1971, 1997 & 2012)
-// Vanishing Time: A Boy Who Returned (2016)
-// Vanishing Trails (1920)
-// Vanishing Waves (2012)
-// Vanishing of the Bees (2009)
-// Vanishing on 7th Street (2011)
-// Vanitha Police (1984)
-// Vanity Fair: (1915, 1922, 1923, 1932 & 2004)
-// Vanity's Price (1924)
-// Vanity: (1927, 1935, 1947 & 2015)
-// Vaniusha The Newcomer (1990)
-// Vaniusha and The Giant (1993)
-// Vaniusha and The Space Pirate (1991)
-// Vanjagan (2006)
-// Vanjagar Ulagam (2018)
-// Vanjam (1953)
-// Vanjikottai Valiban (1958)
-// Vanmala (1941)
-// Vanmam (2014)
-// Vanna Jigina (2015)
-// Vanna Kanavugal (1987)
-// Vanna Thamizh Pattu (2000)
-// Vanna Vanna Pookkal (1992)
-// Vannakili (1959)
-// Vannu Kandu Keezhadakki (1985)
-// Vanquisher (2009)
-// Vantage Point (2008)
-// Vantha Rajavathaan Varuven (2019)
-// Vanya on 42nd Street (1994)
-// Vapors (1965)
-// Vara Vikrayam (1939)
-// Vara: A Blessing (2013)
-// Varadakshina (1977)
-// Varadhanayaka (2013)
-// Varadhi (2015)
-// Varakatnam (1969)
-// Varalaru (2006)
-// Varam (1993)
-// Varan the Unbelievable (1958)
-// Varanamalyam (1994)
-// Varanmaare Aavashyamundu (1983)
-// Varaphalam (1994)
-// Varaprasadham (1976)
-// Varasudochhadu (1988)
-// Varasudu (1993)
-// Varat Aali Gharat (2009)
-// Varathan (2018)
-// Varavaay (2000)
-// Varavarankely (2010)
-// Varavelpu (1989)
-// Varavu Ettana Selavu Pathana (1994)
-// Varavu Nalla Uravu (1990)
-// Vardaan (1975)
-// Vardi (1989)
-// Vares: Private Eye (2004)
-// Vargam (2006)
-// Varian's War (2001)
-// Varieties on Parade (1951)
-// Variety Girl (1947)
-// Variety Is the Spice of Life (1939)
-// Variety Jubilee (1943)
-// Variety Lights (1950)
-// Variety Parade (1936)
-// Variety Time (1948)
-// Variety: (1925, 1935, (1971 & 1983)
-// Variola Vera (1982)
-// Various Positions (2002)
-// Varnajalam (2004)
-// Varnakkazhchakal (2000)
-// Varnam: (1989 & 2011)
-// Varnapakittu (1997)
-// Varnatheru (1989)
-// Varning för Jönssonligan (1981)
-// Varraar Sandiyar (1995)
-// Varsha (2005)
-// Varshadhare (2010)
-// Varsham: (2004 & 2014)
-// Varshangal Poyathariyathe (1987)
-// Varsity (1928)
-// Varsity Blues (1999)
-// Varsity Show (1937)
-// Vartak Nagar (2017)
-// Vartha (1986)
-// Varthamana (2018)
-// Varthamana Kalam (1990)
-// Vartioitu kylä 1944 (1978)
-// Varum Varathirikilla Unni (1999)
-// Varum Varunnu Vannu (2003)
-// Varumayin Niram Sivappu (1980)
-// Varusham Padhinaaru (1989)
-// Varushamellam Vasantham (2002)
-// Varuthapadatha Valibar Sangam (2013)
-// Varuvan Vadivelan (1978)
-// Vasaliki (1997)
-// Vasandhathil Or Naal (1982)
-// Vasantam (2003)
-// Vasantasena (1941)
-// Vasantha Geetam (1984)
-// Vasantha Geetha (1980)
-// Vasantha Lakshmi (1978)
-// Vasantha Maligai (1972)
-// Vasantha Poornima (1993)
-// Vasantha Raagam (1986)
-// Vasantha Sena: (1967 & 1985)
-// Vasantha Vaasal (1996)
-// Vasanthakala Paravai (1991)
-// Vasantham Vanthachu (2007)
-// Vasanthamalika (2002)
-// Vasanthi (1988)
-// Vasanthiyum Lakshmiyum Pinne Njaanum (1999)
-// Vasantsena (1942)
-// Vasavadatta (1991)
-// Vase de Noces (1974)
-// Vasectomy: A Delicate Matter (1986)
-// Vaseegara (2003)
-// Vashyam (1991)
-// Vashyamanthram (1989)
-// Vasika... kalispera sas (1982)
-// Vasilisa (2014)
-// Vasilisa the Beautiful: (1939 & 1977)
-// Vaska Easoff (1996)
-// Vasool (2008)
-// Vasool Raja MBBS (2004)
-// Vassa (1983)
-// Vassa Zheleznova (1953)
-// Vastadu Naa Raju (2011)
-// Vasthuhara (1991)
-// Vastupurush (2002)
-// Vasu (2002)
-// Vasudha (1992)
-// Vasuki (1997)
-// Vasundhara (2014)
-// Vasuvum Saravananum Onna Padichavanga (2015)
-// Vasya (2002)
-// Vatathukkul Chadhuram (1978)
-// Vatel (2000)
-// Vater Morgana (2010)
-// Vater sein dagegen sehr (1957)
-// Vathikuchi (2013)
-// Vathiyar (2006)
-// Vathsalya (1965)
-// Vathsalya Patha (1980)
-// Vatican Conspiracy (1982)
-// Vatsalyam (1993)
-// Vattam (TBD)
-// Vattaram (2006)
-// Vaxxed: From Cover-Up to Catastrophe (2016)
-// Vaya (2016)
-// Vaya con Dios (2002)
-// Vayal (1981)
-// Vayanadan Thamban (1978)
-// Vayasu Pasanga (2004)
-// Vayasu Pilichindi (1978)
-// Vayuputra (2009)
-// Vazandar (2016)
-// Vazante (2017)
-// Vazhakku Enn 18/9 (2012)
-// Vazhi Piranthadu (1964)
-// Vazhi Pizhacha Santhathi (1968)
-// Vazhikal Yaathrakkar (1981)
-// Vazhimariya Paravakal (1980)
-// Vazhivilakku (1976)
-// Vazhvey Maayam (1982)
-// Vazhvile Oru Naal (1956)
-// Vazhvu En Pakkam (1976)
-// Vchera (1988)
-// Ved kongelunden... (1953)
-// Ved verdens ende (2009)
-// Veda (2010)
-// Vedalam (2015)
-// Vedam (2010)
-// Vedan (1993)
-// Vedappan (2009)
-// Vedathi (2000)
-// Vedavathi Alladhu Seetha Jananam (1941)
-// Vedha (2008)
-// Vedhala Ulagam (1948)
-// Vedham (2001)
-// Vedham Pudhithu (1987)
-// Vedi (2011)
-// Vedigundu Murugesan (2009)
-// Vedigundu Pasangge (2018)
-// Vedikkai En Vadikkai (1990)
-// Vedikkettu (1980)
-// Vedivazhipadu (2013)
-// Vee Beyvafa (2016)
-// Veede (2003)
-// Veedevadandi Babu (1997)
-// Veedu Manaivi Makkal (1988)
-// Veedu Oru Swargam (1977)
-// Veedu Theda (2011)
-// Veedu: (1982 & 1988)
-// Veena Meettiya Vilangukal (1990)
-// Veena Poovu (1983)
-// Veendum (1986)
-// Veendum Chalikkunna Chakram (1984)
-// Veendum Chila Veettukaryangal (1999)
-// Veendum Kannur (2012)
-// Veendum Lisa (1987)
-// Veendum Oru Aadyaraathri (1991)
-// Veendum Prabhatham (1973)
-// Veer Ghatotkach (1949)
-// Veer Hamirji – Somnath ni Sakhate (2012)
-// Veer Kunal (1945)
-// Veer Savarkar (2001)
-// Veer Tejaji (1982)
-// Veer! (2012)
-// Veer-Zaara (2004)
-// Veer: (1995 & 2010)
-// Veera: (1994, 2011, 2013 & 2018)
-// Veeramani (1994)
-// Vegas (2009)
-// Vegas In Space (1993)
-// Vegas Vacation (1997)
-// Velvet Buzzsaw (2019)
-// Velvet Goldmine (1998)
-// Velvet Smooth (1976)
-// Vendetta for the Saint (1969) (TV)
-// Vendetta: (1950, 1986, 1999, 2013, & 2015)
-// Vengeance (1970)
-// Vengeance Is Mine: (1916, 1935, 1949, 1968 & 1979)
-// Vengeance of an Assassin (2014)
-// Vengeance of the Zombies (1973)
-// Vengeful Beauty (1978)
-// Vengeful Heart (2014)
-// Venom (2018)
-// Venom 2 (TBA)
-// Venom: (1981 & 2005)
-// Venom: Truth in Journalism (2013, short)
-// Venus (2007)
-// Venus Wars (1989)
-// Venus and Mars: (2001 & 2007)
-// Vera Cruz (1954)
-// Vera Drake (2004)
-// Verbena Tragica (1939)
-// Verdens Undergang (1916)
-// Verdict (1974)
-// Vere Vazhi Ille (2015)
-// Veronica Guerin (2003)
-// Veronica Mars (2014)
-// Veronika Decides to Die (2012)
-// Veronika Voss (1982)
-// Versus: (2000 & 2016)
-// Vertical Limit (2000)
-// Vertical Ray of the Sun (2000)
-// Vertigo (1958)
-// Very Bad Things (1998)
-// Very Important Person (1961)
-// Vessel of Wrath (1938)
-// Vibes (1988)
-// Vice Squad: (1953, 1978 & 1982)
-// Vice Versa: (1916, 1948 & 1988)
-// Vicki (1953)
-// Vicky Cristina Barcelona (2008)
-// Victim: (1961, 1999 & 2011)
-// Victims (1982)
-// Victor Frankenstein (2015)
-// Victor/Victoria: (1982 & 1995 TV)
-// Victory Through Air Power (1943)
-// Video Dead (1987)
-// Video Violence (1987)
-// Videodrome (1983)
-// Vidocq: (1938 & 2001)
-// Viennese Nights (1930)
-// Vieuphoria (1994)
-// View from the Top (2003)
-// Vigilante (1983)
-// Viimne reliikvia (1969)
-// Viking (2016)
-// Villa Zone (1975)
-// Village of the Damned: (1960 & 1995)
-// Village of the Giants (1965)
-// Villain: (1971 & 2002)
-// Vincent: (1982 & 1987)
-// Vinyan (2008)
-// Vinyl: (1965 & 2000)
-// Violent Cop: (1989, 2000 Kant Leung & 2000 Steve Cheng)
-// Violet & Daisy (2013)
-// Violet: (1921 & 1978)
-// Violette Nozière (1978)
-// Virados do Avesso (2014)
-// Viral: (2016 American & 2016 Hindi)
-// Virgin Stripped Bare by Her Bachelors (2000)
-// Virgin Territory (2007)
-// Virginia City (1940)
-// Virginia: (1941 & 2010)
-// Viridiana (1961)
-// Virtual Sexuality (1999)
-// Virtuosity (1995)
-// Viruddh... Family Comes First (2005)
-// Virumaandi (2004)
-// Virus Undead (2008)
-// Virus: (1980, 1995, 1996, 1999 & 2007)
-// Vishwa Thulasi (2004)
-// Vision Quest (1985)
-// Visioneers (2008)
-// Visit to a Small Planet (1960)
-// Visiting Hours (1982)
-// Visitor Q (2001)
-// Visitors: (2003 & 2013)
-// Vital (2004)
-// Viva Cuba (2005)
-// Viva Freedom! (1946)
-// Viva Knievel! (1977)
-// Viva Las Vegas (1964)
-// Viva Maria! (1965)
-// Viva Villa! (1934)
-// Viva Zapata! (1952)
-// Vivacious Lady (1938)
-// Vive L'Amour (1994)
-// Vivre sa Vie (1962)
-// Vixen! (1968)
-// Viy: (1967 & 2014)
-// Voces inocentes (2004)
-// Vodka Diaries (2018)
-// Vodka Lemon (2013)
-// Vodkaa, komisario Palmu (1969)
-// Voglia di donna (1978)
-// Voglia di guardare (1986)
-// Voglia di vivere (1990)
-// Vogue la galère (1973)
-// Voi meitä! Anoppi tulee (1933)
-// Voice (2005)
-// Voice Over (2014)
-// Voice Without a Shadow (1958)
-// Voice from the Grave (1996)
-// Voice from the Stone (2017)
-// Voice in the Mirror (1958)
-// Voice in the Night (1934)
-// Voice in the Wind (1944)
-// Voice of My Father (2012)
-// Voice of Silence: (1953 & 2013)
-// Voice of a Murderer (2007)
-// Voice of the City (1929)
-// Voice of the Whistler (1945)
-// Voiceless (2016)
-// Voices from Beyond (1991)
-// Voices from Chernobyl (2016)
-// Voices in the Night (2003)
-// Voices in the Tunnels (2008)
-// Voices of Bam (2006)
-// Voices of Desire (1972)
-// Voices of Iraq (2004)
-// Voices of Kidnapping (2017)
-// Voices of Sarafina! (1988)
-// Voices of Spring: (1933 & 1952)
-// Voices of Transition (2012)
-// Voices of the Children (1999)
-// Voices of the City (1921)
-// Voices: (1973, 1979 & 2007)
-// Void (2013)
-// Voir la mer (2011)
-// Vojtech, Called the Orphan (1990)
-// Vol-au-vent (1996)
-// Volando bajo (2014)
-// Volcano High (2001)
-// Volcano! (1926)
-// Volcano: (1942, 1950, 1997 & 2011)
-// Volcanoes of the Deep Sea (2003)
-// Voldemort: Origins of the Heir (2018)
-// Volevo i pantaloni (1990)
-// Volga Volga (1928)
-// Volga-Volga (1938)
-// Voltaire (1933)
-// Volver (2006)
-// Von Ryan's Express (1965)
-// Voodoo (1995)
-// Voodoo Academy (2000)
-// Voodoo Dawn (1990)
-// Voodoo Island (1957)
-// Voodoo Man (1944)
-// Voodoo Moon (2006)
-// Voodoo Tiger (1952)
-// Voodoo Woman (1957)
-// Vox Lux (2018)
-// Voyage in Time (1983)
-// Voyage of Time (2016)
-// Voyage of the Damned (1976)
-// Voyage to the Bottom of the Sea (1961)
-// Voyage to the Planet of Prehistoric Women (1968)
-// Voyage to the Prehistoric Planet (1965)
-// Vozvrashcheniye (2003)
-// Vrindavanam: (1974 & 2006)
-// Vroom Vroom Vroooom (1995)
-// Vrudhanmare Sookshikkuka (1995)
-// Vu (2014)
-// Vuelva el primero (1952)
-// Vuelve el ojo de vidrio (1970)
-// Vuelvo a vivir, vuelvo a cantar (1971)
-// Vuk (1981)
-// Vuk samotnjak (1972)
-// Vukovar, jedna priča (1994)
-// Vukovar: The Way Home (1994)
-// Vulcan, Son of Giove (1962)
-// Vulgar (2000)
-// Vulgaria (2012)
-// Vunnadhi Okate Zindagi (2017)
-// Vyaamoham (1978)
-// Vyavastha (TBD)
-// Vykuntapali (2011)
-// Vyooham (1990)
-// Vysotsky. Thank You For Being Alive (2011)
-// Vámonos con Pancho Villa (1936)
-// W's Tragedy (1984)
-// W. (2008)
-// W. C. Fields and Me (1976)
-// W./E. (2011)
-// W.C. (2007)
-// W.M.D. (2013)
-// W.R.: Mysteries of the Organism (1971)
-// W.W. and the Dixie Dancekings (1975)
-// W/O Ram (2018)
-// W/o V. Vara Prasad (1998)
-// WALL-E (2008)
-// WTF! (2017)
-// WUSA (1970)
-// WXIII: Patlabor the Movie 3 (2002)
-// Waah Zindagi (2019)
-// Waah! Tera Kya Kehna (2002)
-// Waakya (2017)
-// Waapasi (2013)
-// Waar (2013)
-// Waar 2 (TBD)
-// Waaris (1988)
-// Waarish (2004)
-// Waarrior Savitri (2016)
-// Waati (1995)
-// Wabash Avenue (1950)
-// Wabbit Twouble (1941)
-// Wackiki Wabbit (1943)
-// Wacko (1982)
-// Wacky Blackout (1942)
-// Wacky-Bye Baby (1948)
-// Waco (1966)
-// Waco, the Big Lie (1993)
-// Waco: The Rules of Engagement (1997)
-// Wada Bari Tarzan Mathisabayata (2008)
-// Wadda Khan (1983)
-// Wadjda (2012)
-// Wafa: A Deadly Love Story (2008)
-// Waffle Street (2015)
-// Wag Kang Lilingon (2006)
-// Wag the Dog (1997)
-// Waga Koi wa Moenu (1949)
-// Wagah (2016)
-// Wages for Wives (1925)
-// Waghoba: Provider, Destroyer, Deity (2016)
-// Waging a Living (2005)
-// Wagner's Dream (2012)
-// Wagon Heels (1945)
-// Wagon Master (1950)
-// Wagon Tracks (1919)
-// Wagon Tracks West (1943)
-// Wagon Train (1940)
-// Wagon Wheels (1934)
-// Wagon Wheels Westward (1945)
-// Wagons East! (1994)
-// Wagons West (1952)
-// Wagons Westward (1940)
-// Wah Bhudi (2014)
-// Wah Do Dem (2009)
-// Wah Taj (2016)
-// Wah-Wah (2005)
-// Wahan Ke Log (1967)
-// Wahnfried (1986)
-// Waikiki (1980)
-// Waikiki Brothers (2001)
-// Waikiki Wedding (1936)
-// Waisa Bhi Hota Hai Part II (2003)
-// Waist Deep (2006)
-// Wait 'til This Year (2004)
-// Wait 'til You're Older (2005)
-// Wait Till Helen Comes (2016)
-// Wait Until Dark (1967)
-// Wait Until Spring, Bandini (1989)
-// Wait and See (1928)
-// Wait for Me (1943)
-// Wait for Me and I Will Not Come (2009)
-// Wait for Me in Heaven (1988)
-// Wait for Your Laugh (2017)
-// Wait till Your Mother Gets Home! (1983)
-// Wait till the Sun Shines, Nellie (1952)
-// Waiter (2006)
-// Waiter! (1983)
-// Waiting Alone (2005)
-// Waiting at the Church (1906)
-// Waiting at the Royal (2000)
-// Waiting for 'Superman' (2010)
-// Waiting for Armageddon (2009)
-// Waiting for Caroline (1969)
-// Waiting for Fidel (1974)
-// Waiting for Forever (2011)
-// Waiting for Godik (2007)
-// Waiting for Guffman (1997)
-// Waiting for Happiness (2002)
-// Waiting for Love (1981)
-// Waiting for Summer (2012)
-// Waiting for Woody (1998)
-// Waiting for the Moon (1987)
-// Waiting to Exhale (1995)
-// Waiting... (2005)
-// Waiting: (1991, 2007 & 2015)
-// Waitress (2007)
-// Wake Me When the War Is Over (1969) (TV)
-// Wake Up Sid (2009)
-// Wake of Death (2004)
-// Wake of the Red Witch (1949)
-// Waking Life (2001)
-// Waking Ned Devine (1998)
-// Waking the Dead (2000)
-// Wakko's Wish (1999)
-// Wal-Mart: The High Cost of Low Price (2005)
-// Walk Hard: The Dewey Cox Story (2007)
-// Walk of Shame (2014)
-// Walk on Water (2004)
-// Walk the Line (2005)
-// Walk, Don't Run (1966)
-// Walkabout (1971)
-// Walker (1987)
-// Walking Tall: (1973 & 2004)
-// Walking With Dinosaurs (2013)
-// Walking and Talking (1996)
-// Wall Street: (1929 & 1987)
-// Wall Street: Money Never Sleeps (2010)
-// Wallace & Gromit in The Wrong Trousers (1993)
-// Wallace & Gromit: The Best of Aardman Animation (1996)
-// Wallace & Gromit: The Curse of the Were-Rabbit (2005)
-// Walt Before Mickey (2015)
-// Waltz with Bashir (2008)
-// Waltzes from Vienna (1933)
-// Wamaq Azra (1946)
-// Wamba A Child of the Jungle (1913)
-// Wanderer of the Wasteland (1924)
-// Wanderers (2014)
-// Wanderlust: (2006 & 2012)
-// Wannabe (2005)
-// Wanpaku Ōji no Orochi Taiji (1963)
-// Wanted! (1937)
-// Wanted: (1967, 2004, 2008, 2009, 2010, 2011, & 2015)
-// Wanted: Dead or Alive: (1984 & 1987)
-// Waqt: The Race Against Time (2005)
-// War Comes to America (1945)
-// War Dogs: (1942, 1943 & 2016)
-// War Horse (2011)
-// War Party: (1965 & 1988)
-// War Photographer (2001)
-// War Room (2015)
-// War Zone (1998)
-// War and Peace: (1956, 1966-67 & 2002)
-// War of the Buttons: (1962 & 1994)
-// War of the Worlds (2005)
-// War of the Worlds 2: The Next Wave (2008)
-// War on a String (2015)
-// War, Inc. (2008)
-// War-Gods of the Deep (1965)
-// War: (2002, 2007 & 2014)
-// WarGames (1983)
-// WarGames: The Dead Code (2008)
-// Warcraft (2016)
-// Warlock: (1959 & 1989)
+// Vaazhkai Padagu 
+// Vaazhkai: & 1984)
+// Vaazhnthu Kaattugiren 
+// Vaazhthugal 
+// Vaazhve Mayam 
+// Vabank 
+// Vacaciones 
+// Vacancy 
+// Vacancy 2: The First Cut 
+// Vacant Possession 
+// Vacanze a Ischia 
+// Vacanze di Natale '90 
+// Vacanze di Natale '95 
+// Vacanze di Natale 
+// Vacanze di Natale a Cortina 
+// Vacanze in America 
+// Vacanze in Argentina 
+// Vacas 
+// Vacation Days 
+// Vacation from Love 
+// Vacation from Marriage 
+// Vacation in Reno 
+// Vacation of Petrov and Vasechkin, Usual and Incredible 
+// Vacation with a Gangster 
+// Vacation: & 2015)
+// Vacationland 
+// Vacations in Acapulco 
+// Vacations in Majorca 
+// Vacations in the Other World 
+// Vachan: & 1955)
+// Vachanam 
+// Vachathi 
+// Vachina Kodalu Nachindi 
+// Vacuuming Completely Nude in Paradise 
+// Vada Chennai 
+// Vadacurry 
+// Vadagupatti Maapillai 
+// Vadaka Veedu 
+// Vadakakku Oru Hridayam 
+// Vadakkumnadhan 
+// Vadakkunokkiyantram 
+// Vaddante Dabbu 
+// Vaddu Bava Thappu 
+// Vadhayiyaan Ji Vadhayiyaan 
+// Vadhu Doctoranu 
+// Vadina 
+// Vadivukku Valai Kappu 
+// Vado a riprendermi il gatto 
+// Vaettiya Madichu Kattu 
+// Vafaatheri Kehiveriya 
+// Vagabond Lady 
+// Vagabond Loafers 
+// Vagabond: & 1985)
+// Vagabonderne på Bakkegården 
+// Vagdanam 
+// Vagrant Bus 
+// Vai Pandal 
+// Vai Que Cola - O Filme 
+// Vai Raja Vai 
+// Vai avanti tu che mi vien da ridere 
+// Vai que Dá Certo 
+// Vai que é Mole 
+// Vaidehi 
+// Vaidehi Kalyanam 
+// Vaidehi Kathirunthal 
+// Vaigai 
+// Vaigai Express 
+// Vaigasi Poranthachu 
+// Vaiki Odunna Vandi 
+// Vaiki Vanna Vasantham 
+// Vaimaye Vellum 
+// Vaincre à Olympie 
+// Vaira Maalai 
+// Vaira Nenjam 
+// Vairagyam 
+// Vairam 
+// Vairam: Fight for Justice 
+// Vaisakha Rathiri 
+// Vaisakhi List 
+// Vaisali 
+// Vaishakada Dinagalu 
+// Vaishnavee 
+// Vaitheeswaran 
+// Vajont 
+// Vajraghat 
+// Vajrakaya 
+// Vajram:  2004 & 2015)
+// Vajrayudha 
+// Vakil Babu 
+// Vakil Saheb 
+// Vakkalathu Narayanankutty 
+// Vakkeel Vasudev 
+// Vakratunda Mahakaaya 
+// Vala In London 
+// Valaiyam // Valar Pirai 
+// Valarthumrugangal 
+// Valathottu Thirinjal Nalamathe Veedu 
+// Valayal Satham 
+// Valayam 
+// Valayapathi 
+// Valediction 
+// Valente Quintero 
+// Valentina: & 2008)
+// Valentine 
+// Valentine Ever After 
+// Valentine Road 
+// Valentine's Day: & 2010)
+// Valentino: & 1977)
+// Valentino: The Last Emperor 
+// Valentín 
+// Valerian and the City of a Thousand Planets 
+// Valerie and Her Week of Wonders 
+// Valhalla Rising 
+// Valhalla: & 2013)
+// Valiant 
+// Valiant Is the Word for Carrie 
+// Valiba Virundhu 
+// Valibamey Vaa Vaa 
+// Valiyangadi 
+// Valiyavan 
+// Valkannadi 
+// Valkyrie 
+// Valla Desam 
+// Vallakottai 
+// Vallal 
+// Vallamai Tharayo 
+// Vallarasu 
+// Vallatha Pahayan 
+// Vallavan 
+// Vallavan Oruvan 
+// Vallavanukku Pullum Aayudham 
+// Vallavanukku Vallavan 
+// Valleem Thetti Pulleem Thetti 
+// Valley Forge 
+// Valley Girl 
+// Valley of Angels 
+// Valley of Bones 
+// Valley of Eagles 
+// Valley of Hunted Men 
+// Valley of Love 
+// Valley of Peace 
+// Valley of Saints 
+// Valley of Song 
+// Valley of the Dolls 
+// Valley of the Dragons 
+// Valley of the Giants 
+// Valley of the Head Hunters 
+// Valley of the Kings 
+// Valley of the Moon 
+// Valley of the Redwoods 
+// Valley of the Sasquatch 
+// Valley of the Stereos 
+// Valley of the Sun 
+// Valley of the Wolves: Gladio 
+// Valley of the Wolves: Iraq 
+// Valley of the Wolves: Palestine 
+// Valley of the Zombies 
+// Valli 
+// Valli Vara Pora 
+// Valliettan 
+// Vallinam 
+// Valliyin Selvan 
+// Valluvan Vasuki 
+// Valmiki:  1963 Kannada, 1963 Telugu & 2009)
+// Valmont 
+// Valobasha Emoni Hoy 
+// Valparaíso mi amor 
+// Valu 
+// Valu Jada Tolu Beltu 
+// Value—Beyond Price 
+// Valzer 
+// Vamban 
+// Vambu Sandai 
+// Vamos a sonar por el amor 
+// Vamp 
+// Vampariah 
+// Vamping 
+// Vamping Venus 
+// Vampira: & 1994)
+// Vampire Academy 
+// Vampire Assassin 
+// Vampire Bats 
+// Vampire Blvd. 
+// Vampire Circus 
+// Vampire Clan 
+// Vampire Cleanup Department 
+// Vampire Controller 
+// Vampire Cop Ricky 
+// Vampire Diary 
+// Vampire Dog 
+// Vampire Girl vs. Frankenstein Girl 
+// Vampire Hunter D 
+// Vampire Hunter D: Bloodlust 
+// Vampire Journals 
+// Vampire Killers 
+// Vampire Moth 
+// Vampire Noir 
+// Vampire Secrets 
+// Vampire Stories: Brothers 
+// Vampire in Brooklyn 
+// Vampire in Venice 
+// Vampire vs. Vampire 
+// Vampire's Kiss 
+// Vampire: TV & 2011)
+// Vampirella 
+// Vampires 
+// Vampires 
+// Vampires Suck 
+// Vampires in Havana 
+// Vampires of Geon 92)
+// Vampires of Warsaw 
+// Vampires vs. Zombies 
+// Vampires vs. the Bronx // Vampires: Los Muertos 
+// Vampires: The Turning 
+// Vampiro: Angel, Devil, Hero 
+// Vampiros los prefieren gorditos 
+// Vamps 
+// Vampyr 
+// Vampyres 
+// Vampyros Lesbos 
+// Vamsa Vilakku 
+// Vamsa Vruksham 
+// Vamsam: & 2010)
+// Vamsha Jyothi 
+// Vamsha Vriksha 
+// Vamshanikokkadu 
+// Vamshi 
+// Vamshodharaka 
+// Vamsi 
+// Van Diemen's Land 
+// Van Gogh: & 1991)
+// Van Helsing 
+// Van Helsing: The London Assignment 
+// Van Nuys Blvd. 
+// Van Wilder 
+// Van Wilder: Freshman Year 
+// Van Wilder: The Rise of Taj 
+// Van de koele meren des doods 
+// Vanaja 
+// Vanaja Girija 
+// Vanakkam Chennai 
+// Vanakkam Thalaiva 
+// Vanakkam Vathiyare 
+// Vanakkatukuriya Kathaliye 
+// Vanamagan 
+// Vanamala 
+// Vanambadi 
+// Vanangamudi 
+// Vanaprastham 
+// Vanaraja Karzan 
+// Vanarasena 
+// Vanasundari 
+// Vanavarayan Vallavarayan 
+// Vance and Pepe's Porn Start 
+// Vandae Maatharam 
+// Vandana 
+// Vandanam 
+// Vande Mataram 
+// Vandhaale Magaraasi 
+// Vandhaan Vendraan 
+// Vandhal Sridevi 
+// Vandi 
+// Vandichakkaram 
+// Vandicholai Chinraasu 
+// Vandikkari 
+// Vandiny trampoty 
+// Vangaveeti 
+// Vani 
+// Vani Rani 
+// Vanilla Sky 
+// Vanilla and Chocolate 
+// Vanina Vanini 
+// Vanish 
+// Vanished – Left Behind: Next Generation 
+// Vanished: & 2009
+// Vanishing Africa 
+// Vanishing Men 
+// Vanishing Point:  1997 & 2012)
+// Vanishing Time: A Boy Who Returned 
+// Vanishing Trails 
+// Vanishing Waves 
+// Vanishing of the Bees 
+// Vanishing on 7th Street 
+// Vanitha Police 
+// Vanity Fair:  1922, 1923, 1932 & 2004)
+// Vanity's Price 
+// Vanity:  1935, 1947 & 2015)
+// Vaniusha The Newcomer 
+// Vaniusha and The Giant 
+// Vaniusha and The Space Pirate 
+// Vanjagan 
+// Vanjagar Ulagam 
+// Vanjam 
+// Vanjikottai Valiban 
+// Vanmala 
+// Vanmam 
+// Vanna Jigina 
+// Vanna Kanavugal 
+// Vanna Thamizh Pattu 
+// Vanna Vanna Pookkal 
+// Vannakili 
+// Vannu Kandu Keezhadakki 
+// Vanquisher 
+// Vantage Point 
+// Vantha Rajavathaan Varuven 
+// Vanya on 42nd Street 
+// Vapors 
+// Vara Vikrayam 
+// Vara: A Blessing 
+// Varadakshina 
+// Varadhanayaka 
+// Varadhi 
+// Varakatnam 
+// Varalaru 
+// Varam 
+// Varan the Unbelievable 
+// Varanamalyam 
+// Varanmaare Aavashyamundu 
+// Varaphalam 
+// Varaprasadham 
+// Varasudochhadu 
+// Varasudu 
+// Varat Aali Gharat 
+// Varathan 
+// Varavaay 
+// Varavarankely 
+// Varavelpu 
+// Varavu Ettana Selavu Pathana 
+// Varavu Nalla Uravu 
+// Vardaan 
+// Vardi 
+// Vares: Private Eye 
+// Vargam 
+// Varian's War 
+// Varieties on Parade 
+// Variety Girl 
+// Variety Is the Spice of Life 
+// Variety Jubilee 
+// Variety Lights 
+// Variety Parade 
+// Variety Time 
+// Variety:  1935, & 1983)
+// Variola Vera 
+// Various Positions 
+// Varnajalam 
+// Varnakkazhchakal 
+// Varnam: & 2011)
+// Varnapakittu 
+// Varnatheru 
+// Varning för Jönssonligan 
+// Varraar Sandiyar 
+// Varsha 
+// Varshadhare 
+// Varsham: & 2014)
+// Varshangal Poyathariyathe 
+// Varsity 
+// Varsity Blues 
+// Varsity Show 
+// Vartak Nagar 
+// Vartha 
+// Varthamana 
+// Varthamana Kalam 
+// Vartioitu kylä 1944 
+// Varum Varathirikilla Unni 
+// Varum Varunnu Vannu 
+// Varumayin Niram Sivappu 
+// Varusham Padhinaaru 
+// Varushamellam Vasantham 
+// Varuthapadatha Valibar Sangam 
+// Varuvan Vadivelan 
+// Vasaliki 
+// Vasandhathil Or Naal 
+// Vasantam 
+// Vasantasena 
+// Vasantha Geetam 
+// Vasantha Geetha 
+// Vasantha Lakshmi 
+// Vasantha Maligai 
+// Vasantha Poornima 
+// Vasantha Raagam 
+// Vasantha Sena: & 1985)
+// Vasantha Vaasal 
+// Vasanthakala Paravai 
+// Vasantham Vanthachu 
+// Vasanthamalika 
+// Vasanthi 
+// Vasanthiyum Lakshmiyum Pinne Njaanum 
+// Vasantsena 
+// Vasavadatta 
+// Vase de Noces 
+// Vasectomy: A Delicate Matter 
+// Vaseegara 
+// Vashyam 
+// Vashyamanthram 
+// Vasika... kalispera sas 
+// Vasilisa 
+// Vasilisa the Beautiful: & 1977)
+// Vaska Easoff 
+// Vasool 
+// Vasool Raja MBBS 
+// Vassa 
+// Vassa Zheleznova 
+// Vastadu Naa Raju 
+// Vasthuhara 
+// Vastupurush 
+// Vasu 
+// Vasudha 
+// Vasuki 
+// Vasundhara 
+// Vasuvum Saravananum Onna Padichavanga 
+// Vasya 
+// Vatathukkul Chadhuram 
+// Vatel 
+// Vater Morgana 
+// Vater sein dagegen sehr 
+// Vathikuchi 
+// Vathiyar 
+// Vathsalya 
+// Vathsalya Patha 
+// Vatican Conspiracy 
+// Vatsalyam 
+// Vattam // Vattaram 
+// Vaxxed: From Cover-Up to Catastrophe 
+// Vaya 
+// Vaya con Dios 
+// Vayal 
+// Vayanadan Thamban 
+// Vayasu Pasanga 
+// Vayasu Pilichindi 
+// Vayuputra 
+// Vazandar 
+// Vazante 
+// Vazhakku Enn 18/9 
+// Vazhi Piranthadu 
+// Vazhi Pizhacha Santhathi 
+// Vazhikal Yaathrakkar 
+// Vazhimariya Paravakal 
+// Vazhivilakku 
+// Vazhvey Maayam 
+// Vazhvile Oru Naal 
+// Vazhvu En Pakkam 
+// Vchera 
+// Ved kongelunden... 
+// Ved verdens ende 
+// Veda 
+// Vedalam 
+// Vedam 
+// Vedan 
+// Vedappan 
+// Vedathi 
+// Vedavathi Alladhu Seetha Jananam 
+// Vedha 
+// Vedhala Ulagam 
+// Vedham 
+// Vedham Pudhithu 
+// Vedi 
+// Vedigundu Murugesan 
+// Vedigundu Pasangge 
+// Vedikkai En Vadikkai 
+// Vedikkettu 
+// Vedivazhipadu 
+// Vee Beyvafa 
+// Veede 
+// Veedevadandi Babu 
+// Veedu Manaivi Makkal 
+// Veedu Oru Swargam 
+// Veedu Theda 
+// Veedu: & 1988)
+// Veena Meettiya Vilangukal 
+// Veena Poovu 
+// Veendum 
+// Veendum Chalikkunna Chakram 
+// Veendum Chila Veettukaryangal 
+// Veendum Kannur 
+// Veendum Lisa 
+// Veendum Oru Aadyaraathri 
+// Veendum Prabhatham 
+// Veer Ghatotkach 
+// Veer Hamirji – Somnath ni Sakhate 
+// Veer Kunal 
+// Veer Savarkar 
+// Veer Tejaji 
+// Veer! 
+// Veer-Zaara 
+// Veer: & 2010)
+// Veera:  2011, 2013 & 2018)
+// Veeramani 
+// Vegas 
+// Vegas In Space 
+// Vegas Vacation 
+// Velvet Buzzsaw 
+// Velvet Goldmine 
+// Velvet Smooth 
+// Vendetta for the Saint  / Vendetta:  1986, 1999, 2013, & 2015)
+// Vengeance 
+// Vengeance Is Mine:  1935, 1949, 1968 & 1979)
+// Vengeance of an Assassin 
+// Vengeance of the Zombies 
+// Vengeful Beauty 
+// Vengeful Heart 
+// Venom 
+// Venom 2 // Venom: & 2005)
+// Venom: Truth in Journalism  short)
+// Venus 
+// Venus Wars 
+// Venus and Mars: & 2007)
+// Vera Cruz 
+// Vera Drake 
+// Verbena Tragica 
+// Verdens Undergang 
+// Verdict 
+// Vere Vazhi Ille 
+// Veronica Guerin 
+// Veronica Mars 
+// Veronika Decides to Die 
+// Veronika Voss 
+// Versus: & 2016)
+// Vertical Limit 
+// Vertical Ray of the Sun 
+// Vertigo 
+// Very Bad Things 
+// Very Important Person 
+// Vessel of Wrath 
+// Vibes 
+// Vice Squad:  1978 & 1982)
+// Vice Versa:  1948 & 1988)
+// Vicki 
+// Vicky Cristina Barcelona 
+// Victim:  1999 & 2011)
+// Victims 
+// Victor Frankenstein 
+// Victor/Victoria: & 1995 TV)
+// Victory Through Air Power 
+// Video Dead 
+// Video Violence 
+// Videodrome 
+// Vidocq: & 2001)
+// Viennese Nights 
+// Vieuphoria 
+// View from the Top 
+// Vigilante 
+// Viimne reliikvia 
+// Viking 
+// Villa Zone 
+// Village of the Damned: & 1995)
+// Village of the Giants 
+// Villain: & 2002)
+// Vincent: & 1987)
+// Vinyan 
+// Vinyl: & 2000)
+// Violent Cop:  2000 Kant Leung & 2000 Steve Cheng)
+// Violet & Daisy 
+// Violet: & 1978)
+// Violette Nozière 
+// Virados do Avesso 
+// Viral: American & 2016 Hindi)
+// Virgin Stripped Bare by Her Bachelors 
+// Virgin Territory 
+// Virginia City 
+// Virginia: & 2010)
+// Viridiana 
+// Virtual Sexuality 
+// Virtuosity 
+// Viruddh... Family Comes First 
+// Virumaandi 
+// Virus Undead 
+// Virus:  1995, 1996, 1999 & 2007)
+// Vishwa Thulasi 
+// Vision Quest 
+// Visioneers 
+// Visit to a Small Planet 
+// Visiting Hours 
+// Visitor Q 
+// Visitors: & 2013)
+// Vital 
+// Viva Cuba 
+// Viva Freedom! 
+// Viva Knievel! 
+// Viva Las Vegas 
+// Viva Maria! 
+// Viva Villa! 
+// Viva Zapata! 
+// Vivacious Lady 
+// Vive L'Amour 
+// Vivre sa Vie 
+// Vixen! 
+// Viy: & 2014)
+// Voces inocentes 
+// Vodka Diaries 
+// Vodka Lemon 
+// Vodkaa, komisario Palmu 
+// Voglia di donna 
+// Voglia di guardare 
+// Voglia di vivere 
+// Vogue la galère 
+// Voi meitä! Anoppi tulee 
+// Voice 
+// Voice Over 
+// Voice Without a Shadow 
+// Voice from the Grave 
+// Voice from the Stone 
+// Voice in the Mirror 
+// Voice in the Night 
+// Voice in the Wind 
+// Voice of My Father 
+// Voice of Silence: & 2013)
+// Voice of a Murderer 
+// Voice of the City 
+// Voice of the Whistler 
+// Voiceless 
+// Voices from Beyond 
+// Voices from Chernobyl 
+// Voices in the Night 
+// Voices in the Tunnels 
+// Voices of Bam 
+// Voices of Desire 
+// Voices of Iraq 
+// Voices of Kidnapping 
+// Voices of Sarafina! 
+// Voices of Spring: & 1952)
+// Voices of Transition 
+// Voices of the Children 
+// Voices of the City 
+// Voices:  1979 & 2007)
+// Void 
+// Voir la mer 
+// Vojtech, Called the Orphan 
+// Vol-au-vent 
+// Volando bajo 
+// Volcano High 
+// Volcano! 
+// Volcano:  1950, 1997 & 2011)
+// Volcanoes of the Deep Sea 
+// Voldemort: Origins of the Heir 
+// Volevo i pantaloni 
+// Volga Volga 
+// Volga-Volga 
+// Voltaire 
+// Volver 
+// Von Ryan's Express 
+// Voodoo 
+// Voodoo Academy 
+// Voodoo Dawn 
+// Voodoo Island 
+// Voodoo Man 
+// Voodoo Moon 
+// Voodoo Tiger 
+// Voodoo Woman 
+// Vox Lux 
+// Voyage in Time 
+// Voyage of Time 
+// Voyage of the Damned 
+// Voyage to the Bottom of the Sea 
+// Voyage to the Planet of Prehistoric Women 
+// Voyage to the Prehistoric Planet 
+// Vozvrashcheniye 
+// Vrindavanam: & 2006)
+// Vroom Vroom Vroooom 
+// Vrudhanmare Sookshikkuka 
+// Vu 
+// Vuelva el primero 
+// Vuelve el ojo de vidrio 
+// Vuelvo a vivir, vuelvo a cantar 
+// Vuk 
+// Vuk samotnjak 
+// Vukovar, jedna priča 
+// Vukovar: The Way Home 
+// Vulcan, Son of Giove 
+// Vulgar 
+// Vulgaria 
+// Vunnadhi Okate Zindagi 
+// Vyaamoham 
+// Vyavastha // Vykuntapali 
+// Vyooham 
+// Vysotsky. Thank You For Being Alive 
+// Vámonos con Pancho Villa 
+// W's Tragedy 
+// W. 
+// W. C. Fields and Me 
+// W./E. 
+// W.C. 
+// W.M.D. 
+// W.R.: Mysteries of the Organism 
+// W.W. and the Dixie Dancekings 
+// W/O Ram 
+// W/o V. Vara Prasad 
+// WALL-E 
+// WTF! 
+// WUSA 
+// WXIII: Patlabor the Movie 3 
+// Waah Zindagi 
+// Waah! Tera Kya Kehna 
+// Waakya 
+// Waapasi 
+// Waar 
+// Waar 2 // Waaris 
+// Waarish 
+// Waarrior Savitri 
+// Waati 
+// Wabash Avenue 
+// Wabbit Twouble 
+// Wackiki Wabbit 
+// Wacko 
+// Wacky Blackout 
+// Wacky-Bye Baby 
+// Waco 
+// Waco, the Big Lie 
+// Waco: The Rules of Engagement 
+// Wada Bari Tarzan Mathisabayata 
+// Wadda Khan 
+// Wadjda 
+// Wafa: A Deadly Love Story 
+// Waffle Street 
+// Wag Kang Lilingon 
+// Wag the Dog 
+// Waga Koi wa Moenu 
+// Wagah 
+// Wages for Wives 
+// Waghoba: Provider, Destroyer, Deity 
+// Waging a Living 
+// Wagner's Dream 
+// Wagon Heels 
+// Wagon Master 
+// Wagon Tracks 
+// Wagon Tracks West 
+// Wagon Train 
+// Wagon Wheels 
+// Wagon Wheels Westward 
+// Wagons East! 
+// Wagons West 
+// Wagons Westward 
+// Wah Bhudi 
+// Wah Do Dem 
+// Wah Taj 
+// Wah-Wah 
+// Wahan Ke Log 
+// Wahnfried 
+// Waikiki 
+// Waikiki Brothers 
+// Waikiki Wedding 
+// Waisa Bhi Hota Hai Part II 
+// Waist Deep 
+// Wait 'til This Year 
+// Wait 'til You're Older 
+// Wait Till Helen Comes 
+// Wait Until Dark 
+// Wait Until Spring, Bandini 
+// Wait and See 
+// Wait for Me 
+// Wait for Me and I Will Not Come 
+// Wait for Me in Heaven 
+// Wait for Your Laugh 
+// Wait till Your Mother Gets Home! 
+// Wait till the Sun Shines, Nellie 
+// Waiter 
+// Waiter! 
+// Waiting Alone 
+// Waiting at the Church 
+// Waiting at the Royal 
+// Waiting for 'Superman' 
+// Waiting for Armageddon 
+// Waiting for Caroline 
+// Waiting for Fidel 
+// Waiting for Forever 
+// Waiting for Godik 
+// Waiting for Guffman 
+// Waiting for Happiness 
+// Waiting for Love 
+// Waiting for Summer 
+// Waiting for Woody 
+// Waiting for the Moon 
+// Waiting to Exhale 
+// Waiting... 
+// Waiting:  2007 & 2015)
+// Waitress 
+// Wake Me When the War Is Over  / Wake Up Sid 
+// Wake of Death 
+// Wake of the Red Witch 
+// Waking Life 
+// Waking Ned Devine 
+// Waking the Dead 
+// Wakko's Wish 
+// Wal-Mart: The High Cost of Low Price 
+// Walk Hard: The Dewey Cox Story 
+// Walk of Shame 
+// Walk on Water 
+// Walk the Line 
+// Walk, Don't Run 
+// Walkabout 
+// Walker 
+// Walking Tall: & 2004)
+// Walking With Dinosaurs 
+// Walking and Talking 
+// Wall Street: & 1987)
+// Wall Street: Money Never Sleeps 
+// Wallace & Gromit in The Wrong Trousers 
+// Wallace & Gromit: The Best of Aardman Animation 
+// Wallace & Gromit: The Curse of the Were-Rabbit 
+// Walt Before Mickey 
+// Waltz with Bashir 
+// Waltzes from Vienna 
+// Wamaq Azra 
+// Wamba A Child of the Jungle 
+// Wanderer of the Wasteland 
+// Wanderers 
+// Wanderlust: & 2012)
+// Wannabe 
+// Wanpaku Ōji no Orochi Taiji 
+// Wanted! 
+// Wanted:  2004, 2008, 2009, 2010, 2011, & 2015)
+// Wanted: Dead or Alive: & 1987)
+// Waqt: The Race Against Time 
+// War Comes to America 
+// War Dogs:  1943 & 2016)
+// War Horse 
+// War Party: & 1988)
+// War Photographer 
+// War Room 
+// War Zone 
+// War and Peace:  1966-67 & 2002)
+// War of the Buttons: & 1994)
+// War of the Worlds 
+// War of the Worlds 2: The Next Wave 
+// War on a String 
+// War, Inc. 
+// War-Gods of the Deep 
+// War:  2007 & 2014)
+// WarGames 
+// WarGames: The Dead Code 
+// Warcraft 
+// Warlock: & 1989)
 // Warlock: The Armageddon (1993)
 // Warlords of Atlantis (1978)
 // Warm Bodies (2013)
