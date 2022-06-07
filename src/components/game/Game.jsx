@@ -7,6 +7,7 @@ import Wordbank from './Wordbank';
 import { useInterval } from '../state/customHooks.js';
 import { ruleCheck, checkDictionary, checkRepeats, checkTimer } from '../utilities/ruleset.js';
 import { FnV, Names, Animals, Pokemon } from '../../data/categories.js';
+import { Movies } from '../../data/movies.js';
 import { やさい } from '../../data/jpcategories.js';
 import styles from '../styles/Game.scss';
 
@@ -67,6 +68,8 @@ export default function Game() {
           return Names;
         case 'Pokemon':
           return Pokemon;
+        case 'Movies':
+          return Movies;
         default:
           console.log('No category provided');
           break;
