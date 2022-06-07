@@ -62,14 +62,19 @@ export default function Rules() {
               {t('cat4')}
               <p>Gotta name 'em all!</p>
             </label>
+            <label onClick={handleChecked}>
+              <input type="radio" name="category" value="Movies" required></input>
+              {t('cat5')}
+              <p>Let's all go to the Movies (up to 2019)!  No movies ending in punctuation or numbers (including roman)</p>
+            </label>
             {/* <label onClick={handleChecked}>
               <input type="radio" name="category" value="MarvelvsDC" required></input>
               {t('cat5')}
-             
+
               <p>Nerds only: under construction</p>
             </label> */}
           </fieldset>
-        
+
           <button className={ruleStyles.submit}>{t('submit')}</button>
         </form>
 

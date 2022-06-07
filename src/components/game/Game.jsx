@@ -7,6 +7,7 @@ import Wordbank from './Wordbank';
 import { useInterval } from '../state/customHooks.js';
 import { ruleCheck, checkDictionary, checkRepeats, checkTimer } from '../utilities/ruleset.js';
 import { FnV, Names, Animals, Pokemon } from '../../data/categories.js';
+import { Movies } from '../../data/movies.js';
 import { やさい } from '../../data/jpcategories.js';
 import styles from '../styles/Game.scss';
 
@@ -22,7 +23,8 @@ export default function Game() {
   const [alert, setAlert] = useState(false);
   const [toast, setToast] = useState(false);
   const [altToast, setAltToast] = useState(false);
-  
+
+  //Toast Handlers
   const handleOpen = () => {
     setToast(true);
   };
@@ -54,7 +56,7 @@ export default function Game() {
   });
 
   // const latestWord = wordList[wordList.length - 1];
-  
+
   const definedDictionary = (category) => {
     if(language === 'en') {
       switch(category) {
@@ -66,7 +68,9 @@ export default function Game() {
           return Names;
         case 'Pokemon':
           return Pokemon;
-        default: 
+        case 'Movies':
+          return Movies;
+        default:
           console.log('No category provided');
           break;
       }
@@ -74,13 +78,13 @@ export default function Game() {
       switch(category) {
         case 'FnV':
           return やさい;
-        default: 
+        default:
           console.log('No category provided');
           break;
       }
     }
   };
-  
+
   const handleCheck = () => {
     if(wordList.length >= 1 && ruleCheck(wordList[wordList.length - 1], word) && checkDictionary(word, definedDictionary(category)) && checkRepeats(word, wordList) && !checkTimer(count)) {
       setWordList(prevState => [...prevState, word]);
@@ -92,7 +96,7 @@ export default function Game() {
       handleAltOpen();
     } else {
       handleOpen();
-    }  
+    }
   };
 
   const handleSubmit = (e) => {
@@ -103,11 +107,11 @@ export default function Game() {
 
   return (
     <div className={styles.game}>
-      {alert ? 
+      {alert ?
         createModal()
         : null
       }
-   
+
       <Snackbar
         anchorOrigin={{ vertical: 'top', horizontal: 'center' }}
         open={toast}
@@ -134,7 +138,7 @@ export default function Game() {
           }
         }}
       />
-      
+
       <div className={styles.words}>
         <span>{wordList[wordList.length - 1]}</span>
       </div>
