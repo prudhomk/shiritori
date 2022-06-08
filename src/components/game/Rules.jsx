@@ -1,5 +1,5 @@
 /* eslint-disable max-len */
-import React from 'react';
+import React, { useState } from 'react';
 import { useHistory } from 'react-router';
 import { useCategory } from '../state/GameProvider';
 import Header from './Header';
@@ -13,6 +13,7 @@ export default function Rules() {
   const { setCategory } = useCategory();
   const { t } = useTranslation();
   const history = useHistory();
+  const [style, setStyle] = useState({});
 
   const handleSubmit = (e) => {
     e.preventDefault();
@@ -20,7 +21,9 @@ export default function Rules() {
   };
 
   const handleChecked = (e) => {
+    setStyle({});
     setCategory(e.target.value);
+    setStyle({ [e.target.value]: true });
   };
 
   const handleHome = () => {
@@ -42,30 +45,30 @@ export default function Rules() {
         <form  onSubmit={handleSubmit}>
           <fieldset>
             <legend>{t('categories')}</legend>
-            <label onClick={handleChecked}>
+            <label onClick={handleChecked} className={ style.FnV ? ruleStyles.FnV : ruleStyles.radio}>
               <input type="radio" name="category" value="FnV" required></input>
               {t('cat1')}
               <p>Everything red, green and in-between</p>
             </label>
-            <label onClick={handleChecked}>
+            <label onClick={handleChecked} className={ style.Names ? ruleStyles.Names : ruleStyles.radio}>
               <input type="radio" name="category" value="Names" required></input>
               {t('cat2')}
               <p>What's in a name?  First names only.</p>
             </label>
-            <label onClick={handleChecked}>
+            <label onClick={handleChecked} className={ style.Animals ? ruleStyles.Animals : ruleStyles.radio}>
               <input type="radio" name="category" value="Animals" required></input>
               {t('cat3')}
               <p>Lions, tigers, and bears. Oh My!</p>
             </label>
-            <label onClick={handleChecked}>
+            <label onClick={handleChecked} className={ style.Pokemon ? ruleStyles.Pokemon : ruleStyles.radio}>
               <input type="radio" name="category" value="Pokemon" required></input>
               {t('cat4')}
               <p>Gotta name 'em all!</p>
             </label>
-            <label onClick={handleChecked}>
+            <label onClick={handleChecked} className={ style.Movies ? ruleStyles.Movies : ruleStyles.radio}>
               <input type="radio" name="category" value="Movies" required></input>
               {t('cat5')}
-              <p>Let's all go to the Movies (up to 2019)!  No movies ending in punctuation or numbers (including roman)</p>
+              <p>Movies that don't end with a number or puncuation!</p>
             </label>
             {/* <label onClick={handleChecked}>
               <input type="radio" name="category" value="MarvelvsDC" required></input>
