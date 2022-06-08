@@ -25,6 +25,14 @@ img {
     font-weight: bold;
   }
 
+  input[type=radio] {
+    opacity: 0;
+  }
+
+  input[type=radio]:checked + label {
+    box-shadow: 2px 2px 2px limegreen;
+  }
+
   button {
     margin: 10px;
   }
@@ -47,7 +55,7 @@ fieldset {
   flex-direction: row;
   justify-content: center;
   border: 2px dotted rgb(240, 230, 173);
-  margin: 10px;
+  margin-bottom: 10px;
 
   label:target {
       margin: 6px;
@@ -64,6 +72,7 @@ fieldset {
     font-size: 25px;
     text-align: center;
     cursor: pointer;
+    padding: 10px;
   }
 
   label:hover {
@@ -72,9 +81,34 @@ fieldset {
   }
 
   p {
+    display: flex;
     background-color: rgb(250, 191, 128);
     border-radius: 20px;
+    height: 50%;
     padding: 5px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .FnV {
+    box-shadow: 5px 5px 5px rgb(65, 51, 5);
+  }
+
+  .Names {
+    box-shadow: 5px 5px 5px rgb(65, 51, 5);
+  }
+
+  .Animals {
+    box-shadow: 5px 5px 5px rgb(65, 51, 5);
+  }
+
+  .Pokemon {
+    box-shadow: 5px 5px 5px rgb(65, 51, 5);
+  }
+
+  .Movies {
+    box-shadow: 5px 5px 5px rgb(65, 51, 5);
   }
 }
 
@@ -96,12 +130,10 @@ fieldset {
 }
 
 .link {
-  position: fixed;
-  bottom: 5%;
   font-size: 20px;
   color:rgb(215, 204, 144);
   cursor: pointer;
-
+  padding: 20%;
   :visited {
     color: rgb(96, 231, 246);
   }
