@@ -70,12 +70,12 @@ export default function Rules() {
               {t('cat5')}
               <p>Movies that don't end with a number or puncuation!</p>
             </label>
-            {/* <label onClick={handleChecked}>
-              <input type="radio" name="category" value="MarvelvsDC" required></input>
-              {t('cat5')}
+            <label onClick={handleChecked} className={ style.Marvel ? ruleStyles.Marvel : ruleStyles.radio}>
+              <input type="radio" name="category" value="Marvel" required></input>
+              {t('cat6')}
 
-              <p>Nerds only: under construction</p>
-            </label> */}
+              <p>Nerds only!</p>
+            </label>
           </fieldset>
 
           <button className={ruleStyles.submit}>{t('submit')}</button>
