@@ -1,5 +1,5 @@
 export function ruleCheck(x, y) {
-  if(y.charAt(0) !== x.charAt(x.length - 1)) {
+  if(y.charAt(0).toLowerCase() !== x.charAt(x.length - 1).toLowerCase()) {
     return false;
   } else {
     return true;
