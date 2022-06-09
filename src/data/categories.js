@@ -2785,8 +2785,8 @@ export const Marvel = [
   '3-d man'
 ];
 
-  //complete!
 
+//complete!
 export const Pokemon = [
   'bulbasaur',
   'ivysaur',
