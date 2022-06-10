@@ -55,33 +55,66 @@ body, html {
   }
 }
 
-.rules {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-
-
-
-  label {
-    justify-content: space-between;
-    margin: 20px;
-    padding: 20px;
-    cursor: pointer;
-  }
-
-  label:hover {
-    color: red;
-  }
-
-  
-
-  button {
-    cursor: pointer;
-  }
-
-}
-
 .version {
   bottom: 0;
   position: absolute;
+}
+
+
+
+@media only screen and (max-width: 360px) {
+  body, html {
+    background-color: rgb(230, 112, 21);
+  }
+
+  .localize {
+    button {
+      cursor: pointer;
+      height: 40px;
+      width: 60px;
+      margin: 2px;
+      float: right;
+    }
+  }
+
+  .splash {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+
+    h1 {
+      color: rgb(240, 230, 173);
+      padding: 10px;
+      font-family: 'Acme', sans-serif;
+      font-size: 50px;
+      text-shadow: 8px 5px rgb(54, 28, 3);
+      border: 10px dotted rgb(240, 230, 173);
+      margin: 10px;
+    }
+
+    p {
+      font-size: 25px;
+      text-align: center;
+    }
+
+    button {
+      background-color: rgb(240, 230, 173);
+      border-radius: 20px;
+      font-size: 25px;
+      width: 150px;
+      height: 70px;
+      cursor: pointer;
+      box-shadow: 0 6px rgb(54, 28, 3);
+    }
+
+    button:active {
+      background-color: rgb(215, 204, 144);
+      box-shadow: 0 5px rgb(54, 28, 3);
+      transform: translateY(4px);
+    }
+  }
 }
