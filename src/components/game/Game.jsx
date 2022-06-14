@@ -41,6 +41,12 @@ export default function Game() {
     setAltToast(false);
   };
 
+  // const startingLetter = () => {
+  //   let alphabet = 0;
+  //   alphabet = Math.floor(Math.random() * 26);
+  //   return alphabet;
+  // };
+
 
   //Sourced from Dan Abramov
   useInterval(() => {
@@ -146,7 +152,7 @@ export default function Game() {
       </div>
 
       <form onSubmit={handleSubmit} id="player-one">
-        <input onChange={(e) => setWord(e.target.value)} placeholder="Enter a Word"></input>
+        <input onChange={(e) => setWord(e.target.value)} placeholder="Enter a Word here"></input>
         <button>Submit</button>
       </form>
 
