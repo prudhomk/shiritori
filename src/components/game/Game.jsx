@@ -152,7 +152,7 @@ export default function Game() {
       </div>
 
       <form onSubmit={handleSubmit} id="player-one">
-        <input onChange={(e) => setWord(e.target.value)} placeholder="Enter a Word here"></input>
+        <input onChange={(e) => setWord(e.target.value)} placeholder="Enter a Word"></input>
         <button>Submit</button>
       </form>
 

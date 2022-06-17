@@ -48,33 +48,32 @@ export default function Rules() {
             <label onClick={handleChecked} className={ style.FnV ? ruleStyles.FnV : ruleStyles.radio}>
               <input type="radio" name="category" value="FnV" required></input>
               {t('cat1')}
-              <p>Everything red, green and in-between</p>
+              <p>{t('desc1')}</p>
             </label>
             <label onClick={handleChecked} className={ style.Names ? ruleStyles.Names : ruleStyles.radio}>
               <input type="radio" name="category" value="Names" required></input>
               {t('cat2')}
-              <p>What's in a name?  First names only.</p>
+              <p>{t('desc2')}</p>
             </label>
             <label onClick={handleChecked} className={ style.Animals ? ruleStyles.Animals : ruleStyles.radio}>
               <input type="radio" name="category" value="Animals" required></input>
               {t('cat3')}
-              <p>Lions, tigers, and bears. Oh My!</p>
+              <p>{t('desc3')}</p>
             </label>
             <label onClick={handleChecked} className={ style.Pokemon ? ruleStyles.Pokemon : ruleStyles.radio}>
               <input type="radio" name="category" value="Pokemon" required></input>
               {t('cat4')}
-              <p>Gotta name 'em all!</p>
+              <p>{t('desc4')}</p>
             </label>
             <label onClick={handleChecked} className={ style.Movies ? ruleStyles.Movies : ruleStyles.radio}>
               <input type="radio" name="category" value="Movies" required></input>
               {t('cat5')}
-              <p>Movies that don't end with a number or puncuation!</p>
+              <p>{t('desc5')}</p>
             </label>
             <label onClick={handleChecked} className={ style.Marvel ? ruleStyles.Marvel : ruleStyles.radio}>
               <input type="radio" name="category" value="Marvel" required></input>
               {t('cat6')}
-
-              <p>Nerds only!</p>
+              <p>{t('desc6')}</p>
             </label>
           </fieldset>
 
