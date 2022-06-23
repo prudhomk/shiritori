@@ -34,11 +34,11 @@ export default function Rules() {
     <>
       <Header/>
       <div>
-        <img onClick={handleHome} src="wordchain-logo.png"/>
+        <img onClick={handleHome} src="logo.png"/>
       </div>
       <div className={ruleStyles.rules}>
         <h1>{t('rules')}</h1>
-        <p>
+        <p className={ruleStyles.instruct}>
           {t('instructions')}
         </p>
 

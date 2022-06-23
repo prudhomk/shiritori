@@ -13,11 +13,16 @@ img {
   align-items: center;
   text-align: center;
 
+
   h1 {
     color: rgb(240, 230, 173);
     font-family: 'Acme', sans-serif;
     font-size: 60px;
     text-shadow: 8px 5px rgb(54, 28, 3);
+  }
+
+  .instruct {
+    color:rgb(240, 230, 173);
   }
 
   p {
@@ -150,8 +155,8 @@ fieldset {
 
 @media only screen and (max-width: 414px) {
   img {
-    width: 40vw;
-    height: 12vh;
+    width: 35vw;
+    height: 8vh;
     cursor: pointer;
   }
 
@@ -161,12 +166,18 @@ fieldset {
     justify-content: center;
     align-items: center;
     text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
 
     h1 {
       color: rgb(240, 230, 173);
       font-family: 'Acme', sans-serif;
       font-size: 60px;
       text-shadow: 8px 5px rgb(54, 28, 3);
+    }
+
+    .instruct {
+      width: 300px;
     }
 
     p {
