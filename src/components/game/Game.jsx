@@ -5,10 +5,10 @@ import createModal from '../game/Modal';
 import Snackbar from '@mui/material/Snackbar';
 import Wordbank from './Wordbank';
 import { useInterval } from '../state/customHooks.js';
-import { ruleCheck, checkDictionary, checkRepeats, checkTimer } from '../utilities/ruleset.js';
+import { ruleCheck, jpRuleCheck, checkDictionary, checkRepeats, checkTimer } from '../utilities/ruleset.js';
 import { FnV, Names, Animals, Pokemon, Marvel } from '../../data/categories.js';
 import { Movies } from '../../data/movies.js';
-import { やさい } from '../../data/jpcategories.js';
+import { やさい, ポケモン } from '../../data/jpcategories.js';
 import styles from '../styles/Game.scss';
 
 
@@ -86,6 +86,8 @@ export default function Game() {
       switch(category) {
         case 'FnV':
           return やさい;
+        case 'Pokemon':
+          return ポケモン;
         default:
           console.log('No category provided');
           break;
@@ -102,6 +104,16 @@ export default function Game() {
       setCount(30);
     }  else if(!checkRepeats(word, wordList)) {
       handleAltOpen();
+    } else if(language === 'jp') {
+      if(wordList.length >= 1 && jpRuleCheck(wordList[wordList.length - 1], word) && checkDictionary(word, definedDictionary(category)) && checkRepeats(word, wordList) && !checkTimer(count)) {
+        setWordList(prevState => [...prevState, word]);
+        setCount(30);
+      } else if(wordList.length < 1 && checkDictionary(word, definedDictionary(category)) && !checkTimer(count)) {
+        setWordList([word]);
+        setCount(30);
+      }  else if(!checkRepeats(word, wordList)) {
+        handleAltOpen();
+      }
     } else {
       handleOpen();
     }
