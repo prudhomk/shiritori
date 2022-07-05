@@ -1,3 +1,4 @@
+/* eslint-disable max-len */
 export function ruleCheck(x, y) {
   if(y.charAt(0).toLowerCase() !== x.charAt(x.length - 1).toLowerCase()) {
     return false;
@@ -55,4 +56,20 @@ export function scoreCritic(wordList) {
   }
 }
 
+export function remainingOptions(wordList, category) {
+  const word = wordList.length - 1;
+  const letter = wordList[word].charAt(wordList[word].length - 1);
+  const usedWords = new Set(wordList);
+  const availableWords = category.filter(x => !usedWords.has(x));
 
+  console.log(availableWords, 'available Words');
+
+  const remainingWords = availableWords.filter(x => x.charAt(0) === letter);
+
+  console.log('remainingWords', remainingWords);
+  if(remainingWords.length > 0) {
+    return true;
+  } else {
+    return false;
+  }
+}

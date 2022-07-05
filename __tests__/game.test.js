@@ -1,5 +1,5 @@
 /* eslint-disable max-len */
-import { ruleCheck, jpRuleCheck, checkDictionary, checkRepeats, checkTimer } from '../src/components/utilities/ruleset.js';
+import { ruleCheck, jpRuleCheck, checkDictionary, checkRepeats, checkTimer, remainingOptions } from '../src/components/utilities/ruleset.js';
 import { FnV } from '../src/data/categories.js';
 
 describe('ruleCheck(string1, string2)', () => {
@@ -14,7 +14,7 @@ describe('ruleCheck(string1, string2)', () => {
 });
 
 describe('jpRuleCheck(string1, string2)', () => {
-  test.only('checks if first letter matches last letter, edge case for extended characters', () => {
+  test('checks if first letter matches last letter, edge case for extended characters', () => {
     const w = 'ピカチュ';
     const x = 'ラクダ';
     const y = 'ダルマー';
@@ -76,5 +76,26 @@ describe('simulates a game: check if word is in dictionary, add to state, check 
   });
 });
 
+describe('checks if there are any words available', () => {
+  test('remainingOptions test', () => {
+    const dictionary = [
+      'apple',
+      'aardvark',
+      'balloon',
+      'eggplant',
+      'era',
+      'ebb',
+      'frank',
+      'zebra'
+    ];
+
+    const words = ['apple', 'eggplant'];
+    const words2 = ['zebra', 'apple'];
+    const words3 = ['era', 'apple', 'ebb'];
 
 
+    expect(remainingOptions(words, dictionary)).toEqual(false);
+    expect(remainingOptions(words2, dictionary)).toEqual(true);
+    expect(remainingOptions(words3, dictionary)).toEqual(true);
+  });
+});
