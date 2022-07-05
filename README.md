@@ -4,6 +4,3 @@ A word game in which a player submits a word, and the next word must start with 
 
 -Featuring 5 categories to choose from, all constantly improving based on feedback
 -Simple to start, hard to master
-
-
-
