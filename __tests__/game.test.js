@@ -1,5 +1,5 @@
 /* eslint-disable max-len */
-import { ruleCheck, checkDictionary, checkRepeats, checkTimer } from '../src/components/utilities/ruleset.js';
+import { ruleCheck, jpRuleCheck, checkDictionary, checkRepeats, checkTimer } from '../src/components/utilities/ruleset.js';
 import { FnV } from '../src/data/categories.js';
 
 describe('ruleCheck(string1, string2)', () => {
@@ -11,6 +11,21 @@ describe('ruleCheck(string1, string2)', () => {
     expect(ruleCheck(x, z)).toEqual(false);
   });
 
+});
+
+describe('jpRuleCheck(string1, string2)', () => {
+  test.only('checks if first letter matches last letter, edge case for extended characters', () => {
+    const w = 'ピカチュ';
+    const x = 'ラクダ';
+    const y = 'ダルマー';
+    const z = 'マカロニ';
+
+    console.log(w.charAt(w.length - 1));
+
+    expect(jpRuleCheck(x, y)).toEqual(true);
+    expect(jpRuleCheck(y, z)).toEqual(true);
+    expect(jpRuleCheck(x, z)).toEqual(false);
+  });
 });
 
 describe('checkDictionary(string, category)', () => {

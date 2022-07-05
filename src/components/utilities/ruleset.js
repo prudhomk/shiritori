@@ -6,6 +6,19 @@ export function ruleCheck(x, y) {
   }
 }
 
+//Consider that 'キュ' equates to 'ユ' based on current ruleset
+export function jpRuleCheck(x, y) {
+  let letter = x.charAt(x.length - 1).toLowerCase();
+  if(x.charAt(x.length - 1) === 'ー') {
+    letter = x.charAt(x.length - 2).toLowerCase();
+  }
+  if(y.charAt(0).toLowerCase() !== letter) {
+    return false;
+  } else {
+    return true;
+  }
+}
+
 export function checkDictionary(word, category) {
   if(category.includes(word.toLowerCase())) {
     return true;
