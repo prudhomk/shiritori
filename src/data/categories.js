@@ -1672,6 +1672,7 @@ export const Names = [
   'yu',
   'yulila',
   'yuriko',
+  'yuri',
   'yoel',
   'yuval',
   'yoshito',
