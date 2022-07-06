@@ -1,6 +1,7 @@
 /* eslint-disable max-len */
 import { ruleCheck, jpRuleCheck, checkDictionary, checkRepeats, checkTimer, remainingOptions } from '../src/components/utilities/ruleset.js';
 import { FnV } from '../src/data/categories.js';
+import * as wanakana from 'wanakana';
 
 describe('ruleCheck(string1, string2)', () => {
   test('checks if first letter matches last letter', () => {
@@ -97,5 +98,19 @@ describe('checks if there are any words available', () => {
     expect(remainingOptions(words, dictionary)).toEqual(false);
     expect(remainingOptions(words2, dictionary)).toEqual(true);
     expect(remainingOptions(words3, dictionary)).toEqual(true);
+  });
+});
+
+describe('testing character matching for jp', () => {
+  test('check if katakana matches hiragana', () => {
+    const x = 'りんご';
+    const y = 'ごりら';
+    const a = 'リンゴ';
+    const b = 'ゴリラ';
+    const x2 = wanakana.toKatakana(x);
+    const b2 = wanakana.toHiragana(b);
+
+    expect(ruleCheck(x2, b)).toEqual(true);
+    expect(ruleCheck(x, b2)).toEqual(true);
   });
 });
