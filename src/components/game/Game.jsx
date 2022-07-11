@@ -104,6 +104,7 @@ export default function Game() {
       setCount(30);
     } else if(!checkRepeats(word, wordList)) {
       handleAltOpen();
+
     } else if(language === 'jp') {
       if(wordList.length >= 1 && jpRuleCheck(wordList[wordList.length - 1], word) && checkDictionary(word, definedDictionary(category)) && checkRepeats(word, wordList) && !checkTimer(count)) {
         setWordList(prevState => [...prevState, word]);
