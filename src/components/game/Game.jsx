@@ -20,7 +20,7 @@ export default function Game() {
   const { wordList, setWordList } = useWordList();
   const { category } = useCategory();
   const { language } = useLanguage();
-  const [count, setCount] = useState(30);
+  const [count, setCount] = useState();
   const [alert, setAlert] = useState(false);
   const [toast, setToast] = useState(false);
   const [altToast, setAltToast] = useState(false);
@@ -174,10 +174,10 @@ export default function Game() {
 
       <form onSubmit={handleSubmit} id="player-one">
         <input onChange={(e) => setWord(e.target.value)} placeholder="Enter a Word"></input>
-        <button>Submit</button>
+        <button className={styles.submitButton}></button>
       </form>
 
-      <button onClick={handleHint}>Need a Hint?</button>
+      <button className={styles.hintButton} onClick={handleHint}>Need a Hint?</button>
       <p>{hint}</p>
 
       <div className={styles.timer}>
