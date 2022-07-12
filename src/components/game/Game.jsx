@@ -5,11 +5,12 @@ import createModal from '../game/Modal';
 import Snackbar from '@mui/material/Snackbar';
 import Wordbank from './Wordbank';
 import { useInterval } from '../state/customHooks.js';
-import { ruleCheck, jpRuleCheck, checkDictionary, checkRepeats, checkTimer } from '../utilities/ruleset.js';
+import { ruleCheck, jpRuleCheck, checkDictionary, checkRepeats, checkTimer, remainingOptions } from '../utilities/ruleset.js';
 import { FnV, Names, Animals, Pokemon, Marvel } from '../../data/categories.js';
 import { Movies } from '../../data/movies.js';
 import { やさい, ポケモン } from '../../data/jpcategories.js';
 import styles from '../styles/Game.scss';
+import { SettingsInputHdmiTwoTone } from '@mui/icons-material';
 
 
 
@@ -19,10 +20,11 @@ export default function Game() {
   const { wordList, setWordList } = useWordList();
   const { category } = useCategory();
   const { language } = useLanguage();
-  const [count, setCount] = useState(30);
+  const [count, setCount] = useState();
   const [alert, setAlert] = useState(false);
   const [toast, setToast] = useState(false);
   const [altToast, setAltToast] = useState(false);
+  const [hint, setHint] = useState('');
 
   //Toast Handlers
   const handleOpen = () => {
@@ -120,6 +122,12 @@ export default function Game() {
     }
   };
 
+  const handleHint = () => {
+    if(remainingOptions(wordList, category) !== false) {
+      setHint(`There are ${remainingOptions(wordList, category)} possible words.`);
+    }
+  };
+
   const handleSubmit = (e) => {
     e.preventDefault();
     handleCheck(word);
@@ -166,8 +174,11 @@ export default function Game() {
 
       <form onSubmit={handleSubmit} id="player-one">
         <input onChange={(e) => setWord(e.target.value)} placeholder="Enter a Word"></input>
-        <button>Submit</button>
+        <button className={styles.submitButton}></button>
       </form>
+
+      <button className={styles.hintButton} onClick={handleHint}>Need a Hint?</button>
+      <p>{hint}</p>
 
       <div className={styles.timer}>
         <div className={styles.innerTimer}>

@@ -79,25 +79,15 @@ describe('simulates a game: check if word is in dictionary, add to state, check 
 
 describe('checks if there are any words available', () => {
   test('remainingOptions test', () => {
-    const dictionary = [
-      'apple',
-      'aardvark',
-      'balloon',
-      'eggplant',
-      'era',
-      'ebb',
-      'frank',
-      'zebra'
-    ];
 
     const words = ['apple', 'eggplant'];
-    const words2 = ['zebra', 'apple'];
-    const words3 = ['era', 'apple', 'ebb'];
+    const words2 = ['orange', 'elderberry', 'yellow corn', 'nectarine'];
+    const words3 = ['apple', 'eggplant', 'endive'];
 
 
-    expect(remainingOptions(words, dictionary)).toEqual(false);
-    expect(remainingOptions(words2, dictionary)).toEqual(true);
-    expect(remainingOptions(words3, dictionary)).toEqual(true);
+    expect(remainingOptions(words, FnV)).toEqual(10);
+    expect(remainingOptions(words2, FnV)).toEqual(2);
+    expect(remainingOptions(words3, FnV)).toEqual(1);
   });
 });
 
