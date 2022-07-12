@@ -107,7 +107,6 @@ export const FnV = [
   'muskmelon',
   'mustard',
   'mulberry',
-  'naga viper',
   'nectarine',
   'nutmeg',
   'orange',

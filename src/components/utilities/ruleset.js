@@ -64,13 +64,11 @@ export function remainingOptions(wordList, category) {
   const usedWords = new Set(wordList);
   const availableWords = category.filter(x => !usedWords.has(x));
 
-  console.log(availableWords, 'available Words');
-
   const remainingWords = availableWords.filter(x => x.charAt(0) === letter);
 
-  console.log('remainingWords', remainingWords);
+
   if(remainingWords.length > 0) {
-    return true;
+    return remainingWords.length;
   } else {
     return false;
   }
