@@ -10,7 +10,6 @@ import { FnV, Names, Animals, Pokemon, Marvel } from '../../data/categories.js';
 import { Movies } from '../../data/movies.js';
 import { やさい, ポケモン } from '../../data/jpcategories.js';
 import styles from '../styles/Game.scss';
-import { SettingsInputHdmiTwoTone } from '@mui/icons-material';
 
 
 
@@ -25,6 +24,7 @@ export default function Game() {
   const [toast, setToast] = useState(false);
   const [altToast, setAltToast] = useState(false);
   const [hint, setHint] = useState('');
+  const [style, setStyle] = useState(false);
 
   //Toast Handlers
   const handleOpen = () => {
@@ -124,7 +124,8 @@ export default function Game() {
 
   const handleHint = () => {
     if(remainingOptions(wordList, category) !== false) {
-      setHint(`There are ${remainingOptions(wordList, category)} possible words.`);
+      setHint(remainingOptions(wordList, category));
+      setStyle(true);
     }
   };
 
@@ -178,7 +179,7 @@ export default function Game() {
       </form>
 
       <button className={styles.hintButton} onClick={handleHint}>Need a Hint?</button>
-      <p>{hint}</p>
+      <p className={ style ? styles.hint : styles.noHint}>There are {hint} remaining choices</p>
 
       <div className={styles.timer}>
         <div className={styles.innerTimer}>
