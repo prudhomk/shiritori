@@ -19,12 +19,12 @@ export default function Game() {
   const { wordList, setWordList } = useWordList();
   const { category } = useCategory();
   const { language } = useLanguage();
-  const [count, setCount] = useState();
+  const [count, setCount] = useState(30);
   const [alert, setAlert] = useState(false);
   const [toast, setToast] = useState(false);
   const [altToast, setAltToast] = useState(false);
   const [hint, setHint] = useState('');
-  const [style, setStyle] = useState(false);
+  const [style, setStyle] = useState({});
 
   //Toast Handlers
   const handleOpen = () => {
@@ -123,9 +123,9 @@ export default function Game() {
   };
 
   const handleHint = () => {
-    if(remainingOptions(wordList, category) !== false) {
-      setHint(remainingOptions(wordList, category));
-      setStyle(true);
+    if(remainingOptions(wordList, definedDictionary(category)) !== false) {
+      setHint(remainingOptions(wordList, definedDictionary(category)));
+      setStyle({ hint: true });
     }
   };
 
@@ -179,7 +179,7 @@ export default function Game() {
       </form>
 
       <button className={styles.hintButton} onClick={handleHint}>Need a Hint?</button>
-      <p className={ style ? styles.hint : styles.noHint}>There are {hint} remaining choices</p>
+      <p className={ style.hint ? styles.hint : styles.noHint}>There are {hint} remaining choices</p>
 
       <div className={styles.timer}>
         <div className={styles.innerTimer}>
