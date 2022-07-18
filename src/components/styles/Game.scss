@@ -49,11 +49,19 @@
   .hintButton {
     margin: 10px;
     font-size: 20px;
-    display: none;
   }
 
-  p {
-    background: white;
+  .hint {
+    p {
+      background: white;
+      font-size: 20px;
+    }
+  }
+
+  .noHint {
+    p {
+      display: none;
+    }
   }
 };
 

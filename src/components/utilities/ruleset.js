@@ -66,7 +66,6 @@ export function remainingOptions(wordList, category) {
 
   const remainingWords = availableWords.filter(x => x.charAt(0) === letter);
 
-
   if(remainingWords.length > 0) {
     return remainingWords.length;
   } else {

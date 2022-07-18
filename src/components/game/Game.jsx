@@ -10,7 +10,6 @@ import { FnV, Names, Animals, Pokemon, Marvel } from '../../data/categories.js';
 import { Movies } from '../../data/movies.js';
 import { やさい, ポケモン } from '../../data/jpcategories.js';
 import styles from '../styles/Game.scss';
-import { SettingsInputHdmiTwoTone } from '@mui/icons-material';
 
 
 
@@ -20,11 +19,12 @@ export default function Game() {
   const { wordList, setWordList } = useWordList();
   const { category } = useCategory();
   const { language } = useLanguage();
-  const [count, setCount] = useState();
+  const [count, setCount] = useState(30);
   const [alert, setAlert] = useState(false);
   const [toast, setToast] = useState(false);
   const [altToast, setAltToast] = useState(false);
   const [hint, setHint] = useState('');
+  const [style, setStyle] = useState({});
 
   //Toast Handlers
   const handleOpen = () => {
@@ -123,8 +123,9 @@ export default function Game() {
   };
 
   const handleHint = () => {
-    if(remainingOptions(wordList, category) !== false) {
-      setHint(`There are ${remainingOptions(wordList, category)} possible words.`);
+    if(remainingOptions(wordList, definedDictionary(category)) !== false) {
+      setHint(remainingOptions(wordList, definedDictionary(category)));
+      setStyle({ hint: true });
     }
   };
 
@@ -178,7 +179,7 @@ export default function Game() {
       </form>
 
       <button className={styles.hintButton} onClick={handleHint}>Need a Hint?</button>
-      <p>{hint}</p>
+      <p className={ style.hint ? styles.hint : styles.noHint}>There are {hint} remaining choices</p>
 
       <div className={styles.timer}>
         <div className={styles.innerTimer}>
