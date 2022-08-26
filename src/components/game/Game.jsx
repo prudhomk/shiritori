@@ -23,8 +23,9 @@ export default function Game() {
   const [alert, setAlert] = useState(false);
   const [toast, setToast] = useState(false);
   const [altToast, setAltToast] = useState(false);
+  const [hinToast, setHinToast] = useState(false);
   const [hint, setHint] = useState('');
-  const [style, setStyle] = useState({});
+
 
   //Toast Handlers
   const handleOpen = () => {
@@ -41,6 +42,14 @@ export default function Game() {
 
   const handleAltClose = () => {
     setAltToast(false);
+  };
+
+  const handleHintOpen = () => {
+    setHinToast(true);
+  };
+
+  const handleHintClose = () => {
+    setHinToast(false);
   };
 
   // const startingLetter = () => {
@@ -125,7 +134,7 @@ export default function Game() {
   const handleHint = () => {
     if(remainingOptions(wordList, definedDictionary(category)) !== false) {
       setHint(remainingOptions(wordList, definedDictionary(category)));
-      setStyle({ hint: true });
+      handleHintOpen();
     }
   };
 
@@ -169,6 +178,23 @@ export default function Game() {
         }}
       />
 
+      <Snackbar
+        anchorOrigin={{
+          vertical: 'top',
+          horizontal: 'right'
+        }}
+        open={hinToast}
+        autoHideDuration={1500}
+        onClose={handleHintClose}
+        message="There are {hint} "words remaining
+        ContentProps={{
+          sx: {
+            background: 'white',
+            color: 'black'
+          }
+        }}
+      />
+
       <div className={styles.words}>
         <span>{wordList[wordList.length - 1]}</span>
       </div>
@@ -179,7 +205,6 @@ export default function Game() {
       </form>
 
       <button className={styles.hintButton} onClick={handleHint}>Need a Hint?</button>
-      <p className={ style.hint ? styles.hint : styles.noHint}>There are {hint} remaining choices</p>
 
       <div className={styles.timer}>
         <div className={styles.innerTimer}>
