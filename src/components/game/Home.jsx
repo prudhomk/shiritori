@@ -15,13 +15,13 @@ export default function Home() {
     history.push('/rules');
   };
 
-  return ( 
+  return (
     <>
       <Header/>
       <div className={styles.splash}>
         <h1>{t('title')}</h1>
         <p>{t('description')}</p>
-        <button onClick={handleClick}>{t('home-button')}</button>
+        <button onClick={handleClick} data-cy="play">{t('home-button')}</button>
       </div>
 
       {/* <div className={styles.version}>
