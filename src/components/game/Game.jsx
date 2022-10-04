@@ -138,6 +138,14 @@ export default function Game() {
     }
   };
 
+  const hintMsg = () => {
+    return (
+      <>
+        There are {hint} words remaining.
+      </>
+    );
+  };
+
   const handleSubmit = (e) => {
     e.preventDefault();
     handleCheck(word);
@@ -186,7 +194,7 @@ export default function Game() {
         open={hinToast}
         autoHideDuration={1500}
         onClose={handleHintClose}
-        message="There are {hint} "words remaining
+        message={hint}
         ContentProps={{
           sx: {
             background: 'white',
