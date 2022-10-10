@@ -15,7 +15,7 @@ export default function App() {
         <Route exact path="/rules" component={Rules}/>
         <Route exact path="/game" component={Game}/>
       </Switch>
-      
+
     </>
   );
 }
