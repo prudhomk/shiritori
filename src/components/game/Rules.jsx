@@ -38,9 +38,12 @@ export default function Rules() {
       </div>
       <div className={ruleStyles.rules}>
         <h1>{t('rules')}</h1>
-        <p className={ruleStyles.instruct}>
-          {t('instructions')}
-        </p>
+        <ul className={ruleStyles.instruct}>
+          <li>{t('instructions')}</li>
+          <li>{t('instructions2')}</li>
+          <li>{t('instructions3')}</li>
+        </ul>
+
 
         <form  onSubmit={handleSubmit}>
           <fieldset>
@@ -80,8 +83,8 @@ export default function Rules() {
           <button className={ruleStyles.submit}>{t('submit')}</button>
         </form>
 
-        <div className={ruleStyles.link}>
-          <a href="https://forms.gle/VceAwq19J5rTb3ty7">Feedback</a>
+        <div className={ruleStyles.speechbubble}>
+          <a href="https://forms.gle/VceAwq19J5rTb3ty7" className={ruleStyles.link}>Feedback</a>
         </div>
       </div>
     </>
