@@ -13,7 +13,7 @@ export default function createModal() {
   const { wordList } = useWordList();
 
   const handleClick = () => {
-    history.push('/rules');
+    history.push('/');
     window.location.reload();
   };
 
