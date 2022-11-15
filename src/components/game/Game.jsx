@@ -1,5 +1,6 @@
 /* eslint-disable max-len */
 import React, { useEffect, useState } from 'react';
+import { useHistory } from 'react-router';
 import { useWord, useWordList, useCategory, useLanguage } from '../state/GameProvider.jsx';
 import createModal from '../game/Modal';
 import Snackbar from '@mui/material/Snackbar';
@@ -8,7 +9,7 @@ import { useInterval } from '../state/customHooks.js';
 import { ruleCheck, jpRuleCheck, checkDictionary, checkRepeats, checkTimer, remainingOptions } from '../utilities/ruleset.js';
 import { FnV, Names, Animals, Pokemon, Marvel } from '../../data/categories.js';
 import { Movies } from '../../data/movies.js';
-import { やさい, ポケモン } from '../../data/jpcategories.js';
+import { やさい, どうぶつ, 名前, ポケモン } from '../../data/jpcategories.js';
 import styles from '../styles/Game.scss';
 
 
@@ -24,6 +25,7 @@ export default function Game() {
   const [toast, setToast] = useState(false);
   const [altToast, setAltToast] = useState(false);
   const [hint, setHint] = useState('?');
+  const history = useHistory();
 
 
   //Toast Handlers
@@ -88,8 +90,12 @@ export default function Game() {
       switch(category) {
         case 'FnV':
           return やさい;
+        case 'Animals':
+          return どうぶつ;
         case 'Pokemon':
           return ポケモン;
+        case 'Names':
+          return 名前;
         default:
           console.log('No category provided');
           break;
@@ -128,6 +134,10 @@ export default function Game() {
     }
   };
 
+  const handleQuit = () => {
+    history.push('/');
+    window.location.reload();
+  };
 
   const handleSubmit = (e) => {
     e.preventDefault();
@@ -178,6 +188,7 @@ export default function Game() {
         <button className={styles.submitButton}></button>
       </form>
 
+      <button className={styles.quit} onClick={handleQuit}>Give up</button>
       <button className={styles.hintButton} onClick={handleHint}>There are {hint} words remaining</button>
 
       <div className={styles.timer}>

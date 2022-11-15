@@ -5,7 +5,7 @@
   "rules": "Rules",
   "instructions": "Submit a word matching the chosen category within 30 seconds.",
   "instructions2": "Each word after the first must begin with the last character of the previous word (ex: apple, eggplant, tree).",
-  "instructions3": "The game ends if you can' come up with a valid word, or the timer has run out.",
+  "instructions3": "The game ends if you can't come up with a valid word, or the timer has run out.",
   "categories": "Categories",
   "cat1": "Fruits and Vegetables",
   "cat2": "Names",

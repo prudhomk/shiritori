@@ -43,9 +43,6 @@ export default function createModal() {
           <Typography sx={{ mt: 4 }}>
             Longest Word Chain: {wordList.length}
           </Typography>
-          <Typography sx={{ mt: 2 }}>
-              You ran out of time!
-          </Typography>
           <button onClick={handleClick}>
                 Play another round!
           </button>

@@ -131,8 +131,9 @@ fieldset {
   }
 
   label:hover {
+    transform: scale(1.2);
     border: 2px solid rgb(65, 51, 5);
-    box-shadow: 2px 2px 2px rgb(65, 51, 5);
+    box-shadow: 8px 8px 8px rgb(65, 51, 5);
   }
 
   p {
@@ -147,27 +148,27 @@ fieldset {
   }
 
   .FnV {
-    box-shadow: 5px 5px 5px rgb(65, 51, 5);
+    box-shadow: 15px 15px 15px rgb(65, 51, 5);
   }
 
   .Names {
-    box-shadow: 5px 5px 5px rgb(65, 51, 5);
+    box-shadow: 15px 15px 15px rgb(65, 51, 5);
   }
 
   .Animals {
-    box-shadow: 5px 5px 5px rgb(65, 51, 5);
+    box-shadow: 15px 15px 15px rgb(65, 51, 5);
   }
 
   .Pokemon {
-    box-shadow: 5px 5px 5px rgb(65, 51, 5);
+    box-shadow: 15px 15px 15px rgb(65, 51, 5);
   }
 
   .Movies {
-    box-shadow: 5px 5px 5px rgb(65, 51, 5);
+    box-shadow: 15px 15px 15px rgb(65, 51, 5);
   }
 
   .Marvel {
-    box-shadow: 5px 5px 5px rgb(65, 51, 5);
+    box-shadow: 15px 15px 15px rgb(65, 51, 5);
   }
 }
 
